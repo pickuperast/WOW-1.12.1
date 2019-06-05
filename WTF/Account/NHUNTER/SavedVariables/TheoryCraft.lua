@@ -17,8 +17,8 @@ TheoryCraft_MitigationMobs = {
 	["Savannah Prowler"] = {
 		[1] = 976,
 	},
-	["Kolkar Packhound"] = {
-		[1] = 534,
+	["Hexed Troll"] = {
+		[1] = 75,
 	},
 	["Kolkar Pack Runner"] = {
 		[1] = 974,
@@ -26,20 +26,20 @@ TheoryCraft_MitigationMobs = {
 	["Bristleback Interloper"] = {
 		[1] = 447,
 	},
-	["Hexed Troll"] = {
-		[1] = 75,
+	["Kolkar Packhound"] = {
+		[1] = 534,
 	},
 	["Hecklefang Hyena"] = {
 		[1] = 711,
 	},
-	["Durotar Tiger"] = {
-		[1] = 452,
-	},
 	["Swoop"] = {
 		[1] = 512,
 	},
-	["Prairie Wolf Alpha"] = {
-		[1] = 1092,
+	["Durotar Tiger"] = {
+		[1] = 452,
+	},
+	["Taloned Swoop"] = {
+		[1] = 542,
 	},
 	["Kolkar Bloodcharger"] = {
 		[1] = 863,
@@ -68,8 +68,8 @@ TheoryCraft_MitigationMobs = {
 	["Oasis Snapjaw"] = {
 		[1] = 920,
 	},
-	["Taloned Swoop"] = {
-		[1] = 542,
+	["Prairie Wolf Alpha"] = {
+		[1] = 1092,
 	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 455,

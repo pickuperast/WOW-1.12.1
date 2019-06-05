@@ -1,6 +1,6 @@
 
 CCWatch_Save = {
-	["Pureholypowe of Nighthaven"] = {
+	["Easypewpew of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
@@ -39,7 +39,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Easypewpew of Nighthaven"] = {
+	["Pureholypowe of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
