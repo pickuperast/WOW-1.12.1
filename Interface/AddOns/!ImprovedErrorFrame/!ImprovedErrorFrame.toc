@@ -1,0 +1,17 @@
+## Interface: 30100
+## Title: Improved Error Frame
+## Title-deDE: Erweitertes Fehler-Fenster
+## Notes: Display errors in scrollable/selecting frame
+## Notes-deDE: Fehler werden nicht sofort angezeigt, sondern werden in einem extra Fenster gesammelt und die Anzahl auf einem Button an der Minimap angezeigt.
+## Author: AnduinLothar, Sinaloit, Vjeux
+## Version: 3.6
+## OptionalDeps: Portfolio
+## X-Embeds: Portfolio
+## X-Revision: $Rev: 5218 $
+## X-Date: $Date: 2008-03-25 11:31:21 -0500 (Tue, 25 Mar 2008) $
+## X-Website: http://www.wowinterface.com/downloads/info4333-ImprovedErrorFrame.html
+## X-Category: Debug
+## X-Localizations: enUS, deDE, frFR, zhCN
+## X-CompatibleLocales: enUS, enGB, deDE, frFR, zhCN
+## SavedVariables: IEFMinimapButton_OffsetX, IEFMinimapButton_OffsetY, ImprovedErrorSettings
+ImprovedErrorFrame.xml

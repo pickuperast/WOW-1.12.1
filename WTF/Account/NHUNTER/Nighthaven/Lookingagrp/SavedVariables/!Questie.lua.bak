@@ -1,0 +1,85 @@
+
+QuestieSeenQuests = {
+	[2950192384] = 0,
+	[2003448272] = 0,
+}
+QuestieCachedQuests = {
+	[2950192384] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Webwood Egg: 0/1",
+		},
+		["leaderboards"] = 1,
+		["questName"] = "Webwood Egg",
+		["level"] = 5,
+		["logId"] = 3,
+		["tracked"] = false,
+	},
+	[2003448272] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Hyacinth Mushroom: 1/7",
+		},
+		["logId"] = 2,
+		["objective2"] = {
+			["type"] = "item",
+			["done"] = 1,
+			["notes"] = {
+			},
+			["desc"] = "Moonpetal Lily: 4/4",
+		},
+		["objective3"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Webwood Ichor: 0/1",
+		},
+		["questName"] = "Iverron's Antidote",
+		["level"] = 4,
+		["tracked"] = false,
+		["leaderboards"] = 3,
+	},
+}
+QuestieConfig = {
+	["trackerAlpha"] = 0.6,
+	["alwaysShowObjectives"] = true,
+	["maxShowLevel"] = 7,
+	["showToolTips"] = true,
+	["clusterQuests"] = true,
+	["getVersion"] = "3.7.1",
+	["showMapNotes"] = true,
+	["boldColors"] = true,
+	["showTrackerHeader"] = false,
+	["trackerScale"] = 1,
+	["arrowEnabled"] = true,
+	["trackerMinimize"] = false,
+	["trackerList"] = false,
+	["arrowTime"] = true,
+	["useQuestLinks"] = true,
+	["trackerBackground"] = true,
+	["trackerEnabled"] = true,
+	["resizeWorldmap"] = true,
+	["showProfessionQuests"] = false,
+	["minLevelFilter"] = true,
+	["minimapZoom"] = false,
+	["hideMinimapIcons"] = false,
+	["minShowLevel"] = 4,
+	["maxLevelFilter"] = true,
+	["corpseArrow"] = true,
+	["minimapButton"] = true,
+	["hideObjectives"] = false,
+}
+QuestieTrackerVariables = {
+	["position"] = {
+		["relativeTo"] = "UIParent",
+		["point"] = "CENTER",
+		["relativePoint"] = "CENTER",
+		["yOfs"] = 0,
+		["xOfs"] = 0,
+	},
+}
+QuestieMinimapPosition = -90

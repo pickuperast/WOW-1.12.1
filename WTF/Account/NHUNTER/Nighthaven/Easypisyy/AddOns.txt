@@ -1,0 +1,3 @@
+YaHT: disabled
+aux-addon: enabled
+Auctioneer: enabled

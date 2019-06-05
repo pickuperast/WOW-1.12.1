@@ -1,0 +1,9 @@
+
+YaHTdb = {
+	["profiles"] = {
+		["Default"] = {
+			["detachedTooltip"] = {
+			},
+		},
+	},
+}

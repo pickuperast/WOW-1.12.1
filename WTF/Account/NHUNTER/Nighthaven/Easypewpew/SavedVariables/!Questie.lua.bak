@@ -1,0 +1,92 @@
+
+QuestieSeenQuests = {
+	[297675714] = 0,
+	[3066341194] = 0,
+}
+QuestieCachedQuests = {
+	[297675714] = {
+		["tracked"] = true,
+		["arrowPoint"] = {
+			["hash"] = 297675714,
+			["c"] = 1,
+			["dist"] = 177.508291396888,
+			["yDelta"] = 37.07597023294814,
+			["xDelta"] = 173.5931045460275,
+			["y"] = 0.8114,
+			["x"] = 0.4999,
+			["title"] = "|cFFFFFF00[2] A Humble Task|r",
+			["z"] = 11,
+		},
+		["questName"] = "A Humble Task",
+		["level"] = 2,
+		["leaderboards"] = 0,
+		["logId"] = 2,
+	},
+	[3066341194] = {
+		["objective1"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Plainstrider Meat: 4/7",
+		},
+		["logId"] = 3,
+		["arrowPoint"] = {
+			["hash"] = 3066341194,
+			["c"] = 1,
+			["dist"] = 55.29102316472626,
+			["yDelta"] = -6.421527829185799,
+			["xDelta"] = 54.91685736585158,
+			["y"] = 0.7987,
+			["x"] = 0.4768,
+			["title"] = "|cFFFFFF00[2] The Hunt Begins|r",
+			["z"] = 11,
+		},
+		["objective2"] = {
+			["notes"] = {
+			},
+			["type"] = "item",
+			["desc"] = "Plainstrider Feather: 4/7",
+		},
+		["questName"] = "The Hunt Begins",
+		["level"] = 2,
+		["tracked"] = true,
+		["leaderboards"] = 2,
+	},
+}
+QuestieConfig = {
+	["trackerAlpha"] = 0.6,
+	["alwaysShowObjectives"] = true,
+	["maxShowLevel"] = 7,
+	["showToolTips"] = true,
+	["clusterQuests"] = true,
+	["getVersion"] = 3.7,
+	["showMapNotes"] = true,
+	["boldColors"] = false,
+	["arrowEnabled"] = true,
+	["trackerScale"] = 1,
+	["trackerMinimize"] = false,
+	["trackerList"] = false,
+	["showTrackerHeader"] = false,
+	["trackerBackground"] = false,
+	["trackerEnabled"] = true,
+	["resizeWorldmap"] = false,
+	["showProfessionQuests"] = false,
+	["arrowTime"] = true,
+	["minLevelFilter"] = true,
+	["minimapZoom"] = false,
+	["minShowLevel"] = 4,
+	["hideMinimapIcons"] = false,
+	["corpseArrow"] = true,
+	["minimapButton"] = true,
+	["maxLevelFilter"] = true,
+}
+QuestieTrackerVariables = {
+	["position"] = {
+		["relativeTo"] = "UIParent",
+		["point"] = "TOPLEFT",
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = -247.2920919526615,
+		["xOfs"] = 40.49388990789675,
+	},
+}
+QuestieMinimapPosition = -90

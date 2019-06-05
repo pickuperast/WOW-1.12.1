@@ -1,0 +1,198 @@
+
+Accountant_SaveData = {
+	["Easypewpew"] = {
+		["options"] = {
+			["weekdate"] = "",
+			["weekstart"] = 3,
+			["date"] = "06/03/19",
+			["dateweek"] = "05/28/19",
+			["version"] = "2.3",
+			["totalcash"] = 841,
+			["buttonpos"] = 0,
+			["showbutton"] = true,
+		},
+		["data"] = {
+			["TRAIN"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 1620,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 1620,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 1620,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 1620,
+				},
+			},
+			["TAXI"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["TRADE"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["OTHER"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["REPAIRS"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["MERCH"] = {
+				["Week"] = {
+					["In"] = 16,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 16,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 16,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 16,
+					["Out"] = 0,
+				},
+			},
+			["LOOT"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["AH"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["MAIL"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["QUEST"] = {
+				["Week"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+		},
+	},
+}
+Accountant_Options = nil

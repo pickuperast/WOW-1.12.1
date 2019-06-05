@@ -1,0 +1,12 @@
+Frame: ChatFrame2
+FrameLevel: 4
+X: 32
+Y: -609
+W: 430
+H: 120
+Frame: WorldMapFrame
+FrameLevel: 0
+X: 307
+Y: -68
+W: 1024
+H: 768

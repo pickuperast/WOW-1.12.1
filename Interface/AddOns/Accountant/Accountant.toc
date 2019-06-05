@@ -1,0 +1,16 @@
+## Interface: 11200
+## Title: Accountant
+## Notes: Logs your WoW incomings / outgoings
+## Notes-ruRU: Показывает сколько и где вы тратили/зарабатывали деньги
+## Version: 2.3
+## DefaultState: enabled
+## SavedVariables: Accountant_SaveData,Accountant_Options
+
+Locale\Localization.en.lua
+Locale\Localization.de.lua
+Locale\Localization.ru.lua
+Locale\Localization.fr.lua
+
+Accountant.xml
+AccountantButton.xml
+AccountantOptions.xml

@@ -1,0 +1,16 @@
+Auctioneer: enabled
+AuctionFilterPlus: enabled
+CooldownTimers: enabled
+CooldownCount: enabled
+DoTimer: disabled
+EquipCompare: enabled
+Gatherer: enabled
+KillsToLevel: enabled
+!OmniCC: enabled
+QuestAnnouncer: enabled
+SellValue: enabled
+Carnival_EnemyCastBar: enabled
+QuickLoot: disabled
+!Questie: enabled
+YaHT: disabled
+aux-addon: enabled

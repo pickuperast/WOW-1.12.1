@@ -1,0 +1,5 @@
+DoTimer: disabled
+QuickLoot: disabled
+YaHT: disabled
+aux-addon: enabled
+Auctioneer: enabled

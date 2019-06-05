@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Titan Panel [HonorPlus]
+## Notes: Adds tracking of Honor and kills/deaths in battlegrounds
+## Author: Adsertor
+## OptionalDeps: 
+## Dependencies: Titan
+## Version: 2.19.11100
+..\Titan\TitanHonorPlus\TitanHonorPlus.xml
