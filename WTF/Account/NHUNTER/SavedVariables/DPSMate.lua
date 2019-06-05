@@ -10,7 +10,7 @@ DPSMateSettings = {
 	},
 	["tooltipanchor"] = 5,
 	["datasegments"] = 8,
-	["columnsdecurses"] = {
+	["columnsprocs"] = {
 		[1] = true,
 		[2] = true,
 	},
@@ -50,8 +50,8 @@ DPSMateSettings = {
 			["name"] = "DPSMate",
 			["position"] = {
 				[1] = "TOPLEFT",
-				[2] = 800.8897280560475,
-				[3] = -361.490854598718,
+				[2] = 817.2214386281157,
+				[3] = -522.0741575647271,
 			},
 			["realtime"] = false,
 			["contentbordercolor"] = {
@@ -84,12 +84,8 @@ DPSMateSettings = {
 			["barfontsize"] = 13,
 			["filterpeople"] = "",
 			["contentbgtexture"] = "UI-Tooltip-Background",
-			["barfontcolor"] = {
-				[1] = 1,
-				[2] = 1,
-				[3] = 1,
-			},
 			["titlebarreport"] = true,
+			["titlebarfontsize"] = 12,
 			["titlebartexture"] = "Minimalist",
 			["bartexture"] = "Minimalist",
 			["titlebar"] = true,
@@ -100,7 +96,11 @@ DPSMateSettings = {
 				[2] = 206.5617463256049,
 			},
 			["grouponly"] = true,
-			["titlebarfontsize"] = 12,
+			["barfontcolor"] = {
+				[1] = 1,
+				[2] = 1,
+				[3] = 1,
+			},
 			["opacity"] = 1,
 			["filterclasses"] = {
 				["warrior"] = true,
@@ -124,12 +124,7 @@ DPSMateSettings = {
 		},
 	},
 	["hideinpvp"] = false,
-	["columnsdtps"] = {
-		[1] = false,
-		[2] = true,
-		[3] = true,
-		[4] = false,
-	},
+	["dataresetspartyamount"] = 2,
 	["dataresetsworld"] = 2,
 	["targetscale"] = 0.58,
 	["columnsaurauptime"] = {
@@ -289,14 +284,17 @@ DPSMateSettings = {
 		[1] = true,
 		[2] = true,
 	},
-	["columnsoverhealing"] = {
-		[1] = true,
-		[2] = false,
+	["columnsdtps"] = {
+		[1] = false,
+		[2] = true,
 		[3] = true,
 		[4] = false,
 	},
 	["hideincombat"] = false,
-	["hidewhensolo"] = false,
+	["columnsdecurses"] = {
+		[1] = true,
+		[2] = true,
+	},
 	["columnsdps"] = {
 		[1] = false,
 		[2] = true,
@@ -309,15 +307,17 @@ DPSMateSettings = {
 		[2] = true,
 	},
 	["disablewhilehidden"] = false,
-	["columnsprocs"] = {
-		[1] = true,
-		[2] = true,
-	},
+	["hidewhensolo"] = false,
 	["columnspoison"] = {
 		[1] = true,
 		[2] = true,
 	},
-	["dataresetspartyamount"] = 2,
+	["columnsoverhealing"] = {
+		[1] = true,
+		[2] = false,
+		[3] = true,
+		[4] = false,
+	},
 	["dataresetsjoinparty"] = 1,
 	["sync"] = true,
 	["bcrw"] = false,

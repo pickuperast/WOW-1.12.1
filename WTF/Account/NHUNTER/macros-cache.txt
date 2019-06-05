@@ -38,6 +38,13 @@ MACRO 5 "HM" Spell_Fire_ElementalDevastation
 /cast Charge
 /cast Dash
 END
+MACRO 13 "PET" Ability_BullRush
+/cast Curse of Agony
+/script if GetUnitName("target")==nil then TargetNearestEnemy() end
+/script CastPetAction(2);
+/script CastPetAction(10);
+/script PetAttack(target)
+END
 MACRO 11 "PETATK" Ability_BullRush
 /script PetAttack(target)
 END
@@ -49,7 +56,7 @@ MACRO 1 "QUEST" Ability_Creature_Disease_01
 /script AcceptQuest() 
 END
 MACRO 9 "THANKYOU" Spell_Misc_ConjureManaJewel
-Thank you. I wish you 5 blesses of Buddha, Life, Beauty, Health, Strength and wisdom for always.
+/y Thank you. I wish you 5 blesses of Buddha, Life, Beauty, Health, Strength and wisdom for always.
 END
 MACRO 3 "WHO" Ability_Creature_Cursed_05
 /who
