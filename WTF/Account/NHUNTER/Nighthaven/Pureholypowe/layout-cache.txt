@@ -19,7 +19,7 @@ FrameLevel: 8
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 40
+FrameLevel: 18
 X: 284
 Y: -96
 Frame: DPSMate_MiniMap
@@ -27,9 +27,9 @@ FrameLevel: 6
 X: 1339
 Y: -130
 Frame: OneBagFrame
-FrameLevel: 10
-X: 769
-Y: -460
+FrameLevel: 28
+X: 763
+Y: -454
 Frame: DPSMate_DPSMate
 FrameLevel: 1
 X: 1173

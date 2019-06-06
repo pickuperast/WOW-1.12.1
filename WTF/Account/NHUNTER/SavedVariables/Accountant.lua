@@ -92,40 +92,22 @@ Accountant_SaveData = {
 					["Out"] = 501,
 				},
 			},
-			["MERCH"] = {
+			["LOOT"] = {
 				["Week"] = {
-					["In"] = 5493,
-					["Out"] = 4634,
+					["In"] = 2358,
+					["Out"] = 0,
 				},
 				["Day"] = {
-					["In"] = 4032,
-					["Out"] = 4434,
-				},
-				["Session"] = {
-					["In"] = 1473,
-					["Out"] = 114,
-				},
-				["Total"] = {
-					["In"] = 7502,
-					["Out"] = 5034,
-				},
-			},
-			["OTHER"] = {
-				["Week"] = {
-					["In"] = 0,
-					["Out"] = 500,
-				},
-				["Day"] = {
-					["In"] = 0,
+					["In"] = 1385,
 					["Out"] = 0,
 				},
 				["Session"] = {
-					["In"] = 0,
-					["Out"] = 500,
+					["In"] = 234,
+					["Out"] = 0,
 				},
 				["Total"] = {
-					["In"] = 0,
-					["Out"] = 500,
+					["In"] = 2928,
+					["Out"] = 0,
 				},
 			},
 			["MAIL"] = {
@@ -146,22 +128,40 @@ Accountant_SaveData = {
 					["Out"] = 10030,
 				},
 			},
-			["LOOT"] = {
+			["OTHER"] = {
 				["Week"] = {
-					["In"] = 2358,
-					["Out"] = 0,
+					["In"] = 0,
+					["Out"] = 500,
 				},
 				["Day"] = {
-					["In"] = 1385,
+					["In"] = 0,
 					["Out"] = 0,
 				},
 				["Session"] = {
-					["In"] = 234,
-					["Out"] = 0,
+					["In"] = 0,
+					["Out"] = 500,
 				},
 				["Total"] = {
-					["In"] = 2928,
-					["Out"] = 0,
+					["In"] = 0,
+					["Out"] = 500,
+				},
+			},
+			["MERCH"] = {
+				["Week"] = {
+					["In"] = 5493,
+					["Out"] = 4634,
+				},
+				["Day"] = {
+					["In"] = 4032,
+					["Out"] = 4434,
+				},
+				["Session"] = {
+					["In"] = 1473,
+					["Out"] = 114,
+				},
+				["Total"] = {
+					["In"] = 7502,
+					["Out"] = 5034,
 				},
 			},
 			["QUEST"] = {
@@ -184,14 +184,14 @@ Accountant_SaveData = {
 			},
 		},
 		["options"] = {
-			["weekdate"] = "",
-			["showbutton"] = true,
+			["buttonpos"] = 255,
+			["weekstart"] = 2,
 			["date"] = "06/04/19",
 			["dateweek"] = "06/03/19",
 			["version"] = "2.3",
 			["totalcash"] = 14078,
-			["weekstart"] = 2,
-			["buttonpos"] = 255,
+			["showbutton"] = true,
+			["weekdate"] = "",
 		},
 	},
 	["Pureholypowe"] = {
@@ -217,19 +217,19 @@ Accountant_SaveData = {
 			["TAXI"] = {
 				["Week"] = {
 					["In"] = 0,
-					["Out"] = 1100,
+					["Out"] = 1210,
 				},
 				["Day"] = {
 					["In"] = 0,
-					["Out"] = 1100,
+					["Out"] = 1210,
 				},
 				["Session"] = {
 					["In"] = 0,
-					["Out"] = 330,
+					["Out"] = 110,
 				},
 				["Total"] = {
 					["In"] = 0,
-					["Out"] = 1100,
+					["Out"] = 1210,
 				},
 			},
 			["TRADE"] = {
@@ -271,55 +271,37 @@ Accountant_SaveData = {
 			["REPAIRS"] = {
 				["Week"] = {
 					["In"] = 0,
-					["Out"] = 1955,
+					["Out"] = 2047,
 				},
 				["Day"] = {
 					["In"] = 0,
-					["Out"] = 1612,
+					["Out"] = 1704,
 				},
 				["Session"] = {
 					["In"] = 0,
-					["Out"] = 214,
+					["Out"] = 92,
 				},
 				["Total"] = {
 					["In"] = 0,
-					["Out"] = 1955,
+					["Out"] = 2047,
 				},
 			},
-			["LOOT"] = {
+			["MERCH"] = {
 				["Week"] = {
-					["In"] = 13211,
-					["Out"] = 1,
+					["In"] = 28215,
+					["Out"] = 16658,
 				},
 				["Day"] = {
-					["In"] = 12186,
-					["Out"] = 0,
+					["In"] = 27645,
+					["Out"] = 16558,
 				},
 				["Session"] = {
-					["In"] = 228,
-					["Out"] = 1,
+					["In"] = 2443,
+					["Out"] = 6300,
 				},
 				["Total"] = {
-					["In"] = 13211,
-					["Out"] = 1,
-				},
-			},
-			["MAIL"] = {
-				["Week"] = {
-					["In"] = 44534,
-					["Out"] = 2270,
-				},
-				["Day"] = {
-					["In"] = 29924,
-					["Out"] = 870,
-				},
-				["Session"] = {
-					["In"] = 1398,
-					["Out"] = 660,
-				},
-				["Total"] = {
-					["In"] = 44534,
-					["Out"] = 2270,
+					["In"] = 28215,
+					["Out"] = 16658,
 				},
 			},
 			["OTHER"] = {
@@ -340,52 +322,70 @@ Accountant_SaveData = {
 					["Out"] = 0,
 				},
 			},
-			["MERCH"] = {
+			["MAIL"] = {
 				["Week"] = {
-					["In"] = 25772,
-					["Out"] = 16658,
+					["In"] = 44534,
+					["Out"] = 2270,
 				},
 				["Day"] = {
-					["In"] = 25202,
-					["Out"] = 16558,
+					["In"] = 29924,
+					["Out"] = 870,
 				},
 				["Session"] = {
-					["In"] = 6643,
-					["Out"] = 6300,
+					["In"] = 1398,
+					["Out"] = 660,
 				},
 				["Total"] = {
-					["In"] = 25772,
-					["Out"] = 16658,
+					["In"] = 44534,
+					["Out"] = 2270,
+				},
+			},
+			["LOOT"] = {
+				["Week"] = {
+					["In"] = 15447,
+					["Out"] = 1,
+				},
+				["Day"] = {
+					["In"] = 14422,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 2023,
+					["Out"] = 1,
+				},
+				["Total"] = {
+					["In"] = 15447,
+					["Out"] = 1,
 				},
 			},
 			["QUEST"] = {
 				["Week"] = {
-					["In"] = 17442,
+					["In"] = 22542,
 					["Out"] = 0,
 				},
 				["Day"] = {
-					["In"] = 17000,
+					["In"] = 22100,
 					["Out"] = 0,
 				},
 				["Session"] = {
-					["In"] = 3500,
+					["In"] = 5100,
 					["Out"] = 0,
 				},
 				["Total"] = {
-					["In"] = 17442,
+					["In"] = 22542,
 					["Out"] = 0,
 				},
 			},
 		},
 		["options"] = {
-			["buttonpos"] = 252,
-			["weekstart"] = 3,
+			["weekdate"] = "",
+			["showbutton"] = true,
 			["date"] = "06/05/19",
 			["dateweek"] = "06/04/19",
 			["version"] = "2.3",
-			["totalcash"] = 42234,
-			["showbutton"] = true,
-			["weekdate"] = "",
+			["totalcash"] = 51811,
+			["weekstart"] = 3,
+			["buttonpos"] = 252,
 		},
 	},
 }
