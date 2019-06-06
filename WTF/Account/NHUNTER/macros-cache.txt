@@ -38,6 +38,11 @@ MACRO 5 "HM" Spell_Fire_ElementalDevastation
 /cast Charge
 /cast Dash
 END
+MACRO 14 "MS" Ability_Rogue_Sprint
+/script base = BASE_MOVEMENT_SPEED
+/script cur, run, fly, swim = GetUnitSpeed("player")
+/script ChatFrame1:AddMessage(string.format("Your current maximal speeds are: running %g%%, flying %g%%, swimming %g%%.", run/base*100, fly/base*100, swim/base*100))
+END
 MACRO 13 "PET" Ability_BullRush
 /cast Curse of Agony
 /script if GetUnitName("target")==nil then TargetNearestEnemy() end
