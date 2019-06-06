@@ -53,17 +53,17 @@ TheoryCraft_MitigationMobs = {
 	["Bloodtalon Taillasher"] = {
 		[1] = 312,
 	},
-	["Fleeting Plainstrider"] = {
-		[1] = 1060,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
 	["Voodoo Troll"] = {
 		[1] = 523,
 	},
+	["Fleeting Plainstrider"] = {
+		[1] = 1060,
+	},
 	["Razormane Thornweaver"] = {
 		[1] = 534,
-	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
 	},
 	["Oasis Snapjaw"] = {
 		[1] = 920,

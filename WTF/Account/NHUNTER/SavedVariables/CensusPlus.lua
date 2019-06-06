@@ -15,12 +15,6 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Golovadvayha"] = {
-							["RankIndex"] = 2,
-							["Level"] = 50,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
 						["Shikuchiz"] = {
 							["RankIndex"] = 4,
 							["Level"] = 25,
@@ -53,7 +47,7 @@ CensusPlus_Database = {
 						},
 						["Sainell"] = {
 							["RankIndex"] = 3,
-							["Level"] = 35,
+							["Level"] = 36,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
@@ -87,11 +81,23 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
+						["Darnage"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
 						["Vladsatana"] = {
 							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Hunter",
 							["Rank"] = "Officer",
+						},
+						["Zemonos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 11,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
 						},
 						["Veterperemen"] = {
 							["RankIndex"] = 4,
@@ -147,10 +153,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Drubid"] = {
+						["Lifeofmassac"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Druid",
+							["Level"] = 15,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Delika"] = {
@@ -227,15 +233,9 @@ CensusPlus_Database = {
 						},
 						["Bewarevoodoo"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
-						},
-						["Ukrainee"] = {
-							["RankIndex"] = 3,
-							["Level"] = 31,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
 						},
 						["Vglaz"] = {
 							["RankIndex"] = 3,
@@ -309,15 +309,15 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Jafarbad"] = {
+						["Drubadan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Warlock",
+							["Level"] = 39,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Ubeer"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
+							["Level"] = 31,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -339,10 +339,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Ternnal"] = {
+						["Goodhunt"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Mage",
+							["Level"] = 25,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Diffendo"] = {
@@ -377,21 +377,21 @@ CensusPlus_Database = {
 						},
 						["Hordekat"] = {
 							["RankIndex"] = 4,
-							["Level"] = 35,
+							["Level"] = 36,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Ifeelupain"] = {
 							["RankIndex"] = 4,
-							["Level"] = 32,
+							["Level"] = 33,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Terrorko"] = {
-							["RankIndex"] = 3,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Wastter"] = {
+							["RankIndex"] = 2,
+							["Level"] = 51,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
 						},
 						["Kuting"] = {
 							["RankIndex"] = 3,
@@ -419,31 +419,31 @@ CensusPlus_Database = {
 						},
 						["Fitish"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
+							["Level"] = 31,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Notfear"] = {
 							["RankIndex"] = 4,
-							["Level"] = 57,
+							["Level"] = 58,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Virmire"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Merichim"] = {
+						["Kanil"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Priest",
+							["Level"] = 16,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Pureholypowe"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
+							["Level"] = 20,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -479,7 +479,7 @@ CensusPlus_Database = {
 						},
 						["Krabolok"] = {
 							["RankIndex"] = 3,
-							["Level"] = 38,
+							["Level"] = 39,
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
@@ -491,7 +491,7 @@ CensusPlus_Database = {
 						},
 						["Akninshi"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -513,10 +513,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Haslaq"] = {
+						["Ugarigg"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Mage",
+							["Level"] = 5,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Tallisia"] = {
@@ -551,7 +551,7 @@ CensusPlus_Database = {
 						},
 						["Haigert"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 20,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -609,10 +609,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Kilsajem"] = {
+						["Shadowgp"] = {
 							["RankIndex"] = 4,
 							["Level"] = 21,
-							["Class"] = "Shaman",
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Zloiyrka"] = {
@@ -633,10 +633,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Kellians"] = {
+						["Koyn"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Rogue",
+							["Level"] = 22,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Wowzonkh"] = {
@@ -789,10 +789,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Turkay"] = {
+						["Iliuiiuill"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Warlock",
+							["Level"] = 16,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Bakunarrah"] = {
@@ -830,12 +830,6 @@ CensusPlus_Database = {
 							["Level"] = 19,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
-						},
-						["Kalachi"] = {
-							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
 						},
 						["Lirizs"] = {
 							["RankIndex"] = 4,
@@ -935,7 +929,7 @@ CensusPlus_Database = {
 						},
 						["Talalayk"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 24,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -959,7 +953,7 @@ CensusPlus_Database = {
 						},
 						["Irvish"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
+							["Level"] = 27,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -977,7 +971,7 @@ CensusPlus_Database = {
 						},
 						["Nitrixi"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 21,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -1005,11 +999,11 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Wutangen"] = {
-							["RankIndex"] = 3,
-							["Level"] = 36,
+						["Rikimar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
 							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+							["Rank"] = "Dust",
 						},
 						["Tlya"] = {
 							["RankIndex"] = 3,
@@ -1019,13 +1013,13 @@ CensusPlus_Database = {
 						},
 						["Panasonik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 24,
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Dlimka"] = {
 							["RankIndex"] = 3,
-							["Level"] = 45,
+							["Level"] = 46,
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
@@ -1121,7 +1115,7 @@ CensusPlus_Database = {
 						},
 						["Zloyalkash"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
+							["Level"] = 16,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -1151,7 +1145,7 @@ CensusPlus_Database = {
 						},
 						["Muuaa"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
+							["Level"] = 23,
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
@@ -1211,7 +1205,7 @@ CensusPlus_Database = {
 						},
 						["Yalovedasha"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
+							["Level"] = 14,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -1367,7 +1361,7 @@ CensusPlus_Database = {
 						},
 						["Ronavidi"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
@@ -1383,11 +1377,17 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Aiceqp"] = {
+						["Obebowenuy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Warlock",
+							["Level"] = 18,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
+						},
+						["Zloylok"] = {
+							["RankIndex"] = 0,
+							["Level"] = 11,
+							["Class"] = "Warlock",
+							["Rank"] = "President",
 						},
 						["Deathpank"] = {
 							["RankIndex"] = 3,
@@ -1401,23 +1401,23 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Zloylok"] = {
-							["RankIndex"] = 0,
-							["Level"] = 11,
-							["Class"] = "Warlock",
-							["Rank"] = "President",
-						},
 						["Student"] = {
 							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Druid",
 							["Rank"] = "Officer",
 						},
-						["Meanman"] = {
+						["Kopelilok"] = {
 							["RankIndex"] = 2,
-							["Level"] = 41,
-							["Class"] = "Mage",
+							["Level"] = 36,
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
+						},
+						["Vaynashka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Ctalb"] = {
 							["RankIndex"] = 2,
@@ -1431,22 +1431,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Ourvenuk"] = {
+						["Angeyke"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Pawpiwpaw"] = {
-							["RankIndex"] = 4,
-							["Level"] = 32,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Dokctor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Shaman",
+							["Level"] = 31,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Zurbagun"] = {
@@ -1455,10 +1443,22 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
+						["Dokctor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
 						["Zubuzu"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Wargru"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
 						["Gorrillaz"] = {
@@ -1467,10 +1467,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Wargru"] = {
+						["Vassilissa"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
-							["Class"] = "Shaman",
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
 						["Choodnoy"] = {
@@ -1479,22 +1479,22 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Vassilissa"] = {
-							["RankIndex"] = 2,
+						["Slis"] = {
+							["RankIndex"] = 4,
 							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Merulla"] = {
-							["RankIndex"] = 3,
-							["Level"] = 24,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
 						},
 						["Trollster"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Tatarstan"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
 						["Ahakgarra"] = {
@@ -1503,11 +1503,11 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Tatarstan"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
+						["Ljil"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
 							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
 						["Vizivul"] = {
 							["RankIndex"] = 4,
@@ -1515,16 +1515,16 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Tomazx"] = {
-							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Nejdanna"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Necrodok"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
 						["Perdaks"] = {
@@ -1535,7 +1535,7 @@ CensusPlus_Database = {
 						},
 						["Kononn"] = {
 							["RankIndex"] = 3,
-							["Level"] = 41,
+							["Level"] = 42,
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
@@ -1551,16 +1551,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Necrodok"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
 						["Molotostrel"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Magxxd"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
 						["Relacha"] = {
@@ -1587,23 +1587,17 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Magxxd"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
 						["Magulya"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Mage",
 							["Rank"] = "Veteran",
 						},
-						["Zaklinak"] = {
-							["RankIndex"] = 3,
-							["Level"] = 30,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
+						["Elemwrath"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
 						["Kentykikid"] = {
 							["RankIndex"] = 2,
@@ -1611,16 +1605,16 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
-						["Orkonwork"] = {
-							["RankIndex"] = 2,
-							["Level"] = 53,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
 						["Karachyn"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Orkonwork"] = {
+							["RankIndex"] = 2,
+							["Level"] = 54,
+							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
 						["Gdemoyhill"] = {
@@ -1635,6 +1629,12 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
+						["Fonamputator"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
 						["Monkass"] = {
 							["RankIndex"] = 3,
 							["Level"] = 35,
@@ -1647,28 +1647,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Fonamputator"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Zatmenie"] = {
+						["Hadowak"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Hunter",
+							["Level"] = 28,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Sbs"] = {
+						["Zaebus"] = {
 							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
-						},
-						["Youns"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Hunter",
+							["Level"] = 35,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Arrk"] = {
@@ -1677,28 +1665,34 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
+						["Youns"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Onaax"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
 						["Lubluszadi"] = {
 							["RankIndex"] = 4,
 							["Level"] = 17,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Darkstranger"] = {
-							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
+						["Andyk"] = {
+							["RankIndex"] = 3,
+							["Level"] = 50,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
 						["Drhealing"] = {
 							["RankIndex"] = 3,
 							["Level"] = 36,
 							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Kroatt"] = {
-							["RankIndex"] = 3,
-							["Level"] = 53,
-							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Zetmix"] = {
@@ -1707,11 +1701,11 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Nekrontir"] = {
-							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
+						["Dizment"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
 						["Dudewoman"] = {
 							["RankIndex"] = 2,
@@ -1719,22 +1713,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
+						["Turkay"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
 						["Satanick"] = {
 							["RankIndex"] = 4,
 							["Level"] = 31,
 							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Ironekras"] = {
-							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Dzhuks"] = {
-							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Svenische"] = {
@@ -1743,10 +1731,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Dowanna"] = {
+						["Dzhuks"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Warrior",
+							["Level"] = 22,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Platoz"] = {
@@ -1755,10 +1743,22 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Veteran",
 						},
+						["Dowanna"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
 						["Desciples"] = {
 							["RankIndex"] = 2,
 							["Level"] = 58,
 							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Thunderstone"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
 						["Spartanus"] = {
@@ -1775,7 +1775,7 @@ CensusPlus_Database = {
 						},
 						["Goldhorde"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
+							["Level"] = 27,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -1785,16 +1785,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Thunderstone"] = {
-							["RankIndex"] = 2,
-							["Level"] = 57,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
 						["Mlningeth"] = {
 							["RankIndex"] = 2,
 							["Level"] = 57,
 							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Karochyn"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
 						["Apucmokpam"] = {
@@ -1821,22 +1821,22 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Karochyn"] = {
-							["RankIndex"] = 2,
-							["Level"] = 56,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Kastalom"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Zhuker"] = {
 							["RankIndex"] = 2,
 							["Level"] = 55,
 							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Banditrake"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Necrorose"] = {
+							["RankIndex"] = 2,
+							["Level"] = 55,
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
 						["Ryoklo"] = {
@@ -1857,16 +1857,16 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Necrorose"] = {
+						["Wernos"] = {
 							["RankIndex"] = 2,
-							["Level"] = 55,
-							["Class"] = "Priest",
+							["Level"] = 54,
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
-						["Imagio"] = {
+						["Smolla"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Mage",
+							["Level"] = 11,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Deadsummer"] = {
@@ -1899,17 +1899,17 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Wernos"] = {
-							["RankIndex"] = 2,
-							["Level"] = 53,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Icanmt"] = {
+						["Enzoapvp"] = {
 							["RankIndex"] = 4,
-							["Level"] = 11,
-							["Class"] = "Warrior",
+							["Level"] = 26,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
+						},
+						["Neecs"] = {
+							["RankIndex"] = 2,
+							["Level"] = 48,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
 						},
 						["Sovywka"] = {
 							["RankIndex"] = 4,
@@ -1917,11 +1917,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Egiik"] = {
-							["RankIndex"] = 2,
-							["Level"] = 49,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
+						["Warhammerrus"] = {
+							["RankIndex"] = 3,
+							["Level"] = 42,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
 						},
 						["Dekanderoga"] = {
 							["RankIndex"] = 3,
@@ -1947,11 +1947,11 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Zakral"] = {
-							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
+						["Velless"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
 						},
 						["Ultromarine"] = {
 							["RankIndex"] = 4,
@@ -1971,16 +1971,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Wastter"] = {
+						["Supervisor"] = {
 							["RankIndex"] = 2,
 							["Level"] = 50,
-							["Class"] = "Priest",
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
-						["Velless"] = {
+						["Peterbilt"] = {
 							["RankIndex"] = 2,
 							["Level"] = 50,
-							["Class"] = "Rogue",
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
 						["Bogdanko"] = {
@@ -1989,10 +1989,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Supervisor"] = {
+						["Khnargh"] = {
 							["RankIndex"] = 2,
 							["Level"] = 50,
-							["Class"] = "Hunter",
+							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
 						["Kasuti"] = {
@@ -2001,16 +2001,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Peterbilt"] = {
+						["Bezymec"] = {
 							["RankIndex"] = 2,
 							["Level"] = 50,
-							["Class"] = "Hunter",
+							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Khnargh"] = {
+						["Tinkov"] = {
 							["RankIndex"] = 2,
-							["Level"] = 50,
-							["Class"] = "Shaman",
+							["Level"] = 49,
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
 						["Kazachek"] = {
@@ -2031,10 +2031,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Bezymec"] = {
+						["Nevalaywka"] = {
 							["RankIndex"] = 2,
-							["Level"] = 50,
-							["Class"] = "Rogue",
+							["Level"] = 49,
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
 						["Fullhaus"] = {
@@ -2043,17 +2043,17 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Tinkov"] = {
+						["Lupid"] = {
 							["RankIndex"] = 2,
 							["Level"] = 49,
-							["Class"] = "Hunter",
+							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
-						["Nevalaywka"] = {
-							["RankIndex"] = 2,
-							["Level"] = 49,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
+						["Helthbruud"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
 						["Worder"] = {
 							["RankIndex"] = 3,
@@ -2073,17 +2073,17 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Lupid"] = {
+						["Egiik"] = {
 							["RankIndex"] = 2,
 							["Level"] = 49,
 							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
-						["Kopenb"] = {
-							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Spreng"] = {
+							["RankIndex"] = 2,
+							["Level"] = 48,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
 						},
 						["Tonych"] = {
 							["RankIndex"] = 4,
@@ -2109,34 +2109,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Bronsik"] = {
+						["Gidsik"] = {
 							["RankIndex"] = 4,
 							["Level"] = 26,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Spreng"] = {
-							["RankIndex"] = 2,
-							["Level"] = 48,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Nebezdary"] = {
-							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Neecs"] = {
-							["RankIndex"] = 2,
-							["Level"] = 48,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Shamolet"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Shaman",
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Axeinium"] = {
@@ -2145,11 +2121,35 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
+						["Nebezdary"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
 						["Atulldarak"] = {
 							["RankIndex"] = 2,
 							["Level"] = 47,
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
+						},
+						["Xitrik"] = {
+							["RankIndex"] = 2,
+							["Level"] = 46,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Haradrum"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Gofakuself"] = {
+							["RankIndex"] = 4,
+							["Level"] = 54,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
 						["Ypkaboi"] = {
 							["RankIndex"] = 4,
@@ -2163,10 +2163,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Xitrik"] = {
+						["Orcion"] = {
 							["RankIndex"] = 2,
-							["Level"] = 46,
-							["Class"] = "Shaman",
+							["Level"] = 45,
+							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
 						["Rjlila"] = {
@@ -2175,52 +2175,16 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Mavrus"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Pyrodox"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Orcion"] = {
-							["RankIndex"] = 2,
-							["Level"] = 45,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Tupobarmalei"] = {
-							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
 						["Zakilla"] = {
 							["RankIndex"] = 2,
 							["Level"] = 44,
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
-						["Kenrich"] = {
+						["Basalien"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Jlocuxa"] = {
-							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Korushk"] = {
-							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Warlock",
+							["Level"] = 56,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Denzolo"] = {
@@ -2229,17 +2193,35 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
+						["Tupobarmalei"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
 						["Xenitron"] = {
 							["RankIndex"] = 2,
 							["Level"] = 43,
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
+						["Kenrich"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
 						["Qoorlyk"] = {
 							["RankIndex"] = 2,
 							["Level"] = 43,
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
+						},
+						["Korushk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Mortalday"] = {
 							["RankIndex"] = 2,
@@ -2259,11 +2241,29 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Veteran",
 						},
-						["Asshott"] = {
+						["Poralik"] = {
 							["RankIndex"] = 3,
-							["Level"] = 36,
-							["Class"] = "Hunter",
+							["Level"] = 35,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
+						},
+						["Meanman"] = {
+							["RankIndex"] = 2,
+							["Level"] = 41,
+							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Leroyjenkens"] = {
+							["RankIndex"] = 2,
+							["Level"] = 41,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Magicfrost"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
 						},
 						["Elphus"] = {
 							["RankIndex"] = 3,
@@ -2295,11 +2295,11 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Leroyjenkens"] = {
-							["RankIndex"] = 2,
-							["Level"] = 41,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+						["Spizdiliname"] = {
+							["RankIndex"] = 3,
+							["Level"] = 60,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
 						},
 						["Smrdt"] = {
 							["RankIndex"] = 4,
@@ -2309,15 +2309,15 @@ CensusPlus_Database = {
 						},
 						["Dihaza"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Banditrake"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
+						["Kirovskiy"] = {
+							["RankIndex"] = 3,
+							["Level"] = 60,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
 						},
 						["Reflenai"] = {
 							["RankIndex"] = 4,
@@ -2355,11 +2355,11 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Kopelilok"] = {
-							["RankIndex"] = 2,
-							["Level"] = 36,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
+						["Bpykerpanata"] = {
+							["RankIndex"] = 3,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
 						},
 						["Puhat"] = {
 							["RankIndex"] = 4,
@@ -2367,16 +2367,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Spizdiliname"] = {
+						["Babaii"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
+							["Level"] = 46,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Kirovskiy"] = {
+						["Imbarandom"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
+							["Level"] = 59,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Schaytanec"] = {
@@ -2385,16 +2385,16 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
-						["Xalakosta"] = {
+						["Nelltu"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
-							["Class"] = "Druid",
+							["Level"] = 35,
+							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
-						["Bpykerpanata"] = {
+						["Gugumko"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
+							["Level"] = 57,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Dusjar"] = {
@@ -2409,22 +2409,22 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Ogunaro"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
-						},
-						["Imbarandom"] = {
+						["Theimmortal"] = {
 							["RankIndex"] = 3,
-							["Level"] = 59,
+							["Level"] = 56,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Kroatt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 53,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Darza"] = {
+						["Resteros"] = {
 							["RankIndex"] = 3,
-							["Level"] = 58,
-							["Class"] = "Warlock",
+							["Level"] = 52,
+							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
 						["Karnagon"] = {
@@ -2457,10 +2457,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Gugumko"] = {
+						["Pristons"] = {
 							["RankIndex"] = 3,
-							["Level"] = 57,
-							["Class"] = "Hunter",
+							["Level"] = 50,
+							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
 						["Rusohunt"] = {
@@ -2469,15 +2469,15 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Theimmortal"] = {
+						["Kozanostra"] = {
 							["RankIndex"] = 3,
-							["Level"] = 56,
-							["Class"] = "Warrior",
+							["Level"] = 50,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Selecktor"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -2493,52 +2493,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Resteros"] = {
-							["RankIndex"] = 3,
-							["Level"] = 52,
-							["Class"] = "Druid",
-							["Rank"] = "Beginner",
-						},
-						["Pristons"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Kozanostra"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Isolist"] = {
+						["Gorshokjiv"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Andyk"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Chellenber"] = {
-							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Vertelnahuy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Warmyet"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Rogue",
+							["Level"] = 33,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Frostguards"] = {
@@ -2553,11 +2511,53 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Minzdraf"] = {
+						["Isolist"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Progma"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
+						},
+						["Merichim"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Vertelnahuy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Warmyet"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Zabiyka"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Vanya"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Evrobaks"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
 						["Soulik"] = {
 							["RankIndex"] = 4,
@@ -2583,16 +2583,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Mulgorstreet"] = {
+						["Sibistin"] = {
 							["RankIndex"] = 3,
-							["Level"] = 41,
-							["Class"] = "Warrior",
+							["Level"] = 45,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Vanya"] = {
+						["Prax"] = {
 							["RankIndex"] = 3,
-							["Level"] = 46,
-							["Class"] = "Druid",
+							["Level"] = 44,
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
 						["Muxan"] = {
@@ -2613,10 +2613,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Evrobaks"] = {
+						["Kefear"] = {
 							["RankIndex"] = 3,
-							["Level"] = 46,
-							["Class"] = "Hunter",
+							["Level"] = 45,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Hoenhaime"] = {
@@ -2631,16 +2631,16 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Babaii"] = {
-							["RankIndex"] = 3,
-							["Level"] = 46,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
+						["Fsbfsb"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
-						["Sibistin"] = {
+						["Toomon"] = {
 							["RankIndex"] = 3,
-							["Level"] = 45,
-							["Class"] = "Rogue",
+							["Level"] = 44,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Bullzerg"] = {
@@ -2655,11 +2655,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Telekines"] = {
-							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
+						["Farmacept"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
 						["Zulimxyu"] = {
 							["RankIndex"] = 4,
@@ -2679,39 +2679,15 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Mukca"] = {
+						["Minimishka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Jeppeto"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
+							["Level"] = 16,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Toomon"] = {
-							["RankIndex"] = 3,
-							["Level"] = 44,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Vicsunya"] = {
+						["Migim"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Priest",
-							["Rank"] = "Dust",
-						},
-						["Narhon"] = {
-							["RankIndex"] = 3,
-							["Level"] = 45,
-							["Class"] = "Druid",
-							["Rank"] = "Beginner",
-						},
-						["Moveurbody"] = {
-							["RankIndex"] = 4,
-							["Level"] = 41,
+							["Level"] = 32,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -2721,9 +2697,33 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
+						["Vicsunya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Narhon"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Byhou"] = {
+							["RankIndex"] = 4,
+							["Level"] = 50,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Zakral"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
 						["Sashulik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
+							["Level"] = 18,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -2751,15 +2751,15 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Prax"] = {
+						["Nekrontir"] = {
 							["RankIndex"] = 3,
-							["Level"] = 44,
-							["Class"] = "Warlock",
+							["Level"] = 43,
+							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
 						["Dzhigoorda"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
+							["Level"] = 20,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -2769,22 +2769,22 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Kefear"] = {
+						["Necrozes"] = {
 							["RankIndex"] = 3,
-							["Level"] = 44,
-							["Class"] = "Warrior",
+							["Level"] = 43,
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Mosquito"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
+						["Inharik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
 							["Class"] = "Hunter",
-							["Rank"] = "Dust",
+							["Rank"] = "Beginner",
 						},
-						["Estravers"] = {
+						["Mulabandha"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Druid",
+							["Level"] = 15,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Duncanmcloud"] = {
@@ -2817,29 +2817,11 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Necrozes"] = {
-							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
-						},
-						["Inharik"] = {
-							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Warhammerrus"] = {
+						["Mulgorstreet"] = {
 							["RankIndex"] = 3,
 							["Level"] = 42,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
-						},
-						["Biggunpuff"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
 						},
 						["Kdc"] = {
 							["RankIndex"] = 3,
@@ -2865,12 +2847,6 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Wertigoqt"] = {
-							["RankIndex"] = 3,
-							["Level"] = 46,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
 						["Mihalna"] = {
 							["RankIndex"] = 3,
 							["Level"] = 41,
@@ -2883,11 +2859,35 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
+						["Xalakosta"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Wertigoqt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Wrongel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
 						["Slavyaninec"] = {
 							["RankIndex"] = 3,
 							["Level"] = 40,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
+						},
+						["Cristof"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Arystey"] = {
 							["RankIndex"] = 4,
@@ -2895,11 +2895,11 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Ljil"] = {
-							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
+						["Blameruin"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
 						},
 						["Glinomesoid"] = {
 							["RankIndex"] = 4,
@@ -2913,11 +2913,11 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Iliuiiuill"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
+						["Nimmi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
 						},
 						["Antago"] = {
 							["RankIndex"] = 4,
@@ -2925,10 +2925,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Blameruin"] = {
+						["Nidal"] = {
 							["RankIndex"] = 3,
-							["Level"] = 40,
-							["Class"] = "Warlock",
+							["Level"] = 39,
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
 						["Psihoza"] = {
@@ -2943,10 +2943,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Zabiyka"] = {
+						["Guldanius"] = {
 							["RankIndex"] = 3,
 							["Level"] = 39,
-							["Class"] = "Warrior",
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
 						["Riival"] = {
@@ -2955,10 +2955,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Nimmi"] = {
+						["Everblood"] = {
 							["RankIndex"] = 3,
 							["Level"] = 39,
-							["Class"] = "Druid",
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Asiks"] = {
@@ -2969,14 +2969,14 @@ CensusPlus_Database = {
 						},
 						["Tozung"] = {
 							["RankIndex"] = 4,
-							["Level"] = 57,
+							["Level"] = 58,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Nidal"] = {
+						["Krasherr"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
-							["Class"] = "Shaman",
+							["Level"] = 31,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Byslaev"] = {
@@ -2985,15 +2985,15 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Farmacept"] = {
+						["Tresi"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
-							["Class"] = "Hunter",
+							["Level"] = 38,
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Everblood"] = {
+						["Riovar"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
+							["Level"] = 38,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
@@ -3003,10 +3003,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Barracha"] = {
+						["Pelyla"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Warrior",
+							["Level"] = 38,
+							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
 						["Pomohnik"] = {
@@ -3015,27 +3015,27 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Tresi"] = {
+						["Fanzigor"] = {
 							["RankIndex"] = 3,
 							["Level"] = 38,
-							["Class"] = "Shaman",
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Pelyla"] = {
-							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Guldanius"] = {
-							["RankIndex"] = 3,
-							["Level"] = 38,
+						["Bpyn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
 							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Taiturst"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Andreivna"] = {
 							["RankIndex"] = 4,
-							["Level"] = 10,
+							["Level"] = 12,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -3045,35 +3045,11 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Fanzigor"] = {
-							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Vitaminoff"] = {
-							["RankIndex"] = 3,
-							["Level"] = 33,
-							["Class"] = "Druid",
-							["Rank"] = "Beginner",
-						},
-						["Taiturst"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Riovar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Badcolddead"] = {
-							["RankIndex"] = 3,
-							["Level"] = 28,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
+						["Goshaa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
 						["Loise"] = {
 							["RankIndex"] = 3,
@@ -3087,16 +3063,22 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Hennybenny"] = {
-							["RankIndex"] = 4,
-							["Level"] = 39,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
 						["Chebupelka"] = {
 							["RankIndex"] = 3,
 							["Level"] = 37,
 							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Bezpaleva"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Wutangen"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Jaslmok"] = {
@@ -3105,16 +3087,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Rutenium"] = {
+						["Hennybenny"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Druid",
+							["Level"] = 39,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Haradrum"] = {
+						["Kaylesis"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Shaman",
+							["Level"] = 29,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Djedai"] = {
@@ -3122,6 +3104,24 @@ CensusPlus_Database = {
 							["Level"] = 36,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
+						},
+						["Ogunaro"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Asshott"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Drubid"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
 						},
 						["Smertiich"] = {
 							["RankIndex"] = 4,
@@ -3135,17 +3135,17 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Drair"] = {
-							["RankIndex"] = 3,
-							["Level"] = 36,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
-						},
-						["Ermakova"] = {
+						["Jurist"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Rogue",
+							["Level"] = 13,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
+						},
+						["Ragvolt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
 						},
 						["Hellnou"] = {
 							["RankIndex"] = 2,
@@ -3153,10 +3153,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Noobwin"] = {
+						["Mexanikb"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Mage",
+							["Level"] = 36,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Renouncing"] = {
@@ -3165,17 +3165,17 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Ragvolt"] = {
-							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Supadivya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
 						},
-						["Poralik"] = {
-							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Icanmt"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
 						["Ostroglazki"] = {
 							["RankIndex"] = 4,
@@ -3183,11 +3183,11 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Madgodlike"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
+						["Belkania"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
 							["Class"] = "Rogue",
-							["Rank"] = "Dust",
+							["Rank"] = "Beginner",
 						},
 						["Smitelife"] = {
 							["RankIndex"] = 4,
@@ -3219,10 +3219,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Onaax"] = {
+						["Moonxpriest"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Rogue",
+							["Level"] = 36,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Sneakymate"] = {
@@ -3237,16 +3237,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Xumukuss"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Ajol"] = {
-							["RankIndex"] = 4,
-							["Level"] = 22,
+						["Grimrock"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
 							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Frombfa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 9,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Vofke"] = {
@@ -3255,35 +3255,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Belkania"] = {
-							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Rutnevu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 37,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Grimrock"] = {
-							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
-						},
 						["Cynepgepouh"] = {
 							["RankIndex"] = 3,
 							["Level"] = 34,
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
-						},
-						["Pafss"] = {
-							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
 						},
 						["Bagrattion"] = {
 							["RankIndex"] = 3,
@@ -3291,10 +3267,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Ziggid"] = {
+						["Vitaminoff"] = {
 							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Mage",
+							["Level"] = 33,
+							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
 						["Molfarka"] = {
@@ -3303,22 +3279,46 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
+						["Pafss"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
 						["Kirton"] = {
 							["RankIndex"] = 3,
 							["Level"] = 33,
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Hadowak"] = {
-							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
+						["Ziggid"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
 						},
 						["Elmik"] = {
 							["RankIndex"] = 3,
 							["Level"] = 33,
 							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Alkeya"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Sangviana"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Royalgift"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Soulblink"] = {
@@ -3333,16 +3333,16 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Alkeya"] = {
-							["RankIndex"] = 3,
-							["Level"] = 33,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
-						},
-						["Sangviana"] = {
+						["Kopenb"] = {
 							["RankIndex"] = 3,
 							["Level"] = 32,
 							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Kasamain"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Daors"] = {
@@ -3357,11 +3357,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Royalgift"] = {
-							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Ironekras"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
 						["Lalamag"] = {
 							["RankIndex"] = 2,
@@ -3381,16 +3381,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Kasamain"] = {
+						["Barracha"] = {
 							["RankIndex"] = 3,
 							["Level"] = 32,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Azglor"] = {
+						["Torenda"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Warrior",
+							["Level"] = 14,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Ozzyosborn"] = {
@@ -3399,10 +3399,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Helthbruud"] = {
+						["Proteinum"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Hunter",
+							["Level"] = 31,
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
 						["Dostaevsky"] = {
@@ -3417,46 +3417,28 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Tekzor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Proteinum"] = {
-							["RankIndex"] = 3,
-							["Level"] = 31,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
-						},
-						["Krasherr"] = {
-							["RankIndex"] = 3,
-							["Level"] = 31,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Asone"] = {
-							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Killameow"] = {
 							["RankIndex"] = 3,
 							["Level"] = 31,
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Lakomka"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
+						["Zaklinak"] = {
+							["RankIndex"] = 3,
+							["Level"] = 30,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
 						},
-						["Oakland"] = {
+						["Teleador"] = {
 							["RankIndex"] = 4,
-							["Level"] = 45,
-							["Class"] = "Priest",
+							["Level"] = 42,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Asone"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Bruhozavr"] = {
@@ -3465,23 +3447,17 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Drubadan"] = {
-							["RankIndex"] = 4,
-							["Level"] = 39,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
+						["Lakomka"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
 						},
 						["Alimen"] = {
 							["RankIndex"] = 3,
 							["Level"] = 30,
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
-						},
-						["Bjorngelotte"] = {
-							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
 						},
 						["Zeppelinx"] = {
 							["RankIndex"] = 3,
@@ -3495,16 +3471,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Priestiha"] = {
+						["Badcolddead"] = {
 							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Priest",
+							["Level"] = 28,
+							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Bolwebnik"] = {
+						["Bjorngelotte"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Warlock",
+							["Level"] = 9,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Aharra"] = {
@@ -3513,28 +3489,34 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Wintergirl"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
 						["Zhukero"] = {
 							["RankIndex"] = 3,
 							["Level"] = 26,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Scarytry"] = {
+						["Priestiha"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Bolwebnik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 35,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Toxidermist"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Gidsik"] = {
+						["Wintergirl"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Priest",
+							["Level"] = 19,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Subfil"] = {
@@ -3543,17 +3525,35 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
+						["Proyarix"] = {
+							["RankIndex"] = 3,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Merulla"] = {
+							["RankIndex"] = 3,
+							["Level"] = 24,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Mazarfaker"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
 						["Dupainn"] = {
 							["RankIndex"] = 4,
 							["Level"] = 19,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Proyarix"] = {
-							["RankIndex"] = 3,
-							["Level"] = 25,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
+						["Zjlou"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
 						},
 						["Patamushta"] = {
 							["RankIndex"] = 4,
@@ -3567,9 +3567,9 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Noveechok"] = {
+						["Shuherizzada"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 60,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -3579,10 +3579,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Zjlou"] = {
+						["Reinkornacia"] = {
 							["RankIndex"] = 4,
 							["Level"] = 60,
-							["Class"] = "Hunter",
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Haxapgkope"] = {
@@ -3591,10 +3591,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Slis"] = {
+						["Madgodlike"] = {
 							["RankIndex"] = 4,
 							["Level"] = 60,
-							["Class"] = "Mage",
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Clyyzx"] = {
@@ -3609,16 +3609,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Shuherizzada"] = {
+						["Sbs"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
+							["Level"] = 36,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Reinkornacia"] = {
+						["Mosquito"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
+							["Level"] = 53,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Policu"] = {
@@ -3635,7 +3635,7 @@ CensusPlus_Database = {
 						},
 						["Mospan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 21,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -3645,10 +3645,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Targazz"] = {
+						["Pyrodox"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Warlock",
+							["Level"] = 56,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Cybercat"] = {
@@ -3663,10 +3663,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Basalien"] = {
+						["Likam"] = {
 							["RankIndex"] = 4,
 							["Level"] = 56,
-							["Class"] = "Hunter",
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Metamarfosa"] = {
@@ -3681,10 +3681,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Likam"] = {
+						["Artyfanboy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Mage",
+							["Level"] = 54,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Aidaho"] = {
@@ -3695,14 +3695,14 @@ CensusPlus_Database = {
 						},
 						["Buksirchik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
+							["Level"] = 17,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Gofakuself"] = {
+						["Shpion"] = {
 							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Shaman",
+							["Level"] = 50,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Zirkun"] = {
@@ -3723,10 +3723,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Artyfanboy"] = {
+						["Kofetaim"] = {
 							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Warlock",
+							["Level"] = 50,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Zeeroo"] = {
@@ -3741,16 +3741,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Shpion"] = {
+						["Oakland"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Warrior",
+							["Level"] = 45,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Kofetaim"] = {
+						["Gomeldrev"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Warrior",
+							["Level"] = 44,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Deathprieste"] = {
@@ -3759,10 +3759,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Byhou"] = {
+						["Hazikostas"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Hunter",
+							["Level"] = 43,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Gainekra"] = {
@@ -3795,40 +3795,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Gomeldrev"] = {
-							["RankIndex"] = 4,
-							["Level"] = 44,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Hazikostas"] = {
-							["RankIndex"] = 4,
-							["Level"] = 43,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Santasick"] = {
-							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Teleador"] = {
-							["RankIndex"] = 4,
-							["Level"] = 42,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
 						["Shamanrok"] = {
 							["RankIndex"] = 4,
 							["Level"] = 42,
 							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Apbyzuk"] = {
-							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Saraai"] = {
@@ -3837,10 +3807,40 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Deterak"] = {
+						["Santasick"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 13,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Redrox"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
 							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Moveurbody"] = {
+							["RankIndex"] = 4,
+							["Level"] = 41,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Apbyzuk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Porosyata"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Deyong"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Redwoolf"] = {
@@ -3849,15 +3849,15 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Porosyata"] = {
+						["Radahan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 40,
-							["Class"] = "Druid",
+							["Level"] = 39,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Yamago"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
+							["Level"] = 24,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -3867,10 +3867,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Radahan"] = {
+						["Rutnevu"] = {
 							["RankIndex"] = 4,
-							["Level"] = 39,
-							["Class"] = "Rogue",
+							["Level"] = 37,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Uucycxpucmoc"] = {
@@ -3891,10 +3891,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Deyong"] = {
+						["Tomazx"] = {
 							["RankIndex"] = 4,
-							["Level"] = 39,
-							["Class"] = "Mage",
+							["Level"] = 36,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Freegat"] = {
@@ -3929,7 +3929,7 @@ CensusPlus_Database = {
 						},
 						["Gambitdeath"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 19,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -3963,16 +3963,16 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Moonxpriest"] = {
+						["Scarytry"] = {
 							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Priest",
+							["Level"] = 35,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Mexanikb"] = {
+						["Remov"] = {
 							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Warlock",
+							["Level"] = 35,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Vazgor"] = {
@@ -3987,10 +3987,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Zaebus"] = {
+						["Heex"] = {
 							["RankIndex"] = 4,
-							["Level"] = 35,
-							["Class"] = "Warlock",
+							["Level"] = 34,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Evilcholera"] = {
@@ -4005,28 +4005,28 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Remov"] = {
+						["Zatmenie"] = {
 							["RankIndex"] = 4,
-							["Level"] = 35,
-							["Class"] = "Druid",
+							["Level"] = 33,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Wrongel"] = {
+						["Takada"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Druid",
+							["Level"] = 33,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Heex"] = {
+						["Rogogul"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Shaman",
+							["Level"] = 33,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Goshaa"] = {
+						["Tanaik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Shaman",
+							["Level"] = 27,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Aralara"] = {
@@ -4041,22 +4041,22 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Borcuxa"] = {
+						["Trenchtown"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warrior",
+							["Level"] = 9,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Takada"] = {
+						["Jlocuxa"] = {
 							["RankIndex"] = 4,
 							["Level"] = 33,
-							["Class"] = "Rogue",
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Rogogul"] = {
+						["Hotcot"] = {
 							["RankIndex"] = 4,
 							["Level"] = 33,
-							["Class"] = "Rogue",
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Freezsin"] = {
@@ -4101,16 +4101,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Damacle"] = {
+						["Pawpiwpaw"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Rogue",
+							["Level"] = 32,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Kanil"] = {
+						["Medvezhka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Mage",
+							["Level"] = 12,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Cheteruga"] = {
@@ -4125,16 +4125,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Gorshokjiv"] = {
+						["Gijsham"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Mage",
+							["Level"] = 23,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Medvezhka"] = {
+						["Gorshokmiha"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Druid",
+							["Level"] = 16,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Azzul"] = {
@@ -4143,10 +4143,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Officer",
 						},
-						["Migim"] = {
+						["Amaxarg"] = {
 							["RankIndex"] = 4,
-							["Level"] = 32,
-							["Class"] = "Rogue",
+							["Level"] = 14,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Terobard"] = {
@@ -4161,10 +4161,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Marakumba"] = {
+						["Meowormeow"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Warrior",
+							["Level"] = 18,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Dvapodva"] = {
@@ -4181,7 +4181,7 @@ CensusPlus_Database = {
 						},
 						["Icerip"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 21,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -4191,10 +4191,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Lifeofmassac"] = {
+						["Ucoliese"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Warlock",
+							["Level"] = 28,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Sambist"] = {
@@ -4203,10 +4203,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Amaxarg"] = {
+						["Zulkazar"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Warlock",
+							["Level"] = 30,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Baxpa"] = {
@@ -4227,10 +4227,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Fsbfsb"] = {
+						["Mavrus"] = {
 							["RankIndex"] = 4,
-							["Level"] = 31,
-							["Class"] = "Shaman",
+							["Level"] = 19,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Dimkil"] = {
@@ -4239,10 +4239,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Meowormeow"] = {
+						["Dkwarlock"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Rogue",
+							["Level"] = 13,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Yazok"] = {
@@ -4263,34 +4263,34 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Hotcot"] = {
+						["Bigel"] = {
 							["RankIndex"] = 4,
-							["Level"] = 31,
+							["Level"] = 20,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Tekzor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Zulkazar"] = {
-							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Vaak"] = {
+						["Larenda"] = {
 							["RankIndex"] = 4,
 							["Level"] = 25,
-							["Class"] = "Warrior",
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Pivoskilkou"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Goodhunt"] = {
+						["Ourvenuk"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Hunter",
+							["Level"] = 30,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Geantis"] = {
@@ -4299,16 +4299,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Dkwarlock"] = {
+						["Noveechok"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Warlock",
+							["Level"] = 24,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Bigel"] = {
+						["Suchila"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Shaman",
+							["Level"] = 24,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Ururur"] = {
@@ -4335,10 +4335,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Drampire"] = {
+						["Bubonka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 11,
-							["Class"] = "Mage",
+							["Level"] = 16,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Goldnate"] = {
@@ -4359,10 +4359,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Thornhide"] = {
+						["Minzdraf"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Druid",
+							["Level"] = 23,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Speedhock"] = {
@@ -4371,10 +4371,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Enzoapvp"] = {
+						["Ternnal"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Rogue",
+							["Level"] = 24,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Qukaika"] = {
@@ -4383,10 +4383,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Bubonka"] = {
+						["Twobutton"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Hunter",
+							["Level"] = 20,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Icedestro"] = {
@@ -4403,20 +4403,20 @@ CensusPlus_Database = {
 						},
 						["Bienna"] = {
 							["RankIndex"] = 3,
-							["Level"] = 36,
+							["Level"] = 37,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Angeyke"] = {
+						["Kospy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Priest",
+							["Level"] = 18,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Twobutton"] = {
+						["Estravers"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warrior",
+							["Level"] = 29,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Bucharati"] = {
@@ -4425,15 +4425,15 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Vaynashka"] = {
+						["Ermakova"] = {
 							["RankIndex"] = 4,
 							["Level"] = 29,
-							["Class"] = "Warlock",
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Booldozzer"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
+							["Level"] = 27,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -4449,10 +4449,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Koyn"] = {
+						["Darkstranger"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Hunter",
+							["Level"] = 29,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Palross"] = {
@@ -4467,10 +4467,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Bezpaleva"] = {
+						["Angass"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Rogue",
+							["Level"] = 29,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Solashu"] = {
@@ -4479,16 +4479,16 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Mortera"] = {
+						["Mogankhal"] = {
 							["RankIndex"] = 4,
 							["Level"] = 23,
-							["Class"] = "Rogue",
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Kaylesis"] = {
+						["Targazz"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Priest",
+							["Level"] = 28,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Shamancheg"] = {
@@ -4509,9 +4509,9 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Mulabandha"] = {
+						["Ajol"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
+							["Level"] = 22,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -4539,10 +4539,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Angass"] = {
+						["Soondie"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Shaman",
+							["Level"] = 15,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Kolunja"] = {
@@ -4563,10 +4563,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Gundabad"] = {
+						["Gosquanchy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Hunter",
+							["Level"] = 18,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Kkn"] = {
@@ -4581,16 +4581,16 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Ucoliese"] = {
+						["Kalblvass"] = {
 							["RankIndex"] = 4,
 							["Level"] = 28,
-							["Class"] = "Shaman",
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Soondie"] = {
+						["Haslaq"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Rogue",
+							["Level"] = 12,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Hilblya"] = {
@@ -4605,10 +4605,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Terutanya"] = {
+						["Greenhat"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Hunter",
+							["Level"] = 28,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Nextdoor"] = {
@@ -4623,40 +4623,40 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Ugarigg"] = {
+						["Chellenber"] = {
 							["RankIndex"] = 4,
-							["Level"] = 5,
-							["Class"] = "Warlock",
+							["Level"] = 28,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Elemwrath"] = {
+						["Ximikus"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Dobrik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Supadivya"] = {
-							["RankIndex"] = 4,
-							["Level"] = 11,
+							["Level"] = 27,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Kalblvass"] = {
+						["Vaak"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Warlock",
+							["Level"] = 25,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Gorshokmiha"] = {
+						["Thornhide"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Rutenium"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Daitiries"] = {
 							["RankIndex"] = 4,
 							["Level"] = 16,
-							["Class"] = "Rogue",
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Imreaper"] = {
@@ -4671,58 +4671,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Bpyn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Murderrabbit"] = {
-							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Ximikus"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Tanaik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
-						},
-						["Shozanna"] = {
-							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Larenda"] = {
-							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
 						["Ebetnormalno"] = {
 							["RankIndex"] = 4,
 							["Level"] = 20,
 							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Gijsham"] = {
-							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Torenda"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Epilepsik"] = {
@@ -4731,22 +4683,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Frombfa"] = {
+						["Kellians"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Laminida"] = {
-							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 17,
 							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Ebonthorn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Einbolit"] = {
@@ -4755,10 +4695,70 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
+						["Shozanna"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Laminida"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Dobrik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Zinaq"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
 						["Cusper"] = {
 							["RankIndex"] = 4,
 							["Level"] = 27,
 							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Murderrabbit"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Biggunpuff"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Zebrajin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Ebonthorn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Usurpator"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Shamolet"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Stref"] = {
@@ -4785,10 +4785,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
-						["Zinaq"] = {
+						["Mukca"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Rogue",
+							["Level"] = 18,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Temirkhan"] = {
@@ -4815,15 +4815,15 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Dizment"] = {
+						["Madlawyer"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Warrior",
+							["Level"] = 22,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Soert"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 25,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -4839,9 +4839,9 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Toxidermist"] = {
+						["Lvlonetwink"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
+							["Level"] = 1,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -4863,16 +4863,16 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Madlawyer"] = {
+						["Deterak"] = {
 							["RankIndex"] = 4,
 							["Level"] = 20,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Zebrajin"] = {
+						["Noobwin"] = {
 							["RankIndex"] = 4,
 							["Level"] = 25,
-							["Class"] = "Warrior",
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Rubikkubik"] = {
@@ -4881,21 +4881,21 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Lvlonetwink"] = {
+						["Cassiya"] = {
 							["RankIndex"] = 4,
-							["Level"] = 1,
-							["Class"] = "Rogue",
+							["Level"] = 16,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Magicfrost"] = {
+						["Xumukuss"] = {
 							["RankIndex"] = 4,
 							["Level"] = 16,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Cristof"] = {
+						["Jeppeto"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
+							["Level"] = 19,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -4911,10 +4911,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Mazarfaker"] = {
+						["Dgambo"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Mage",
+							["Level"] = 25,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Goldum"] = {
@@ -4959,18 +4959,6 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Cassiya"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Priest",
-							["Rank"] = "Dust",
-						},
-						["Redrox"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Altiran"] = {
 							["RankIndex"] = 4,
 							["Level"] = 17,
@@ -4983,46 +4971,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Krafor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Paulhasta"] = {
-							["RankIndex"] = 4,
-							["Level"] = 11,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Jusp"] = {
-							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Dgambo"] = {
-							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Obebowenuy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
 						["Hasium"] = {
 							["RankIndex"] = 4,
 							["Level"] = 13,
 							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Heleg"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Bulbisa"] = {
@@ -5031,22 +4983,28 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
+						["Krafor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
 						["Brokksigar"] = {
 							["RankIndex"] = 4,
 							["Level"] = 25,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Suchila"] = {
+						["Jusp"] = {
 							["RankIndex"] = 4,
 							["Level"] = 24,
-							["Class"] = "Priest",
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Zillallia"] = {
+						["Mortera"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Shaman",
+							["Level"] = 23,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Meertuka"] = {
@@ -5055,16 +5013,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Kiantis"] = {
-							["RankIndex"] = 3,
-							["Level"] = 14,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Adikion"] = {
+						["Borcuxa"] = {
 							["RankIndex"] = 4,
 							["Level"] = 21,
 							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Heleg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Kissdeath"] = {
@@ -5073,10 +5031,52 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Trenchtown"] = {
+						["Imagio"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
+							["Level"] = 24,
 							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Terutanya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Marakumba"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Bubenzi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Kiantis"] = {
+							["RankIndex"] = 3,
+							["Level"] = 14,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Sigaretkina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Kilsajem"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Aiceqp"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Manowarrec"] = {
@@ -5091,22 +5091,22 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Bubenzi"] = {
+						["Adikion"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Nezzabudka"] = {
 							["RankIndex"] = 4,
 							["Level"] = 12,
-							["Class"] = "Shaman",
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Mogankhal"] = {
+						["Azglor"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Minimishka"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Warlock",
+							["Level"] = 12,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Spelldweller"] = {
@@ -5127,28 +5127,28 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Sigaretkina"] = {
+						["Gundabad"] = {
 							["RankIndex"] = 4,
 							["Level"] = 17,
-							["Class"] = "Warrior",
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Smolla"] = {
+						["Pyzen"] = {
 							["RankIndex"] = 4,
-							["Level"] = 11,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Shadowgp"] = {
-							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 20,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Progma"] = {
+						["Kastalom"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Priest",
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Paulhasta"] = {
+							["RankIndex"] = 4,
+							["Level"] = 11,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Buketik"] = {
@@ -5163,15 +5163,15 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Pyzen"] = {
+						["Zillallia"] = {
 							["RankIndex"] = 4,
 							["Level"] = 19,
-							["Class"] = "Rogue",
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Meryegold"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
+							["Level"] = 17,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -5290,9 +5290,9 @@ CensusPlus_Database = {
 							[2] = "Russian Revolution",
 							[3] = "2019-06-03",
 						},
-						["Sanderle"] = {
-							[1] = 39,
-							[2] = "Ad Nauseam",
+						["Voodi"] = {
+							[1] = 8,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Dejiuh"] = {
@@ -5320,14 +5320,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
+						["Wendeznuts"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
 						["Testshamantr"] = {
 							[1] = 18,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Jeezaa"] = {
-							[1] = 60,
-							[2] = "F E P",
 							[3] = "2019-06-03",
 						},
 						["Venek"] = {
@@ -5335,20 +5335,20 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Voodi"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
 						["Serrgio"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Wendeznuts"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-04",
+						["Sanderle"] = {
+							[1] = 39,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-03",
+						},
+						["Jeezaa"] = {
+							[1] = 60,
+							[2] = "F E P",
+							[3] = "2019-06-03",
 						},
 						["Taumantis"] = {
 							[1] = 11,
@@ -5683,10 +5683,10 @@ CensusPlus_Database = {
 						},
 					},
 					["Priest"] = {
-						["Zulindra"] = {
-							[1] = 19,
+						["Villaran"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-05",
 						},
 						["Daloress"] = {
 							[1] = 28,
@@ -5713,10 +5713,10 @@ CensusPlus_Database = {
 							[2] = "Identity Crisis",
 							[3] = "2019-06-03",
 						},
-						["Villaran"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-05",
+						["Alltime"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-03",
 						},
 						["Wrectory"] = {
 							[1] = 17,
@@ -5733,9 +5733,9 @@ CensusPlus_Database = {
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-04",
 						},
-						["Alltime"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Zulindra"] = {
+							[1] = 19,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Swattie"] = {
@@ -6014,10 +6014,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Purehoof"] = {
-							[1] = 14,
+						["Koskenkorva"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-02",
 						},
 						["Longhorn"] = {
 							[1] = 9,
@@ -6164,9 +6164,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Schmuul"] = {
-							[1] = 6,
-							[2] = "",
+						["Latesco"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
 						},
 						["Applesock"] = {
@@ -6199,19 +6199,19 @@ CensusPlus_Database = {
 							[2] = "The Bronze Crusade",
 							[3] = "2019-06-03",
 						},
-						["Koskenkorva"] = {
-							[1] = 5,
+						["Purehoof"] = {
+							[1] = 14,
 							[2] = "",
-							[3] = "2019-06-02",
+							[3] = "2019-06-04",
 						},
 						["Hornbear"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Scelera"] = {
-							[1] = 55,
-							[2] = "La Furie de la Horde",
+						["Zylord"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-03",
 						},
 						["Ballroog"] = {
@@ -6219,10 +6219,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Skelesupp"] = {
-							[1] = 11,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
+						["Scelera"] = {
+							[1] = 55,
+							[2] = "La Furie de la Horde",
+							[3] = "2019-06-03",
 						},
 						["Fylkesfisken"] = {
 							[1] = 40,
@@ -6254,14 +6254,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Zabodashka"] = {
-							[1] = 23,
-							[2] = "Russian Revolution",
+						["Muuhve"] = {
+							[1] = 60,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Patamushta"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
+						["Zqqf"] = {
+							[1] = 20,
+							[2] = "Chronic",
 							[3] = "2019-06-03",
 						},
 						["Silverskunk"] = {
@@ -6304,14 +6304,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Zqqf"] = {
-							[1] = 20,
-							[2] = "Chronic",
+						["Patamushta"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Muuhve"] = {
-							[1] = 60,
-							[2] = "",
+						["Zabodashka"] = {
+							[1] = 23,
+							[2] = "Russian Revolution",
 							[3] = "2019-06-03",
 						},
 						["Cadigan"] = {
@@ -6329,19 +6329,19 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-03",
 						},
-						["Zylord"] = {
-							[1] = 28,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Skelesupp"] = {
+							[1] = 11,
+							[2] = "Chronic",
+							[3] = "2019-06-04",
 						},
 						["Flexey"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Latesco"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
+						["Schmuul"] = {
+							[1] = 6,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Feedrus"] = {
@@ -6381,10 +6381,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Kalnom"] = {
-							[1] = 36,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Adiki"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-02",
 						},
 						["Plopydes"] = {
 							[1] = 3,
@@ -6466,15 +6466,15 @@ CensusPlus_Database = {
 							[2] = "Dark Side of the Moon",
 							[3] = "2019-06-03",
 						},
+						["Kalnom"] = {
+							[1] = 36,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
+						},
 						["Cyberpuunk"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-03",
-						},
-						["Adiki"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-02",
 						},
 						["Behove"] = {
 							[1] = 4,
@@ -6839,9 +6839,9 @@ CensusPlus_Database = {
 							[2] = "No Beta Invite",
 							[3] = "2019-06-03",
 						},
-						["Prakaza"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
+						["Dayell"] = {
+							[1] = 28,
+							[2] = "Heart of Eternity",
 							[3] = "2019-06-03",
 						},
 						["Ztod"] = {
@@ -6889,9 +6889,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Hofman"] = {
-							[1] = 13,
-							[2] = "",
+						["Prakaza"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
 						["Nspire"] = {
@@ -6949,14 +6949,14 @@ CensusPlus_Database = {
 							[2] = "Czechoslovakia",
 							[3] = "2019-06-03",
 						},
+						["Saeg"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
 						["Cyllan"] = {
 							[1] = 60,
 							[2] = "Blood and Sand",
-							[3] = "2019-06-03",
-						},
-						["Blackwarlok"] = {
-							[1] = 30,
-							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
 						["Fluachferdl"] = {
@@ -6964,9 +6964,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Saeg"] = {
-							[1] = 3,
-							[2] = "",
+						["Blackwarlok"] = {
+							[1] = 30,
+							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
 						["Cretianna"] = {
@@ -7004,9 +7004,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Dayell"] = {
-							[1] = 28,
-							[2] = "Heart of Eternity",
+						["Hofman"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Getrektbydot"] = {
@@ -7161,8 +7161,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Sbz"] = {
-							[1] = 60,
+						["Krothul"] = {
+							[1] = 54,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
 						},
@@ -7191,9 +7191,9 @@ CensusPlus_Database = {
 							[2] = "Reign of Chaos",
 							[3] = "2019-06-03",
 						},
-						["Lidstrom"] = {
+						["Sbz"] = {
 							[1] = 60,
-							[2] = "Heart of Eternity",
+							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
 						},
 						["Challus"] = {
@@ -7261,9 +7261,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Krothul"] = {
-							[1] = 54,
-							[2] = "Order of Chaos",
+						["Lidstrom"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
 							[3] = "2019-06-03",
 						},
 						["Aseyaa"] = {
@@ -7338,9 +7338,9 @@ CensusPlus_Database = {
 							[2] = "Furiously Average",
 							[3] = "2019-06-03",
 						},
-						["Jemoer"] = {
-							[1] = 32,
-							[2] = "Waiting For Retail",
+						["Gurty"] = {
+							[1] = 22,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Cheerup"] = {
@@ -7388,9 +7388,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Fermanoneb"] = {
-							[1] = 33,
-							[2] = "",
+						["Jemoer"] = {
+							[1] = 32,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-03",
 						},
 						["Frcp"] = {
@@ -7508,7 +7508,7 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Beatymage"] = {
+						["Archye"] = {
 							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-03",
@@ -7528,8 +7528,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Archye"] = {
-							[1] = 16,
+						["Wannqy"] = {
+							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
@@ -7548,8 +7548,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Wannqy"] = {
-							[1] = 7,
+						["Beatymage"] = {
+							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
@@ -7593,8 +7593,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Gurty"] = {
-							[1] = 22,
+						["Fermanoneb"] = {
+							[1] = 33,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
@@ -7620,9 +7620,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Pastafariana"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
+						["Sotfjes"] = {
+							[1] = 32,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Phucmai"] = {
@@ -7690,9 +7690,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Mischaka"] = {
-							[1] = 42,
-							[2] = "For The Horde Germany",
+						["Drfolamour"] = {
+							[1] = 10,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Snufster"] = {
@@ -7720,9 +7720,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Drfolamour"] = {
-							[1] = 10,
-							[2] = "",
+						["Pastafariana"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-03",
 						},
 						["Serulla"] = {
@@ -7740,9 +7740,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Alisanne"] = {
-							[1] = 10,
-							[2] = "",
+						["Mischaka"] = {
+							[1] = 42,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-03",
 						},
 						["Thehardone"] = {
@@ -7790,14 +7790,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Veralynn"] = {
-							[1] = 39,
+						["Leichi"] = {
+							[1] = 41,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Moonxpriest"] = {
-							[1] = 32,
-							[2] = "RUSSIA",
+						["Veralynn"] = {
+							[1] = 39,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Unnforgiven"] = {
@@ -7835,9 +7835,9 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-03",
 						},
-						["Leichi"] = {
-							[1] = 41,
-							[2] = "",
+						["Moonxpriest"] = {
+							[1] = 32,
+							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
 						["Miorick"] = {
@@ -7880,13 +7880,13 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Nevrland"] = {
-							[1] = 8,
+						["Alisanne"] = {
+							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Sotfjes"] = {
-							[1] = 32,
+						["Nevrland"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
@@ -8258,10 +8258,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Shpam"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-04",
+						["Kaph"] = {
+							[1] = 30,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-03",
 						},
 						["Capichoripan"] = {
 							[1] = 27,
@@ -8353,10 +8353,10 @@ CensusPlus_Database = {
 							[2] = "The Brew Crew",
 							[3] = "2019-06-03",
 						},
-						["Kaph"] = {
-							[1] = 30,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-03",
+						["Katakombe"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-04",
 						},
 						["Necrolos"] = {
 							[1] = 60,
@@ -8463,9 +8463,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Katakombe"] = {
-							[1] = 17,
-							[2] = "Chronic",
+						["Shpam"] = {
+							[1] = 11,
+							[2] = "",
 							[3] = "2019-06-04",
 						},
 						["Unbesiegbar"] = {
