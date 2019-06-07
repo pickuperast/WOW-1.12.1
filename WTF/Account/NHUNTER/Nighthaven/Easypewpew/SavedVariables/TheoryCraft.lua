@@ -9,7 +9,7 @@ TheoryCraft_Settings = {
 		["Nature"] = 0,
 	},
 	["buttontexty"] = 10.22,
-	["buttontextx"] = 1.111,
+	["ColG"] = 1,
 	["ColG2"] = 1,
 	["ColR2"] = 1,
 	["ColB"] = 1,
@@ -28,7 +28,7 @@ TheoryCraft_Settings = {
 	["dataversion"] = "1.06",
 	["ColB2"] = 0.6862745098039216,
 	["ColR"] = 1,
-	["ColG"] = 1,
+	["buttontextx"] = 1.111,
 	["embed"] = true,
 	["healanddamage"] = true,
 }

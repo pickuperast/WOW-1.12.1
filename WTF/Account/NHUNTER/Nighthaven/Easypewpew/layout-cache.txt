@@ -1,7 +1,7 @@
 Frame: ChatFrame2
 FrameLevel: 4
 X: 32
-Y: -607
+Y: -609
 W: 430
 H: 120
 Frame: WorldMapFrame
@@ -19,7 +19,7 @@ FrameLevel: 1
 X: 728
 Y: -167
 Frame: AuxFrame
-FrameLevel: 50
+FrameLevel: 47
 X: 92
 Y: -118
 Frame: CensusPlus
@@ -35,13 +35,13 @@ FrameLevel: 11
 X: 238
 Y: -251
 Frame: DPSMate_MiniMap
-FrameLevel: 8
+FrameLevel: 6
 X: 1374
 Y: -208
 Frame: OneBagFrame
-FrameLevel: 47
+FrameLevel: 44
 X: 758
-Y: -401
+Y: -404
 Frame: ZHunterButtonTrack
 FrameLevel: 9
 X: 903
