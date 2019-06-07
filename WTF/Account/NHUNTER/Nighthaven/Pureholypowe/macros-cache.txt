@@ -1,3 +1,6 @@
+MACRO 16777218 "PETHEAL" Spell_Holy_PrayerofShadowProtection
+/cast Consume Shadows
+END
 MACRO 16777217 "SACR" Ability_Creature_Cursed_04
 /cast Sacrifice
 END

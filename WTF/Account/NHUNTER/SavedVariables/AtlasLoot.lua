@@ -1,7 +1,7 @@
 
 AtlasLootOptions = {
-	["SelectedZone"] = 4,
-	["SelectedZoneText"] = "Tier 3",
+	["SelectedZone"] = 1,
+	["SelectedZoneText"] = "Blackfathom Deeps",
 	["MinimapButtonAngle"] = 316,
 	["ItemIDs"] = 1,
 	["Opaque"] = false,
@@ -11,7 +11,7 @@ AtlasLootOptions = {
 	["AllLinks"] = false,
 	["ItemSyncTT"] = false,
 	["SelectedBoss"] = 8,
-	["SelectedType"] = 4,
+	["SelectedType"] = 2,
 	["SilentMode"] = true,
 	["MinimapButton"] = true,
 	["LootlinkTT"] = false,

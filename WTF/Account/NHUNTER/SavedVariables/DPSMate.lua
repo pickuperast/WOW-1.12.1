@@ -38,8 +38,8 @@ DPSMateSettings = {
 			["name"] = "DPSMate",
 			["position"] = {
 				[1] = "TOPLEFT",
-				[2] = 1178.679234235254,
-				[3] = -509.515387641783,
+				[2] = 1036.498762635483,
+				[3] = -519.999954590873,
 			},
 			["realtime"] = false,
 			["contentbordercolor"] = {

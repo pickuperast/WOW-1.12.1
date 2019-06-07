@@ -1136,8 +1136,8 @@ TITAN_HONORPLUS = {
 		["yesterday2"] = 0,
 		["updatetime"] = 1,
 		["todayb"] = 0,
-		["yesterday"] = 0,
-		["todayd"] = 2,
+		["yesterday"] = 13,
+		["todayd"] = 0,
 		["todayhk"] = 0,
 	},
 	["Easypeasyy|Nighthaven"] = {

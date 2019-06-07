@@ -6,7 +6,7 @@ CensusPlus_Database = {
 				["RUSSIA"] = {
 					["GuildInfo"] = {
 						["ShowOnline"] = 1,
-						["Update"] = "06-06-2019",
+						["Update"] = "06-07-2019",
 					},
 					["Members"] = {
 						["Deathmettal"] = {
@@ -17,7 +17,7 @@ CensusPlus_Database = {
 						},
 						["Golovadvayha"] = {
 							["RankIndex"] = 2,
-							["Level"] = 51,
+							["Level"] = 52,
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
@@ -53,7 +53,7 @@ CensusPlus_Database = {
 						},
 						["Sainell"] = {
 							["RankIndex"] = 3,
-							["Level"] = 36,
+							["Level"] = 37,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
@@ -81,6 +81,12 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
+						["Darnage"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
 						["Vladsatana"] = {
 							["RankIndex"] = 1,
 							["Level"] = 60,
@@ -93,10 +99,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
-						["Amaxarg"] = {
+						["Dgambo"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Warlock",
+							["Level"] = 25,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Sweetg"] = {
@@ -107,13 +113,13 @@ CensusPlus_Database = {
 						},
 						["Lazareva"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 20,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Misnikdoom"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
+							["Level"] = 13,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -165,9 +171,9 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Psycholog"] = {
+						["Melowboxx"] = {
 							["RankIndex"] = 4,
-							["Level"] = 42,
+							["Level"] = 11,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -221,7 +227,7 @@ CensusPlus_Database = {
 						},
 						["Bewarevoodoo"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
+							["Level"] = 30,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
@@ -233,7 +239,7 @@ CensusPlus_Database = {
 						},
 						["Torroga"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -275,14 +281,14 @@ CensusPlus_Database = {
 						},
 						["Ragehar"] = {
 							["RankIndex"] = 2,
-							["Level"] = 28,
+							["Level"] = 29,
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Corpsetaker"] = {
+						["Bubonka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Rogue",
+							["Level"] = 16,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Gossais"] = {
@@ -302,12 +308,6 @@ CensusPlus_Database = {
 							["Level"] = 31,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
-						},
-						["Strucker"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
 						},
 						["Spawka"] = {
 							["RankIndex"] = 4,
@@ -364,22 +364,22 @@ CensusPlus_Database = {
 							["Rank"] = "Dust",
 						},
 						["Hordekat"] = {
-							["RankIndex"] = 4,
+							["RankIndex"] = 3,
 							["Level"] = 36,
 							["Class"] = "Mage",
-							["Rank"] = "Dust",
+							["Rank"] = "Beginner",
 						},
 						["Ifeelupain"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
+							["Level"] = 34,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Wastter"] = {
-							["RankIndex"] = 2,
-							["Level"] = 51,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
+						["Terrorko"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
 						},
 						["Kuting"] = {
 							["RankIndex"] = 3,
@@ -412,10 +412,10 @@ CensusPlus_Database = {
 							["Rank"] = "Dust",
 						},
 						["Notfear"] = {
-							["RankIndex"] = 4,
+							["RankIndex"] = 2,
 							["Level"] = 59,
 							["Class"] = "Warlock",
-							["Rank"] = "Dust",
+							["Rank"] = "Veteran",
 						},
 						["Virmire"] = {
 							["RankIndex"] = 4,
@@ -437,7 +437,7 @@ CensusPlus_Database = {
 						},
 						["Pureholypowe"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 25,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -525,10 +525,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Supadivya"] = {
+						["Geogsogen"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Hunter",
+							["Level"] = 12,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Igrini"] = {
@@ -545,7 +545,7 @@ CensusPlus_Database = {
 						},
 						["Haigert"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 23,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -563,14 +563,14 @@ CensusPlus_Database = {
 						},
 						["Zang"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 29,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Pannda"] = {
+						["Bpyn"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Druid",
+							["Level"] = 20,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Blessyou"] = {
@@ -581,7 +581,7 @@ CensusPlus_Database = {
 						},
 						["Unfology"] = {
 							["RankIndex"] = 3,
-							["Level"] = 44,
+							["Level"] = 45,
 							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
@@ -599,7 +599,7 @@ CensusPlus_Database = {
 						},
 						["Orcench"] = {
 							["RankIndex"] = 4,
-							["Level"] = 7,
+							["Level"] = 10,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -609,21 +609,15 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Gdemoypett"] = {
-							["RankIndex"] = 3,
-							["Level"] = 36,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Shadowgp"] = {
+						["Kilsajem"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Rogue",
+							["Level"] = 23,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Zloiyrka"] = {
 							["RankIndex"] = 2,
-							["Level"] = 59,
+							["Level"] = 60,
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
@@ -639,25 +633,19 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Kellians"] = {
+						["Koyn"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Rogue",
+							["Level"] = 22,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Gidsik"] = {
+						["Marakumba"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Priest",
+							["Level"] = 25,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Lolitop"] = {
-							["RankIndex"] = 3,
-							["Level"] = 25,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
-						},
-						["Autoretiqe"] = {
 							["RankIndex"] = 3,
 							["Level"] = 25,
 							["Class"] = "Warlock",
@@ -779,7 +767,7 @@ CensusPlus_Database = {
 						},
 						["Danzor"] = {
 							["RankIndex"] = 4,
-							["Level"] = 41,
+							["Level"] = 42,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -803,13 +791,13 @@ CensusPlus_Database = {
 						},
 						["Bakunarrah"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
+							["Level"] = 14,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Sufiks"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
+							["Level"] = 14,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -819,10 +807,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Lesnic"] = {
+						["Mavrus"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Warrior",
+							["Level"] = 19,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Valerka"] = {
@@ -831,10 +819,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Orgrock"] = {
+						["Shamolet"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Warrior",
+							["Level"] = 26,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Lirizs"] = {
@@ -885,15 +873,15 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Redrox"] = {
+						["Pyroher"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Rogue",
+							["Level"] = 23,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Alttarro"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
+							["Level"] = 13,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -935,7 +923,7 @@ CensusPlus_Database = {
 						},
 						["Talalayk"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 26,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -945,10 +933,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Hasium"] = {
+						["Rvenie"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Druid",
+							["Level"] = 23,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Paikl"] = {
@@ -959,7 +947,7 @@ CensusPlus_Database = {
 						},
 						["Irvish"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -977,7 +965,7 @@ CensusPlus_Database = {
 						},
 						["Nitrixi"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 23,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -1007,7 +995,7 @@ CensusPlus_Database = {
 						},
 						["Rikimar"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
+							["Level"] = 16,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -1031,7 +1019,7 @@ CensusPlus_Database = {
 						},
 						["Farahu"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 26,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -1103,21 +1091,21 @@ CensusPlus_Database = {
 						},
 						["Blackwarlok"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
+							["Level"] = 35,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Vdugu"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Jeolu"] = {
-							["RankIndex"] = 2,
-							["Level"] = 58,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
+						["Gajinka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
 						},
 						["Zloyalkash"] = {
 							["RankIndex"] = 4,
@@ -1151,7 +1139,7 @@ CensusPlus_Database = {
 						},
 						["Muuaa"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 24,
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
@@ -1163,7 +1151,7 @@ CensusPlus_Database = {
 						},
 						["Luchiy"] = {
 							["RankIndex"] = 3,
-							["Level"] = 44,
+							["Level"] = 46,
 							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
@@ -1185,11 +1173,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Booztx"] = {
-							["RankIndex"] = 3,
-							["Level"] = 30,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Hemlorn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 11,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Konoplya"] = {
 							["RankIndex"] = 4,
@@ -1199,7 +1187,7 @@ CensusPlus_Database = {
 						},
 						["Reflexity"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
+							["Level"] = 26,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -1241,7 +1229,7 @@ CensusPlus_Database = {
 						},
 						["Darush"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 25,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -1331,7 +1319,7 @@ CensusPlus_Database = {
 						},
 						["Grianna"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 19,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -1373,9 +1361,15 @@ CensusPlus_Database = {
 						},
 						["Cepera"] = {
 							["RankIndex"] = 4,
-							["Level"] = 41,
+							["Level"] = 42,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
+						},
+						["Djedai"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
 						},
 						["Hellfires"] = {
 							["RankIndex"] = 4,
@@ -1389,6 +1383,12 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
+						["Warhammerrus"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
 						["Deathpank"] = {
 							["RankIndex"] = 3,
 							["Level"] = 28,
@@ -1401,34 +1401,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Zloylok"] = {
-							["RankIndex"] = 0,
-							["Level"] = 11,
-							["Class"] = "Warlock",
-							["Rank"] = "President",
-						},
-						["Loise"] = {
-							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Prax"] = {
-							["RankIndex"] = 3,
-							["Level"] = 44,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
-						},
-						["Vaynashka"] = {
+						["Corpsetaker"] = {
 							["RankIndex"] = 4,
 							["Level"] = 29,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Nezzabudka"] = {
-							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Mage",
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Djinna"] = {
@@ -1437,15 +1413,9 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Officer",
 						},
-						["Noobwin"] = {
+						["Gosquanchy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Dokctor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
+							["Level"] = 23,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -1455,17 +1425,17 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
+						["Nezzabudka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
 						["Zubuzu"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
-						},
-						["Gorrillaz"] = {
-							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
 						},
 						["Wargru"] = {
 							["RankIndex"] = 2,
@@ -1473,11 +1443,11 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
-						["Choodnoy"] = {
-							["RankIndex"] = 2,
-							["Level"] = 54,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
+						["Dokctor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
 						["Vassilissa"] = {
 							["RankIndex"] = 2,
@@ -1485,11 +1455,29 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
-						["Zjlou"] = {
+						["Kainm"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
+							["Level"] = 10,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
+						},
+						["Gorrillaz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Artyfanboy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 54,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Choodnoy"] = {
+							["RankIndex"] = 2,
+							["Level"] = 54,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
 						},
 						["Trollster"] = {
 							["RankIndex"] = 2,
@@ -1497,28 +1485,22 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Veteran",
 						},
-						["Koegoorn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Tatarstan"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Vizivul"] = {
+						["Takada"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
+							["Level"] = 33,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Mexanikb"] = {
+						["Koegoorn"] = {
 							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Warlock",
+							["Level"] = 12,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Nejdanna"] = {
@@ -1527,9 +1509,27 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
+						["Vizivul"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Necrodok"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Molotostrel"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
 						["Perdaks"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
+							["Level"] = 14,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -1551,16 +1551,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Necrodok"] = {
+						["Magxxd"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Molotostrel"] = {
+						["Magulya"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
-							["Class"] = "Hunter",
+							["Class"] = "Mage",
 							["Rank"] = "Veteran",
 						},
 						["Relacha"] = {
@@ -1577,7 +1577,7 @@ CensusPlus_Database = {
 						},
 						["Abrabr"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -1586,18 +1586,6 @@ CensusPlus_Database = {
 							["Level"] = 50,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
-						},
-						["Magxxd"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Magulya"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
 						},
 						["Kentykikid"] = {
 							["RankIndex"] = 2,
@@ -1609,12 +1597,6 @@ CensusPlus_Database = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Orkonwork"] = {
-							["RankIndex"] = 2,
-							["Level"] = 54,
-							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
 						["Gdemoyhill"] = {
@@ -1629,10 +1611,28 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
+						["Orkonwork"] = {
+							["RankIndex"] = 2,
+							["Level"] = 55,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
 						["Fonamputator"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Gutruder"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Wastter"] = {
+							["RankIndex"] = 2,
+							["Level"] = 51,
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
 						["Monkass"] = {
@@ -1647,22 +1647,22 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Sms"] = {
-							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Miltorand"] = {
-							["RankIndex"] = 2,
-							["Level"] = 47,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
 						["Dudewoman"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Bpykerpanata"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Arrk"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
 						["Youns"] = {
@@ -1671,11 +1671,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Arrk"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+						["Shadowgp"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
 						},
 						["Lubluszadi"] = {
 							["RankIndex"] = 4,
@@ -1683,11 +1683,11 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Darkstranger"] = {
-							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
+						["Zetmix"] = {
+							["RankIndex"] = 2,
+							["Level"] = 59,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
 						},
 						["Drhealing"] = {
 							["RankIndex"] = 3,
@@ -1695,29 +1695,29 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
-						["Zetmix"] = {
-							["RankIndex"] = 2,
-							["Level"] = 59,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Warhammerrus"] = {
+						["Azuyel"] = {
 							["RankIndex"] = 3,
 							["Level"] = 42,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
+						["Toxicoznic"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
 						["Nemore"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 20,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Nirenberg"] = {
-							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
+						["Helthbruud"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
 						["Satanick"] = {
 							["RankIndex"] = 4,
@@ -1749,16 +1749,16 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
+						["Jeolu"] = {
+							["RankIndex"] = 2,
+							["Level"] = 58,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
 						["Desciples"] = {
 							["RankIndex"] = 2,
 							["Level"] = 58,
 							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Thunderstone"] = {
-							["RankIndex"] = 2,
-							["Level"] = 57,
-							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
 						["Spartanus"] = {
@@ -1775,26 +1775,26 @@ CensusPlus_Database = {
 						},
 						["Goldhorde"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Nimoshlok"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
+						},
+						["Thunderstone"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
 						},
 						["Mlningeth"] = {
 							["RankIndex"] = 2,
 							["Level"] = 57,
 							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Karochyn"] = {
-							["RankIndex"] = 2,
-							["Level"] = 57,
-							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
 						["Apucmokpam"] = {
@@ -1815,29 +1815,29 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
+						["Karochyn"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
 						["Zhuker"] = {
 							["RankIndex"] = 2,
 							["Level"] = 55,
 							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
+						["Kastalom"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
 						["Wernos"] = {
 							["RankIndex"] = 2,
 							["Level"] = 55,
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
-						},
-						["Banditrake"] = {
-							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Zillallia"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
 						},
 						["Ryoklo"] = {
 							["RankIndex"] = 2,
@@ -1851,27 +1851,27 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Majayanti"] = {
+						["Ewerblood"] = {
 							["RankIndex"] = 4,
-							["Level"] = 32,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Zaebus"] = {
-							["RankIndex"] = 4,
-							["Level"] = 35,
+							["Level"] = 14,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Koyn"] = {
+						["Rogogul"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Hunter",
+							["Level"] = 33,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Zididjoypro"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Deadsummer"] = {
 							["RankIndex"] = 3,
-							["Level"] = 36,
+							["Level"] = 37,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
@@ -1899,17 +1899,17 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Inharik"] = {
+						["Axeinium"] = {
+							["RankIndex"] = 2,
+							["Level"] = 48,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Badboyblue"] = {
 							["RankIndex"] = 3,
-							["Level"] = 43,
+							["Level"] = 42,
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
-						},
-						["Velless"] = {
-							["RankIndex"] = 2,
-							["Level"] = 50,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
 						},
 						["Sovywka"] = {
 							["RankIndex"] = 4,
@@ -1917,10 +1917,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Supervisor"] = {
+						["Velless"] = {
 							["RankIndex"] = 2,
 							["Level"] = 50,
-							["Class"] = "Hunter",
+							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
 						["Dekanderoga"] = {
@@ -1931,7 +1931,7 @@ CensusPlus_Database = {
 						},
 						["Fedyk"] = {
 							["RankIndex"] = 4,
-							["Level"] = 32,
+							["Level"] = 33,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -1947,7 +1947,7 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Peterbilt"] = {
+						["Supervisor"] = {
 							["RankIndex"] = 2,
 							["Level"] = 50,
 							["Class"] = "Hunter",
@@ -1955,7 +1955,7 @@ CensusPlus_Database = {
 						},
 						["Ultromarine"] = {
 							["RankIndex"] = 4,
-							["Level"] = 10,
+							["Level"] = 11,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -1967,7 +1967,7 @@ CensusPlus_Database = {
 						},
 						["Kargalon"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
+							["Level"] = 18,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -1985,7 +1985,7 @@ CensusPlus_Database = {
 						},
 						["Bogdanko"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
+							["Level"] = 27,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -2021,7 +2021,7 @@ CensusPlus_Database = {
 						},
 						["Shemira"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
+							["Level"] = 35,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -2043,10 +2043,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Korjagaman"] = {
+						["Booztx"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Druid",
+							["Level"] = 30,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Egiik"] = {
@@ -2079,10 +2079,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Zebrajin"] = {
+						["Kellians"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Warrior",
+							["Level"] = 17,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Tonych"] = {
@@ -2109,23 +2109,11 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Bronsik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 31,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Axeinium"] = {
+						["Miltorand"] = {
 							["RankIndex"] = 2,
 							["Level"] = 47,
-							["Class"] = "Warrior",
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
-						},
-						["Nebezdary"] = {
-							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
 						},
 						["Atulldarak"] = {
 							["RankIndex"] = 2,
@@ -2133,23 +2121,35 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
+						["Nebezdary"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
 						["Xitrik"] = {
 							["RankIndex"] = 2,
 							["Level"] = 46,
 							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
-						["Pyroher"] = {
+						["Angronar"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Mage",
+							["Level"] = 9,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Gofakuself"] = {
+						["Saraai"] = {
 							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Shaman",
+							["Level"] = 42,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
+						},
+						["Orcion"] = {
+							["RankIndex"] = 2,
+							["Level"] = 45,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
 						},
 						["Ypkaboi"] = {
 							["RankIndex"] = 4,
@@ -2163,9 +2163,9 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Orcion"] = {
+						["Zakilla"] = {
 							["RankIndex"] = 2,
-							["Level"] = 45,
+							["Level"] = 44,
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
@@ -2175,17 +2175,17 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Zakilla"] = {
+						["Teleador"] = {
+							["RankIndex"] = 4,
+							["Level"] = 42,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Denzolo"] = {
 							["RankIndex"] = 2,
 							["Level"] = 44,
-							["Class"] = "Hunter",
+							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
-						},
-						["Basalien"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
 						},
 						["Huaracheck"] = {
 							["RankIndex"] = 4,
@@ -2199,11 +2199,11 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Denzolo"] = {
-							["RankIndex"] = 2,
-							["Level"] = 44,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+						["Salambo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
 						},
 						["Kenrich"] = {
 							["RankIndex"] = 4,
@@ -2223,17 +2223,23 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Qoorlyk"] = {
-							["RankIndex"] = 2,
-							["Level"] = 43,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+						["Tohtammysh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Olivergs"] = {
 							["RankIndex"] = 4,
 							["Level"] = 12,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
+						},
+						["Qoorlyk"] = {
+							["RankIndex"] = 2,
+							["Level"] = 43,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
 						},
 						["Mortalday"] = {
 							["RankIndex"] = 2,
@@ -2253,16 +2259,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Veteran",
 						},
-						["Ragvolt"] = {
-							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Ruhatai"] = {
+						["Tallisia"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Druid",
+							["Level"] = 15,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Elphus"] = {
@@ -2295,10 +2295,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Magicfrost"] = {
+						["Itscowabunga"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Mage",
+							["Level"] = 20,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Smrdt"] = {
@@ -2309,7 +2309,7 @@ CensusPlus_Database = {
 						},
 						["Dihaza"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 24,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -2333,13 +2333,13 @@ CensusPlus_Database = {
 						},
 						["Dblrodel"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
+							["Level"] = 13,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Unammed"] = {
+						["Teony"] = {
 							["RankIndex"] = 4,
-							["Level"] = 31,
+							["Level"] = 20,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -2349,16 +2349,16 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
+						["Daitiries"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
 						["Spizdiliname"] = {
 							["RankIndex"] = 3,
 							["Level"] = 60,
 							["Class"] = "Mage",
-							["Rank"] = "Beginner",
-						},
-						["Kirovskiy"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
 						["Puhat"] = {
@@ -2367,15 +2367,15 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Bpykerpanata"] = {
+						["Kirovskiy"] = {
 							["RankIndex"] = 3,
 							["Level"] = 60,
-							["Class"] = "Rogue",
+							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Evrobaks"] = {
+						["Gugumko"] = {
 							["RankIndex"] = 3,
-							["Level"] = 46,
+							["Level"] = 58,
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
@@ -2391,10 +2391,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Gugumko"] = {
+						["Theimmortal"] = {
 							["RankIndex"] = 3,
-							["Level"] = 57,
-							["Class"] = "Hunter",
+							["Level"] = 56,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Dusjar"] = {
@@ -2409,22 +2409,22 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Theimmortal"] = {
-							["RankIndex"] = 3,
-							["Level"] = 56,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Kroatt"] = {
-							["RankIndex"] = 3,
-							["Level"] = 53,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
 						["Resteros"] = {
 							["RankIndex"] = 3,
 							["Level"] = 52,
 							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Pristons"] = {
+							["RankIndex"] = 3,
+							["Level"] = 50,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Andyk"] = {
+							["RankIndex"] = 3,
+							["Level"] = 50,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Karnagon"] = {
@@ -2439,10 +2439,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Gutruder"] = {
+						["Dkwarlock"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Priest",
+							["Level"] = 14,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Phalene"] = {
@@ -2457,46 +2457,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Pristons"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
+						["Targazz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Rusohunt"] = {
 							["RankIndex"] = 4,
 							["Level"] = 25,
 							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Kozanostra"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Selecktor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Andyk"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Lolitha"] = {
-							["RankIndex"] = 4,
-							["Level"] = 10,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Gorshokjiv"] = {
-							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Frostguards"] = {
@@ -2505,10 +2475,40 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
+						["Selecktor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Chellenber"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Lolitha"] = {
+							["RankIndex"] = 4,
+							["Level"] = 10,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
 						["Uhrodor"] = {
 							["RankIndex"] = 3,
 							["Level"] = 48,
 							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Vitaminplus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Evrobaks"] = {
+							["RankIndex"] = 3,
+							["Level"] = 47,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Isolist"] = {
@@ -2517,39 +2517,27 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Yazok"] = {
-							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Dobrik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Vertelnahuy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Itscowabunga"] = {
-							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Priest",
-							["Rank"] = "Dust",
-						},
-						["Blameruin"] = {
+						["Guldanius"] = {
 							["RankIndex"] = 3,
-							["Level"] = 41,
+							["Level"] = 40,
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Tomazx"] = {
+						["Ragvolt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Vertelnahuy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 36,
+							["Level"] = 28,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Warmyet"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -2558,30 +2546,6 @@ CensusPlus_Database = {
 							["Level"] = 46,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
-						},
-						["Soulik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Disll"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Starichok"] = {
-							["RankIndex"] = 3,
-							["Level"] = 59,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Folin"] = {
-							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
 						},
 						["Babaii"] = {
 							["RankIndex"] = 3,
@@ -2593,6 +2557,42 @@ CensusPlus_Database = {
 							["RankIndex"] = 3,
 							["Level"] = 45,
 							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Soulik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Buhmen"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Starichok"] = {
+							["RankIndex"] = 3,
+							["Level"] = 60,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Folin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Qaori"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Kononn"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
 						["Enzoapvp"] = {
@@ -2613,11 +2613,11 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Saviby"] = {
-							["RankIndex"] = 3,
-							["Level"] = 45,
+						["Haradrum"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
 							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
+							["Rank"] = "Dust",
 						},
 						["Hoenhaime"] = {
 							["RankIndex"] = 4,
@@ -2631,17 +2631,17 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Delav"] = {
-							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Toomon"] = {
 							["RankIndex"] = 3,
 							["Level"] = 44,
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
+						},
+						["Zaebus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
 						["Bullzerg"] = {
 							["RankIndex"] = 4,
@@ -2655,11 +2655,11 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Telekines"] = {
-							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
+						["Prax"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
 						},
 						["Zulimxyu"] = {
 							["RankIndex"] = 4,
@@ -2679,22 +2679,22 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Gorshokmiha"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Fsbfsb"] = {
-							["RankIndex"] = 4,
-							["Level"] = 32,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Qaori"] = {
+						["Nekrontir"] = {
 							["RankIndex"] = 3,
 							["Level"] = 44,
-							["Class"] = "Shaman",
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Inharik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Zeeroo"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Vicsunya"] = {
@@ -2709,21 +2709,21 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Zeeroo"] = {
+						["Shamanrok"] = {
 							["RankIndex"] = 3,
 							["Level"] = 43,
-							["Class"] = "Hunter",
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Zakral"] = {
+						["Necrozes"] = {
 							["RankIndex"] = 3,
 							["Level"] = 43,
-							["Class"] = "Warrior",
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
 						["Sashulik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 19,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -2751,11 +2751,11 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Nekrontir"] = {
-							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
+						["Notariusman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
 						},
 						["Dzhigoorda"] = {
 							["RankIndex"] = 4,
@@ -2769,16 +2769,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Necrozes"] = {
+						["Kdc"] = {
 							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Warlock",
+							["Level"] = 42,
+							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
-						["Kononn"] = {
+						["Fireorc"] = {
 							["RankIndex"] = 3,
-							["Level"] = 43,
-							["Class"] = "Druid",
+							["Level"] = 42,
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
 						["Mulabandha"] = {
@@ -2817,34 +2817,16 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Biggunpuff"] = {
+						["Gorshokjiv"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Hunter",
+							["Level"] = 33,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Kdc"] = {
+						["Sneakymate"] = {
 							["RankIndex"] = 3,
-							["Level"] = 42,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Fireorc"] = {
-							["RankIndex"] = 3,
-							["Level"] = 42,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
-						},
-						["Badboyblue"] = {
-							["RankIndex"] = 3,
-							["Level"] = 42,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
-						},
-						["Azuyel"] = {
-							["RankIndex"] = 3,
-							["Level"] = 42,
-							["Class"] = "Warrior",
+							["Level"] = 41,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Mihalna"] = {
@@ -2859,16 +2841,16 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Nimmi"] = {
+						["Nidal"] = {
 							["RankIndex"] = 3,
 							["Level"] = 39,
-							["Class"] = "Druid",
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Wertigoqt"] = {
+						["Blameruin"] = {
 							["RankIndex"] = 3,
-							["Level"] = 46,
-							["Class"] = "Rogue",
+							["Level"] = 41,
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
 						["Zabiyka"] = {
@@ -2877,29 +2859,47 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
+						["Molfarka"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Wertigoqt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Goldum"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
 						["Cassil"] = {
 							["RankIndex"] = 4,
 							["Level"] = 10,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Remov"] = {
-							["RankIndex"] = 4,
-							["Level"] = 35,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Slavyaninec"] = {
+						["Chebupelka"] = {
 							["RankIndex"] = 3,
 							["Level"] = 40,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Riovar"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Cristof"] = {
-							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
+						["Nimmi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
 						},
 						["Glinomesoid"] = {
 							["RankIndex"] = 4,
@@ -2913,10 +2913,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Nidal"] = {
+						["Badcolddead"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
-							["Class"] = "Shaman",
+							["Level"] = 28,
+							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
 						["Antago"] = {
@@ -2925,15 +2925,15 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Guldanius"] = {
+						["Pelyla"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
-							["Class"] = "Warlock",
+							["Level"] = 38,
+							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
 						["Psihoza"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 25,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -2943,10 +2943,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Everblood"] = {
+						["Loise"] = {
 							["RankIndex"] = 3,
-							["Level"] = 39,
-							["Class"] = "Warrior",
+							["Level"] = 38,
+							["Class"] = "Priest",
 							["Rank"] = "Beginner",
 						},
 						["Riival"] = {
@@ -2955,9 +2955,9 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Barracha"] = {
+						["Fanzigor"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
+							["Level"] = 38,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
@@ -2968,15 +2968,15 @@ CensusPlus_Database = {
 							["Rank"] = "Dust",
 						},
 						["Tozung"] = {
-							["RankIndex"] = 4,
+							["RankIndex"] = 2,
 							["Level"] = 58,
 							["Class"] = "Shaman",
-							["Rank"] = "Dust",
+							["Rank"] = "Veteran",
 						},
-						["Tresi"] = {
+						["Taiturst"] = {
 							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Shaman",
+							["Level"] = 37,
+							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
 						["Pyrodox"] = {
@@ -2985,16 +2985,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Riovar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
+						["Mycopacocat"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
-						["Pelyla"] = {
+						["Getrag"] = {
 							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Priest",
+							["Level"] = 37,
+							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
 						["Student"] = {
@@ -3003,11 +3003,11 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Officer",
 						},
-						["Fanzigor"] = {
-							["RankIndex"] = 3,
-							["Level"] = 38,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
+						["Pannda"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
 						},
 						["Pomohnik"] = {
 							["RankIndex"] = 4,
@@ -3015,23 +3015,23 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Bagrattion"] = {
+						["Wutangen"] = {
 							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Warrior",
+							["Level"] = 36,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Taiturst"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Hunter",
-							["Rank"] = "Beginner",
+						["Fastassasin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
 						},
-						["Aharra"] = {
-							["RankIndex"] = 3,
-							["Level"] = 28,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
+						["Oakland"] = {
+							["RankIndex"] = 4,
+							["Level"] = 45,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
 						},
 						["Andreivna"] = {
 							["RankIndex"] = 4,
@@ -3045,53 +3045,11 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Getrag"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
-						},
-						["Drair"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
-						},
-						["Djedai"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Chebupelka"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Rebzo"] = {
+						["Zillallia"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Rogue",
+							["Level"] = 19,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
-						},
-						["Bubonka"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Wutangen"] = {
-							["RankIndex"] = 3,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Vanya"] = {
-							["RankIndex"] = 3,
-							["Level"] = 46,
-							["Class"] = "Druid",
-							["Rank"] = "Beginner",
 						},
 						["Jaslmok"] = {
 							["RankIndex"] = 3,
@@ -3099,16 +3057,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Muxan"] = {
+						["Vallenta"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Ogunaro"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Warrior",
+							["Level"] = 28,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Dknightt"] = {
@@ -3117,10 +3069,58 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
+						["Daggershot"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
 						["Asshott"] = {
 							["RankIndex"] = 3,
 							["Level"] = 36,
 							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Ermakova"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Vanya"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Poralik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Tanaik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Cynepgepouh"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Belkania"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Alkeya"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
 						["Smertiich"] = {
@@ -3131,21 +3131,21 @@ CensusPlus_Database = {
 						},
 						["Ledygaga"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
+							["Level"] = 31,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Jurist"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
+							["Level"] = 14,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Zulkazar"] = {
-							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
+						["Torsham"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
 						},
 						["Hellnou"] = {
 							["RankIndex"] = 2,
@@ -3153,11 +3153,11 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Poralik"] = {
-							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Goshaa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
 						["Renouncing"] = {
 							["RankIndex"] = 3,
@@ -3165,17 +3165,17 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Soondie"] = {
-							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
+						["Jeeman"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
-						["Goldum"] = {
-							["RankIndex"] = 4,
-							["Level"] = 12,
+						["Grimrock"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
 							["Class"] = "Shaman",
-							["Rank"] = "Dust",
+							["Rank"] = "Beginner",
 						},
 						["Ostroglazki"] = {
 							["RankIndex"] = 4,
@@ -3183,10 +3183,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Cynepgepouh"] = {
+						["Bagrattion"] = {
 							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Mage",
+							["Level"] = 34,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Smitelife"] = {
@@ -3219,17 +3219,17 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Belkania"] = {
-							["RankIndex"] = 3,
-							["Level"] = 35,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
-						},
-						["Sneakymate"] = {
+						["Ironekras"] = {
 							["RankIndex"] = 4,
-							["Level"] = 40,
-							["Class"] = "Rogue",
+							["Level"] = 13,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
+						},
+						["Slavyaninec"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
 						},
 						["Tretyakko"] = {
 							["RankIndex"] = 3,
@@ -3237,46 +3237,46 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Torsham"] = {
-							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
-						},
-						["Ajol"] = {
+						["Haslaq"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Shaman",
+							["Level"] = 12,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Frombfa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 9,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Vofke"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
+							["Level"] = 18,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Tallisia"] = {
-							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Priest",
-							["Rank"] = "Dust",
-						},
-						["Sbs"] = {
-							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
-						},
-						["Jeeman"] = {
+						["Elmik"] = {
 							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Hunter",
+							["Level"] = 33,
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
-						["Grimrock"] = {
+						["Royalgift"] = {
 							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Shaman",
+							["Level"] = 32,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Korjagaman"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Kopenb"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Pafss"] = {
@@ -3285,10 +3285,10 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Buhmen"] = {
+						["Kasamain"] = {
 							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Druid",
+							["Level"] = 32,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Ziggid"] = {
@@ -3297,27 +3297,27 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Alkeya"] = {
+						["Barracha"] = {
 							["RankIndex"] = 3,
-							["Level"] = 34,
-							["Class"] = "Shaman",
+							["Level"] = 32,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Ironekras"] = {
+						["Zaklinak"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Greenhat"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
-							["Class"] = "Shaman",
+							["Level"] = 29,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Molfarka"] = {
+						["Killameow"] = {
 							["RankIndex"] = 3,
-							["Level"] = 33,
-							["Class"] = "Warlock",
-							["Rank"] = "Beginner",
-						},
-						["Kirton"] = {
-							["RankIndex"] = 3,
-							["Level"] = 33,
+							["Level"] = 31,
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
@@ -3329,20 +3329,20 @@ CensusPlus_Database = {
 						},
 						["Jordarik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 22,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Haslaq"] = {
+						["Tomazx"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Mage",
+							["Level"] = 37,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Elmik"] = {
+						["Dobrik"] = {
 							["RankIndex"] = 3,
-							["Level"] = 33,
-							["Class"] = "Shaman",
+							["Level"] = 30,
+							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
 						["Daors"] = {
@@ -3357,10 +3357,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Royalgift"] = {
+						["Bruhozavr"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Rogue",
+							["Level"] = 30,
+							["Class"] = "Shaman",
 							["Rank"] = "Beginner",
 						},
 						["Lalamag"] = {
@@ -3381,16 +3381,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
-						["Kopenb"] = {
-							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Rogue",
-							["Rank"] = "Beginner",
+						["Prakaza"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
 						},
-						["Kasamain"] = {
+						["Alimen"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Warrior",
+							["Level"] = 30,
+							["Class"] = "Mage",
 							["Rank"] = "Beginner",
 						},
 						["Ozzyosborn"] = {
@@ -3399,10 +3399,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Helthbruud"] = {
+						["Zeppelinx"] = {
 							["RankIndex"] = 3,
-							["Level"] = 32,
-							["Class"] = "Hunter",
+							["Level"] = 28,
+							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
 						["Dostaevsky"] = {
@@ -3417,22 +3417,22 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Zaklinak"] = {
+						["Aharra"] = {
 							["RankIndex"] = 3,
-							["Level"] = 31,
+							["Level"] = 28,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Zhukero"] = {
+							["RankIndex"] = 3,
+							["Level"] = 26,
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Vaynashca"] = {
-							["RankIndex"] = 3,
-							["Level"] = 31,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
-						},
-						["Bigel"] = {
+						["Uraza"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Shaman",
+							["Level"] = 14,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Asone"] = {
@@ -3441,88 +3441,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Krasherr"] = {
-							["RankIndex"] = 3,
-							["Level"] = 31,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Killameow"] = {
-							["RankIndex"] = 3,
-							["Level"] = 31,
-							["Class"] = "Druid",
-							["Rank"] = "Beginner",
-						},
-						["Hazikostas"] = {
+						["Ahakgarra"] = {
 							["RankIndex"] = 4,
-							["Level"] = 43,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Bruhozavr"] = {
-							["RankIndex"] = 3,
-							["Level"] = 30,
-							["Class"] = "Shaman",
-							["Rank"] = "Beginner",
-						},
-						["Rutnevu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 37,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Alimen"] = {
-							["RankIndex"] = 3,
-							["Level"] = 30,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
-						},
-						["Kykuryza"] = {
-							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Pristof"] = {
-							["RankIndex"] = 3,
-							["Level"] = 28,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
-						},
-						["Badcolddead"] = {
-							["RankIndex"] = 3,
-							["Level"] = 28,
-							["Class"] = "Mage",
-							["Rank"] = "Beginner",
-						},
-						["Priestiha"] = {
-							["RankIndex"] = 3,
-							["Level"] = 37,
-							["Class"] = "Priest",
-							["Rank"] = "Beginner",
-						},
-						["Bolwebnik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Zhukero"] = {
-							["RankIndex"] = 3,
 							["Level"] = 26,
-							["Class"] = "Warrior",
-							["Rank"] = "Beginner",
-						},
-						["Obkakiy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Laminida"] = {
-							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Rogue",
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Subfil"] = {
@@ -3543,16 +3465,94 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
+						["Trenchtown"] = {
+							["RankIndex"] = 4,
+							["Level"] = 9,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Zjlou"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Kykuryza"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Slis"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Shuherizzada"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Priestiha"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Bolwebnik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Madgodlike"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Obkakiy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Heex"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Moveurbody"] = {
+							["RankIndex"] = 4,
+							["Level"] = 41,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Likam"] = {
+							["RankIndex"] = 4,
+							["Level"] = 56,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Basalien"] = {
+							["RankIndex"] = 4,
+							["Level"] = 56,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
 						["Dupainn"] = {
 							["RankIndex"] = 4,
 							["Level"] = 19,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Zididjoypro"] = {
+						["Gofakuself"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Warrior",
+							["Level"] = 54,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Patamushta"] = {
@@ -3569,20 +3569,20 @@ CensusPlus_Database = {
 						},
 						["Maarali"] = {
 							["RankIndex"] = 4,
-							["Level"] = 13,
+							["Level"] = 14,
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Maharashobi"] = {
+						["Murderrabbit"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Mage",
+							["Level"] = 17,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Slis"] = {
+						["Mosquito"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
+							["Level"] = 53,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Haxapgkope"] = {
@@ -3591,16 +3591,16 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Shuherizzada"] = {
+						["Shpion"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
+							["Level"] = 50,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Clyyzx"] = {
+						["Madlawyer"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Hunter",
+							["Level"] = 24,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Kraasav"] = {
@@ -3609,16 +3609,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Mycopacocat"] = {
+						["Kofetaim"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
+							["Level"] = 50,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Madgodlike"] = {
+						["Byhou"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
+							["Level"] = 50,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Policu"] = {
@@ -3629,13 +3629,13 @@ CensusPlus_Database = {
 						},
 						["Cassiya"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 19,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Mospan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
+							["Level"] = 23,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
@@ -3645,9 +3645,9 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Mosquito"] = {
+						["Gomeldrev"] = {
 							["RankIndex"] = 4,
-							["Level"] = 53,
+							["Level"] = 44,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
@@ -3663,9 +3663,9 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Likam"] = {
+						["Hazikostas"] = {
 							["RankIndex"] = 4,
-							["Level"] = 56,
+							["Level"] = 43,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -3681,10 +3681,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Artyfanboy"] = {
+						["Iliuiiuill"] = {
 							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Warlock",
+							["Level"] = 16,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Aidaho"] = {
@@ -3693,16 +3693,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Altiran"] = {
+						["Buksirchik"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Priest",
+							["Level"] = 20,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Shpion"] = {
+						["Deyong"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Warrior",
+							["Level"] = 41,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Zirkun"] = {
@@ -3711,10 +3711,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Kofetaim"] = {
+						["Porosyata"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Warrior",
+							["Level"] = 40,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Resict"] = {
@@ -3723,10 +3723,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Byhou"] = {
+						["Xumukuss"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Hunter",
+							["Level"] = 18,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Castun"] = {
@@ -3741,16 +3741,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Oakland"] = {
+						["Stret"] = {
 							["RankIndex"] = 4,
-							["Level"] = 45,
-							["Class"] = "Priest",
+							["Level"] = 30,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Gomeldrev"] = {
+						["Rinatti"] = {
 							["RankIndex"] = 4,
-							["Level"] = 44,
-							["Class"] = "Hunter",
+							["Level"] = 14,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Deathprieste"] = {
@@ -3759,10 +3759,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Shamanrok"] = {
+						["Radahan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 43,
-							["Class"] = "Shaman",
+							["Level"] = 39,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Gainekra"] = {
@@ -3795,34 +3795,34 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Teleador"] = {
+						["Zatmenie"] = {
 							["RankIndex"] = 4,
-							["Level"] = 42,
-							["Class"] = "Shaman",
+							["Level"] = 33,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Saraai"] = {
+						["Rutnevu"] = {
 							["RankIndex"] = 4,
-							["Level"] = 42,
-							["Class"] = "Hunter",
+							["Level"] = 37,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Santasick"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
+							["Level"] = 16,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Larenda"] = {
+						["Mexanikb"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
+							["Level"] = 37,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Moveurbody"] = {
+						["Ketarol"] = {
 							["RankIndex"] = 4,
-							["Level"] = 41,
-							["Class"] = "Rogue",
+							["Level"] = 28,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Apbyzuk"] = {
@@ -3831,16 +3831,16 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Deyong"] = {
+						["Krakazabla"] = {
 							["RankIndex"] = 4,
-							["Level"] = 41,
-							["Class"] = "Mage",
+							["Level"] = 10,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Porosyata"] = {
+						["Sbs"] = {
 							["RankIndex"] = 4,
-							["Level"] = 40,
-							["Class"] = "Druid",
+							["Level"] = 36,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Redwoolf"] = {
@@ -3849,28 +3849,28 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Radahan"] = {
+						["Wrongel"] = {
 							["RankIndex"] = 4,
-							["Level"] = 39,
-							["Class"] = "Rogue",
+							["Level"] = 35,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Yamago"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 25,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Frombfa"] = {
+						["Scarytry"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Mage",
+							["Level"] = 35,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Moonxpriest"] = {
+						["Remov"] = {
 							["RankIndex"] = 4,
-							["Level"] = 36,
-							["Class"] = "Priest",
+							["Level"] = 35,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Uucycxpucmoc"] = {
@@ -3891,10 +3891,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Beginner",
 						},
-						["Kalblvass"] = {
+						["Hotcot"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Warlock",
+							["Level"] = 34,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Freegat"] = {
@@ -3905,7 +3905,7 @@ CensusPlus_Database = {
 						},
 						["Zagarichh"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -3941,13 +3941,13 @@ CensusPlus_Database = {
 						},
 						["Qooattro"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
+							["Level"] = 23,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Leonadr"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
+							["Level"] = 26,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -3963,40 +3963,40 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Wrongel"] = {
+						["Serekja"] = {
 							["RankIndex"] = 4,
-							["Level"] = 35,
-							["Class"] = "Druid",
+							["Level"] = 14,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Scarytry"] = {
+						["Jlocuxa"] = {
 							["RankIndex"] = 4,
-							["Level"] = 35,
-							["Class"] = "Rogue",
+							["Level"] = 33,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Vazgor"] = {
 							["RankIndex"] = 3,
-							["Level"] = 40,
+							["Level"] = 41,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
 						["Prispero"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
+							["Level"] = 29,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Prakaza"] = {
+						["Pawpiwpaw"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Warlock",
+							["Level"] = 32,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Heex"] = {
+						["Migim"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Shaman",
+							["Level"] = 32,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Kraborog"] = {
@@ -4005,28 +4005,28 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Goshaa"] = {
+						["Majayanti"] = {
 							["RankIndex"] = 4,
-							["Level"] = 34,
+							["Level"] = 32,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Zatmenie"] = {
+						["Fsbfsb"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Hunter",
+							["Level"] = 32,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Takada"] = {
+						["Unammed"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
+							["Level"] = 31,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Rogogul"] = {
+						["Zarikd"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Rogue",
+							["Level"] = 23,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Aralara"] = {
@@ -4047,16 +4047,16 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Jlocuxa"] = {
+						["Ourvenuk"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Druid",
+							["Level"] = 31,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Hotcot"] = {
+						["Zulkazar"] = {
 							["RankIndex"] = 4,
-							["Level"] = 33,
-							["Class"] = "Druid",
+							["Level"] = 30,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Freezsin"] = {
@@ -4089,10 +4089,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Vallenta"] = {
+						["Kukuruzen"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Priest",
+							["Level"] = 10,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Andreevna"] = {
@@ -4101,16 +4101,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Pawpiwpaw"] = {
+						["Medvezhka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 32,
-							["Class"] = "Hunter",
+							["Level"] = 12,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Migim"] = {
+						["Mavicks"] = {
 							["RankIndex"] = 4,
-							["Level"] = 32,
-							["Class"] = "Rogue",
+							["Level"] = 17,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Cheteruga"] = {
@@ -4119,22 +4119,22 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Terutanya"] = {
+						["Fainokni"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
+							["Level"] = 22,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Medvezhka"] = {
+						["Bjorngelotte"] = {
 							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Druid",
+							["Level"] = 9,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Nekrogeddon"] = {
+						["Muxan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Warlock",
+							["Level"] = 30,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Azzul"] = {
@@ -4143,15 +4143,15 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Officer",
 						},
-						["Dkwarlock"] = {
+						["Maguss"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
-							["Class"] = "Warlock",
+							["Level"] = 24,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Terobard"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
+							["Level"] = 19,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -4161,10 +4161,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
-						["Ucoliese"] = {
+						["Mogankhal"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Shaman",
+							["Level"] = 23,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Dvapodva"] = {
@@ -4181,7 +4181,7 @@ CensusPlus_Database = {
 						},
 						["Icerip"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 25,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -4191,22 +4191,22 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Brokksigar"] = {
-							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
-						},
-						["Sambist"] = {
-							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Veterperemen"] = {
 							["RankIndex"] = 4,
 							["Level"] = 11,
 							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Bubenzi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Meowormeow"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Baxpa"] = {
@@ -4227,10 +4227,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Madlawyer"] = {
+						["Dontfrosty"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Rogue",
+							["Level"] = 10,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Dimkil"] = {
@@ -4239,10 +4239,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Meowormeow"] = {
+						["Drubid"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Rogue",
+							["Level"] = 19,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Meertuka"] = {
@@ -4263,34 +4263,34 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Tvoyasamka"] = {
+						["Vaynashka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Hunter",
+							["Level"] = 29,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Drubid"] = {
+						["Orgrock"] = {
 							["RankIndex"] = 4,
 							["Level"] = 19,
-							["Class"] = "Druid",
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Rvenie"] = {
+						["Georgintan"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Priest",
+							["Level"] = 9,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Pivoskilkou"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
+							["Level"] = 31,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Ourvenuk"] = {
+						["Bigel"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Warlock",
+							["Level"] = 20,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Geantis"] = {
@@ -4299,16 +4299,16 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Maguss"] = {
+						["Clyyzx"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Mage",
+							["Level"] = 23,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Georgintan"] = {
+						["Kaylesis"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Hunter",
+							["Level"] = 29,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Ururur"] = {
@@ -4331,14 +4331,14 @@ CensusPlus_Database = {
 						},
 						["Butera"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
+							["Level"] = 26,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Haradrum"] = {
+						["Darkstranger"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
-							["Class"] = "Shaman",
+							["Level"] = 29,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Goldnate"] = {
@@ -4359,10 +4359,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Warmyet"] = {
+						["Amaxarg"] = {
 							["RankIndex"] = 4,
 							["Level"] = 14,
-							["Class"] = "Rogue",
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Speedhock"] = {
@@ -4371,10 +4371,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Targazz"] = {
+						["Angass"] = {
 							["RankIndex"] = 4,
 							["Level"] = 29,
-							["Class"] = "Warlock",
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Qukaika"] = {
@@ -4383,9 +4383,9 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Marakumba"] = {
+						["Zebrajin"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 27,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
@@ -4407,22 +4407,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
-						["Gijsham"] = {
+						["Onaax"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Kaylesis"] = {
-							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Priest",
-							["Rank"] = "Dust",
-						},
-						["Bucharati"] = {
-							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Warlock",
+							["Level"] = 28,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Ternnal"] = {
@@ -4431,15 +4419,27 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
+						["Bucharati"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Twobutton"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
 						["Booldozzer"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
+							["Level"] = 28,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Frikase"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
+							["Level"] = 10,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -4449,10 +4449,10 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Twobutton"] = {
+						["Mazarfaker"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warrior",
+							["Level"] = 24,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Palross"] = {
@@ -4467,10 +4467,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Epilepsik"] = {
+						["Kalblvass"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Warrior",
+							["Level"] = 28,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Solashu"] = {
@@ -4479,16 +4479,16 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Ermakova"] = {
-							["RankIndex"] = 4,
-							["Level"] = 29,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
 						["Bezpaleva"] = {
 							["RankIndex"] = 4,
 							["Level"] = 14,
 							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kospy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Shamancheg"] = {
@@ -4509,15 +4509,15 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Kospy"] = {
+						["Hadowak"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Mage",
+							["Level"] = 28,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Bmwst"] = {
 							["RankIndex"] = 3,
-							["Level"] = 48,
+							["Level"] = 49,
 							["Class"] = "Rogue",
 							["Rank"] = "Beginner",
 						},
@@ -4539,9 +4539,9 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Angass"] = {
+						["Ajol"] = {
 							["RankIndex"] = 4,
-							["Level"] = 29,
+							["Level"] = 22,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -4563,10 +4563,10 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Gosquanchy"] = {
+						["Gundabad"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Shaman",
+							["Level"] = 17,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Kkn"] = {
@@ -4581,10 +4581,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Onaax"] = {
+						["Ximikus"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Rogue",
+							["Level"] = 27,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Kanil"] = {
@@ -4605,10 +4605,10 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Hadowak"] = {
+						["Thornhide"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Shaman",
+							["Level"] = 27,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Nextdoor"] = {
@@ -4623,16 +4623,16 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Greenhat"] = {
+						["Soondie"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Warlock",
+							["Level"] = 19,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Chellenber"] = {
+						["Suchila"] = {
 							["RankIndex"] = 4,
-							["Level"] = 28,
-							["Class"] = "Rogue",
+							["Level"] = 24,
+							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
 						["Vaak"] = {
@@ -4641,22 +4641,22 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Murderrabbit"] = {
-							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Chervak"] = {
+						["Lesnic"] = {
 							["RankIndex"] = 4,
 							["Level"] = 15,
-							["Class"] = "Shaman",
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Daitiries"] = {
+						["Gidsik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Gorshokmiha"] = {
 							["RankIndex"] = 4,
 							["Level"] = 16,
-							["Class"] = "Warlock",
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Imreaper"] = {
@@ -4677,10 +4677,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Ximikus"] = {
+						["Epilepsik"] = {
 							["RankIndex"] = 4,
 							["Level"] = 27,
-							["Class"] = "Hunter",
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Taratal"] = {
@@ -4689,10 +4689,10 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Beginner",
 						},
-						["Geogsogen"] = {
+						["Supadivya"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Mage",
+							["Level"] = 13,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Shozanna"] = {
@@ -4701,33 +4701,9 @@ CensusPlus_Database = {
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Thornhide"] = {
+						["Bpyc"] = {
 							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Druid",
-							["Rank"] = "Dust",
-						},
-						["Tanaik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 27,
-							["Class"] = "Warrior",
-							["Rank"] = "Dust",
-						},
-						["Zinaq"] = {
-							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Rogue",
-							["Rank"] = "Dust",
-						},
-						["Bpyn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warlock",
-							["Rank"] = "Dust",
-						},
-						["Ebetnormalno"] = {
-							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 15,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
@@ -4737,28 +4713,52 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
+						["Gijsham"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Rebzo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
 						["Cusper"] = {
 							["RankIndex"] = 4,
 							["Level"] = 27,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Demxx"] = {
+						["Obebowenuy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 39,
+							["Level"] = 22,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Biggunpuff"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Wowzonkh"] = {
+						["Demxx"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Ebetnormalno"] = {
 							["RankIndex"] = 4,
 							["Level"] = 20,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Obebowenuy"] = {
+						["Brokksigar"] = {
 							["RankIndex"] = 4,
-							["Level"] = 21,
-							["Class"] = "Mage",
+							["Level"] = 25,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Stref"] = {
@@ -4785,10 +4785,10 @@ CensusPlus_Database = {
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
-						["Shamolet"] = {
+						["Wowzonkh"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Shaman",
+							["Level"] = 20,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Temirkhan"] = {
@@ -4797,10 +4797,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Beginner",
 						},
-						["Fattycowred"] = {
+						["Ucoliese"] = {
 							["RankIndex"] = 4,
-							["Level"] = 15,
-							["Class"] = "Druid",
+							["Level"] = 28,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Grekkerr"] = {
@@ -4815,15 +4815,15 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Mukca"] = {
+						["Laminida"] = {
 							["RankIndex"] = 4,
-							["Level"] = 18,
-							["Class"] = "Shaman",
+							["Level"] = 21,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Soert"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
+							["Level"] = 26,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -4835,14 +4835,14 @@ CensusPlus_Database = {
 						},
 						["Thorwarr"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
+							["Level"] = 21,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Hulikiller"] = {
+						["Noobwin"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Hunter",
+							["Level"] = 25,
+							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Bugzon"] = {
@@ -4863,16 +4863,16 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Ahakgarra"] = {
+						["Larenda"] = {
 							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Priest",
+							["Level"] = 25,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Bjorngelotte"] = {
+						["Hulikiller"] = {
 							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Shaman",
+							["Level"] = 24,
+							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
 						["Rubikkubik"] = {
@@ -4881,21 +4881,21 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Iliuiiuill"] = {
+						["Sambist"] = {
 							["RankIndex"] = 4,
-							["Level"] = 16,
-							["Class"] = "Warrior",
+							["Level"] = 19,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Xumukuss"] = {
+						["Magicfrost"] = {
 							["RankIndex"] = 4,
 							["Level"] = 16,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Jeppeto"] = {
+						["Cristof"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
+							["Level"] = 12,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
@@ -4907,14 +4907,14 @@ CensusPlus_Database = {
 						},
 						["Hauberk"] = {
 							["RankIndex"] = 4,
-							["Level"] = 14,
+							["Level"] = 15,
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Mavrus"] = {
+						["Sigaretkina"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Druid",
+							["Level"] = 22,
+							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
 						["Torenda"] = {
@@ -4941,9 +4941,9 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Stret"] = {
+						["Shamco"] = {
 							["RankIndex"] = 4,
-							["Level"] = 30,
+							["Level"] = 20,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -4971,16 +4971,16 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Mogankhal"] = {
+						["Tvoyasamka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 23,
+							["Level"] = 18,
 							["Class"] = "Hunter",
 							["Rank"] = "Dust",
 						},
-						["Dgambo"] = {
+						["Redrox"] = {
 							["RankIndex"] = 4,
-							["Level"] = 25,
-							["Class"] = "Druid",
+							["Level"] = 16,
+							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
 						["Krafor"] = {
@@ -4989,10 +4989,10 @@ CensusPlus_Database = {
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Clawandfang"] = {
+						["Radz"] = {
 							["RankIndex"] = 4,
-							["Level"] = 19,
-							["Class"] = "Druid",
+							["Level"] = 24,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Jusp"] = {
@@ -5001,34 +5001,46 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
-						["Suchila"] = {
+						["Altiran"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
+							["Level"] = 17,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Fainokni"] = {
+						["Chervak"] = {
 							["RankIndex"] = 4,
-							["Level"] = 22,
-							["Class"] = "Hunter",
+							["Level"] = 15,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
-						["Toxicoznic"] = {
+						["Nirenberg"] = {
 							["RankIndex"] = 4,
-							["Level"] = 10,
-							["Class"] = "Hunter",
+							["Level"] = 12,
+							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
 						["Heleg"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 21,
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
-						["Mazarfaker"] = {
+						["Delav"] = {
 							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Mage",
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Clawandfang"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Hasium"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Druid",
 							["Rank"] = "Dust",
 						},
 						["Kissdeath"] = {
@@ -5043,18 +5055,6 @@ CensusPlus_Database = {
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
-						["Trenchtown"] = {
-							["RankIndex"] = 4,
-							["Level"] = 9,
-							["Class"] = "Mage",
-							["Rank"] = "Dust",
-						},
-						["Kilsajem"] = {
-							["RankIndex"] = 4,
-							["Level"] = 23,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
 						["Kiantis"] = {
 							["RankIndex"] = 3,
 							["Level"] = 14,
@@ -5067,23 +5067,23 @@ CensusPlus_Database = {
 							["Class"] = "Rogue",
 							["Rank"] = "Dust",
 						},
+						["Zinaq"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Terutanya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
 						["Minzdraf"] = {
 							["RankIndex"] = 4,
 							["Level"] = 23,
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
-						},
-						["Bubenzi"] = {
-							["RankIndex"] = 4,
-							["Level"] = 12,
-							["Class"] = "Shaman",
-							["Rank"] = "Dust",
-						},
-						["Manowarrec"] = {
-							["RankIndex"] = 2,
-							["Level"] = 54,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
 						},
 						["Xotkot"] = {
 							["RankIndex"] = 4,
@@ -5097,10 +5097,10 @@ CensusPlus_Database = {
 							["Class"] = "Warrior",
 							["Rank"] = "Dust",
 						},
-						["Sigaretkina"] = {
+						["Yazok"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Warrior",
+							["Level"] = 22,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Minimishka"] = {
@@ -5127,9 +5127,15 @@ CensusPlus_Database = {
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
+						["Nekrogeddon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
 						["Smolla"] = {
 							["RankIndex"] = 4,
-							["Level"] = 11,
+							["Level"] = 12,
 							["Class"] = "Shaman",
 							["Rank"] = "Dust",
 						},
@@ -5145,45 +5151,39 @@ CensusPlus_Database = {
 							["Class"] = "Priest",
 							["Rank"] = "Dust",
 						},
-						["Gundabad"] = {
+						["Maharashobi"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
-							["Class"] = "Hunter",
-							["Rank"] = "Dust",
-						},
-						["Buketik"] = {
-							["RankIndex"] = 4,
-							["Level"] = 22,
+							["Level"] = 21,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Sergoosha"] = {
 							["RankIndex"] = 3,
-							["Level"] = 44,
+							["Level"] = 45,
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
-						["Kastalom"] = {
+						["Jeppeto"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
-							["Class"] = "Rogue",
+							["Level"] = 19,
+							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Meryegold"] = {
 							["RankIndex"] = 4,
-							["Level"] = 17,
+							["Level"] = 18,
 							["Class"] = "Mage",
 							["Rank"] = "Dust",
 						},
 						["Bessia"] = {
 							["RankIndex"] = 4,
-							["Level"] = 20,
+							["Level"] = 21,
 							["Class"] = "Warlock",
 							["Rank"] = "Dust",
 						},
 						["Karmadonw"] = {
 							["RankIndex"] = 3,
-							["Level"] = 35,
+							["Level"] = 36,
 							["Class"] = "Warlock",
 							["Rank"] = "Beginner",
 						},
@@ -5238,13 +5238,30 @@ CensusPlus_Database = {
 			["Horde"] = {
 				["2019-06-06&16:30:00"] = "41&64&89&53&63&71&97&84&0&6&8&6",
 				["2019-06-03&12:29:00"] = "46&57&59&51&64&70&71&69&0&0&0&8",
-				["2019-06-06&17:32:00"] = "49&66&78&59&77&72&81&75&0&3&12&0",
+				["2019-06-07&8:34:00"] = "32&58&72&50&48&48&75&66&0&7&0&0",
+				["2019-06-07&11:34:00"] = "40&59&76&52&59&69&86&72&0&11&0&0",
 				["2019-06-06&17:1:00"] = "51&73&70&63&67&68&88&81&0&3&10&0",
+				["2019-06-07&13:0:00"] = "34&58&71&55&65&69&86&70&0&16&0&5",
+				["2019-06-07&8:47:00"] = "33&64&68&50&46&54&73&63&0&7&0&0",
+				["2019-06-07&8:3:00"] = "40&57&68&48&56&58&71&54&0&0&0&0",
 				["2019-06-06&16:13:00"] = "46&74&84&61&58&66&86&86&0&11&0&7",
-				["2019-06-06&18:52:00"] = "47&76&65&67&65&75&92&90&0&0&2&1",
-				["2019-06-03&12:36:00"] = "48&62&61&58&56&64&68&69&0&0&0&8",
-				["2019-06-06&18:34:00"] = "40&86&68&67&64&77&84&93&0&5&0&0",
+				["2019-06-07&7:32:00"] = "46&57&74&44&55&62&69&58&0&0&0&0",
+				["2019-06-07&12:22:00"] = "41&65&72&48&66&64&82&72&0&16&0&0",
 				["2019-06-06&18:3:00"] = "50&71&62&69&77&69&85&81&0&4&0&4",
+				["2019-06-07&10:49:00"] = "32&62&67&43&60&76&82&73&0&0&0&0",
+				["2019-06-07&13:8:00"] = "37&60&71&56&63&68&87&72&0&8&12&0",
+				["2019-06-06&17:32:00"] = "49&66&78&59&77&72&81&75&0&3&12&0",
+				["2019-06-07&9:6:00"] = "34&66&66&50&49&62&67&61&0&0&0&0",
+				["2019-06-07&13:48:00"] = "34&61&77&59&66&70&81&76&0&4&0&10",
+				["2019-06-07&12:49:00"] = "32&58&83&59&69&70&78&67&0&17&0&4",
+				["2019-06-07&14:19:00"] = "47&68&72&58&61&72&84&82&0&4&0&0",
+				["2019-06-07&11:51:00"] = "42&58&68&48&59&67&95&70&0&9&0&0",
+				["2019-06-07&11:3:00"] = "33&73&76&46&53&69&84&75&0&2&0&6",
+				["2019-06-07&10:18:00"] = "38&59&68&43&59&79&68&65&0&0&0&0",
+				["2019-06-07&7:1:00"] = "48&58&71&36&49&58&80&59&0&7&0&0",
+				["2019-06-06&18:52:00"] = "47&76&65&67&65&75&92&90&0&0&2&1",
+				["2019-06-06&18:34:00"] = "40&86&68&67&64&77&84&93&0&5&0&0",
+				["2019-06-03&12:36:00"] = "48&62&61&58&56&64&68&69&0&0&0&8",
 			},
 		},
 	},
@@ -5253,113 +5270,63 @@ CensusPlus_Database = {
 			["Horde"] = {
 				["Troll"] = {
 					["Warrior"] = {
-						["Miriasta"] = {
-							[1] = 57,
-							[2] = "No Gold Train Skills",
-							[3] = "2019-06-06",
+						["Gerbilshock"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zukoinh"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Moowas"] = {
 							[1] = 1,
 							[2] = "Guards of Azeroth",
 							[3] = "2019-06-06",
 						},
-						["Frodoque"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Curfheoi"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Swooptyswo"] = {
+							[1] = 46,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
 						},
 						["Zebrajin"] = {
 							[1] = 26,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Nimtrolo"] = {
-							[1] = 6,
+						["Agoress"] = {
+							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Talarajin"] = {
-							[1] = 55,
-							[2] = "F E P",
-							[3] = "2019-06-06",
-						},
-						["Grintusk"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Spierkan"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Eustachette"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Mustank"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-03",
+						["Hotchad"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Jimi"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Nisuko"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Rangana"] = {
-							[1] = 25,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Mankrikc"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Zulmakk"] = {
+							[1] = 30,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
 						},
 						["Platoedro"] = {
 							[1] = 42,
 							[2] = "Zug Zug por la Horda",
 							[3] = "2019-06-06",
 						},
-						["Saltytrol"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Jumanza"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Zukonda"] = {
-							[1] = 15,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
-						},
 						["Rfputin"] = {
 							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Antiadamadd"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Bloodybath"] = {
-							[1] = 39,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -5368,15 +5335,165 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Seinen"] = {
-							[1] = 5,
+						["Hoofsen"] = {
+							[1] = 39,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Plateback"] = {
 							[1] = 13,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-04",
+						},
+						["Kouwabunga"] = {
+							[1] = 38,
+							[2] = "Task Force Loktar",
+							[3] = "2019-06-07",
+						},
+						["Miriasta"] = {
+							[1] = 58,
+							[2] = "No Gold Train Skills",
+							[3] = "2019-06-07",
+						},
+						["Crunkbizatch"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Frodoque"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jaygu"] = {
+							[1] = 56,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Endragoz"] = {
+							[1] = 34,
+							[2] = "Illyrians",
+							[3] = "2019-06-07",
+						},
+						["Curfheoi"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Yipikiyeymf"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nimtrolo"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Grecsilind"] = {
+							[1] = 28,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Talarajin"] = {
+							[1] = 55,
+							[2] = "F E P",
+							[3] = "2019-06-06",
+						},
+						["Mankrikc"] = {
+							[1] = 19,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Keltek"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Spierkan"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jumanza"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Seinen"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Sunderkat"] = {
+							[1] = 23,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Nisuko"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Mustank"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-03",
+						},
+						["Soapybawls"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Camarowar"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bloodybath"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rangana"] = {
+							[1] = 25,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Zukonda"] = {
+							[1] = 15,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-06",
+						},
+						["Marcorio"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Antiadamadd"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bustaduggy"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yigedaoshi"] = {
+							[1] = 36,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Grintusk"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Saltytrol"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
 						},
 						["Slayersboxer"] = {
 							[1] = 9,
@@ -5390,20 +5507,20 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dothak"] = {
-							[1] = 8,
+						["Taumantis"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-03",
 						},
 						["Meelaha"] = {
 							[1] = 60,
 							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Wersham"] = {
-							[1] = 12,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
+						["Shamanrok"] = {
+							[1] = 43,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Elerk"] = {
 							[1] = 20,
@@ -5415,105 +5532,110 @@ CensusPlus_Database = {
 							[2] = "Crossroad Festival",
 							[3] = "2019-06-06",
 						},
-						["Zilzac"] = {
-							[1] = 45,
-							[2] = "Russian Revolution",
-							[3] = "2019-06-03",
-						},
-						["Ferroon"] = {
-							[1] = 4,
+						["Bonjoo"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Rukkie"] = {
-							[1] = 31,
+						["Zangoz"] = {
+							[1] = 20,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Livinlol"] = {
+						["Venek"] = {
 							[1] = 16,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-04",
 						},
-						["Kommentaja"] = {
-							[1] = 7,
+						["Dieseppe"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Haigert"] = {
-							[1] = 20,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Bouchardo"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Crispyzoot"] = {
+							[1] = 36,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Zariz"] = {
+							[1] = 59,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Windaxes"] = {
 							[1] = 59,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Kremaul"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+						["Tossk"] = {
+							[1] = 40,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
 						},
-						["Chirri"] = {
-							[1] = 52,
-							[2] = "Two Bit Horde",
-							[3] = "2019-06-06",
-						},
-						["Rerjkl"] = {
-							[1] = 7,
+						["Jinzie"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Rekkidz"] = {
+							[1] = 20,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Zelensky"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Sillutotem"] = {
 							[1] = 12,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Mulanibyn"] = {
+							[1] = 1,
+							[2] = "Bankers Guild",
+							[3] = "2019-06-07",
 						},
 						["Nekotsume"] = {
 							[1] = 20,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Melissandei"] = {
-							[1] = 12,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
 						["Nifelheims"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
+							[1] = 15,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
 						},
-						["Talrendis"] = {
-							[1] = 28,
+						["Werozuga"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dazgundo"] = {
-							[1] = 8,
+						["Morsetroll"] = {
+							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Jeezaa"] = {
 							[1] = 60,
 							[2] = "F E P",
 							[3] = "2019-06-03",
 						},
-						["Millface"] = {
-							[1] = 7,
+						["Kastael"] = {
+							[1] = 35,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Maturin"] = {
-							[1] = 38,
-							[2] = "Zug Zug Team Seven",
-							[3] = "2019-06-06",
-						},
-						["Tuwunda"] = {
-							[1] = 14,
-							[2] = "Los Baldaos",
-							[3] = "2019-06-03",
+						["Telksa"] = {
+							[1] = 11,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Ahlen"] = {
 							[1] = 26,
@@ -5530,170 +5652,70 @@ CensusPlus_Database = {
 							[2] = "Tschill",
 							[3] = "2019-06-06",
 						},
-						["Oodji"] = {
-							[1] = 18,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Eveh"] = {
-							[1] = 37,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Vodkaole"] = {
-							[1] = 17,
+						["Smallwood"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Daldem"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Babycheeks"] = {
 							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Shamanrok"] = {
-							[1] = 43,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Celestmoon"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Datzo"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Viyo"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
 						["Shockies"] = {
-							[1] = 38,
+							[1] = 39,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Shazuru"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Testshamantr"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Drewan"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Feelspepega"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Crashes"] = {
-							[1] = 29,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Trollbound"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zenmojo"] = {
 							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Salihnar"] = {
-							[1] = 3,
+						["Testshamantr"] = {
+							[1] = 26,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Wildfurry"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Voodi"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Noprocnokill"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Teaori"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Helldvan"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Khahari"] = {
+						["Davenar"] = {
 							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Laddtradd"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Adwadwadwa"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Wendeznuts"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
 						},
 						["Lolimatroll"] = {
-							[1] = 51,
+							[1] = 53,
 							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Liryen"] = {
-							[1] = 51,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Faizarinda"] = {
 							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Anbruch"] = {
-							[1] = 21,
+						["Dshammy"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Opruhwinfury"] = {
-							[1] = 34,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Ruegenwalder"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Taumantis"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Jersey"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
 						["Sanderle"] = {
 							[1] = 39,
@@ -5705,18 +5727,428 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Garduk"] = {
+						["Uniqron"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shaamankiing"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Irvgotti"] = {
 							[1] = 9,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Esoxx"] = {
+							[1] = 34,
+							[2] = "DeusVult",
+							[3] = "2019-06-07",
+						},
+						["Mobtotem"] = {
+							[1] = 16,
+							[2] = "Anonymous",
+							[3] = "2019-06-07",
+						},
+						["Esoxlucius"] = {
+							[1] = 57,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Samrobert"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Trollkori"] = {
+							[1] = 15,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Jemmortuni"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Smolla"] = {
+							[1] = 12,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Liryen"] = {
+							[1] = 51,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Dothak"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jazrika"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wersham"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-04",
 						},
 						["Dokctor"] = {
 							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
+						["Trollbound"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ferroon"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Opruhwinfury"] = {
+							[1] = 34,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Gosquanchy"] = {
+							[1] = 23,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Sweetcakes"] = {
+							[1] = 20,
+							[2] = "Two Bit Horde",
+							[3] = "2019-06-07",
+						},
+						["Kommentaja"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Haigert"] = {
+							[1] = 23,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Kremaul"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Ngayaw"] = {
+							[1] = 50,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chirri"] = {
+							[1] = 52,
+							[2] = "Two Bit Horde",
+							[3] = "2019-06-06",
+						},
+						["Rerjkl"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shamimi"] = {
+							[1] = 18,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Melissandei"] = {
+							[1] = 13,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Teaori"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kilsajem"] = {
+							[1] = 23,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Talrendis"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zulhera"] = {
+							[1] = 32,
+							[2] = "No Gold Train Skills",
+							[3] = "2019-06-07",
+						},
+						["Dazgundo"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tsipouras"] = {
+							[1] = 49,
+							[2] = "Zug Zug Team Six",
+							[3] = "2019-06-07",
+						},
+						["Noprocnokill"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bankaton"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Maturin"] = {
+							[1] = 38,
+							[2] = "Zug Zug Team Seven",
+							[3] = "2019-06-06",
+						},
+						["Tuwunda"] = {
+							[1] = 14,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-03",
+						},
+						["Isvinis"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dennah"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
 						["Vwleningrad"] = {
 							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Oodji"] = {
+							[1] = 20,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Nubai"] = {
+							[1] = 20,
+							[2] = "Guardians",
+							[3] = "2019-06-07",
+						},
+						["Lazhzard"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bumzim"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Roaba"] = {
+							[1] = 19,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Vodkaole"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Lofiey"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kembachi"] = {
+							[1] = 21,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Serrgio"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Teldrasa"] = {
+							[1] = 33,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lagerther"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tozung"] = {
+							[1] = 58,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Fishwrinkle"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Viyo"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Tandiha"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Daldem"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wendeznuts"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Kaifal"] = {
+							[1] = 60,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Eveh"] = {
+							[1] = 37,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-06",
+						},
+						["Drewan"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Danzor"] = {
+							[1] = 42,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Laddtradd"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Crashes"] = {
+							[1] = 30,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Llunaa"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nezrynn"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Voodi"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Mardekar"] = {
+							[1] = 51,
+							[2] = "Hell Patrol",
+							[3] = "2019-06-07",
+						},
+						["Sufiks"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Feelspepega"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fintoklar"] = {
+							[1] = 26,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Adwadwadwa"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Anvaja"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hobester"] = {
+							[1] = 25,
+							[2] = "Azerothian Supervillians",
+							[3] = "2019-06-07",
+						},
+						["Livinlol"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Millface"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Boomfrstshk"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wildfurry"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Khahari"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zulpoo"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zilzac"] = {
+							[1] = 45,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-03",
+						},
+						["Anbruch"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Garduk"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Slimdreas"] = {
+							[1] = 24,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Salihnar"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -5725,44 +6157,44 @@ CensusPlus_Database = {
 							[2] = "Dark Side of the Moon",
 							[3] = "2019-06-06",
 						},
-						["Venek"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-04",
+						["Helldvan"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
 						},
-						["Serrgio"] = {
-							[1] = 6,
+						["Leonidac"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Shamimi"] = {
-							[1] = 18,
-							[2] = "Waiting For Retail",
+						["Dumra"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Viserol"] = {
+							[1] = 33,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Rukkie"] = {
+							[1] = 31,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kembachi"] = {
-							[1] = 21,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Uval"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Shannox"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Jazrika"] = {
-							[1] = 30,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Samrobert"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Trollkori"] = {
+						["Zenmojo"] = {
 							[1] = 11,
-							[2] = "Crossroad Festival",
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Trolline"] = {
@@ -5772,6 +6204,96 @@ CensusPlus_Database = {
 						},
 					},
 					["Rogue"] = {
+						["Vixor"] = {
+							[1] = 50,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Tomchong"] = {
+							[1] = 15,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Juliuppi"] = {
+							[1] = 25,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Kranios"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vududelbueno"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Pyzen"] = {
+							[1] = 20,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Fador"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jandawackson"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Budea"] = {
+							[1] = 17,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-04",
+						},
+						["Calcu"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Meperdonas"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Twotoelou"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lilok"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Uncletusky"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Norsefloki"] = {
+							[1] = 39,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Canadatrust"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boursenflee"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Horballe"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
 						["Pincoya"] = {
 							[1] = 20,
 							[2] = "Los Baldaos",
@@ -5787,98 +6309,13 @@ CensusPlus_Database = {
 							[2] = "The Brew Crew",
 							[3] = "2019-06-03",
 						},
-						["Juliuppi"] = {
-							[1] = 25,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Telaenzarto"] = {
+							[1] = 14,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-07",
 						},
 						["Samdi"] = {
 							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Purplhaze"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vududelbueno"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Pyzen"] = {
-							[1] = 20,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Skunkis"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Budea"] = {
-							[1] = 17,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-04",
-						},
-						["Asovan"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Yow"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Kranios"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Meperdonas"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Horballe"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Jakla"] = {
-							[1] = 38,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vixor"] = {
-							[1] = 49,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Makalulu"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Statlar"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Synthrae"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-05",
-						},
-						["Lilok"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Schleifbock"] = {
-							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -5887,30 +6324,110 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
+						["Shriaeth"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Snussi"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dabankz"] = {
+							[1] = 1,
+							[2] = "Bankers Guild",
+							[3] = "2019-06-07",
+						},
+						["Burkururur"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dimahka"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nikruul"] = {
+							[1] = 48,
+							[2] = "Grym",
+							[3] = "2019-06-07",
+						},
+						["Schleifbock"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zadika"] = {
+							[1] = 22,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Akustilex"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Synthrae"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-05",
+						},
+						["Jakla"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Skunkis"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Makalulu"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
 						["Nixvi"] = {
 							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Burkururur"] = {
-							[1] = 5,
+						["Yow"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Purplhaze"] = {
+							[1] = 21,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Norsefloki"] = {
-							[1] = 39,
-							[2] = "Czechoslovakia",
+						["Asovan"] = {
+							[1] = 4,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Canadatrust"] = {
-							[1] = 1,
+						["Statlar"] = {
+							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Boursenflee"] = {
-							[1] = 2,
+						["Janeal"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Kiillemall"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jiica"] = {
+							[1] = 30,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Yinchuriki"] = {
 							[1] = 7,
@@ -5924,28 +6441,33 @@ CensusPlus_Database = {
 						},
 					},
 					["Hunter"] = {
+						["Lamazep"] = {
+							[1] = 20,
+							[2] = "BRASIL",
+							[3] = "2019-06-07",
+						},
 						["Parisenti"] = {
 							[1] = 29,
 							[2] = "BRASIL",
 							[3] = "2019-06-06",
 						},
 						["Zipba"] = {
-							[1] = 28,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Yutz"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Jurga"] = {
 							[1] = 31,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
-						["Yellowjke"] = {
-							[1] = 41,
+						["Ayemon"] = {
+							[1] = 60,
+							[2] = "Mortys Morticians",
+							[3] = "2019-06-07",
+						},
+						["Islaydreams"] = {
+							[1] = 24,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Nusi"] = {
+							[1] = 35,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -5954,15 +6476,25 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Zulejin"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Ballcuzzi"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Jamhuntar"] = {
 							[1] = 16,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
+						},
+						["Rouxpete"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Tallun"] = {
 							[1] = 50,
@@ -5974,6 +6506,16 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Veselov"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ironsight"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Inees"] = {
 							[1] = 1,
 							[2] = "",
@@ -5984,10 +6526,35 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
+						["Billiee"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Zarig"] = {
-							[1] = 57,
-							[2] = "Russian Revolution",
-							[3] = "2019-06-03",
+							[1] = 58,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Sergiogg"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Farahu"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Darnunt"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Atri"] = {
+							[1] = 49,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Lizavetta"] = {
 							[1] = 59,
@@ -6002,17 +6569,27 @@ CensusPlus_Database = {
 						["Mistleote"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Vazjin"] = {
-							[1] = 32,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+						["Yucathanos"] = {
+							[1] = 30,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
 						},
 						["Vhexx"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Jellyrolls"] = {
+							[1] = 22,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Qorban"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
 						},
 						["Ripeye"] = {
 							[1] = 21,
@@ -6025,59 +6602,99 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Trollcontrol"] = {
-							[1] = 7,
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Matomermo"] = {
 							[1] = 25,
 							[2] = "BRASIL",
 							[3] = "2019-06-06",
 						},
-						["Chinup"] = {
-							[1] = 33,
-							[2] = "Better Call Thrall",
+						["Lisyaka"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Evrobaks"] = {
+							[1] = 46,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
+						},
+						["Zulojin"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Gamblemaster"] = {
-							[1] = 29,
+							[1] = 33,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Darthaniuss"] = {
+							[1] = 15,
+							[2] = "The PC",
+							[3] = "2019-06-07",
 						},
 						["Xoticsmugler"] = {
-							[1] = 28,
+							[1] = 30,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Oruella"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Joyloymemes"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Koqsv"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Noisen"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
+						["Dontaxx"] = {
+							[1] = 59,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
 						["Deboni"] = {
 							[1] = 17,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Zybiu"] = {
-							[1] = 1,
+						["Ciecs"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Wufur"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Zealjin"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cepok"] = {
+							[1] = 53,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Bowemane"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Trollamare"] = {
 							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Awpesher"] = {
 							[1] = 60,
@@ -6088,6 +6705,16 @@ CensusPlus_Database = {
 							[1] = 21,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
+						},
+						["Pontovnet"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zerikanec"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Torama"] = {
 							[1] = 9,
@@ -6104,74 +6731,214 @@ CensusPlus_Database = {
 							[2] = "Los Baldaos",
 							[3] = "2019-06-06",
 						},
-						["Sylvanillin"] = {
+						["Wtblegs"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kaylessaava"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vivecka"] = {
 							[1] = 14,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-05",
+							[2] = "Chronic",
+							[3] = "2019-06-03",
+						},
+						["Vanzan"] = {
+							[1] = 35,
+							[2] = "Nurfed",
+							[3] = "2019-06-07",
+						},
+						["Skyrons"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lortz"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Wernos"] = {
 							[1] = 55,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Trolino"] = {
-							[1] = 60,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
+						["Peterbilt"] = {
+							[1] = 52,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Eyopizza"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Skidikipapap"] = {
-							[1] = 52,
+							[1] = 53,
 							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Slackstar"] = {
+							[1] = 41,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Ssazin"] = {
+							[1] = 19,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Deetznuts"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Tazdyngo"] = {
 							[1] = 60,
 							[2] = "Reign of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Leilantia"] = {
-							[1] = 59,
-							[2] = "The Dark Brotherhood",
-							[3] = "2019-06-06",
+						["Cenex"] = {
+							[1] = 23,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
+						},
+						["Eluvite"] = {
+							[1] = 58,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shootingsun"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Soulhelter"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bigsorry"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Etemapi"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Voodler"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kangama"] = {
-							[1] = 2,
+						["Leilantia"] = {
+							[1] = 60,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
+						},
+						["Bumshakalaca"] = {
+							[1] = 27,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Trolino"] = {
+							[1] = 60,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-06",
 						},
-						["Potardo"] = {
-							[1] = 23,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+						["Kangama"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Krozzor"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cntoni"] = {
+							[1] = 35,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
 						["Zigna"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
 						},
+						["Brainles"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yazho"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vertelnahuy"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Sylvanillin"] = {
+							[1] = 17,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Zumwallo"] = {
+							[1] = 36,
+							[2] = "Two Drink Minimum",
+							[3] = "2019-06-07",
+						},
+						["Wurzeljoschi"] = {
+							[1] = 22,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
 						["Pyrodox"] = {
 							[1] = 54,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
+						},
+						["Bluebeast"] = {
+							[1] = 58,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Cortezo"] = {
+							[1] = 13,
+							[2] = "RUSSIA",
+							[3] = "2019-06-04",
 						},
 						["Hellomann"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Bojing"] = {
-							[1] = 2,
+						["Balaedon"] = {
+							[1] = 21,
+							[2] = "Crossroads Football Club",
+							[3] = "2019-06-07",
+						},
+						["Mustabike"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dihlofoss"] = {
-							[1] = 17,
+							[1] = 18,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lagarrtha"] = {
+							[1] = 47,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
 						["Gorukon"] = {
@@ -6179,15 +6946,35 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Farec"] = {
-							[1] = 45,
+						["Peralbinh"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Supadivya"] = {
 							[1] = 13,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
+						},
+						["Fetterhobbit"] = {
+							[1] = 38,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Snooda"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Abiel"] = {
+							[1] = 20,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Lipro"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Mmayya"] = {
 							[1] = 43,
@@ -6199,14 +6986,34 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Greencart"] = {
-							[1] = 11,
+						["Jsson"] = {
+							[1] = 26,
 							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shotout"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Piefpoef"] = {
+							[1] = 20,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
 						["Whatout"] = {
 							[1] = 38,
 							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Greencart"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Limboto"] = {
+							[1] = 50,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
 						["Petvender"] = {
@@ -6219,6 +7026,11 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
+						["Wangchey"] = {
+							[1] = 59,
+							[2] = "Revolution",
+							[3] = "2019-06-06",
+						},
 						["Ashyna"] = {
 							[1] = 6,
 							[2] = "",
@@ -6229,10 +7041,30 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Lagarrtha"] = {
-							[1] = 47,
-							[2] = "For The Horde Germany",
+						["Mordhot"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Farec"] = {
+							[1] = 45,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Loktarogar"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mazzocoto"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Dagigi"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Zeldrek"] = {
 							[1] = 24,
@@ -6244,33 +7076,63 @@ CensusPlus_Database = {
 							[2] = "Deathwish Manifesto",
 							[3] = "2019-06-06",
 						},
-						["Piefpoef"] = {
-							[1] = 20,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+						["Yassxd"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lahudra"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Obkakiy"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Demxx"] = {
 							[1] = 39,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Matchamomo"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Lonka"] = {
+							[1] = 31,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
 						["Tieru"] = {
-							[1] = 39,
+							[1] = 40,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Bendeguz"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Dagigi"] = {
-							[1] = 17,
+						["Freehunters"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
 						},
-						["Lortz"] = {
-							[1] = 5,
+						["Sivitri"] = {
+							[1] = 58,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jurga"] = {
+							[1] = 33,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Yutz"] = {
+							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -6279,34 +7141,94 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Kakoro"] = {
+							[1] = 26,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Vvova"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Potardo"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
 						["Marksmanner"] = {
 							[1] = 33,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Rumpapumpa"] = {
-							[1] = 21,
+						["Svx"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Aerol"] = {
+							[1] = 19,
+							[2] = "Natural Selection",
+							[3] = "2019-06-07",
+						},
+						["Zeyon"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Zulull"] = {
-							[1] = 38,
+							[1] = 39,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Slackstar"] = {
-							[1] = 41,
+						["Cragle"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Ukidoo"] = {
 							[1] = 60,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yellowjke"] = {
+							[1] = 41,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Tuscalusa"] = {
-							[1] = 39,
+						["Acemacg"] = {
+							[1] = 48,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Vazjin"] = {
+							[1] = 32,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Cymbaline"] = {
+							[1] = 30,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Troljan"] = {
+							[1] = 4,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Spooley"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zullraji"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Trolljagaren"] = {
+							[1] = 19,
+							[2] = "LFM CLASSIC NA",
 							[3] = "2019-06-06",
 						},
 						["Varcona"] = {
@@ -6314,19 +7236,19 @@ CensusPlus_Database = {
 							[2] = "North American Allstars",
 							[3] = "2019-06-06",
 						},
-						["Krozzor"] = {
-							[1] = 9,
+						["Eddles"] = {
+							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Athelwolf"] = {
-							[1] = 22,
-							[2] = "BRASIL",
+						["Kuzmichh"] = {
+							[1] = 16,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Trolljagaren"] = {
-							[1] = 19,
-							[2] = "LFM CLASSIC NA",
+						["Tuscalusa"] = {
+							[1] = 39,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Dobrozoll"] = {
@@ -6339,65 +7261,65 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Nusi"] = {
-							[1] = 35,
+						["Trolltrolltr"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Marsiv"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Googleligma"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ecksdeehunta"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pahoji"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kuzmichh"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cntoni"] = {
-							[1] = 34,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Zumwallo"] = {
+						["Trolljegeren"] = {
 							[1] = 33,
-							[2] = "Two Drink Minimum",
-							[3] = "2019-06-06",
-						},
-						["Spooley"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Cymbaline"] = {
-							[1] = 28,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
 						},
 						["Huntertest"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Gugumko"] = {
-							[1] = 57,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Athelwolf"] = {
+							[1] = 22,
+							[2] = "BRASIL",
+							[3] = "2019-06-07",
 						},
-						["Sivitri"] = {
-							[1] = 58,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Dudewoman"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Barbery"] = {
-							[1] = 54,
+							[1] = 55,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Trolotalione"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Vvova"] = {
-							[1] = 31,
+						["Rumpapumpa"] = {
+							[1] = 25,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Eddieriggs"] = {
 							[1] = 7,
@@ -6409,10 +7331,10 @@ CensusPlus_Database = {
 							[2] = "Critlers Death Squad",
 							[3] = "2019-06-06",
 						},
-						["Mazzocoto"] = {
-							[1] = 1,
+						["Ghonorea"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Swoljin"] = {
 							[1] = 35,
@@ -6424,59 +7346,49 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Obkakiy"] = {
+						["Wesdingo"] = {
+							[1] = 52,
+							[2] = "Krumb",
+							[3] = "2019-06-07",
+						},
+						["Trenderr"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bojing"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Gisheavi"] = {
+							[1] = 39,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Karlzul"] = {
 							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Wangchey"] = {
-							[1] = 59,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Limboto"] = {
-							[1] = 50,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Floondis"] = {
-							[1] = 56,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-06",
-						},
-						["Abiel"] = {
-							[1] = 20,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Kickasslol"] = {
 							[1] = 12,
 							[2] = "Chronic",
 							[3] = "2019-06-04",
 						},
-						["Angeyja"] = {
-							[1] = 56,
-							[2] = "Illuminati",
-							[3] = "2019-06-03",
+						["Rompecorazon"] = {
+							[1] = 16,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
 						},
 						["Zalakurath"] = {
-							[1] = 26,
+							[1] = 28,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Jsson"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fetterhobbit"] = {
-							[1] = 30,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-03",
-						},
-						["Acemacg"] = {
-							[1] = 48,
-							[2] = "Order of Chaos",
+						["Gugumko"] = {
+							[1] = 57,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Plockt"] = {
@@ -6484,102 +7396,112 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dudewoman"] = {
-							[1] = 58,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Rutarded"] = {
+							[1] = 18,
+							[2] = "The PC",
+							[3] = "2019-06-07",
 						},
-						["Pahoji"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Angeyja"] = {
+							[1] = 56,
+							[2] = "Illuminati",
+							[3] = "2019-06-07",
+						},
+						["Chinup"] = {
+							[1] = 34,
+							[2] = "Better Call Thrall",
+							[3] = "2019-06-07",
+						},
+						["Floondis"] = {
+							[1] = 57,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
 						},
 						["Zululjin"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Landinstrip"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Evrobaks"] = {
-							[1] = 46,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Traviskey"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Bluebeast"] = {
-							[1] = 58,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Puwei"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Vivecka"] = {
-							[1] = 14,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
+						["Frenkinstein"] = {
+							[1] = 22,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Mustabike"] = {
-							[1] = 11,
+						["Zybiu"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Trolltrolltr"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Eddles"] = {
-							[1] = 13,
-							[2] = "",
+						["Wufur"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
+						},
+						["Symphonicity"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Espinoza"] = {
-							[1] = 35,
+							[1] = 36,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vertelnahuy"] = {
-							[1] = 26,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Ciecs"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Konytwenty"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Trolljegeren"] = {
-							[1] = 29,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Benhunter"] = {
+							[1] = 44,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Cortezo"] = {
-							[1] = 13,
+						["Notariusman"] = {
+							[1] = 25,
 							[2] = "RUSSIA",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
+						},
+						["Tayynketayyn"] = {
+							[1] = 21,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Hunterorz"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 					},
 					["Priest"] = {
-						["Crell"] = {
-							[1] = 9,
+						["Isibank"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Itscowabunga"] = {
-							[1] = 13,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Zwanti"] = {
+						["Nevermind"] = {
 							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Holyness"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
 						},
 						["Wookiesoul"] = {
 							[1] = 29,
@@ -6587,14 +7509,14 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Rastahealzxd"] = {
-							[1] = 33,
+							[1] = 34,
 							[2] = "Raven Warcries",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dotzforyear"] = {
-							[1] = 21,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Flakkari"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Zhadi"] = {
 							[1] = 1,
@@ -6606,105 +7528,65 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-03",
 						},
-						["Zurdal"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Tuskfusious"] = {
 							[1] = 44,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Cejrowski"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Orfiline"] = {
+							[1] = 37,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
 						},
 						["Swattie"] = {
 							[1] = 11,
 							[2] = "Chronic",
 							[3] = "2019-06-04",
 						},
-						["Teledrias"] = {
-							[1] = 60,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
+						["Chebupelka"] = {
+							[1] = 40,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Amenev"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Dejs"] = {
 							[1] = 60,
 							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
+						["Cililinas"] = {
+							[1] = 22,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
 						["Coppertop"] = {
 							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Isibank"] = {
-							[1] = 1,
+						["Kokahine"] = {
+							[1] = 25,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Renolockjr"] = {
-							[1] = 26,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-03",
-						},
-						["Ontipungen"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Sligette"] = {
-							[1] = 24,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Seylis"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Billytouchy"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fyna"] = {
-							[1] = 60,
-							[2] = "COUSINS",
-							[3] = "2019-06-06",
-						},
-						["Shuzzako"] = {
-							[1] = 24,
+						["Kretusk"] = {
+							[1] = 28,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Holycheap"] = {
-							[1] = 29,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Mssobusy"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
-						["Vivalen"] = {
-							[1] = 19,
-							[2] = "Nicotine",
+						["Relativa"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
 							[3] = "2019-06-06",
-						},
-						["Ralastingo"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gliitchp"] = {
-							[1] = 33,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Buruguda"] = {
-							[1] = 14,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
 						},
 						["Lolzorex"] = {
 							[1] = 23,
@@ -6716,83 +7598,38 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Doubeek"] = {
-							[1] = 9,
+						["Rickmin"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Zniarwife"] = {
-							[1] = 46,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Bienadicto"] = {
-							[1] = 39,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
-						},
-						["Dhex"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ktatt"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Relativa"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Wastter"] = {
-							[1] = 49,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Ugabugatroll"] = {
-							[1] = 60,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Ozzo"] = {
-							[1] = 49,
-							[2] = "Identity Crisis",
-							[3] = "2019-06-03",
-						},
-						["Zulindra"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Wrectory"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Pomaranc"] = {
-							[1] = 21,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
-						},
-						["Eoa"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Daloress"] = {
-							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Barlem"] = {
+							[1] = 18,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
 						["Mamorti"] = {
 							[1] = 17,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Amenev"] = {
-							[1] = 16,
+						["Shamheels"] = {
+							[1] = 22,
+							[2] = "Something Australian",
+							[3] = "2019-06-07",
+						},
+						["Woltwa"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aithus"] = {
+							[1] = 20,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-06",
+						},
+						["Seylis"] = {
+							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -6801,24 +7638,294 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Aithus"] = {
-							[1] = 20,
-							[2] = "Dark Side of the Moon",
+						["Buruguda"] = {
+							[1] = 14,
+							[2] = "Chronic",
+							[3] = "2019-06-04",
+						},
+						["Ozzo"] = {
+							[1] = 49,
+							[2] = "Identity Crisis",
+							[3] = "2019-06-03",
+						},
+						["Ktatt"] = {
+							[1] = 60,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Bewarevoodoo"] = {
+							[1] = 30,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Vivalen"] = {
+							[1] = 19,
+							[2] = "Nicotine",
+							[3] = "2019-06-06",
+						},
+						["Doubeek"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Eperke"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sbebs"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cloudnone"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zaduka"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Anastasius"] = {
+							[1] = 47,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Subiepriest"] = {
+							[1] = 32,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Dapriester"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dotzforyear"] = {
+							[1] = 21,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
 						},
 						["Sindalia"] = {
 							[1] = 12,
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-04",
 						},
-						["Hollix"] = {
-							[1] = 31,
-							[2] = "Waiting For Retail",
+						["Kolloid"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lelluna"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tulri"] = {
+							[1] = 21,
+							[2] = "Crossroad Festival",
 							[3] = "2019-06-06",
 						},
-						["Linami"] = {
+						["Zurdal"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shuzzako"] = {
+							[1] = 24,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Luzerov"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cejrowski"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Carrotts"] = {
+							[1] = 30,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Hollix"] = {
+							[1] = 33,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Donmagicjuan"] = {
+							[1] = 26,
+							[2] = "Leviathan",
+							[3] = "2019-06-07",
+						},
+						["Zulindra"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lekotaka"] = {
 							[1] = 4,
-							[2] = "For The Horde Germany",
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Conkyb"] = {
+							[1] = 26,
+							[2] = "Prune Gang",
+							[3] = "2019-06-07",
+						},
+						["Frangta"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Holycheap"] = {
+							[1] = 29,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Teledrias"] = {
+							[1] = 60,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Renolockjr"] = {
+							[1] = 26,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-03",
+						},
+						["Ugabugatroll"] = {
+							[1] = 60,
+							[2] = "Revolution",
+							[3] = "2019-06-06",
+						},
+						["Getion"] = {
+							[1] = 31,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-07",
+						},
+						["Fyna"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-07",
+						},
+						["Billytouchy"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Villaran"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Morleyheals"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wrectory"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Ontipungen"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ralastingo"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Itscowabunga"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Nezzia"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Daloress"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Saeonic"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Zniarwife"] = {
+							[1] = 46,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Leonidacs"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bienadicto"] = {
+							[1] = 39,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-06",
+						},
+						["Runteral"] = {
+							[1] = 34,
+							[2] = "Junk",
+							[3] = "2019-06-07",
+						},
+						["Crell"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zwanti"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Wastter"] = {
+							[1] = 51,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Dhex"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Inchi"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Trawlawlawl"] = {
+							[1] = 14,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Verlene"] = {
+							[1] = 18,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Drakkir"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Eoa"] = {
+							[1] = 22,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Dromfulja"] = {
@@ -6826,101 +7933,136 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Villaran"] = {
+						["Gliitchp"] = {
+							[1] = 35,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Sherayin"] = {
 							[1] = 19,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Venerioxs"] = {
+							[1] = 4,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sligette"] = {
+							[1] = 24,
+							[2] = "Revolution",
 							[3] = "2019-06-06",
 						},
-						["Tulri"] = {
-							[1] = 21,
+						["Holygoat"] = {
+							[1] = 12,
 							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Temnui"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Linami"] = {
+							[1] = 4,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
+						},
+						["Korpriest"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lippie"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pigganlease"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pomaranc"] = {
+							[1] = 21,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-06",
+						},
+						["Zulajar"] = {
+							[1] = 44,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Coldnorth"] = {
-							[1] = 18,
+							[1] = 21,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Conkyb"] = {
-							[1] = 25,
-							[2] = "Prune Gang",
-							[3] = "2019-06-06",
-						},
-						["Saeonic"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 					},
 					["Mage"] = {
-						["Wizzip"] = {
-							[1] = 58,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+						["Yokota"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Faxbert"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Lillemulle"] = {
 							[1] = 26,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Mustafar"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+						["Portalrdy"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Vladmage"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
 						["Blazinballs"] = {
 							[1] = 45,
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-06",
 						},
-						["Citrien"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Gwogouwdin"] = {
-							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Halaster"] = {
-							[1] = 50,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
+						["Rinatti"] = {
+							[1] = 13,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Eldi"] = {
-							[1] = 9,
+							[1] = 11,
 							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Keshala"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Salzy"] = {
-							[1] = 5,
+						["Stormxo"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ragbob"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Icedwitness"] = {
 							[1] = 12,
 							[2] = "Chronic",
 							[3] = "2019-06-03",
 						},
-						["Zakkas"] = {
-							[1] = 35,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
+						["Puillemon"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Deadfrozer"] = {
-							[1] = 28,
-							[2] = "Reign of Chaos",
+						["Tafaris"] = {
+							[1] = 34,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Shakharim"] = {
@@ -6933,60 +8075,40 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Zuleve"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Dfasfda"] = {
-							[1] = 16,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Chipsour"] = {
+							[1] = 23,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
 						},
 						["Morrashi"] = {
-							[1] = 5,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
-						},
-						["Eliminatoor"] = {
 							[1] = 9,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Kilovar"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Artane"] = {
-							[1] = 25,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Dukuboom"] = {
+						["Serika"] = {
 							[1] = 60,
 							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Exploda"] = {
 							[1] = 46,
 							[2] = "Tschill",
 							[3] = "2019-06-06",
 						},
-						["Cptnsmack"] = {
-							[1] = 11,
+						["Witc"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Smokeywut"] = {
-							[1] = 36,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Ananans"] = {
 							[1] = 20,
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
-						},
-						["Goldforport"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-03",
 						},
 						["Hashpundare"] = {
 							[1] = 2,
@@ -6996,7 +8118,12 @@ CensusPlus_Database = {
 						["Georgemichel"] = {
 							[1] = 48,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Chaarlyy"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
 						["Extravaganza"] = {
 							[1] = 16,
@@ -7019,19 +8146,329 @@ CensusPlus_Database = {
 							[3] = "2019-06-03",
 						},
 						["Ectrir"] = {
-							[1] = 25,
+							[1] = 30,
 							[2] = "Chronic",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Frosticek"] = {
-							[1] = 55,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
+						["Shokcette"] = {
+							[1] = 60,
+							[2] = "La Furie de la Horde",
+							[3] = "2019-06-07",
 						},
 						["Leefchan"] = {
 							[1] = 31,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Lipic"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Terobard"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Smegmamamma"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Budmagik"] = {
+							[1] = 12,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Coiledvoice"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hagatrollet"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Maraji"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Kawaiikage"] = {
+							[1] = 23,
+							[2] = "Crossroads Football Club",
+							[3] = "2019-06-03",
+						},
+						["Firaddnma"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Piggythepig"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boxzy"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Iamlynch"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Drafy"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Litndarknes"] = {
+							[1] = 53,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Mycketpyro"] = {
+							[1] = 59,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jackelin"] = {
+							[1] = 26,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Ort"] = {
+							[1] = 20,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Jasonbournee"] = {
+							[1] = 22,
+							[2] = "Birth Control",
+							[3] = "2019-06-07",
+						},
+						["Mageofconnan"] = {
+							[1] = 48,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kanil"] = {
+							[1] = 16,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Ooleetochka"] = {
+							[1] = 18,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-06",
+						},
+						["Gigaturk"] = {
+							[1] = 28,
+							[2] = "Mud Hut",
+							[3] = "2019-06-06",
+						},
+						["Tuhaza"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Citrien"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Halaster"] = {
+							[1] = 50,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Zulidae"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bonusbank"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Storkan"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Ragbob"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Nitari"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jakebtw"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tinoxx"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zakkas"] = {
+							[1] = 35,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Deadfrozer"] = {
+							[1] = 28,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Frostfight"] = {
+							[1] = 38,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Talomi"] = {
+							[1] = 38,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Sisisisio"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dfasfda"] = {
+							[1] = 16,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Lofrelo"] = {
+							[1] = 48,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Goliafuss"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Artane"] = {
+							[1] = 25,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Bmwlol"] = {
+							[1] = 33,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-07",
+						},
+						["Cptnsmack"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Smokeywut"] = {
+							[1] = 37,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Babobo"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Enemye"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Goldforport"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Cantio"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tsimmi"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Magicia"] = {
+							[1] = 40,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Pern"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Nonac"] = {
+							[1] = 6,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Theonetwin"] = {
+							[1] = 47,
+							[2] = "Tschill",
+							[3] = "2019-06-06",
+						},
+						["Arcanoo"] = {
+							[1] = 26,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-06",
+						},
+						["Splashcast"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Sharufa"] = {
+							[1] = 19,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Treygowdy"] = {
+							[1] = 60,
+							[2] = "Raid Memes Inc",
+							[3] = "2019-06-07",
+						},
+						["Boohlishko"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Lixice"] = {
+							[1] = 23,
+							[2] = "Hitokiri",
+							[3] = "2019-06-07",
+						},
+						["Mutrulk"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Akunahei"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Rolkon"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Reyina"] = {
 							[1] = 7,
@@ -7041,71 +8478,111 @@ CensusPlus_Database = {
 						["Raxtor"] = {
 							[1] = 49,
 							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Qastor"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Trollmagelol"] = {
-							[1] = 17,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-04",
-						},
-						["Budmagik"] = {
-							[1] = 12,
-							[2] = "Crossroad Festival",
+						["Iamaprincess"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Volnbli"] = {
-							[1] = 9,
+						["Saroxas"] = {
+							[1] = 34,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Tryharderino"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Dorelgogonel"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Tomriddle"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bobiloski"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Straenjwaes"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tyrancillia"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Elistep"] = {
+							[1] = 15,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Janlok"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ansgarius"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
 						},
 						["Shintaki"] = {
-							[1] = 15,
+							[1] = 16,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Velvetrose"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Mutrulk"] = {
+						["Twofedbank"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mustafar"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Ihriel"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gajinka"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Ratabijit"] = {
+							[1] = 29,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Tasertzert"] = {
 							[1] = 3,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Iamaprincess"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Tryharderino"] = {
-							[1] = 20,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Goliafuss"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Rinatti"] = {
-							[1] = 10,
+						["Eliminatoor"] = {
+							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kawaiikage"] = {
-							[1] = 23,
-							[2] = "Crossroads Football Club",
-							[3] = "2019-06-03",
-						},
-						["Ipalot"] = {
-							[1] = 30,
-							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
 						["Kenrod"] = {
@@ -7113,45 +8590,45 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Lecherqueenk"] = {
-							[1] = 39,
+						["Leir"] = {
+							[1] = 56,
+							[2] = "Smerte",
+							[3] = "2019-06-07",
+						},
+						["Axelfake"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mowalord"] = {
+							[1] = 60,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Hurensoohn"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zaeki"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Theonetwin"] = {
-							[1] = 47,
-							[2] = "Tschill",
-							[3] = "2019-06-06",
+						["Freezysizzle"] = {
+							[1] = 60,
+							[2] = "F E P",
+							[3] = "2019-06-07",
 						},
-						["Gigaturk"] = {
+						["Ipalot"] = {
+							[1] = 31,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Gwogouwdin"] = {
 							[1] = 28,
-							[2] = "Mud Hut",
-							[3] = "2019-06-06",
-						},
-						["Lummul"] = {
-							[1] = 24,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Ansgarius"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Akunahei"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Affraction"] = {
-							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
-						},
-						["Boohlishko"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-03",
 						},
 						["Bokkob"] = {
 							[1] = 5,
@@ -7163,79 +8640,79 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Litndarknes"] = {
-							[1] = 51,
-							[2] = "North American Allstars",
-							[3] = "2019-06-06",
-						},
-						["Mycketpyro"] = {
-							[1] = 59,
+						["Salzy"] = {
+							[1] = 10,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lummul"] = {
+							[1] = 24,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-06",
 						},
 						["Permafrosthl"] = {
 							[1] = 29,
+							[2] = "Got Camo",
+							[3] = "2019-06-07",
+						},
+						["Lecherqueenk"] = {
+							[1] = 40,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Affraction"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Arcanoo"] = {
-							[1] = 26,
-							[2] = "Russian Revolution",
-							[3] = "2019-06-06",
-						},
-						["Jackelin"] = {
-							[1] = 24,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Danefreezer"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ort"] = {
-							[1] = 20,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Firaddnma"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Obebowenuy"] = {
-							[1] = 21,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Mageofconnan"] = {
-							[1] = 48,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zaeki"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kanil"] = {
-							[1] = 16,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Nelperz"] = {
-							[1] = 45,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Zuleve"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
 						["Yulejin"] = {
 							[1] = 44,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ooleetochka"] = {
-							[1] = 18,
-							[2] = "Russian Revolution",
+						["Frosticek"] = {
+							[1] = 55,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-06",
+						},
+						["Serumvisions"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Dukuboom"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Wizzip"] = {
+							[1] = 58,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Ragnreek"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nelperz"] = {
+							[1] = 45,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Trollmagelol"] = {
+							[1] = 17,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-04",
+						},
+						["Volnbli"] = {
+							[1] = 9,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Errorbear"] = {
@@ -7243,139 +8720,89 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Tafaris"] = {
-							[1] = 34,
-							[2] = "",
+						["Danefreezer"] = {
+							[1] = 13,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Obebowenuy"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Splashcast"] = {
-							[1] = 14,
+						["Givewaterpls"] = {
+							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Lipic"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 					},
 				},
 				["Tauren"] = {
 					["Warrior"] = {
-						["Astraltwist"] = {
-							[1] = 7,
+						["Punchball"] = {
+							[1] = 24,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Demolith"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Taurenpro"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Grocmolock"] = {
-							[1] = 60,
+						["Caltest"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Perkunos"] = {
-							[1] = 11,
+						["Brittlebones"] = {
+							[1] = 18,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Fulmi"] = {
-							[1] = 12,
+						["Fatehammer"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Nyssaurus"] = {
-							[1] = 3,
+						["Krawajz"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Cappt"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Programmer"] = {
-							[1] = 39,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Erolo"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Chaserwow"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Migueltop"] = {
-							[1] = 28,
-							[2] = "Los Baldaos",
-							[3] = "2019-06-06",
-						},
-						["Ericzemmour"] = {
-							[1] = 19,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Igeel"] = {
-							[1] = 59,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Warprime"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Farhavn"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
-						["Pusytourist"] = {
-							[1] = 14,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Ivket"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
-						["Nilpferd"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+						["Trixeroni"] = {
+							[1] = 31,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Omonox"] = {
 							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Taurusfox"] = {
-							[1] = 4,
+						["Kowboi"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Aspide"] = {
-							[1] = 1,
+						["Ivket"] = {
+							[1] = 2,
 							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Wodex"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Torotook"] = {
-							[1] = 20,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Dygi"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Bignagger"] = {
 							[1] = 13,
@@ -7383,159 +8810,99 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Sootyx"] = {
-							[1] = 7,
+							[1] = 17,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Boschetzzel"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Bigsmooth"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Fatderney"] = {
-							[1] = 27,
-							[2] = "Count Fapula",
-							[3] = "2019-06-06",
-						},
-						["Mazwarr"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Heacon"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Locethor"] = {
+							[1] = 24,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Toughsteak"] = {
-							[1] = 2,
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Salobust"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Karfakd"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Nadre"] = {
+						["Bergoo"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Stonehoff"] = {
 							[1] = 24,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Dimulik"] = {
-							[1] = 58,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Karamani"] = {
-							[1] = 56,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Chicobala"] = {
-							[1] = 60,
-							[2] = "BRASIL",
-							[3] = "2019-06-03",
-						},
-						["Jmach"] = {
-							[1] = 11,
+						["Riet"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Rokotansky"] = {
-							[1] = 14,
+						["Earlgrei"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Onkeltaurus"] = {
-							[1] = 23,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Cabroken"] = {
-							[1] = 45,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Bainz"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-02",
 						},
-						["Byczejadro"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Redsneakers"] = {
-							[1] = 19,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
-						},
-						["Glorh"] = {
-							[1] = 10,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
-						},
-						["Evlkash"] = {
-							[1] = 34,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Xudo"] = {
-							[1] = 39,
-							[2] = "",
+						["Unwichtig"] = {
+							[1] = 58,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Hesp"] = {
-							[1] = 46,
+							[1] = 47,
 							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Gromagor"] = {
-							[1] = 32,
-							[2] = "Crossroads Football Club",
-							[3] = "2019-06-06",
+						["Tyrentorben"] = {
+							[1] = 26,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Khalvinn"] = {
-							[1] = 45,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Ronwong"] = {
-							[1] = 12,
+						["Locheta"] = {
+							[1] = 24,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Bigbeefcow"] = {
+							[1] = 39,
+							[2] = "GET RICH OR DIE GRINDING",
+							[3] = "2019-06-07",
 						},
 						["Barkgor"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Bureenka"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Mulgorstreet"] = {
-							[1] = 43,
+							[1] = 45,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Fossing"] = {
 							[1] = 17,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Mcbasm"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Threepwoodz"] = {
+							[1] = 43,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
 						},
 						["Truntefar"] = {
 							[1] = 15,
@@ -7557,74 +8924,39 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Makelaris"] = {
-							[1] = 31,
+						["Pyrowar"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-03",
 						},
-						["Topt"] = {
-							[1] = 42,
+						["Ymotep"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Chishochinet"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Potomoo"] = {
-							[1] = 24,
-							[2] = "Russian Revolution",
-							[3] = "2019-06-06",
+						["Albullnoe"] = {
+							[1] = 46,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Angronar"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Raeven"] = {
-							[1] = 33,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Tryhorn"] = {
-							[1] = 18,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-03",
-						},
-						["Langvad"] = {
-							[1] = 52,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Attilaca"] = {
+						["Vandurin"] = {
 							[1] = 20,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Jenslanghorn"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-03",
-						},
-						["Fivetides"] = {
-							[1] = 47,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Halkus"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Prefried"] = {
 							[1] = 27,
 							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Gatvs"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Lonnart"] = {
-							[1] = 54,
-							[2] = "Illidari",
 							[3] = "2019-06-06",
 						},
 						["Borrog"] = {
@@ -7640,61 +8972,21 @@ CensusPlus_Database = {
 						["Trueslayer"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Raimei"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Blkface"] = {
-							[1] = 14,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-04",
-						},
-						["Portnlemon"] = {
-							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Galleguillos"] = {
-							[1] = 58,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Baradakas"] = {
-							[1] = 17,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Jenslanghorn"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-03",
 						},
 						["Drozdiara"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Suunder"] = {
-							[1] = 51,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Tyrentorben"] = {
-							[1] = 24,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Pyrowar"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Tholgor"] = {
-							[1] = 18,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-03",
-						},
-						["Kurat"] = {
+						["Bigsmooth"] = {
 							[1] = 60,
-							[2] = "Order of Chaos",
+							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
 						["Passah"] = {
@@ -7707,25 +8999,635 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Mikru"] = {
-							[1] = 39,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
-						},
-						["Hunikel"] = {
-							[1] = 32,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Degerc"] = {
-							[1] = 21,
+						["Knober"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Tankasaurus"] = {
+							[1] = 60,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Maceinface"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Bebaboba"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-03",
+						},
+						["Leandrabroek"] = {
+							[1] = 12,
+							[2] = "LFM CLASSIC NA",
+							[3] = "2019-06-07",
+						},
+						["Mikru"] = {
+							[1] = 39,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
+						},
+						["Ronwong"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Akoro"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Batinator"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
+						},
+						["Bolsidil"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Coonoran"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Pusytourist"] = {
+							[1] = 14,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Enspene"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Stux"] = {
+							[1] = 60,
+							[2] = "Two Bit Horde",
+							[3] = "2019-06-07",
+						},
+						["Gatvs"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Draien"] = {
+							[1] = 13,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Duropiedra"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Turbolovecow"] = {
+							[1] = 50,
+							[2] = "Critlers Death Squad",
+							[3] = "2019-06-07",
+						},
+						["Shimmyfrancz"] = {
+							[1] = 40,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Vmag"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Biggmac"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Muhsainbolt"] = {
+							[1] = 25,
+							[2] = "Chronic",
+							[3] = "2019-06-03",
+						},
+						["Zeppelinx"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Dressem"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chicobala"] = {
+							[1] = 60,
+							[2] = "BRASIL",
+							[3] = "2019-06-03",
+						},
+						["Deadturtle"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Obisw"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Madalbino"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Heacon"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rohhar"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Astraltwist"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Khalvinn"] = {
+							[1] = 45,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Tryhorn"] = {
+							[1] = 18,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-03",
+						},
+						["Nadre"] = {
+							[1] = 24,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Perkunos"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Felsmash"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Portnlemon"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cappt"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Programmer"] = {
+							[1] = 39,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Erolo"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ellgen"] = {
+							[1] = 44,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Tonnedra"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Testeruslus"] = {
+							[1] = 60,
+							[2] = "Northumbria",
+							[3] = "2019-06-07",
+						},
+						["Maximmuz"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Migueltop"] = {
+							[1] = 30,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Ericzemmour"] = {
+							[1] = 19,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Igeel"] = {
+							[1] = 60,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Byczejadro"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Minmie"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Lonnart"] = {
+							[1] = 54,
+							[2] = "Illidari",
+							[3] = "2019-06-07",
+						},
+						["Torytso"] = {
+							[1] = 29,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Milksteakz"] = {
+							[1] = 53,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Suunder"] = {
+							[1] = 51,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Taurusfox"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Aspide"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Raimei"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sharthmak"] = {
+							[1] = 35,
+							[2] = "Two Drink Minimum",
+							[3] = "2019-06-07",
+						},
+						["Oconostota"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Onkeltaurus"] = {
+							[1] = 23,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Fatderney"] = {
+							[1] = 28,
+							[2] = "Count Fapula",
+							[3] = "2019-06-07",
+						},
+						["Mazwarr"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Myutongthr"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bortoloff"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Salobust"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Pisliq"] = {
+							[1] = 15,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
+						["Rozmaryn"] = {
+							[1] = 28,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Dimulik"] = {
+							[1] = 58,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Poserr"] = {
+							[1] = 24,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Brinea"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tarrtu"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rokotansky"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Steaknshank"] = {
+							[1] = 22,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Glorh"] = {
+							[1] = 10,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-06",
+						},
+						["Xzorqlzr"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hennicks"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Redsneakers"] = {
+							[1] = 19,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-06",
+						},
+						["Uder"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Blkface"] = {
+							[1] = 14,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-04",
+						},
+						["Xudo"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Karamani"] = {
+							[1] = 56,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gromagor"] = {
+							[1] = 33,
+							[2] = "Crossroads Football Club",
+							[3] = "2019-06-07",
+						},
+						["Ozus"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Carcosaa"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Katetet"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bureenka"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Scood"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bigbully"] = {
+							[1] = 30,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
+						["Mcbasm"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Krayzor"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cabroken"] = {
+							[1] = 45,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Evlkash"] = {
+							[1] = 34,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Kurat"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Moovedude"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Topt"] = {
+							[1] = 42,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Acxor"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Potomoo"] = {
+							[1] = 24,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-07",
+						},
+						["Siborracho"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Johnrucker"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bagels"] = {
+							[1] = 45,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Malzagar"] = {
+							[1] = 34,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Attilaca"] = {
+							[1] = 23,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Asaptat"] = {
+							[1] = 46,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Beefsteaks"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nilpferd"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Langvad"] = {
+							[1] = 52,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Tickietavius"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chaserwow"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Grocmolock"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Tittauren"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Anappleaday"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aqku"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Galahor"] = {
+							[1] = 46,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Galleguillos"] = {
+							[1] = 58,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Smootie"] = {
+							[1] = 44,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Warprime"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bakunarrah"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Spoonmanzz"] = {
+							[1] = 24,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Nyssaurus"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fulmi"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Khalem"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Baradakas"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Whiteboar"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Blackthiago"] = {
+							[1] = 16,
+							[2] = "I bims Horde",
+							[3] = "2019-06-07",
+						},
+						["Bulldowzah"] = {
+							[1] = 44,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Degerc"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zebkicks"] = {
+							[1] = 31,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
 						},
 						["Byrch"] = {
 							[1] = 27,
@@ -7742,25 +9644,25 @@ CensusPlus_Database = {
 							[2] = "Anonymous",
 							[3] = "2019-06-06",
 						},
-						["Asaptat"] = {
-							[1] = 41,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Bakunarrah"] = {
-							[1] = 12,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Acxor"] = {
-							[1] = 14,
+						["Farhavn"] = {
+							[1] = 2,
 							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Pukis"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tholgor"] = {
+							[1] = 18,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-03",
 						},
-						["Leandrabroek"] = {
-							[1] = 10,
-							[2] = "LFM CLASSIC NA",
-							[3] = "2019-06-06",
+						["Hunikel"] = {
+							[1] = 33,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Marnuwar"] = {
 							[1] = 27,
@@ -7772,157 +9674,172 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Tittauren"] = {
+						["Grianna"] = {
 							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
-						["Oconostota"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Abombinabull"] = {
+							[1] = 40,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
 						},
 						["Ghettosven"] = {
 							[1] = 18,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Coonoran"] = {
-							[1] = 10,
+						["Ericweddle"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jmach"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Grianna"] = {
-							[1] = 17,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Enspene"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
-						["Galahor"] = {
-							[1] = 46,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Maximmuz"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Carcosaa"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Wodex"] = {
-							[1] = 60,
+						["Fivetides"] = {
+							[1] = 47,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Turbolovecow"] = {
-							[1] = 50,
-							[2] = "Critlers Death Squad",
-							[3] = "2019-06-06",
-						},
-						["Spoonmanzz"] = {
-							[1] = 18,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-03",
-						},
-						["Vmag"] = {
-							[1] = 19,
+						["Vroxaslol"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Malzagar"] = {
-							[1] = 34,
-							[2] = "The Brew Crew",
+						["Drilio"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jannowo"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Niuniuzhan"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Makelaris"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Raeven"] = {
+							[1] = 33,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Muhsainbolt"] = {
-							[1] = 25,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
+						["Chishochinet"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Torotook"] = {
+							[1] = 20,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Warproject"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Deathwielder"] = {
 							[1] = 17,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Aqku"] = {
-							[1] = 14,
+						["Alkinder"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Whiteboar"] = {
-							[1] = 18,
+						["Saburou"] = {
+							[1] = 31,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Unwichtig"] = {
-							[1] = 58,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Stonehoff"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Milksteakz"] = {
-							[1] = 53,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Trashmeat"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Batinator"] = {
-							[1] = 28,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Tronos"] = {
+							[1] = 25,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Kesito"] = {
+							[1] = 24,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Kalidore"] = {
+							[1] = 39,
+							[2] = "Yo Girl aZero Gold Mount",
+							[3] = "2019-06-07",
+						},
+						["Chriso"] = {
+							[1] = 53,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
 						},
 					},
 					["Druid"] = {
 						["Muddi"] = {
-							[1] = 16,
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gavardian"] = {
+							[1] = 44,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Gerasiim"] = {
+							[1] = 25,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Golovadvayha"] = {
-							[1] = 51,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Hirshel"] = {
-							[1] = 30,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
 						["Stonedhorn"] = {
-							[1] = 27,
+							[1] = 28,
 							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Stahlhorn"] = {
-							[1] = 22,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+						["Everdeadly"] = {
+							[1] = 33,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Tcrews"] = {
+							[1] = 36,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
 						},
 						["Maghdara"] = {
 							[1] = 28,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Mazalaza"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+						["Nothch"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fawana"] = {
+							[1] = 47,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Willferalpaw"] = {
+							[1] = 28,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
 						},
 						["Btchimacow"] = {
 							[1] = 7,
@@ -7930,9 +9847,14 @@ CensusPlus_Database = {
 							[3] = "2019-06-03",
 						},
 						["Georgehell"] = {
-							[1] = 11,
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Getfukked"] = {
+							[1] = 30,
+							[2] = "Nicotine",
+							[3] = "2019-06-07",
 						},
 						["Niccai"] = {
 							[1] = 57,
@@ -7940,18 +9862,13 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Bananafeet"] = {
-							[1] = 36,
+							[1] = 37,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Hiob"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fhe"] = {
+						["Murava"] = {
 							[1] = 30,
-							[2] = "RUSSIA",
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Ruhatai"] = {
@@ -7959,45 +9876,20 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Raugur"] = {
-							[1] = 33,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
 						["Arkhands"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Stouthorn"] = {
-							[1] = 16,
-							[2] = "For The Horde Germany",
+						["Exempt"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
 							[3] = "2019-06-06",
 						},
-						["Isilidura"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vacamuu"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Sahuanpansan"] = {
-							[1] = 29,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Koskenkorva"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
-						["Bise"] = {
-							[1] = 20,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Moou"] = {
+							[1] = 60,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
 						},
 						["Longhorn"] = {
 							[1] = 9,
@@ -8014,114 +9906,74 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Zdroj"] = {
-							[1] = 21,
-							[2] = "Czechoslovakia",
+						["Xalakosta"] = {
+							[1] = 39,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Skdtll"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Herdthinner"] = {
+							[1] = 50,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
 						},
 						["Dudeadruid"] = {
 							[1] = 45,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Bulbak"] = {
-							[1] = 20,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Dorsey"] = {
-							[1] = 25,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-06",
+						["Imokhere"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
 						["Bjorneko"] = {
-							[1] = 52,
+							[1] = 53,
 							[2] = "Danish Bacon",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Gennia"] = {
-							[1] = 44,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-03",
+						["Raddru"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Victorvaca"] = {
+							[1] = 36,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Panchostop"] = {
 							[1] = 56,
 							[2] = "Furiously Average",
 							[3] = "2019-06-03",
 						},
-						["Myorunerk"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Wahil"] = {
-							[1] = 2,
+						["Muhamedali"] = {
+							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Jastiom"] = {
-							[1] = 34,
+							[1] = 35,
 							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Guanyubattle"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Avonaco"] = {
-							[1] = 36,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Chortledruid"] = {
 							[1] = 28,
 							[2] = "Super Adventure Pals",
 							[3] = "2019-06-06",
 						},
-						["Shoho"] = {
-							[1] = 9,
+						["Deadlywind"] = {
+							[1] = 32,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Spleedo"] = {
-							[1] = 8,
+						["Isner"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kamda"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Silverskunk"] = {
-							[1] = 60,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
-						},
-						["Zdravitov"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Tharator"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Kabot"] = {
 							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ajazjakija"] = {
-							[1] = 35,
-							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
 						["Dimacrash"] = {
@@ -8129,10 +9981,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Cowofdoom"] = {
-							[1] = 20,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-06",
+						["Semprex"] = {
+							[1] = 26,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
 						},
 						["Mononcle"] = {
 							[1] = 33,
@@ -8144,40 +9996,20 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Jobbs"] = {
-							[1] = 21,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Gerasiim"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Annelina"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
 						["Biggajoo"] = {
 							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Elflako"] = {
 							[1] = 52,
 							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Parysa"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-02",
-						},
-						["Thebuck"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-06",
 						},
 						["Druidisko"] = {
 							[1] = 40,
@@ -8185,12 +10017,837 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Tendersteak"] = {
+							[1] = 11,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Huatahonar"] = {
 							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tkix"] = {
+							[1] = 35,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Bigcherrycak"] = {
+							[1] = 1,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Saltaz"] = {
+							[1] = 45,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Pungas"] = {
+							[1] = 24,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Avrox"] = {
-							[1] = 34,
+						["Cranidupi"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sauvignon"] = {
+							[1] = 60,
+							[2] = "F E P",
+							[3] = "2019-06-06",
+						},
+						["Galbrayn"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zabodashka"] = {
+							[1] = 23,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-03",
+						},
+						["Dabbed"] = {
+							[1] = 20,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Jalal"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Fundamentals"] = {
+							[1] = 48,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-06",
+						},
+						["Mitola"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Biffi"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Xarimars"] = {
+							[1] = 22,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Nekroxi"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Obion"] = {
+							[1] = 60,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Rubarb"] = {
+							[1] = 31,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Douevenshift"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Thergi"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Koarp"] = {
+							[1] = 22,
+							[2] = "LFM CLASSIC NA",
+							[3] = "2019-06-06",
+						},
+						["Cantmilkthem"] = {
+							[1] = 55,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Leonidacc"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Krackalackin"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Umball"] = {
+							[1] = 48,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cabbageiv"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Milkymicky"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Bbci"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thenorus"] = {
+							[1] = 23,
+							[2] = "Northumbria",
+							[3] = "2019-06-07",
+						},
+						["Gefjon"] = {
+							[1] = 39,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Zvet"] = {
+							[1] = 58,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Yaguarete"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Seeqtisse"] = {
+							[1] = 54,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Allegria"] = {
+							[1] = 22,
+							[2] = "Natural Selection",
+							[3] = "2019-06-06",
+						},
+						["Novembrist"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Juhnean"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Onahumaha"] = {
+							[1] = 51,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gronack"] = {
+							[1] = 30,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Purehoof"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kushborn"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Coolclap"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Samaelos"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Clorre"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Kowmapuk"] = {
+							[1] = 17,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Shohana"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wahloo"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wardruna"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sendariolo"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Nioksion"] = {
+							[1] = 33,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Grizraz"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Duduhorn"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Prestochango"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ruperto"] = {
+							[1] = 19,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-03",
+						},
+						["Druidyy"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Druidou"] = {
+							[1] = 58,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Hiew"] = {
+							[1] = 25,
+							[2] = "Revolution",
+							[3] = "2019-06-06",
+						},
+						["Guti"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Nathreyeth"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Virrtest"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Soryana"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Hothamjuce"] = {
+							[1] = 22,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Tramtram"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Missiljizsak"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bearcatree"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Udderhoof"] = {
+							[1] = 52,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Laoshuiniu"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Nydir"] = {
+							[1] = 17,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Flokiiee"] = {
+							[1] = 14,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Moosmerizing"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Skogsmys"] = {
+							[1] = 24,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-06",
+						},
+						["Oykabal"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Epicturd"] = {
+							[1] = 42,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Tonhoimprego"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dysonia"] = {
+							[1] = 60,
+							[2] = "SMASH",
+							[3] = "2019-06-06",
+						},
+						["Diablofille"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nommertoento"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Xanandro"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kiges"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shftz"] = {
+							[1] = 30,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Patamushta"] = {
+							[1] = 26,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Plushybruin"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-07",
+						},
+						["Calculatedpi"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Kexwark"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vessppa"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Taurgros"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fallingbull"] = {
+							[1] = 47,
+							[2] = "Two Bit Horde",
+							[3] = "2019-06-06",
+						},
+						["Felhorn"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Phlogistona"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hirshel"] = {
+							[1] = 30,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Ironbtw"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Stahlhorn"] = {
+							[1] = 22,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Bregett"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Minixen"] = {
+							[1] = 28,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Kamanche"] = {
+							[1] = 15,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Thebuu"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Raratinga"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hiob"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fhe"] = {
+							[1] = 30,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Mcferal"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fetoful"] = {
+							[1] = 22,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Raugur"] = {
+							[1] = 33,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Druui"] = {
+							[1] = 33,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Jonnymoe"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lieto"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Stouthorn"] = {
+							[1] = 17,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Smokinggrass"] = {
+							[1] = 28,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
+						},
+						["Isilidura"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vacamuu"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Impressivea"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mootsys"] = {
+							[1] = 39,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Koskenkorva"] = {
+							[1] = 14,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Bise"] = {
+							[1] = 20,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Panasonik"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Pollitoo"] = {
+							[1] = 24,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Derpbear"] = {
+							[1] = 44,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wahil"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Serhga"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kuhlege"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Tearibull"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zdroj"] = {
+							[1] = 22,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Moonlightin"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Bremenn"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bulshift"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Skdtll"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fylkesfisken"] = {
+							[1] = 40,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Bulbak"] = {
+							[1] = 20,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Asbash"] = {
+							[1] = 31,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Tarkovski"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pjatla"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dorsey"] = {
+							[1] = 25,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-06",
+						},
+						["Manbirdcow"] = {
+							[1] = 46,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gennia"] = {
+							[1] = 44,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-03",
+						},
+						["Cartal"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boganet"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cowlive"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Scood"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Amedruid"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Soulblink"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Muuaa"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Fettvalk"] = {
+							[1] = 31,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Hunterkeeper"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Guanyubattle"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Drusanitar"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Muldrotha"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shoho"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Harkles"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Whesker"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Silverskunk"] = {
+							[1] = 60,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-06",
+						},
+						["Eragasx"] = {
+							[1] = 21,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Tharator"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Pantherper"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Heavensfence"] = {
+							[1] = 26,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Catisfaction"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Phiggus"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zqqf"] = {
+							[1] = 20,
+							[2] = "Chronic",
+							[3] = "2019-06-03",
+						},
+						["Faulcrum"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mariajuanna"] = {
+							[1] = 13,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Muuhve"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Annelina"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Elleshar"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cheetar"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thebuck"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Skelesupp"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Trytomilk"] = {
+							[1] = 20,
+							[2] = "Pei Peis Disciples",
+							[3] = "2019-06-06",
+						},
+						["Feralsprouly"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cowii"] = {
+							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -8199,60 +10856,60 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Schmuul"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Thebuu"] = {
-							[1] = 33,
+						["Tawuren"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Tkix"] = {
-							[1] = 34,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Muldrotha"] = {
+						["Myorunerk"] = {
 							[1] = 21,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Mootsys"] = {
-							[1] = 39,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Cowii"] = {
-							[1] = 10,
+						["Mokomah"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Thegeneral"] = {
-							[1] = 41,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Milesz"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Murava"] = {
-							[1] = 30,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Optimaul"] = {
+							[1] = 16,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Gullic"] = {
-							[1] = 32,
+							[1] = 34,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Putalj"] = {
+							[1] = 21,
 							[2] = "Dark Side of the Moon",
 							[3] = "2019-06-06",
 						},
-						["Fulipp"] = {
-							[1] = 4,
-							[2] = "",
+						["Dirtreynolds"] = {
+							[1] = 58,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Caramela"] = {
+							[1] = 59,
+							[2] = "Ad Nauseam",
 							[3] = "2019-06-06",
+						},
+						["Bearkowlbama"] = {
+							[1] = 53,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Balanced"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Taleya"] = {
+							[1] = 21,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Zylord"] = {
 							[1] = 28,
@@ -8264,63 +10921,63 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Feedrus"] = {
-							[1] = 6,
+						["Jorgitokun"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-04",
 						},
 						["Chans"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Rosbife"] = {
-							[1] = 10,
+						["Avonaco"] = {
+							[1] = 36,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Sauvignon"] = {
-							[1] = 60,
-							[2] = "F E P",
+						["Panzzar"] = {
+							[1] = 42,
+							[2] = "The One",
 							[3] = "2019-06-06",
 						},
-						["Cheetar"] = {
+						["Pakodrulyako"] = {
 							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Picokrava"] = {
-							[1] = 6,
+						["Thauronn"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Muuhve"] = {
-							[1] = 60,
+						["Shiftysin"] = {
+							[1] = 27,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Dabbed"] = {
-							[1] = 20,
-							[2] = "Crossroad Festival",
+						["Fulipp"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pandacow"] = {
+							[1] = 17,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Avrox"] = {
+							[1] = 34,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Zqqf"] = {
-							[1] = 20,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
-						},
-						["Zabodashka"] = {
-							[1] = 23,
-							[2] = "Russian Revolution",
-							[3] = "2019-06-03",
-						},
-						["Soulblink"] = {
-							[1] = 4,
+						["Druidform"] = {
+							[1] = 36,
 							[2] = "",
-							[3] = "2019-06-02",
+							[3] = "2019-06-07",
 						},
-						["Fundamentals"] = {
-							[1] = 48,
+						["Cowofdoom"] = {
+							[1] = 20,
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-06",
 						},
@@ -8334,95 +10991,95 @@ CensusPlus_Database = {
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Skitni"] = {
-							[1] = 17,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+						["Droowd"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Biffi"] = {
-							[1] = 21,
+						["Spleedo"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Juhnean"] = {
-							[1] = 12,
+						["Oakenbank"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Muhamedali"] = {
+						["Flexey"] = {
 							[1] = 15,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Floodyy"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Trosdan"] = {
+							[1] = 47,
+							[2] = "Got Camo",
 							[3] = "2019-06-06",
 						},
-						["Xarimars"] = {
-							[1] = 22,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+						["Boomcuckin"] = {
+							[1] = 52,
+							[2] = "Yo Girl aZero Gold Mount",
+							[3] = "2019-06-07",
 						},
-						["Cowcaiine"] = {
+						["Lobotomize"] = {
 							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
-						["Hyrro"] = {
-							[1] = 28,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
-						},
-						["Betonomehal"] = {
-							[1] = 37,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Imokhere"] = {
-							[1] = 60,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Pantherper"] = {
-							[1] = 27,
+						["Ebonaegis"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Feedrus"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
 						},
 						["Shifthoof"] = {
 							[1] = 20,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Thergi"] = {
-							[1] = 6,
+						["Nanasin"] = {
+							[1] = 19,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fatspit"] = {
+							[1] = 25,
+							[2] = "The PC",
 							[3] = "2019-06-03",
 						},
-						["Vazikka"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Koarp"] = {
-							[1] = 22,
-							[2] = "LFM CLASSIC NA",
+						["Jobbs"] = {
+							[1] = 21,
+							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Taurgros"] = {
-							[1] = 1,
+						["Ramilen"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Kuhlege"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Soryana"] = {
+						["Nozstira"] = {
 							[1] = 16,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Garglema"] = {
-							[1] = 12,
+						["Jelud"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
+						},
+						["Ithrojr"] = {
+							[1] = 33,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
 						},
 						["Racistcow"] = {
 							[1] = 18,
@@ -8434,40 +11091,40 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Calculatedpi"] = {
-							[1] = 31,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Thegeneral"] = {
+							[1] = 41,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
 						},
 						["Notaheelbot"] = {
-							[1] = 18,
-							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
+							[1] = 22,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
 						},
-						["Latesco"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Jyj"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Hotcot"] = {
-							[1] = 33,
-							[2] = "RUSSIA",
+						["Mormond"] = {
+							[1] = 40,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Roddon"] = {
 							[1] = 22,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Milkymicky"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Pungas"] = {
-							[1] = 24,
+						["Manbearchikn"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-03",
+						},
+						["Bregott"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
 						},
 						["Calimo"] = {
 							[1] = 4,
@@ -8489,19 +11146,19 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Khalek"] = {
-							[1] = 31,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Willdren"] = {
+							[1] = 29,
+							[2] = "Old skool",
+							[3] = "2019-06-07",
 						},
-						["Mithuchila"] = {
-							[1] = 23,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Zvet"] = {
+						["Bovinerush"] = {
 							[1] = 58,
-							[2] = "who cares",
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Hotcot"] = {
+							[1] = 33,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Zaekiel"] = {
@@ -8509,270 +11166,270 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-02",
 						},
-						["Ironbtw"] = {
-							[1] = 9,
+						["Tishke"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Jeytijey"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Mormond"] = {
-							[1] = 40,
+						["Brawa"] = {
+							[1] = 31,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Allegria"] = {
-							[1] = 22,
-							[2] = "Natural Selection",
-							[3] = "2019-06-06",
-						},
-						["Kononn"] = {
-							[1] = 43,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Putalj"] = {
-							[1] = 21,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Hacekomoe"] = {
-							[1] = 35,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Onahumaha"] = {
-							[1] = 51,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Gronack"] = {
-							[1] = 30,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Harkles"] = {
-							[1] = 35,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dayde"] = {
-							[1] = 34,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Coolclap"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Samaelos"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Sendariolo"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Dirtreynolds"] = {
-							[1] = 58,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Peacer"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Heavensfence"] = {
-							[1] = 26,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Kowmapuk"] = {
-							[1] = 17,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Flexey"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Balgrok"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Valhalaobv"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Ebonthorn"] = {
-							[1] = 27,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Purehoof"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hunterkeeper"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dashonish"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ballroog"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Tarezome"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Azyki"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Nioksion"] = {
-							[1] = 26,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Lorashalu"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fliptop"] = {
-							[1] = 44,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Tehefastboi"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Duduhorn"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Exempt"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Ruperto"] = {
-							[1] = 19,
-							[2] = "I La Guardia Negra I",
-							[3] = "2019-06-03",
-						},
-						["Crudedruid"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Druidyy"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Douevenshift"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
-						["Ronavidi"] = {
-							[1] = 22,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Druidou"] = {
-							[1] = 58,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Hiew"] = {
-							[1] = 25,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Hornium"] = {
-							[1] = 32,
-							[2] = "Pei Peis Disciples",
-							[3] = "2019-06-06",
-						},
-						["Guti"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Nathreyeth"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Xalzan"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Lobotomize"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Kamanche"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Thepun"] = {
 							[1] = 32,
 							[2] = "Task Force Yeet",
 							[3] = "2019-06-06",
 						},
-						["Clorre"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Kononn"] = {
+							[1] = 45,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Badabingz"] = {
+							[1] = 27,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Hacekomoe"] = {
+							[1] = 35,
+							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Skogsmys"] = {
+						["Hohennheim"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Brocles"] = {
 							[1] = 24,
-							[2] = "Averagely Furious",
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dobrik"] = {
+							[1] = 30,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Dayde"] = {
+							[1] = 34,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Hemenguei"] = {
+						["Hunglong"] = {
+							[1] = 32,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Zdravitov"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Mithuchila"] = {
+							[1] = 23,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Golovadvayha"] = {
+							[1] = 52,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Chunkmorris"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Pbibakit"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boudpo"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vazikka"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Inrak"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kamda"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Schmuul"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Crenx"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Cowlive"] = {
-							[1] = 39,
+						["Betonomehal"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Dashonish"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Lhestra"] = {
-							[1] = 26,
+						["Ossian"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ebonthorn"] = {
+							[1] = 27,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Azyki"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Lorashalu"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Southpawxd"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fliptop"] = {
+							[1] = 44,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Beefyhots"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Thundaah"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Peacer"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Milesz"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Crudedruid"] = {
+							[1] = 19,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Maibhe"] = {
+							[1] = 47,
+							[2] = "Decayed Dominion",
+							[3] = "2019-06-07",
+						},
+						["Valhalaobv"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Mazalaza"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Goahn"] = {
+							[1] = 22,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Balgrok"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Hornium"] = {
+							[1] = 32,
+							[2] = "Pei Peis Disciples",
+							[3] = "2019-06-07",
+						},
+						["Tehefastboi"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tarezome"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sahuanpansan"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Soulrazer"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nisarim"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kittytime"] = {
+							[1] = 19,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Nwea"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tomlossayt"] = {
+							[1] = 9,
+							[2] = "Vader",
+							[3] = "2019-06-07",
+						},
+						["Hemenguei"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Khalek"] = {
+							[1] = 31,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Xangosspo"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Snuu"] = {
 							[1] = 30,
@@ -8784,64 +11441,64 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Asbash"] = {
-							[1] = 31,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Herkinbonk"] = {
+							[1] = 28,
+							[2] = "Space Jam",
+							[3] = "2019-06-07",
 						},
-						["Xalakosta"] = {
-							[1] = 39,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Fatspit"] = {
-							[1] = 25,
-							[2] = "The PC",
-							[3] = "2019-06-03",
-						},
-						["Bearcatree"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Brawa"] = {
-							[1] = 27,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Boudpo"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Tishke"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Nydir"] = {
+						["Chonchis"] = {
 							[1] = 12,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Hyrro"] = {
+							[1] = 34,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Vachekyrie"] = {
+							[1] = 42,
+							[2] = "La Furie de la Horde",
+							[3] = "2019-06-07",
+						},
+						["Breakya"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bashanda"] = {
+							[1] = 23,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Flokiiee"] = {
-							[1] = 14,
-							[2] = "Chronic",
+						["Kornu"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Picokrava"] = {
+							[1] = 6,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Moosmerizing"] = {
+						["Lhestra"] = {
 							[1] = 27,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Bulshift"] = {
-							[1] = 5,
+						["Prudantia"] = {
+							[1] = 54,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Skitni"] = {
+							[1] = 17,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Panzzar"] = {
-							[1] = 42,
-							[2] = "The One",
+						["Latesco"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Applesock"] = {
@@ -8849,24 +11506,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Jorgitokun"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Caramela"] = {
-							[1] = 59,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Inrak"] = {
-							[1] = 22,
+						["Rosbife"] = {
+							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Bashanda"] = {
-							[1] = 23,
+						["Xalzan"] = {
+							[1] = 18,
 							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ferdalaz"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ajazjakija"] = {
+							[1] = 35,
+							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
 						["Jlaichthus"] = {
@@ -8884,45 +11541,45 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Epicturd"] = {
-							[1] = 42,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Cowcaiine"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
 						},
-						["Tonhoimprego"] = {
-							[1] = 10,
+						["Ballroog"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Scelera"] = {
 							[1] = 55,
 							[2] = "La Furie de la Horde",
 							[3] = "2019-06-03",
 						},
-						["Gefjon"] = {
-							[1] = 39,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+						["Zamaykpss"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Dysonia"] = {
-							[1] = 60,
-							[2] = "SMASH",
-							[3] = "2019-06-06",
+						["Shifteez"] = {
+							[1] = 56,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Bicthimacow"] = {
 							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Nommertoento"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+						["Nibbleyou"] = {
+							[1] = 24,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
 						},
-						["Xanandro"] = {
-							[1] = 23,
+						["Tollyho"] = {
+							[1] = 21,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Cadigan"] = {
 							[1] = 18,
@@ -8934,151 +11591,131 @@ CensusPlus_Database = {
 							[2] = "LFM CLASSIC NA",
 							[3] = "2019-06-06",
 						},
-						["Patamushta"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Compex"] = {
+							[1] = 22,
+							[2] = "Azeroth Swim Team",
+							[3] = "2019-06-07",
 						},
-						["Droowd"] = {
-							[1] = 19,
+						["Kowak"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bickmat"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Garglema"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-04",
 						},
-						["Maarali"] = {
-							[1] = 13,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Fallenxero"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Kexwark"] = {
+						["Tweenut"] = {
 							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Crenx"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Tankmo"] = {
+							[1] = 28,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Chunkmorris"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Amedruid"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Trytomilk"] = {
-							[1] = 20,
-							[2] = "Pei Peis Disciples",
-							[3] = "2019-06-06",
-						},
-						["Fallingbull"] = {
-							[1] = 47,
-							[2] = "Two Bit Horde",
-							[3] = "2019-06-06",
-						},
-						["Tawuren"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dobrik"] = {
-							[1] = 29,
+						["Ronavidi"] = {
+							[1] = 22,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Brocles"] = {
-							[1] = 17,
+						["Secretstuff"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Maarali"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Mcdonaldsfa"] = {
+							[1] = 60,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Murble"] = {
+							[1] = 57,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
 						},
 						["Chompo"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Fylkesfisken"] = {
-							[1] = 40,
+						["Flauschy"] = {
+							[1] = 60,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Xangosspo"] = {
-							[1] = 4,
+						["Switchformz"] = {
+							[1] = 51,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Manbearchikn"] = {
-							[1] = 11,
+						["Maldunas"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Trosdan"] = {
-							[1] = 47,
-							[2] = "Got Camo",
-							[3] = "2019-06-06",
+						["Snarfiekins"] = {
+							[1] = 19,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Rukgur"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Skelesupp"] = {
-							[1] = 11,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
-						},
-						["Lieto"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Thauronn"] = {
+						["Lebaum"] = {
 							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Laquishia"] = {
+							[1] = 27,
+							[2] = "Count Fapula",
+							[3] = "2019-06-07",
+						},
+						["Vitaminoff"] = {
+							[1] = 33,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 					},
 					["Shaman"] = {
-						["Fsbfsb"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Nulok"] = {
-							[1] = 33,
-							[2] = "No Beta Invite",
+						["Paavottaja"] = {
+							[1] = 18,
+							[2] = "Dark Side of the Moon",
 							[3] = "2019-06-03",
 						},
-						["Zosper"] = {
-							[1] = 23,
-							[2] = "I La Guardia Negra I",
-							[3] = "2019-06-06",
-						},
 						["Missdiane"] = {
-							[1] = 53,
+							[1] = 54,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Blackgamer"] = {
-							[1] = 32,
+						["Imdelirium"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Olacrush"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ojas"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Thunderbull"] = {
-							[1] = 20,
-							[2] = "Chronic",
+						["Vedsham"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Fastcharge"] = {
@@ -9086,40 +11723,50 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Thorman"] = {
-							[1] = 36,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Zavertok"] = {
-							[1] = 14,
+						["Atomlord"] = {
+							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Type"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Antnee"] = {
-							[1] = 22,
-							[2] = "FAH Q",
-							[3] = "2019-06-06",
+						["Jamtarecu"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Zmeipliskin"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-05",
 						},
-						["Zoggles"] = {
-							[1] = 34,
-							[2] = "Crossroad Festival",
+						["Tatotem"] = {
+							[1] = 30,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Orothuso"] = {
+							[1] = 60,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
 						["Kritany"] = {
 							[1] = 57,
 							[2] = "Reign of Chaos",
 							[3] = "2019-06-06",
+						},
+						["Moodi"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Algot"] = {
+							[1] = 29,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
 						},
 						["Shamanabear"] = {
 							[1] = 34,
@@ -9137,83 +11784,48 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Charcazo"] = {
-							[1] = 30,
+							[1] = 31,
 							[2] = "Los Baldaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Madss"] = {
 							[1] = 17,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ayahuascar"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Divljo"] = {
-							[1] = 40,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Shamtricks"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Waasigan"] = {
-							[1] = 40,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
 						["Liuh"] = {
 							[1] = 37,
 							[2] = "The Brew Crew",
 							[3] = "2019-06-03",
+						},
+						["Bummy"] = {
+							[1] = 48,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
 						},
 						["Gayniqqer"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Jemmorah"] = {
-							[1] = 22,
+						["Kornetto"] = {
+							[1] = 32,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shammal"] = {
+							[1] = 23,
+							[2] = "FourTwenty",
 							[3] = "2019-06-06",
 						},
-						["Getfnow"] = {
-							[1] = 16,
+						["Taurendaigle"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Opoqu"] = {
-							[1] = 50,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Tamunte"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Legokid"] = {
-							[1] = 19,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Mullfoot"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Vozka"] = {
 							[1] = 24,
 							[2] = "Los Baldaos",
-							[3] = "2019-06-06",
-						},
-						["Mootuu"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Schmelly"] = {
@@ -9221,95 +11833,50 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Adiki"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
 						["Firthunands"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Pippelsson"] = {
-							[1] = 12,
+						["Gloig"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Drakenoth"] = {
-							[1] = 36,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Shtsandwich"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Taggahara"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Sebacraft"] = {
-							[1] = 26,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
-						},
-						["Syncerus"] = {
-							[1] = 56,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Zakhazmodan"] = {
-							[1] = 13,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Brabarull"] = {
+						["Shamg"] = {
 							[1] = 6,
-							[2] = "The PC",
-							[3] = "2019-06-06",
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hidepattern"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Bovetta"] = {
 							[1] = 42,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Adramane"] = {
-							[1] = 11,
+						["Hoonery"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Georgehogg"] = {
-							[1] = 28,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Badboyboris"] = {
-							[1] = 14,
+						["Adiki"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cyberpuunk"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Hawallt"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-03",
+							[3] = "2019-06-02",
 						},
 						["Petterssons"] = {
 							[1] = 21,
 							[2] = "The Bronze Crusade",
 							[3] = "2019-06-06",
 						},
-						["Ophilyna"] = {
-							[1] = 28,
+						["Kleh"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Yanmor"] = {
 							[1] = 5,
@@ -9321,63 +11888,28 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Behove"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-02",
-						},
 						["Plopydes"] = {
 							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-02",
 						},
-						["Wertyc"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Azgarod"] = {
-							[1] = 33,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Shammal"] = {
-							[1] = 23,
-							[2] = "FourTwenty",
-							[3] = "2019-06-06",
-						},
-						["Kalnom"] = {
-							[1] = 36,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Populus"] = {
+							[1] = 22,
+							[2] = "Beat em then eat em",
+							[3] = "2019-06-07",
 						},
 						["Karsamos"] = {
-							[1] = 48,
+							[1] = 50,
 							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Hawallt"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
 							[3] = "2019-06-03",
-						},
-						["Ketala"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Shikyuka"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vonshaman"] = {
-							[1] = 41,
-							[2] = "The Dark Brotherhood",
-							[3] = "2019-06-06",
 						},
 						["Mermoo"] = {
 							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Asppid"] = {
-							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -9396,70 +11928,30 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Shamstring"] = {
-							[1] = 13,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Pplettuce"] = {
-							[1] = 13,
+						["Ingulf"] = {
+							[1] = 21,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Fknhash"] = {
-							[1] = 58,
-							[2] = "Deathwish Manifesto",
-							[3] = "2019-06-06",
-						},
-						["Callyabluff"] = {
-							[1] = 18,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Vipivoha"] = {
+							[1] = 29,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
 						["Izishamaizi"] = {
 							[1] = 33,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Clobbercow"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Awhmun"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cochar"] = {
-							[1] = 32,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mushan"] = {
-							[1] = 38,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vedsham"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Orothuso"] = {
-							[1] = 60,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Oswaldt"] = {
-							[1] = 54,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Quelzera"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+						["Fknhash"] = {
+							[1] = 58,
+							[2] = "Deathwish Manifesto",
+							[3] = "2019-06-07",
 						},
 						["Shambull"] = {
 							[1] = 19,
@@ -9471,20 +11963,10 @@ CensusPlus_Database = {
 							[2] = "Super Adventure Pals",
 							[3] = "2019-06-06",
 						},
-						["Paavottaja"] = {
-							[1] = 18,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-03",
-						},
-						["Liptontea"] = {
-							[1] = 39,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Brownbully"] = {
-							[1] = 4,
+						["Arrancar"] = {
+							[1] = 23,
 							[2] = "",
-							[3] = "2019-06-02",
+							[3] = "2019-06-07",
 						},
 						["Fleskebassen"] = {
 							[1] = 12,
@@ -9506,44 +11988,29 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Mejustsomguy"] = {
-							[1] = 11,
+						["Maniyuk"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Osirisxlv"] = {
-							[1] = 31,
-							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Tormane"] = {
 							[1] = 35,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Krollsham"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Fabbybill"] = {
+							[1] = 31,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
-						["Plix"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Milkosa"] = {
+							[1] = 30,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
 						},
-						["Qaori"] = {
-							[1] = 44,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Bratanbotan"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Nokoshana"] = {
-							[1] = 20,
-							[2] = "",
+						["Georgehogg"] = {
+							[1] = 28,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
 						},
 						["Zaharo"] = {
@@ -9551,20 +12018,570 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Rtshaman"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Mootuu"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Booldozzer"] = {
 							[1] = 27,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Breyze"] = {
-							[1] = 44,
+						["Fsbfsb"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Nulok"] = {
+							[1] = 38,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Rosadared"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zosper"] = {
+							[1] = 23,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-06",
+						},
+						["Blackgamer"] = {
+							[1] = 32,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Olacrush"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ojas"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ophilyna"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Misticow"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Radz"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vonshaman"] = {
+							[1] = 41,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
+						},
+						["Buunktwo"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Antnee"] = {
+							[1] = 22,
+							[2] = "FAH Q",
+							[3] = "2019-06-06",
+						},
+						["Faround"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zoggles"] = {
+							[1] = 34,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Relentleslol"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Manuall"] = {
+							[1] = 18,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Moovabull"] = {
+							[1] = 43,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Ayahuascar"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bnor"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Divljo"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shamtricks"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Poontangler"] = {
+							[1] = 60,
+							[2] = "Lobotomized",
+							[3] = "2019-06-07",
+						},
+						["Waasigan"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Socredo"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Colrado"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hekotus"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Raknashaman"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Taytomonster"] = {
+							[1] = 24,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Sabrium"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Venomstrik"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jemmorah"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gerdul"] = {
+							[1] = 17,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Syncerus"] = {
+							[1] = 57,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Opoqu"] = {
+							[1] = 51,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Ceeples"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vongunten"] = {
+							[1] = 30,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Ovrak"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rtshaman"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Wagstall"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Celestmoon"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Noobthegreat"] = {
+							[1] = 43,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Quelzera"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Behove"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Frulaa"] = {
+							[1] = 22,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
+						},
+						["Albinotjurn"] = {
+							[1] = 60,
+							[2] = "Double Effort",
+							[3] = "2019-06-07",
+						},
+						["Shtsandwich"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pippelsson"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Sebacraft"] = {
+							[1] = 26,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Jokill"] = {
+							[1] = 18,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Getfnow"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Brabarull"] = {
+							[1] = 6,
+							[2] = "The PC",
+							[3] = "2019-06-06",
+						},
+						["Necromicon"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Plix"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tusky"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Breyze"] = {
+							[1] = 45,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Moowey"] = {
+							[1] = 32,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Sdvuhruk"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gruver"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mishas"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Taistelia"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Asppid"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kalnom"] = {
+							[1] = 36,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
+						},
+						["Badboyboris"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Alexanion"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Azgarod"] = {
+							[1] = 33,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Abstractions"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Adramane"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Legokid"] = {
+							[1] = 19,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-06",
+						},
+						["Zavertok"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shikyuka"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kizintor"] = {
+							[1] = 35,
+							[2] = "Two Drink Minimum",
+							[3] = "2019-06-07",
+						},
+						["Mushan"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thunderbull"] = {
+							[1] = 20,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Tofusalad"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Osirisxlv"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Wertyc"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Drakenoth"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Pplettuce"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tamunte"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ketala"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Gamro"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shamstring"] = {
+							[1] = 13,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Awhmun"] = {
+							[1] = 20,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Thorman"] = {
+							[1] = 36,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Mullfoot"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Brownbully"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-02",
+						},
+						["Cochar"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ovistauren"] = {
+							[1] = 32,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Bratanbotan"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Daethwishdog"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Baaul"] = {
+							[1] = 42,
+							[2] = "Wings",
+							[3] = "2019-06-07",
+						},
+						["Taggahara"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Liptontea"] = {
+							[1] = 39,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Nokoshana"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Hoofshaman"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kwaha"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mopdovorot"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Burlesc"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mejustsomguy"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Stronks"] = {
+							[1] = 33,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cyberpuunk"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Krollsham"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zakhazmodan"] = {
+							[1] = 13,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Qaori"] = {
+							[1] = 44,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Oswaldt"] = {
+							[1] = 54,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Callyabluff"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Optimum"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shamuhmi"] = {
+							[1] = 15,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Bakakoitsuto"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hagelstern"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Slomooh"] = {
 							[1] = 11,
@@ -9579,39 +12596,19 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Lemmywinks"] = {
-							[1] = 39,
+							[1] = 42,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Bibbiey"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Cptmoo"] = {
-							[1] = 27,
-							[2] = "Azeroth Swim Team",
-							[3] = "2019-06-06",
-						},
 						["Awenei"] = {
 							[1] = 2,
 							[2] = "",
 							[3] = "2019-06-03",
-						},
-						["Dunkelzwerg"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Spinonehalf"] = {
-							[1] = 12,
-							[2] = "Mortys Morticians",
-							[3] = "2019-06-06",
-						},
-						["Hhooddoorr"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-06",
 						},
 						["Sidhunter"] = {
 							[1] = 36,
@@ -9633,44 +12630,34 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Yetarn"] = {
-							[1] = 11,
+						["Mednawee"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
 						},
 						["Vladsatana"] = {
 							[1] = 60,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Taurani"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+						["Elmonziooz"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
-						["Earons"] = {
-							[1] = 54,
+						["Akora"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Lornaah"] = {
 							[1] = 39,
 							[2] = "The Brew Crew",
 							[3] = "2019-06-06",
 						},
-						["Hunterhanne"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
 						["Kurakez"] = {
 							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Freeworld"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
 						["Ygez"] = {
@@ -9679,29 +12666,154 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Waroghunt"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Karatumen"] = {
+							[1] = 18,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Pengtot"] = {
 							[1] = 17,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Daxianggong"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Apamis"] = {
+							[1] = 24,
+							[2] = "Leviathan",
+							[3] = "2019-06-07",
+						},
+						["Mynoo"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Badonkadonk"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Luftschuss"] = {
+							[1] = 21,
+							[2] = "I bims Horde",
 							[3] = "2019-06-06",
 						},
-						["Pachanida"] = {
-							[1] = 23,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+						["Juiceylee"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-03",
 						},
-						["Easypewpew"] = {
-							[1] = 14,
-							[2] = "RUSSIA",
-							[3] = "2019-06-04",
-							[4] = 0,
-							[5] = "2019-06-03&0&0",
-							[6] = 0,
-							[7] = "2019-06-03",
-							[8] = 0,
-						},
-						["Silverek"] = {
-							[1] = 43,
+						["Touffr"] = {
+							[1] = 36,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Yobumumba"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Abrohax"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Hornad"] = {
+							[1] = 42,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Freeworld"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Bronkoderl"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Axolotlhurj"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dizzeeh"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cptmoo"] = {
+							[1] = 27,
+							[2] = "Azeroth Swim Team",
+							[3] = "2019-06-06",
+						},
+						["Dunkelzwerg"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vitanix"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hhooddoorr"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Gtfkrocn"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yetarn"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Taurani"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Hunterkane"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tracs"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Wodginite"] = {
+							[1] = 58,
+							[2] = "Horns",
+							[3] = "2019-06-07",
+						},
+						["Easypewpew"] = {
+							[1] = 16,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+							[4] = 0,
+							[5] = "2019-06-07&0&0",
+							[6] = 0,
+							[7] = "2019-06-07",
+							[8] = 0,
+						},
+						["Coolhunterr"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Rivian"] = {
 							[1] = 28,
@@ -9718,99 +12830,44 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Legolazzxx"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Sheraph"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Badonkadonk"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Savageshot"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Traytrix"] = {
-							[1] = 60,
-							[2] = "Pirates With No Ship",
-							[3] = "2019-06-06",
-						},
-						["Luftschuss"] = {
-							[1] = 21,
-							[2] = "I bims Horde",
-							[3] = "2019-06-06",
-						},
-						["Juiceylee"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Reddusk"] = {
-							[1] = 59,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Yobumumba"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Minseca"] = {
 							[1] = 42,
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Abrohax"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+						["Dagros"] = {
+							[1] = 18,
+							[2] = "Azeroth Swim Team",
+							[3] = "2019-06-07",
 						},
-						["Timewizardd"] = {
-							[1] = 27,
+						["Silverek"] = {
+							[1] = 45,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Jepulis"] = {
-							[1] = 29,
-							[2] = "Travellers",
-							[3] = "2019-06-06",
-						},
-						["Touffr"] = {
-							[1] = 36,
+						["Shagdawg"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Tarankin"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Hornad"] = {
-							[1] = 40,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Fourheadlol"] = {
+						["Legolazzxx"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Barcelonam"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Earons"] = {
+							[1] = 59,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
-						["Trapfoyle"] = {
-							[1] = 22,
-							[2] = "Chronic",
+						["Landorin"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Reddusk"] = {
+							[1] = 59,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Mahassh"] = {
@@ -9818,35 +12875,90 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-02",
 						},
-						["Bronkoderl"] = {
-							[1] = 2,
+						["Savageshot"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Awakune"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Timewizardd"] = {
+							[1] = 27,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Axolotlhurj"] = {
-							[1] = 1,
+						["Traytrix"] = {
+							[1] = 60,
+							[2] = "Pirates With No Ship",
+							[3] = "2019-06-06",
+						},
+						["Rollindrolli"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tarankin"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Spinonehalf"] = {
+							[1] = 12,
+							[2] = "Mortys Morticians",
+							[3] = "2019-06-06",
+						},
+						["Pachanida"] = {
+							[1] = 25,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Jepulis"] = {
+							[1] = 29,
+							[2] = "Travellers",
+							[3] = "2019-06-06",
+						},
+						["Trapfoyle"] = {
+							[1] = 22,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Leyoten"] = {
+							[1] = 12,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Barcelonam"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fourheadlol"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Hunterkane"] = {
-							[1] = 2,
+						["Hunterhanne"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-03",
 						},
 						["Cowoffamine"] = {
-							[1] = 20,
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sheraph"] = {
+							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Landorin"] = {
-							[1] = 12,
+						["Aupoivre"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Tracs"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 					},
 				},
@@ -9857,100 +12969,245 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
+						["Gillbawk"] = {
+							[1] = 22,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
 						["Nvrh"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Hugobaws"] = {
-							[1] = 40,
+							[1] = 42,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Moistkebab"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ghastlord"] = {
-							[1] = 11,
+						["Yorldd"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
 						},
-						["Railtracer"] = {
-							[1] = 41,
+						["Burgerquee"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Awarnach"] = {
-							[1] = 4,
+						["Stanz"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Elwaywade"] = {
+							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Railtracer"] = {
+							[1] = 45,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dexxie"] = {
+							[1] = 26,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Malsey"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Armyjakob"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Andyhorn"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Worstpickeva"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Pinatas"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dezgarn"] = {
-							[1] = 7,
+						["Ketarol"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Abbathar"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
 						},
 						["Itsgucci"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Tonguetie"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nickqq"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Metastaza"] = {
+							[1] = 38,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Versalys"] = {
 							[1] = 50,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
+						["Atletl"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pavlikk"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tlya"] = {
+							[1] = 42,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Mpoouner"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
 						["Kaazog"] = {
 							[1] = 21,
 							[2] = "Waiting For Classic",
 							[3] = "2019-06-03",
 						},
-						["Wombatcombat"] = {
-							[1] = 33,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vanixi"] = {
-							[1] = 35,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Monkass"] = {
-							[1] = 35,
+						["Marakumba"] = {
+							[1] = 25,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Peningar"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Bumbumz"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Yahala"] = {
 							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Pavlikk"] = {
-							[1] = 8,
+						["Classicgamer"] = {
+							[1] = 3,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Badboydk"] = {
+							[1] = 53,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-06",
+						},
+						["Wombatcombat"] = {
+							[1] = 33,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Ivansnow"] = {
+							[1] = 24,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Prekracno"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lathspel"] = {
+							[1] = 35,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-07",
+						},
+						["Monkass"] = {
+							[1] = 35,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Horpe"] = {
+							[1] = 19,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Peningar"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bumbumz"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Terorlena"] = {
+							[1] = 23,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Menikmatica"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Dunbaroth"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lyrox"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lokee"] = {
+							[1] = 49,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yarick"] = {
+							[1] = 51,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dirun"] = {
+							[1] = 44,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Dreamian"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ceppy"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Shlyapic"] = {
 							[1] = 23,
@@ -9960,7 +13217,12 @@ CensusPlus_Database = {
 						["Seerr"] = {
 							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Larryjune"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Rendblade"] = {
 							[1] = 28,
@@ -9968,14 +13230,14 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Furiouspeet"] = {
-							[1] = 29,
+							[1] = 33,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Moraa"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Roylaw"] = {
 							[1] = 60,
@@ -9985,6 +13247,11 @@ CensusPlus_Database = {
 						["Friku"] = {
 							[1] = 49,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dameged"] = {
+							[1] = 40,
+							[2] = "The One",
 							[3] = "2019-06-06",
 						},
 						["Enbide"] = {
@@ -9992,25 +13259,50 @@ CensusPlus_Database = {
 							[2] = "Heart of Eternity",
 							[3] = "2019-06-06",
 						},
+						["Valkorf"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Matatanques"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Champagnie"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Talyon"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Verterbra"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Wiltoris"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Moonrape"] = {
-							[1] = 33,
+						["Maniacd"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Nerdmax"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Maniaks"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Johnyw"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Tankolott"] = {
 							[1] = 5,
@@ -10022,29 +13314,89 @@ CensusPlus_Database = {
 							[2] = "Idi Nahuy Gaming",
 							[3] = "2019-06-06",
 						},
-						["Boboddy"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-04",
+						["Policu"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
 						},
-						["Maniaks"] = {
-							[1] = 60,
+						["Szkinhed"] = {
+							[1] = 22,
+							[2] = "Vader",
+							[3] = "2019-06-07",
+						},
+						["Boboddy"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hiigh"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kaapteen"] = {
+							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Pragmito"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vulvic"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Callmerage"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Conq"] = {
-							[1] = 12,
-							[2] = "",
+						["Warinna"] = {
+							[1] = 21,
+							[2] = "Chronic",
 							[3] = "2019-06-06",
+						},
+						["Mongolidx"] = {
+							[1] = 22,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Producha"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Weedpolice"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Kallmenlen"] = {
 							[1] = 43,
 							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Dezgarn"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Kareger"] = {
+							[1] = 42,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fatmonkey"] = {
+							[1] = 51,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Kottie"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Knuckle"] = {
@@ -10053,53 +13405,73 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Ancrait"] = {
-							[1] = 5,
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Tutushkin"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kottie"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Elwaywade"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Malsey"] = {
+						["Itacha"] = {
 							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dexxie"] = {
-							[1] = 26,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
+						["Ruppi"] = {
+							[1] = 14,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Azgiliot"] = {
-							[1] = 13,
+						["Tutushkin"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Prlncess"] = {
+							[1] = 12,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Awarnach"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Conq"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Moonrape"] = {
+							[1] = 38,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Hardhord"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shtorm"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bordino"] = {
+							[1] = 48,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Nostria"] = {
+							[1] = 24,
+							[2] = "Eskimo Brothers",
+							[3] = "2019-06-07",
+						},
+						["Azgiliot"] = {
+							[1] = 14,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
 						["Farbane"] = {
 							[1] = 60,
 							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Warinna"] = {
-							[1] = 21,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Talyon"] = {
-							[1] = 7,
-							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Uradech"] = {
@@ -10107,40 +13479,50 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Kokhona"] = {
-							[1] = 15,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
-						},
-						["Abbathar"] = {
-							[1] = 8,
+						["Kairopteran"] = {
+							[1] = 3,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dirun"] = {
-							[1] = 44,
+						["Zaburd"] = {
+							[1] = 32,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Kokhona"] = {
+							[1] = 19,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Whitesquid"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mistebrown"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Draguos"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Champagnie"] = {
+							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
-						},
-						["Dameged"] = {
-							[1] = 40,
-							[2] = "The One",
-							[3] = "2019-06-06",
-						},
-						["Mongolidx"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-03",
 						},
 						["Hardlemonade"] = {
 							[1] = 36,
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-03",
 						},
-						["Policu"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Smacchead"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Haizara"] = {
 							[1] = 3,
@@ -10152,77 +13534,62 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-03",
 						},
-						["Ivansnow"] = {
-							[1] = 24,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Hardhord"] = {
-							[1] = 32,
+						["Skinnybones"] = {
+							[1] = 30,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vanixi"] = {
+							[1] = 35,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Badboydk"] = {
-							[1] = 53,
-							[2] = "Danish Bacon",
-							[3] = "2019-06-06",
+						["Sairahcraz"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Fatmonkey"] = {
-							[1] = 51,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-03",
+						["Ghastlord"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-04",
 						},
 						["Kelsh"] = {
-							[1] = 43,
+							[1] = 44,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Zellby"] = {
 							[1] = 21,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kaapteen"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Snusklisa"] = {
+							[1] = 40,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 					},
 					["Warlock"] = {
-						["Daanny"] = {
-							[1] = 41,
+						["Misvit"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Satorus"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Rotmus"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Flakey"] = {
-							[1] = 53,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Mortess"] = {
+							[1] = 31,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
 						},
 						["Erectiondure"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Bigpoopxd"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Llinyhtuk"] = {
-							[1] = 39,
+							[1] = 40,
 							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Miuuw"] = {
 							[1] = 9,
@@ -10230,34 +13597,39 @@ CensusPlus_Database = {
 							[3] = "2019-06-03",
 						},
 						["Collatz"] = {
-							[1] = 22,
+							[1] = 23,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Roum"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cyberbrain"] = {
-							[1] = 7,
-							[2] = "The PC",
+						["Noivacadaver"] = {
+							[1] = 21,
+							[2] = "Dark Side of the Moon",
 							[3] = "2019-06-06",
 						},
 						["Aegnorsa"] = {
-							[1] = 17,
+							[1] = 18,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Sacrophagus"] = {
-							[1] = 40,
-							[2] = "Mud Hut",
-							[3] = "2019-06-03",
+						["Stinkynegro"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Mingzinana"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-03",
+						},
+						["Atreaz"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Treathz"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Munamiess"] = {
 							[1] = 17,
@@ -10269,18 +13641,13 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
+						["Lazareva"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
 						["Clannim"] = {
 							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Senorpuerta"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Gnflock"] = {
-							[1] = 46,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -10309,180 +13676,95 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Morglock"] = {
-							[1] = 22,
+						["Unknw"] = {
+							[1] = 6,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Necrofoes"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tuaner"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nightlightxd"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-06",
-						},
-						["Overblazed"] = {
-							[1] = 1,
-							[2] = "MonStar",
-							[3] = "2019-06-06",
-						},
-						["Bristalblack"] = {
-							[1] = 37,
-							[2] = "Nightmares",
-							[3] = "2019-06-06",
-						},
-						["Restiik"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Csipkeszoli"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-03",
 						},
 						["Wahaa"] = {
-							[1] = 25,
+							[1] = 27,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dufino"] = {
-							[1] = 24,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-03",
-						},
-						["Blackwarlok"] = {
-							[1] = 34,
+						["Dkwarlock"] = {
+							[1] = 14,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Skrunesen"] = {
-							[1] = 23,
-							[2] = "No Beta Invite",
+						["Chaular"] = {
+							[1] = 37,
+							[2] = "Revolution",
 							[3] = "2019-06-06",
 						},
 						["Ponkers"] = {
-							[1] = 57,
+							[1] = 58,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Ondeads"] = {
-							[1] = 22,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-06",
-						},
-						["Sinimatik"] = {
-							[1] = 21,
+						["Basmon"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Gralae"] = {
-							[1] = 21,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Soymilks"] = {
-							[1] = 38,
-							[2] = "AGGRESSIVE IDIOTS",
-							[3] = "2019-06-06",
+						["Torittanr"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Kyrryth"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Missye"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Usotsuki"] = {
-							[1] = 20,
+						["Lifetapp"] = {
+							[1] = 51,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Kookky"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Faustu"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Hibha"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Renj"] = {
+						["Stevras"] = {
 							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Tourob"] = {
-							[1] = 18,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Loppak"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Keyrah"] = {
-							[1] = 34,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Vengord"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Shadbase"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Woazn"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Byxragnar"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Slapandclap"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Skinnbanjo"] = {
-							[1] = 21,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-03",
-						},
-						["Exatium"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Hundur"] = {
-							[1] = 15,
-							[2] = "Cold As Ice",
-							[3] = "2019-06-04",
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Drdotz"] = {
 							[1] = 25,
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-03",
 						},
-						["Deadbite"] = {
-							[1] = 60,
-							[2] = "The PC",
-							[3] = "2019-06-06",
-						},
-						["Rixolion"] = {
-							[1] = 31,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
 						["Nefastus"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
-						},
-						["Blackbottom"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-03",
 						},
 						["Ciaocio"] = {
 							[1] = 40,
@@ -10492,131 +13774,66 @@ CensusPlus_Database = {
 						["Handduck"] = {
 							[1] = 60,
 							[2] = "Heart of Eternity",
-							[3] = "2019-06-03",
-						},
-						["Burymydead"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Draeghal"] = {
-							[1] = 13,
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Jafarbad"] = {
 							[1] = 15,
 							[2] = "RUSSIA",
 							[3] = "2019-06-04",
 						},
-						["Lokesunspire"] = {
-							[1] = 8,
+						["Rokenlok"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Sshadowz"] = {
-							[1] = 33,
-							[2] = "FourTwenty",
-							[3] = "2019-06-06",
-						},
-						["Tilrond"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Svetlo"] = {
-							[1] = 60,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Classicpogch"] = {
 							[1] = 34,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Anecdotik"] = {
 							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Hydrys"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Avelox"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
 						},
-						["Zabella"] = {
-							[1] = 37,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Kokomoto"] = {
+							[1] = 60,
+							[2] = "F E P",
+							[3] = "2019-06-07",
 						},
 						["Lunico"] = {
 							[1] = 24,
 							[2] = "Task Force Yeet",
 							[3] = "2019-06-06",
 						},
-						["Onexista"] = {
-							[1] = 23,
-							[2] = "Mud Hut",
-							[3] = "2019-06-06",
-						},
-						["Ujpest"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Emazingly"] = {
+							[1] = 17,
+							[2] = "Prune Gang",
+							[3] = "2019-06-07",
 						},
 						["Nuggerstoppe"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Morv"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Geosan"] = {
-							[1] = 15,
-							[2] = "Cold As Ice",
-							[3] = "2019-06-06",
+						["Misshoo"] = {
+							[1] = 37,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Hellspells"] = {
 							[1] = 38,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Titopito"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Pureholypowe"] = {
-							[1] = 23,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-							[4] = 1,
-							[5] = "2019-06-06&0&0",
-							[6] = 0,
-							[7] = "2019-06-06",
-							[8] = 0,
-						},
-						["Xdestructo"] = {
-							[1] = 57,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dengsi"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Sikks"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Blameruin"] = {
-							[1] = 40,
-							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Venussa"] = {
@@ -10629,40 +13846,20 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Karmadonw"] = {
-							[1] = 32,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Snuskhummus"] = {
-							[1] = 38,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Urchun"] = {
-							[1] = 53,
+						["Admiscus"] = {
+							[1] = 35,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Butera"] = {
-							[1] = 25,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Blewd"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Stevras"] = {
+						["Agonnia"] = {
 							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Loize"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Zrayx"] = {
-							[1] = 27,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
+							[2] = "BRASIL",
+							[3] = "2019-06-07",
 						},
 						["Robodoc"] = {
 							[1] = 22,
@@ -10670,109 +13867,64 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Saeg"] = {
-							[1] = 19,
+							[1] = 21,
 							[2] = "BRASIL",
-							[3] = "2019-06-06",
-						},
-						["Chaular"] = {
-							[1] = 37,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Notfear"] = {
 							[1] = 59,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Cretianna"] = {
 							[1] = 26,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Ratpig"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Twinilock"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Nspire"] = {
+						["Pureholypowe"] = {
 							[1] = 25,
-							[2] = "Danish Bacon",
-							[3] = "2019-06-03",
-						},
-						["Abazigal"] = {
-							[1] = 21,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Goodsnow"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Torittanr"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+							[4] = 3,
+							[5] = "2019-06-07&0&0",
+							[6] = 0,
+							[7] = "2019-06-07",
+							[8] = 0,
 						},
 						["Metth"] = {
 							[1] = 37,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Taylrash"] = {
+							[1] = 24,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Getrektbydot"] = {
-							[1] = 41,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Cyllan"] = {
+						["Riianimates"] = {
 							[1] = 60,
-							[2] = "Blood and Sand",
-							[3] = "2019-06-06",
+							[2] = "who cares",
+							[3] = "2019-06-07",
 						},
-						["Clencz"] = {
-							[1] = 29,
-							[2] = "Violation",
-							[3] = "2019-06-06",
-						},
-						["Fira"] = {
-							[1] = 27,
+						["Elrito"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Caingus"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Fellwizard"] = {
-							[1] = 5,
+						["Punksy"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Vsixty"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Capseal"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Neddot"] = {
-							[1] = 23,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-03",
-						},
-						["Hiname"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
+						["Fagnyss"] = {
+							[1] = 36,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Zerfi"] = {
 							[1] = 19,
@@ -10780,114 +13932,69 @@ CensusPlus_Database = {
 							[3] = "2019-06-03",
 						},
 						["Skaune"] = {
-							[1] = 8,
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Veejayspb"] = {
-							[1] = 17,
+						["Srcyrus"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Fngerblaster"] = {
-							[1] = 16,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-04",
+						["Shadowlocks"] = {
+							[1] = 26,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Throatmint"] = {
+						["Dottal"] = {
 							[1] = 14,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dayell"] = {
-							[1] = 28,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-03",
-						},
-						["Ryyad"] = {
-							[1] = 46,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Snuskfarfar"] = {
-							[1] = 16,
+							[1] = 20,
 							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Ottovon"] = {
-							[1] = 1,
+						["Eugustaver"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Infusions"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Rroq"] = {
-							[1] = 32,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Utukku"] = {
-							[1] = 50,
+							[1] = 51,
 							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Einde"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Bernesanders"] = {
 							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Immarichard"] = {
-							[1] = 32,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
-						},
-						["Cruellaa"] = {
-							[1] = 60,
+						["Wiidde"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Dozoom"] = {
 							[1] = 53,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Selanchik"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Fredinator"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Snowflay"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Cexlock"] = {
 							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kundapog"] = {
-							[1] = 23,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-03",
-						},
-						["Nekrophobic"] = {
-							[1] = 40,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Dexlock"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Dothbok"] = {
 							[1] = 60,
@@ -10899,34 +14006,29 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Dresche"] = {
-							[1] = 13,
+						["Doomcrocs"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Verblock"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Abrabr"] = {
-							[1] = 27,
+						["Bpyn"] = {
+							[1] = 20,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Serebant"] = {
-							[1] = 16,
+						["Aldiablos"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Abduloff"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Prakaza"] = {
-							[1] = 34,
-							[2] = "RUSSIA",
+						["Fearisfear"] = {
+							[1] = 23,
+							[2] = "Biobuzzard",
 							[3] = "2019-06-06",
 						},
 						["Drixa"] = {
@@ -10945,29 +14047,19 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Adisla"] = {
-							[1] = 47,
+							[1] = 48,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Twinkletitss"] = {
-							[1] = 1,
+						["Kamiok"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Saturdead"] = {
-							[1] = 14,
+						["Rotstar"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Arabmigrant"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-03",
-						},
-						["Biscuitmgn"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Xisto"] = {
 							[1] = 5,
@@ -10979,60 +14071,30 @@ CensusPlus_Database = {
 							[2] = "Czechoslovakia",
 							[3] = "2019-06-03",
 						},
-						["Exreliz"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hordlok"] = {
-							[1] = 37,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Fearisfear"] = {
-							[1] = 23,
-							[2] = "Biobuzzard",
-							[3] = "2019-06-06",
+						["Anjaroo"] = {
+							[1] = 15,
+							[2] = "FourTwenty",
+							[3] = "2019-06-07",
 						},
 						["Larok"] = {
 							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Zoea"] = {
+							[1] = 27,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
 						["Tootow"] = {
 							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Semraria"] = {
-							[1] = 45,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Dyxelersi"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zoea"] = {
-							[1] = 16,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-04",
-						},
-						["Landel"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ackis"] = {
-							[1] = 35,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Deadroses"] = {
-							[1] = 16,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Patronx"] = {
+							[1] = 32,
+							[2] = "Russian Revolution",
+							[3] = "2019-06-07",
 						},
 						["Firra"] = {
 							[1] = 50,
@@ -11044,25 +14106,15 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Rizensoul"] = {
-							[1] = 34,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Avelox"] = {
+						["Shurann"] = {
 							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Adamarondor"] = {
-							[1] = 12,
+						["Barltonn"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Fagnyss"] = {
-							[1] = 29,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Ustable"] = {
 							[1] = 10,
@@ -11074,88 +14126,48 @@ CensusPlus_Database = {
 							[2] = "Better Call Thrall",
 							[3] = "2019-06-03",
 						},
-						["Cirest"] = {
-							[1] = 43,
-							[2] = "The Risen Dead",
-							[3] = "2019-06-06",
-						},
-						["Nimoshlok"] = {
-							[1] = 21,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Dkwarlock"] = {
-							[1] = 14,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Kaptel"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Doctaspoon"] = {
 							[1] = 17,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Koalabae"] = {
-							[1] = 30,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Nullil"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dotrothy"] = {
-							[1] = 29,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+						["Martena"] = {
+							[1] = 18,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
 						},
 						["Hydronim"] = {
 							[1] = 27,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Enjoye"] = {
+						["Assflame"] = {
 							[1] = 60,
-							[2] = "Blyat",
-							[3] = "2019-06-03",
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
 						},
 						["Desilock"] = {
-							[1] = 43,
+							[1] = 47,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Nexxir"] = {
 							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Wiidde"] = {
-							[1] = 4,
+						["Dotsandruns"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Akstraz"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Ciderdina"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Lukk"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Elajjaz"] = {
+						["Renj"] = {
 							[1] = 19,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Dezarc"] = {
-							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -11165,89 +14177,54 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Ryere"] = {
-							[1] = 31,
+							[1] = 33,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Zhuanghan"] = {
-							[1] = 58,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Nilock"] = {
-							[1] = 24,
-							[2] = "Im a cop you idiot",
-							[3] = "2019-06-06",
-						},
-						["Conehu"] = {
+						["Abduloff"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Noivacadaver"] = {
-							[1] = 21,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
+						["Theonlyclass"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hatsunetsu"] = {
+							[1] = 55,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Deathsower"] = {
 							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Nightlightxd"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ztod"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Aezria"] = {
-							[1] = 12,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-03",
-						},
-						["Eriphyle"] = {
+						["Rinini"] = {
 							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Bonusmaximus"] = {
-							[1] = 12,
+						["Twinkletitss"] = {
+							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mairen"] = {
-							[1] = 55,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Barrathot"] = {
-							[1] = 23,
-							[2] = "Chronic",
 							[3] = "2019-06-03",
 						},
-						["Toniglandyle"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Akloosh"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Larachel"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Caisus"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Bolwebnik"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Dompenion"] = {
-							[1] = 38,
+							[1] = 39,
 							[2] = "La Furie de la Horde",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Gligzy"] = {
 							[1] = 42,
@@ -11259,7 +14236,1262 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
+						["Dysthymic"] = {
+							[1] = 22,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Overblazed"] = {
+							[1] = 1,
+							[2] = "MonStar",
+							[3] = "2019-06-06",
+						},
+						["Fngerblaster"] = {
+							[1] = 16,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-04",
+						},
+						["Darza"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Dotemtots"] = {
+							[1] = 19,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Lokatzis"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ivanlopes"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fluachferdl"] = {
+							[1] = 51,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Huans"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Haskelly"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kainm"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Goodsnow"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Urchun"] = {
+							[1] = 53,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Blackfiress"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Churse"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ottoqt"] = {
+							[1] = 21,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Marcko"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Dyne"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Brummund"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Sunschein"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Darkdiggler"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Daanny"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Guttobe"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Satorus"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Tridiange"] = {
+							[1] = 60,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Rotmus"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Rixolion"] = {
+							[1] = 32,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Rasalgethi"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Holylyly"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bigpoopxd"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Morriganis"] = {
+							[1] = 21,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Sajmson"] = {
+							[1] = 32,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Unohavephone"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Stdemons"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vaszago"] = {
+							[1] = 56,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Ulfrskn"] = {
+							[1] = 30,
+							[2] = "Barrens Chat",
+							[3] = "2019-06-07",
+						},
+						["Lamia"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Scubawes"] = {
+							[1] = 26,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Roum"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Cyberbrain"] = {
+							[1] = 7,
+							[2] = "The PC",
+							[3] = "2019-06-06",
+						},
+						["Ottovon"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Sacrophagus"] = {
+							[1] = 40,
+							[2] = "Mud Hut",
+							[3] = "2019-06-03",
+						},
+						["Ensomia"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Davesturkel"] = {
+							[1] = 8,
+							[2] = "Space Jam",
+							[3] = "2019-06-07",
+						},
+						["Barguerre"] = {
+							[1] = 36,
+							[2] = "La Furie de la Horde",
+							[3] = "2019-06-06",
+						},
+						["Dresche"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Freakmode"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ciderdina"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Belarissa"] = {
+							[1] = 50,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Karmadonw"] = {
+							[1] = 32,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Xdestructo"] = {
+							[1] = 57,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Afligator"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gnflock"] = {
+							[1] = 47,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Valawgus"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Allistaria"] = {
+							[1] = 4,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Blackwarlok"] = {
+							[1] = 34,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Reniego"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shadolocke"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Watchmedott"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Koalabae"] = {
+							[1] = 30,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Jhinlol"] = {
+							[1] = 26,
+							[2] = "Cold As Ice",
+							[3] = "2019-06-07",
+						},
+						["Morglock"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Snuskhummus"] = {
+							[1] = 39,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Drlocktavius"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Undeadlok"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Restiik"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Csipkeszoli"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Harpey"] = {
+							[1] = 50,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Caingus"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Cyllan"] = {
+							[1] = 60,
+							[2] = "Blood and Sand",
+							[3] = "2019-06-07",
+						},
+						["Skrunesen"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Ryyad"] = {
+							[1] = 46,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Ondeads"] = {
+							[1] = 22,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Sykh"] = {
+							[1] = 57,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Gralae"] = {
+							[1] = 21,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Soymilks"] = {
+							[1] = 38,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-06",
+						},
+						["Karochyn"] = {
+							[1] = 57,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Missye"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Shadowkid"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sadid"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Roserint"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vichlipuchli"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Titopito"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Keyrah"] = {
+							[1] = 34,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Stinkdad"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shadbase"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Loppak"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Landel"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kukuruzen"] = {
+							[1] = 10,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Skinnbanjo"] = {
+							[1] = 21,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-03",
+						},
+						["Exatium"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hundur"] = {
+							[1] = 15,
+							[2] = "Cold As Ice",
+							[3] = "2019-06-04",
+						},
+						["Hemlorn"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Deadbite"] = {
+							[1] = 60,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Immarichard"] = {
+							[1] = 32,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-06",
+						},
+						["Sshadowz"] = {
+							[1] = 33,
+							[2] = "FourTwenty",
+							[3] = "2019-06-06",
+						},
+						["Blackbottom"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Mysticdeath"] = {
+							[1] = 10,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Pogovas"] = {
+							[1] = 18,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Burymydead"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Erectica"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Rizensoul"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lokesunspire"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Qruella"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kundapog"] = {
+							[1] = 23,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-03",
+						},
+						["Chaosfall"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Loize"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Maag"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Hexea"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Flakey"] = {
+							[1] = 53,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Morv"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Larachel"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ujpest"] = {
+							[1] = 18,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Toniglandyle"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pockylock"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Orbendrey"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mairen"] = {
+							[1] = 55,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Tilrond"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Jqx"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Slapandclap"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Dengsi"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Woazn"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Freshlockk"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Clencz"] = {
+							[1] = 30,
+							[2] = "Violation",
+							[3] = "2019-06-07",
+						},
+						["Netherz"] = {
+							[1] = 45,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vengord"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Geosan"] = {
+							[1] = 15,
+							[2] = "Cold As Ice",
+							[3] = "2019-06-06",
+						},
+						["Halock"] = {
+							[1] = 53,
+							[2] = "Blyat",
+							[3] = "2019-06-07",
+						},
+						["Butera"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Nilock"] = {
+							[1] = 24,
+							[2] = "Im a cop you idiot",
+							[3] = "2019-06-06",
+						},
+						["Semraria"] = {
+							[1] = 45,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Felplague"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Zabella"] = {
+							[1] = 37,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
 						["Carmenlucia"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bbjxd"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Megawizzard"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Oralsin"] = {
+							[1] = 31,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Ratpig"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hordlok"] = {
+							[1] = 38,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Dotrothy"] = {
+							[1] = 29,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Abazigal"] = {
+							[1] = 21,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Mirky"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Bleweyes"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bajinda"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Getrektbydot"] = {
+							[1] = 41,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bigblackpet"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Svetlo"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Fira"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gargolma"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lutherinn"] = {
+							[1] = 30,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Byxragnar"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Capseal"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dayell"] = {
+							[1] = 28,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-03",
+						},
+						["Eriphyle"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Enjoye"] = {
+							[1] = 60,
+							[2] = "Blyat",
+							[3] = "2019-06-07",
+						},
+						["Stoler"] = {
+							[1] = 43,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Conehu"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Nullil"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Neddot"] = {
+							[1] = 23,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-03",
+						},
+						["Rokkane"] = {
+							[1] = 28,
+							[2] = "Booty Bay Night Club",
+							[3] = "2019-06-07",
+						},
+						["Arabmigrant"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Pizdanoga"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Vitaminplus"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Infusions"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Rroq"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Evilana"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Einde"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Soupanig"] = {
+							[1] = 34,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Theriso"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dufino"] = {
+							[1] = 24,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-03",
+						},
+						["Onexista"] = {
+							[1] = 23,
+							[2] = "Mud Hut",
+							[3] = "2019-06-06",
+						},
+						["Usotsuki"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Aezria"] = {
+							[1] = 12,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-03",
+						},
+						["Nemesissy"] = {
+							[1] = 57,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Nekrophobic"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Rickson"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hyana"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-07",
+						},
+						["Dezarc"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Choranick"] = {
+							[1] = 22,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Abrabr"] = {
+							[1] = 27,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Pentotal"] = {
+							[1] = 56,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kaasjager"] = {
+							[1] = 5,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Adamarondor"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Twerwitch"] = {
+							[1] = 16,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Prakaza"] = {
+							[1] = 34,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Tourob"] = {
+							[1] = 19,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Deadroses"] = {
+							[1] = 16,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Greenhat"] = {
+							[1] = 29,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Youngsandwch"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Senorpuerta"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Agrohom"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Popdavid"] = {
+							[1] = 41,
+							[2] = "Revolution",
+							[3] = "2019-06-06",
+						},
+						["Barrathot"] = {
+							[1] = 30,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Tiquani"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bradlock"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tekcoptoh"] = {
+							[1] = 10,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Zloybob"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fornax"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Saturdead"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Piratex"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Thickmilk"] = {
+							[1] = 30,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Aveaa"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Deadthings"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Valivich"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ackis"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Dyxelersi"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kozulya"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Serebant"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Susongwatari"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sobakene"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Soert"] = {
+							[1] = 26,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Curses"] = {
+							[1] = 37,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Biscuitmgn"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Selanchik"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Cirest"] = {
+							[1] = 43,
+							[2] = "The Risen Dead",
+							[3] = "2019-06-07",
+						},
+						["Nimoshlok"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Cruellaa"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Sinienen"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hiname"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Gginbunbun"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Veejayspb"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kenelola"] = {
+							[1] = 18,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Vsixty"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kasatochka"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ilyfiveever"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Diffalol"] = {
+							[1] = 24,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Akstraz"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Ewerblood"] = {
+							[1] = 13,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Lukk"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Elajjaz"] = {
+							[1] = 19,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Sinimatik"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Doublea"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bristalblack"] = {
+							[1] = 37,
+							[2] = "Nightmares",
+							[3] = "2019-06-06",
+						},
+						["Zhuanghan"] = {
+							[1] = 58,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Dotndab"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mexanikb"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Rampagu"] = {
+							[1] = 47,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Exreliz"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kaee"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ztod"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Caisus"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Nofakedolce"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kelrakkzwei"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mantuss"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zvjelt"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Devish"] = {
+							[1] = 60,
+							[2] = "Wartorn",
+							[3] = "2019-06-07",
+						},
+						["Snowflay"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Nspire"] = {
+							[1] = 29,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
+						},
+						["Jquh"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Bogdanko"] = {
+							[1] = 27,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Blameruin"] = {
+							[1] = 40,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Bonusmaximus"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
@@ -11269,30 +15501,30 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Brummund"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Faygola"] = {
+							[1] = 22,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Darza"] = {
-							[1] = 60,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Cramleznem"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Megawizzard"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+						["Rocklegend"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Capetaprego"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Minimishka"] = {
-							[1] = 13,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Luigak"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Pipl"] = {
 							[1] = 12,
@@ -11304,18 +15536,18 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
-						["Ivanlopes"] = {
-							[1] = 12,
+						["Hydrys"] = {
+							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-03",
 						},
-						["Halock"] = {
-							[1] = 53,
-							[2] = "Blyat",
-							[3] = "2019-06-06",
+						["Undeadskum"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Fluachferdl"] = {
-							[1] = 51,
+						["Fellwizard"] = {
+							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -11324,82 +15556,82 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Tuaner"] = {
+						["Alyxiana"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sphaux"] = {
+							[1] = 20,
+							[2] = "Tool Time",
+							[3] = "2019-06-07",
+						},
+						["Minimishka"] = {
 							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Haskelly"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Lifetapp"] = {
-							[1] = 51,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
 						},
 						["Kipoww"] = {
 							[1] = 18,
 							[2] = "Crossroad Festival",
 							[3] = "2019-06-06",
 						},
-						["Barguerre"] = {
-							[1] = 36,
-							[2] = "La Furie de la Horde",
-							[3] = "2019-06-06",
-						},
-						["Bessia"] = {
-							[1] = 20,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Churse"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Popdavid"] = {
-							[1] = 41,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Marcko"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Mexanikb"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Ensomia"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Holylyly"] = {
+						["Beastwlock"] = {
 							[1] = 7,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bessia"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Zrayx"] = {
+							[1] = 27,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-06",
+						},
+						["Throatmint"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Sikks"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lousann"] = {
+							[1] = 25,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Dreamzies"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ciscus"] = {
+							[1] = 27,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
 					},
 					["Rogue"] = {
-						["Picarona"] = {
-							[1] = 34,
-							[2] = "I La Guardia Negra I",
-							[3] = "2019-06-06",
-						},
-						["Palesheath"] = {
+						["Arkiron"] = {
 							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[2] = "Idi Nahuy Gaming",
+							[3] = "2019-06-07",
+						},
+						["Tchekykaryo"] = {
+							[1] = 44,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
 						},
 						["Kroatt"] = {
 							[1] = 53,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Stabbydaddy"] = {
 							[1] = 3,
@@ -11411,10 +15643,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Daggerinback"] = {
-							[1] = 9,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
+						["Ouijah"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Biohazart"] = {
 							[1] = 1,
@@ -11426,6 +15658,11 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Dedainside"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Bleizen"] = {
 							[1] = 4,
 							[2] = "",
@@ -11436,11 +15673,6 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Flexezy"] = {
-							[1] = 41,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
 						["Slicerx"] = {
 							[1] = 7,
 							[2] = "",
@@ -11449,42 +15681,32 @@ CensusPlus_Database = {
 						["Yingzi"] = {
 							[1] = 60,
 							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Bonusrogue"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Battleprone"] = {
-							[1] = 47,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Corspe"] = {
-							[1] = 39,
+						["Skinnarn"] = {
+							[1] = 54,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Sothi"] = {
-							[1] = 29,
+							[1] = 30,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Venerolog"] = {
 							[1] = 18,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dblrodel"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Bezymec"] = {
+							[1] = 50,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Teony"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-06",
+							[1] = 20,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Chillykun"] = {
 							[1] = 19,
@@ -11496,40 +15718,35 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Snaskarn"] = {
+						["Imbarandom"] = {
 							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Trikorochki"] = {
-							[1] = 6,
+						["Kalasfia"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Scarytry"] = {
-							[1] = 34,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Gorsshok"] = {
-							[1] = 40,
+						["Shadyjay"] = {
+							[1] = 3,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Lidstrom"] = {
 							[1] = 60,
 							[2] = "Heart of Eternity",
 							[3] = "2019-06-03",
 						},
-						["Sbarons"] = {
-							[1] = 50,
+						["Ognamaste"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Abaethor"] = {
-							[1] = 15,
+						["Maksorogue"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Gimpi"] = {
 							[1] = 55,
@@ -11541,119 +15758,109 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Voltaa"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fldz"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Rocksexdrugs"] = {
-							[1] = 36,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
+						["Otrov"] = {
+							[1] = 35,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Bllyxullpax"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Misscarriage"] = {
+							[1] = 30,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
 						["Deadbreaker"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Scruttom"] = {
-							[1] = 52,
-							[2] = "Task Force Yeet",
+						["Yozed"] = {
+							[1] = 15,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kusklacku"] = {
-							[1] = 1,
+						["Sneaky"] = {
+							[1] = 55,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Huncutpopo"] = {
-							[1] = 21,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-03",
+						["Tieso"] = {
+							[1] = 11,
+							[2] = "The PC",
+							[3] = "2019-06-07",
 						},
-						["Vzdoh"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Disll"] = {
+							[1] = 26,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
 						},
 						["Feloment"] = {
-							[1] = 8,
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Harensa"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Inhumanerect"] = {
-							[1] = 26,
+						["Beenia"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ryodenshi"] = {
-							[1] = 44,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ulfbagare"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zyvan"] = {
-							[1] = 58,
-							[2] = "North American Allstars",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dekro"] = {
-							[1] = 20,
+							[1] = 23,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Coffeedude"] = {
-							[1] = 60,
-							[2] = "North American Allstars",
-							[3] = "2019-06-06",
-						},
-						["Ehme"] = {
-							[1] = 14,
+						["Sweetdrimz"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Crownder"] = {
-							[1] = 10,
+						["Alevise"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Helptv"] = {
+							[1] = 13,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Sulan"] = {
+							[1] = 35,
+							[2] = "DeathSkull",
+							[3] = "2019-06-07",
 						},
 						["Carcarodon"] = {
 							[1] = 39,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Darkmos"] = {
-							[1] = 1,
+						["Tumanbro"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Ljil"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Smigolo"] = {
+							[1] = 35,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
 						},
 						["Tumbs"] = {
 							[1] = 49,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Takatuuppari"] = {
-							[1] = 18,
-							[2] = "Cold As Ice",
+						["Leykis"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Anuzblaa"] = {
@@ -11665,6 +15872,866 @@ CensusPlus_Database = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Fallenmar"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Krothul"] = {
+							[1] = 54,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Workan"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Mbdtf"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mintfresh"] = {
+							[1] = 46,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Revnost"] = {
+							[1] = 34,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Nekriller"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Narmaduke"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Biggshaq"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shivilized"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kiozo"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vuletronik"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Masina"] = {
+							[1] = 41,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Soondie"] = {
+							[1] = 16,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Bunnysenpai"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fessfesak"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Grimrash"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gnilomord"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Lilluzi"] = {
+							[1] = 36,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Ballznyomouf"] = {
+							[1] = 55,
+							[2] = "Critlers Death Squad",
+							[3] = "2019-06-07",
+						},
+						["Timboss"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Fastassasin"] = {
+							[1] = 23,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Propazha"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yoddagg"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Cheesemaster"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Chaosangel"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Gitty"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Calliss"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bananouz"] = {
+							[1] = 47,
+							[2] = "Hitokiri",
+							[3] = "2019-06-06",
+						},
+						["Shwas"] = {
+							[1] = 25,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Kvebek"] = {
+							[1] = 51,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dogyo"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Maskyrx"] = {
+							[1] = 35,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Kokorin"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zloiyrka"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Gopnichek"] = {
+							[1] = 29,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Triggin"] = {
+							[1] = 22,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Kozanostra"] = {
+							[1] = 51,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Axnai"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Laminida"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Lumirage"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aidsboi"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tailian"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kasatochka"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Byterbrodsky"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Skullnbones"] = {
+							[1] = 39,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Knochenkopf"] = {
+							[1] = 4,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Bonebait"] = {
+							[1] = 60,
+							[2] = "Rigor Mortis",
+							[3] = "2019-06-06",
+						},
+						["Lobotomizer"] = {
+							[1] = 21,
+							[2] = "Pretentious Latin Name",
+							[3] = "2019-06-06",
+						},
+						["Vajija"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Alysthar"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cathalar"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chixi"] = {
+							[1] = 48,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Unfoorgiven"] = {
+							[1] = 11,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Hiddenspiri"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Huhahihi"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-07",
+						},
+						["Pevitrogue"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Phantomrogue"] = {
+							[1] = 45,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Lykos"] = {
+							[1] = 40,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Scrapling"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Liuhd"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hyppo"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Hitormiss"] = {
+							[1] = 34,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Catoops"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pjaellus"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Ratskiin"] = {
+							[1] = 37,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-06",
+						},
+						["Narell"] = {
+							[1] = 24,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Currax"] = {
+							[1] = 60,
+							[2] = "Excruciation",
+							[3] = "2019-06-07",
+						},
+						["Hugedumb"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rugthug"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Yozuri"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bleedingedge"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rimjobbobz"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Mospan"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Aseyaa"] = {
+							[1] = 15,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Gabagabgab"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Merrychritma"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hectoberto"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Rellon"] = {
+							[1] = 35,
+							[2] = "Zug Zug Team Six",
+							[3] = "2019-06-07",
+						},
+						["Krivjda"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dvrte"] = {
+							[1] = 27,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Rogoozle"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Palesheath"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Bleidara"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cvele"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jkauff"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bonebladez"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Klanxx"] = {
+							[1] = 29,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Nooclaf"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nattfasa"] = {
+							[1] = 26,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Flexezy"] = {
+							[1] = 41,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Cousinsip"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Xandroxz"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Friedl"] = {
+							[1] = 38,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Sbz"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bonusrogue"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Battleprone"] = {
+							[1] = 47,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Starsilver"] = {
+							[1] = 15,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Corspe"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Errektus"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kekpek"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Justbones"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Mcfly"] = {
+							[1] = 46,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Cutpaste"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Blyatrogue"] = {
+							[1] = 3,
+							[2] = "Blyat",
+							[3] = "2019-06-07",
+						},
+						["Balkanystyle"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Snaskarn"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Roguebtw"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kushdome"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Huessos"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Scarytry"] = {
+							[1] = 34,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Gorsshok"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Deadsummer"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Shreddet"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sbarons"] = {
+							[1] = 50,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Loveu"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Lauyn"] = {
+							[1] = 29,
+							[2] = "Prune Gang",
+							[3] = "2019-06-07",
+						},
+						["Giaboulemes"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Garrytopor"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vazgor"] = {
+							[1] = 41,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Selecktor"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Voltaa"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fldz"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Detrite"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fuflijnik"] = {
+							[1] = 25,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Rimmsy"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Nyhve"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Blasst"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Punyama"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ulyxapsix"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Memerize"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rigormortix"] = {
+							[1] = 60,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Leriez"] = {
+							[1] = 34,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Undeadsatan"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Refracted"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Plastered"] = {
+							[1] = 22,
+							[2] = "Mankriks Stag Party",
+							[3] = "2019-06-07",
+						},
+						["Jpete"] = {
+							[1] = 60,
+							[2] = "Booty Bay Night Club",
+							[3] = "2019-06-07",
+						},
+						["Huncutpopo"] = {
+							[1] = 29,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Stoyka"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Lovestopwn"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vzdoh"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hajmat"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dedlex"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Employer"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Inhumanerect"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ryodenshi"] = {
+							[1] = 44,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Petuniablack"] = {
+							[1] = 9,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Dextermorgan"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Alliswell"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Zaharita"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Kneejoint"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ducrey"] = {
+							[1] = 15,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Benkvarmeren"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Coffeedude"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-06",
+						},
+						["Klemto"] = {
+							[1] = 20,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-06",
+						},
+						["Reapy"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ehme"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Crownder"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Moyadorogaya"] = {
+							[1] = 19,
+							[2] = "Natural Selection",
+							[3] = "2019-06-03",
+						},
+						["Moduno"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ouchmytoe"] = {
+							[1] = 16,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Stabbychops"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vundead"] = {
+							[1] = 32,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Ljil"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Xsylar"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tomstabbs"] = {
+							[1] = 4,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Backline"] = {
+							[1] = 17,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Sneakymate"] = {
+							[1] = 41,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Daggershot"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Takatuuppari"] = {
+							[1] = 18,
+							[2] = "Cold As Ice",
+							[3] = "2019-06-06",
+						},
+						["Ulfbagare"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Regu"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
 						["Ohsap"] = {
 							[1] = 36,
@@ -11679,207 +16746,217 @@ CensusPlus_Database = {
 						["Deathop"] = {
 							[1] = 32,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Krothul"] = {
-							[1] = 54,
-							[2] = "Order of Chaos",
+						["Declas"] = {
+							[1] = 4,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Terrorko"] = {
-							[1] = 37,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Magpieswoops"] = {
+							[1] = 52,
+							[2] = "Progression",
+							[3] = "2019-06-07",
+						},
+						["Varjoherra"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Garmund"] = {
 							[1] = 25,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Backline"] = {
-							[1] = 15,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Aseyaa"] = {
-							[1] = 15,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Revnost"] = {
-							[1] = 32,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Nekriller"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Deadbastid"] = {
-							[1] = 60,
-							[2] = "North American Allstars",
-							[3] = "2019-06-06",
-						},
-						["Lobotomizer"] = {
-							[1] = 21,
-							[2] = "Pretentious Latin Name",
-							[3] = "2019-06-06",
-						},
-						["Triggin"] = {
-							[1] = 22,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Gorbath"] = {
-							[1] = 14,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
-						},
-						["Biggshaq"] = {
+						["Basswing"] = {
 							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mcstabbys"] = {
-							[1] = 22,
-							[2] = "Tool Time",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Professorr"] = {
 							[1] = 26,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Rugthug"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Snuffa"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Gizora"] = {
-							[1] = 14,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Vuletronik"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Masina"] = {
-							[1] = 41,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Gorluk"] = {
-							[1] = 54,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Moduno"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Bunnysenpai"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Pharaohx"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-03",
-						},
-						["Anastard"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Fessfesak"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Miseriae"] = {
+						["Darkmos"] = {
 							[1] = 1,
 							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Wiwroga"] = {
+							[1] = 31,
+							[2] = "The PC",
 							[3] = "2019-06-06",
 						},
-						["Hectoberto"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Drippnn"] = {
+							[1] = 32,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Zuis"] = {
+						["Deadbastid"] = {
 							[1] = 60,
-							[2] = "Reign of Chaos",
+							[2] = "North American Allstars",
 							[3] = "2019-06-06",
 						},
-						["Zabour"] = {
-							[1] = 38,
-							[2] = "No Gold Train Skills",
+						["Nosneakers"] = {
+							[1] = 36,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Muxan"] = {
+							[1] = 30,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Nuath"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Deviloverr"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Leposakcii"] = {
+							[1] = 17,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Bienna"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Heleg"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Mlool"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Kusklacku"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Asiks"] = {
-							[1] = 17,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Silently"] = {
+							[1] = 40,
+							[2] = "Decision",
+							[3] = "2019-06-06",
+						},
+						["Batuszka"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Fayron"] = {
 							[1] = 60,
 							[2] = "The Bronze Crusade",
 							[3] = "2019-06-03",
 						},
-						["Currax"] = {
-							[1] = 59,
-							[2] = "",
+						["Kartoshechka"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Rocksexdrugs"] = {
+							[1] = 37,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Pharaohx"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
 							[3] = "2019-06-03",
 						},
-						["Bmwst"] = {
-							[1] = 48,
-							[2] = "RUSSIA",
+						["Navspinu"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Smokcantalop"] = {
+							[1] = 24,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Abaethor"] = {
+							[1] = 15,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Zyvan"] = {
+							[1] = 58,
+							[2] = "North American Allstars",
+							[3] = "2019-06-06",
+						},
+						["Zuis"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Kateblanchet"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Terrorko"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Minain"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Realxqc"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bmwst"] = {
+							[1] = 49,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Smyracz"] = {
 							[1] = 31,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ratskiin"] = {
-							[1] = 37,
-							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
+						["Noxnoctis"] = {
+							[1] = 4,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
 						["Danejah"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Ballznyomouf"] = {
-							[1] = 54,
-							[2] = "Critlers Death Squad",
-							[3] = "2019-06-06",
+						["Gandaoful"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Timboss"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Hajmat"] = {
-							[1] = 15,
+						["Blaccjezuz"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Sneakystorm"] = {
+						["Quinz"] = {
 							[1] = 60,
-							[2] = "UW Hearthstone Club",
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
+						},
+						["Sainell"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Clyff"] = {
 							[1] = 5,
@@ -11889,12 +16966,12 @@ CensusPlus_Database = {
 						["Derpgurl"] = {
 							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Danchi"] = {
-							[1] = 11,
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Clm"] = {
 							[1] = 32,
@@ -11906,93 +16983,23 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Yoddagg"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Sweata"] = {
+							[1] = 46,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
-						["Methood"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cheesemaster"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Disappeared"] = {
-							[1] = 34,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Chaosangel"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Sneakymate"] = {
-							[1] = 38,
+						["Perdaks"] = {
+							[1] = 14,
 							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Gitty"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Anzular"] = {
-							[1] = 30,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Sambolul"] = {
-							[1] = 34,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Huhahihi"] = {
-							[1] = 60,
-							[2] = "COUSINS",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Badbenny"] = {
 							[1] = 39,
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Matvar"] = {
-							[1] = 29,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Nomesayin"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Neverfound"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Auctura"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Bananouz"] = {
-							[1] = 47,
-							[2] = "Hitokiri",
-							[3] = "2019-06-06",
-						},
-						["Erdman"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kvebek"] = {
-							[1] = 51,
+						["Disappeared"] = {
+							[1] = 34,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -12001,99 +17008,174 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Sainell"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
+						["Nomesayin"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Harensa"] = {
-							[1] = 1,
+						["Auctura"] = {
+							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dogyo"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Anzular"] = {
+							[1] = 30,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
 						},
-						["Memerize"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kokorin"] = {
-							[1] = 17,
+						["Sambolul"] = {
+							[1] = 34,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Zloiyrka"] = {
-							[1] = 59,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Berenkton"] = {
-							[1] = 4,
+						["Gorluk"] = {
+							[1] = 54,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Esspartaco"] = {
+						["Chesnoslav"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Matvar"] = {
 							[1] = 29,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
+							[2] = "",
+							[3] = "2019-06-03",
 						},
-						["Imainlucio"] = {
-							[1] = 4,
+						["Critmister"] = {
+							[1] = 29,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Neverfound"] = {
+							[1] = 2,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kozanostra"] = {
-							[1] = 50,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Zagross"] = {
+							[1] = 35,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Axnai"] = {
+						["Daggerinback"] = {
 							[1] = 9,
-							[2] = "",
+							[2] = "Crossroad Festival",
 							[3] = "2019-06-06",
+						},
+						["Snuffa"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Plazmito"] = {
+							[1] = 33,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
 						},
 						["Spirol"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Stabbychops"] = {
-							[1] = 7,
+						["Booggyman"] = {
+							[1] = 58,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Asesinar"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Laminida"] = {
-							[1] = 21,
+						["Zinaq"] = {
+							[1] = 22,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Lovestopwn"] = {
+						["Nathanor"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Goodtobegay"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kuukiirogue"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bustyrouge"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Scruttom"] = {
+							[1] = 53,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Esspartaco"] = {
+							[1] = 30,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Imainlucio"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Picarona"] = {
+							[1] = 34,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-06",
+						},
+						["Mcstabbys"] = {
+							[1] = 22,
+							[2] = "Tool Time",
+							[3] = "2019-06-06",
+						},
+						["Brostab"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Notinbeta"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Asesinar"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pauloiosd"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Foamycooch"] = {
+							[1] = 19,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
 						["Zilix"] = {
 							[1] = 44,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Bpykerpanata"] = {
+						["Papertrail"] = {
 							[1] = 60,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Wiwroga"] = {
-							[1] = 31,
-							[2] = "The PC",
+						["Robredrig"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Erdman"] = {
+							[1] = 15,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Packert"] = {
@@ -12101,44 +17183,39 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Garrytopor"] = {
-							[1] = 31,
+						["Xepcgopid"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Daggershot"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Disll"] = {
-							[1] = 26,
+						["Bpykerpanata"] = {
+							[1] = 60,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Aidsboi"] = {
-							[1] = 4,
+						["Goldhorde"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Sneakybeeki"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Silently"] = {
-							[1] = 40,
-							[2] = "Decision",
-							[3] = "2019-06-06",
-						},
-						["Tailian"] = {
-							[1] = 15,
+						["Senkiraidan"] = {
+							[1] = 30,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Phantomrogue"] = {
-							[1] = 44,
-							[2] = "Order of Chaos",
+						["Sarkosii"] = {
+							[1] = 2,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Byterbrodsky"] = {
-							[1] = 1,
-							[2] = "",
+						["Zabour"] = {
+							[1] = 38,
+							[2] = "No Gold Train Skills",
 							[3] = "2019-06-03",
 						},
 						["Krazler"] = {
@@ -12146,138 +17223,123 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Sweata"] = {
-							[1] = 46,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Fuflijnik"] = {
-							[1] = 25,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Knochenkopf"] = {
-							[1] = 4,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Rimmsy"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Blaccjezuz"] = {
-							[1] = 11,
+						["Labrat"] = {
+							[1] = 24,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Bonebait"] = {
-							[1] = 60,
-							[2] = "Rigor Mortis",
-							[3] = "2019-06-06",
+						["Weza"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Lykos"] = {
+						["Thingers"] = {
 							[1] = 38,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Moyadorogaya"] = {
-							[1] = 19,
-							[2] = "Natural Selection",
-							[3] = "2019-06-03",
-						},
-						["Ouchmytoe"] = {
-							[1] = 16,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Crisperwhisp"] = {
-							[1] = 8,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Veltistoz"] = {
+							[1] = 23,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-06",
 						},
-						["Quinz"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Dblrodel"] = {
+							[1] = 12,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Fyrsyd"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Rezound"] = {
+							[1] = 23,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Ploskinio"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wzzmvp"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kitaizaledj"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yadotnot"] = {
+							[1] = 20,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Crisperwhisp"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Ulfskn"] = {
 							[1] = 37,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Yozed"] = {
-							[1] = 15,
+						["Maverickl"] = {
+							[1] = 16,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Junethedog"] = {
 							[1] = 18,
 							[2] = "Danish Bacon",
 							[3] = "2019-06-06",
 						},
-						["Leykis"] = {
-							[1] = 60,
+						["Shedeh"] = {
+							[1] = 39,
+							[2] = "No Ragrets",
+							[3] = "2019-06-07",
+						},
+						["Couto"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Deadpan"] = {
+							[1] = 55,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Gnilomord"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Unfoorgiven"] = {
-							[1] = 9,
+						["Chowbob"] = {
+							[1] = 18,
 							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Tchekykaryo"] = {
-							[1] = 44,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Declas"] = {
-							[1] = 4,
+						["Trikorochki"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
 						},
 						["Izucu"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Stoyka"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Workan"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Heleg"] = {
-							[1] = 20,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Imbarandom"] = {
+						["Sneakystorm"] = {
 							[1] = 60,
-							[2] = "RUSSIA",
+							[2] = "UW Hearthstone Club",
 							[3] = "2019-06-06",
 						},
-						["Ploskinio"] = {
-							[1] = 18,
+						["Tralka"] = {
+							[1] = 36,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Lucryleria"] = {
-							[1] = 11,
+						["Berenkton"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
@@ -12286,50 +17348,65 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
+						["Thrue"] = {
+							[1] = 20,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Lucryleria"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Treason"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Mariyanochka"] = {
 							[1] = 24,
 							[2] = "Habibi",
 							[3] = "2019-06-06",
 						},
-						["Hitormiss"] = {
-							[1] = 27,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-03",
-						},
-						["Vundead"] = {
-							[1] = 32,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Senkiraidan"] = {
-							[1] = 30,
+						["Bppy"] = {
+							[1] = 8,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Drak"] = {
+							[1] = 22,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Gorbath"] = {
+							[1] = 14,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-06",
 						},
-						["Bustyrouge"] = {
-							[1] = 16,
+						["Knivesciau"] = {
+							[1] = 1,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Anastard"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Goldhorde"] = {
-							[1] = 28,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Cvele"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Shankies"] = {
+							[1] = 45,
+							[2] = "Trumps Army",
+							[3] = "2019-06-07",
 						},
 						["Challus"] = {
 							[1] = 44,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Mintfresh"] = {
-							[1] = 46,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Varejao"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
 						},
 						["Rogegogeo"] = {
 							[1] = 16,
@@ -12341,85 +17418,85 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Employer"] = {
+						["Gizora"] = {
 							[1] = 14,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
 						},
-						["Sneakybeeki"] = {
-							[1] = 11,
+						["Miseriae"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Methood"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Asiks"] = {
+							[1] = 17,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Sereblan"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hatounne"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Xuur"] = {
+							[1] = 31,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Andyseemight"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gremmko"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Rohkins"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Yozuri"] = {
-							[1] = 8,
+						["Ferrion"] = {
+							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Justbones"] = {
-							[1] = 40,
+						["Buumack"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Klemto"] = {
-							[1] = 20,
-							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
+						["Nahmeow"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Zagross"] = {
-							[1] = 33,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Sbz"] = {
+						["Shadowaker"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Grimrash"] = {
-							[1] = 33,
+						["Pachy"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Mospan"] = {
-							[1] = 22,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Labrat"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Veltistoz"] = {
-							[1] = 23,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Varejao"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Leriez"] = {
-							[1] = 33,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Sarkosii"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mlool"] = {
-							[1] = 12,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Memenn"] = {
+							[1] = 28,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
 						["Kvury"] = {
 							[1] = 10,
@@ -12428,60 +17505,50 @@ CensusPlus_Database = {
 						},
 					},
 					["Mage"] = {
-						["Sabrinex"] = {
-							[1] = 16,
+						["Insulatas"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Eftamef"] = {
-							[1] = 36,
-							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Froostyz"] = {
-							[1] = 29,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Xxvideos"] = {
+							[1] = 39,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
 						},
 						["Smokzaweed"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Sheeplikeme"] = {
-							[1] = 21,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Lazerraptor"] = {
+							[1] = 60,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
 						},
-						["Hofuspocus"] = {
-							[1] = 30,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+						["Dikinface"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Castun"] = {
-							[1] = 17,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Enjumage"] = {
+							[1] = 37,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
 						},
 						["Cdx"] = {
-							[1] = 20,
+							[1] = 23,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Mongerald"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Trubikal"] = {
+						["Kahba"] = {
 							[1] = 60,
-							[2] = "",
+							[2] = "COUSINS",
 							[3] = "2019-06-06",
 						},
-						["Woopli"] = {
-							[1] = 39,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+						["Deemstaa"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Sacci"] = {
 							[1] = 23,
@@ -12493,25 +17560,1060 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Bgsereg"] = {
+						["Darnage"] = {
 							[1] = 28,
-							[2] = "Two Drink Minimum",
-							[3] = "2019-06-03",
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Matbee"] = {
 							[1] = 23,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Magiskefalk"] = {
-							[1] = 29,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Kolg"] = {
+							[1] = 60,
+							[2] = "Idi Nahuy Gaming",
+							[3] = "2019-06-07",
 						},
 						["Magikins"] = {
 							[1] = 60,
 							[2] = "Revolution",
 							[3] = "2019-06-06",
+						},
+						["Mikeyc"] = {
+							[1] = 5,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Udoctoryet"] = {
+							[1] = 40,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Zmok"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Toorq"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-06",
+						},
+						["Yisen"] = {
+							[1] = 60,
+							[2] = "Bright Of Shine",
+							[3] = "2019-06-07",
+						},
+						["Magejb"] = {
+							[1] = 23,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Vsauced"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Poite"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Veiodoido"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Sugarshorts"] = {
+							[1] = 46,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Valonfort"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Grufulde"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Senlayan"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wingoe"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Nekrontir"] = {
+							[1] = 44,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Drdukies"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Snatz"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jaavis"] = {
+							[1] = 10,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Gothmonie"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Svonar"] = {
+							[1] = 22,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Purpels"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Madmemexd"] = {
+							[1] = 54,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Dunadien"] = {
+							[1] = 20,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Koshmarka"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Imokcome"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Dixly"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Haliat"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Holtodiglan"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Charwizard"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Meansery"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Avariana"] = {
+							[1] = 31,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Baero"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cynepgepouh"] = {
+							[1] = 35,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Xholl"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Xfrostesad"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Squaredroot"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Deezbones"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Mindcreeper"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dontfrosty"] = {
+							[1] = 10,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Maerae"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Veillor"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Cycloyd"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shamonah"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Okazyalen"] = {
+							[1] = 10,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Hordekat"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Dpsmage"] = {
+							[1] = 51,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Arcbalt"] = {
+							[1] = 17,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bosstweed"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Joqz"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Yungtim"] = {
+							[1] = 23,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Milcshake"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Smellyo"] = {
+							[1] = 17,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Ohohoz"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Bakemonoh"] = {
+							[1] = 18,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Andybon"] = {
+							[1] = 13,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Dafake"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Baiel"] = {
+							[1] = 17,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Fermanoned"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Infinety"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Satte"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Amthor"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cigarettex"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Yukkie"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Itstoktocry"] = {
+							[1] = 57,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Drinkvendor"] = {
+							[1] = 38,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Fogde"] = {
+							[1] = 33,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mageitor"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Lloidar"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hezzt"] = {
+							[1] = 22,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Kyul"] = {
+							[1] = 54,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Huehuecoyotl"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Waterpeddler"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tovur"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Snaza"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Estel"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Frostpowa"] = {
+							[1] = 20,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Aeornys"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fhz"] = {
+							[1] = 25,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-06",
+						},
+						["Syszlak"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Magekor"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kryte"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Classicmate"] = {
+							[1] = 17,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Fuletasho"] = {
+							[1] = 16,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Gherig"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Critwithin"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kostakurta"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Harttftw"] = {
+							[1] = 19,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Emperador"] = {
+							[1] = 24,
+							[2] = "Latin Elite War",
+							[3] = "2019-06-07",
+						},
+						["Hadouk"] = {
+							[1] = 24,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Khaliva"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jurist"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Dehumanizzed"] = {
+							[1] = 29,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Sniin"] = {
+							[1] = 36,
+							[2] = "Azeroth Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Sulaniss"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Djundead"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Moneymitch"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Boeseaua"] = {
+							[1] = 18,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Isee"] = {
+							[1] = 16,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Bestmagus"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Carianne"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Faroko"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Ebetnormalno"] = {
+							[1] = 18,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Xpxpxp"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Electrolysi"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Natkyina"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Raffaellos"] = {
+							[1] = 24,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Gunzild"] = {
+							[1] = 9,
+							[2] = "Spanishhazlegubia",
+							[3] = "2019-06-07",
+						},
+						["Memoryzz"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vurtnesfs"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Dedwun"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Wljzhentian"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Icementor"] = {
+							[1] = 36,
+							[2] = "FourTwenty",
+							[3] = "2019-06-07",
+						},
+						["Voldeport"] = {
+							[1] = 60,
+							[2] = "Dafes PuG",
+							[3] = "2019-06-03",
+						},
+						["Corralone"] = {
+							[1] = 14,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Kerfufflez"] = {
+							[1] = 33,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Chavvie"] = {
+							[1] = 18,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Naffard"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Melowboxx"] = {
+							[1] = 11,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Fermanoneb"] = {
+							[1] = 33,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Gixe"] = {
+							[1] = 57,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Raiiju"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mornick"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cheesos"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Evilel"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tenzyo"] = {
+							[1] = 60,
+							[2] = "Absolute Mad Lads",
+							[3] = "2019-06-07",
+						},
+						["Slayerrx"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thravin"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Slis"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Wellew"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cajivak"] = {
+							[1] = 12,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-06",
+						},
+						["Zloimagus"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Ecksray"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Xylorth"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Magomando"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mileger"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tixue"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Lucifurry"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Monoi"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mazster"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rotmind"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fieryfingers"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sozpezo"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Tnucmai"] = {
+							[1] = 32,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Ruggles"] = {
+							[1] = 26,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Trypmagla"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Bibijops"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Superbroli"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jahooli"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nobas"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Overlordes"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Beacavus"] = {
+							[1] = 33,
+							[2] = "The PC",
+							[3] = "2019-06-06",
+						},
+						["Sobnali"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tufftina"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tallinu"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Megicstick"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Wanahakalugi"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zogzogkek"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Blaztamazta"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Schmiddey"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Larowa"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marcopoloo"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Southerland"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Oldschmeedy"] = {
+							[1] = 20,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Femo"] = {
+							[1] = 12,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Icehorde"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Trueflayer"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-03",
+						},
+						["Murkyndll"] = {
+							[1] = 58,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Frcp"] = {
+							[1] = 55,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Wannqy"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Farenhyte"] = {
+							[1] = 47,
+							[2] = "GET RICH OR DIE GRINDING",
+							[3] = "2019-06-06",
+						},
+						["Katshy"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Touchable"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Luffaren"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Leremiss"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Darktolight"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vlakz"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jamburglarr"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Ferroxx"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Truckbadass"] = {
+							[1] = 26,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Bruhmius"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Skorch"] = {
+							[1] = 32,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Jeqois"] = {
+							[1] = 60,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Hladogen"] = {
+							[1] = 60,
+							[2] = "Idi Nahuy Gaming",
+							[3] = "2019-06-07",
+						},
+						["Admirablee"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Poyyee"] = {
+							[1] = 16,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Weshallsee"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bustymage"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Imincognito"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Miranice"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Castun"] = {
+							[1] = 17,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Wizels"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rawwitch"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Morticya"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Revue"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Trubikal"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Numorir"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kanra"] = {
+							[1] = 44,
+							[2] = "Im a cop you idiot",
+							[3] = "2019-06-07",
+						},
+						["Zaykaa"] = {
+							[1] = 8,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Angrytestie"] = {
+							[1] = 53,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zegoth"] = {
+							[1] = 49,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Easycheesy"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Testlevelrun"] = {
+							[1] = 19,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Bgsereg"] = {
+							[1] = 28,
+							[2] = "Two Drink Minimum",
+							[3] = "2019-06-03",
+						},
+						["Lennisak"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Chinaesea"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Zalbaar"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Frostysama"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Rottenjay"] = {
 							[1] = 28,
@@ -12531,37 +18633,67 @@ CensusPlus_Database = {
 						["Yamago"] = {
 							[1] = 24,
 							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Nidadada"] = {
+							[1] = 27,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Toorq"] = {
-							[1] = 60,
-							[2] = "COUSINS",
+						["Mavicks"] = {
+							[1] = 17,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Swdpro"] = {
+							[1] = 20,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Ramsyi"] = {
-							[1] = 19,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Bewgs"] = {
+						["Anyaivy"] = {
 							[1] = 58,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-03",
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
 						},
-						["Teethless"] = {
-							[1] = 18,
+						["Citanafk"] = {
+							[1] = 50,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Skinator"] = {
+							[1] = 17,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Illancholou"] = {
+						["Bookboi"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Roshinorix"] = {
+							[1] = 44,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Zefa"] = {
 							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dixxed"] = {
-							[1] = 16,
+						["Eusker"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Zebzer"] = {
+							[1] = 35,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Haleiluyalu"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-03",
 						},
 						["Runaborn"] = {
 							[1] = 55,
@@ -12573,39 +18705,69 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Lhyna"] = {
-							[1] = 25,
-							[2] = "For The Horde Germany",
+						["Rentag"] = {
+							[1] = 45,
+							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
+						},
+						["Spiritina"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Hamuske"] = {
 							[1] = 60,
 							[2] = "Dafes PuG",
 							[3] = "2019-06-06",
 						},
+						["Avenelle"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Megofast"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Golgothseven"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Prispero"] = {
+							[1] = 29,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
 						["Semloh"] = {
 							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Wingoe"] = {
-							[1] = 13,
-							[2] = "",
+						["Svetsow"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
 						["Glacion"] = {
-							[1] = 37,
+							[1] = 38,
 							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Nekrontir"] = {
-							[1] = 43,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Bizidiaole"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Drdukies"] = {
-							[1] = 19,
-							[2] = "Chronic",
+						["Phoenixfmw"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Erogance"] = {
+							[1] = 49,
+							[2] = "Ad Nauseam",
 							[3] = "2019-06-06",
 						},
 						["Lucinev"] = {
@@ -12613,25 +18775,25 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Jaavis"] = {
-							[1] = 10,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Hulksmagic"] = {
+							[1] = 27,
+							[2] = "Im a cop you idiot",
+							[3] = "2019-06-07",
 						},
 						["Deirow"] = {
 							[1] = 54,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Deyong"] = {
 							[1] = 41,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Svonar"] = {
-							[1] = 22,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+						["Illancholou"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Murzok"] = {
 							[1] = 21,
@@ -12643,269 +18805,304 @@ CensusPlus_Database = {
 							[2] = "Two Drink Minimum",
 							[3] = "2019-06-03",
 						},
-						["Errbalist"] = {
-							[1] = 44,
-							[2] = "Servant of Pengting",
-							[3] = "2019-06-06",
-						},
-						["Megofast"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Yuzuru"] = {
-							[1] = 25,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Haliat"] = {
-							[1] = 15,
+						["Mitikuz"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Huehuecoyotl"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gorshokjiv"] = {
-							[1] = 28,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Slayerrx"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fuzzyjones"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Frostodamus"] = {
 							[1] = 20,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Ramsyi"] = {
+							[1] = 19,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Fudgeshot"] = {
+							[1] = 24,
+							[2] = "Im a cop you idiot",
+							[3] = "2019-06-07",
+						},
+						["Gravedjent"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Icypole"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Yuzuru"] = {
+							[1] = 26,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
+						},
+						["Cila"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Raddavy"] = {
+							[1] = 51,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ankmo"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Icerip"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Rizmeister"] = {
+							[1] = 17,
+							[2] = "LFM CLASSIC NA",
+							[3] = "2019-06-07",
+						},
+						["Surime"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Rendomeister"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pomelclassic"] = {
+							[1] = 13,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Zhalych"] = {
+							[1] = 14,
+							[2] = "The PC",
+							[3] = "2019-06-03",
+						},
 						["Frozendream"] = {
 							[1] = 37,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Rendomeister"] = {
-							[1] = 16,
+						["Magiskefalk"] = {
+							[1] = 29,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Meansery"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-04",
+						["Dtnl"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
-						["Avariana"] = {
-							[1] = 31,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Noobwin"] = {
-							[1] = 25,
+						["Platoz"] = {
+							[1] = 58,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Baero"] = {
-							[1] = 13,
+						["Zannaro"] = {
+							[1] = 18,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Levelina"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Mickemage"] = {
 							[1] = 37,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Fivesven"] = {
-							[1] = 33,
+						["Sheeplikeme"] = {
+							[1] = 21,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Clearflame"] = {
+							[1] = 21,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Xfrostesad"] = {
-							[1] = 17,
-							[2] = "",
+						["Froostyz"] = {
+							[1] = 29,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
-						},
-						["Chinaesea"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-04",
 						},
 						["Zombieshuffl"] = {
-							[1] = 48,
+							[1] = 49,
 							[2] = "Something Australian",
-							[3] = "2019-06-06",
-						},
-						["Deezbones"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kostakurta"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ferroxx"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Anyaivy"] = {
-							[1] = 58,
-							[2] = "The Dark Brotherhood",
-							[3] = "2019-06-06",
-						},
-						["Lennisak"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Maggizzle"] = {
-							[1] = 27,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Veganslul"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Swdpro"] = {
-							[1] = 20,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Fermanoneb"] = {
-							[1] = 33,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Rottenskunk"] = {
-							[1] = 41,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Magiskmand"] = {
 							[1] = 12,
 							[2] = "Chronic",
 							[3] = "2019-06-03",
 						},
+						["Dixxed"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Galinice"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Onlydarkness"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hotsama"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Maggizzle"] = {
+							[1] = 27,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Jesse"] = {
+							[1] = 30,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Zeedricia"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Gerk"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Xaxc"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Deathlycold"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
 						["Geantis"] = {
 							[1] = 17,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Malexandan"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Mindcreeper"] = {
+						["Bigblep"] = {
 							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Frostysama"] = {
-							[1] = 29,
+						["Archye"] = {
+							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Voldeport"] = {
-							[1] = 60,
-							[2] = "Dafes PuG",
-							[3] = "2019-06-03",
-						},
-						["Frostpowa"] = {
-							[1] = 18,
-							[2] = "Czechoslovakia",
+						["Veganslul"] = {
+							[1] = 23,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ohohoz"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
+						["Tanteanna"] = {
+							[1] = 7,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Purpels"] = {
+						["Spellmeow"] = {
 							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Joqz"] = {
-							[1] = 2,
+						["Revoman"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Knosoul"] = {
+							[1] = 42,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Katshy"] = {
+						["Unlimit"] = {
 							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Sugarshorts"] = {
-							[1] = 45,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Cacaha"] = {
-							[1] = 25,
-							[2] = "Habibi",
-							[3] = "2019-06-06",
+						["Gozra"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Effinmage"] = {
+							[1] = 30,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
+						},
+						["Masek"] = {
+							[1] = 42,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Psychiatre"] = {
 							[1] = 43,
 							[2] = "Hitokiri",
 							[3] = "2019-06-06",
 						},
-						["Wannqy"] = {
+						["Plutopup"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Anjeys"] = {
 							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Murkyndll"] = {
-							[1] = 58,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zogzogkek"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Masek"] = {
-							[1] = 40,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hladogen"] = {
-							[1] = 60,
-							[2] = "Idi Nahuy Gaming",
-							[3] = "2019-06-06",
-						},
-						["Numorir"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Madmemexd"] = {
-							[1] = 53,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
-						},
-						["Bakemonoh"] = {
-							[1] = 17,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Bpyc"] = {
-							[1] = 11,
+							[1] = 15,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Whizkey"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Dnax"] = {
+							[1] = 53,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Cheerup"] = {
+							[1] = 37,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-03",
+						},
+						["Zileanna"] = {
+							[1] = 25,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Seldager"] = {
+							[1] = 3,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mazarfaker"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Blunkers"] = {
@@ -12913,100 +19110,100 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Frozenwaffle"] = {
-							[1] = 52,
+						["Svetac"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tefiy"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kusannagi"] = {
+							[1] = 49,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Frogrolog"] = {
+							[1] = 15,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Foosi"] = {
+							[1] = 35,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Keost"] = {
+							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Platoz"] = {
-							[1] = 58,
+						["Tocxinc"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vantix"] = {
+							[1] = 52,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Weebsmoker"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Necrosanct"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Buzzbankyear"] = {
+							[1] = 5,
+							[2] = "Illidari",
+							[3] = "2019-06-07",
+						},
+						["Noobwin"] = {
+							[1] = 25,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Kusannagi"] = {
-							[1] = 48,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
-						},
-						["Dedwun"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Baiel"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dikinface"] = {
+						["Jemoer"] = {
 							[1] = 33,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Frankerface"] = {
+							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Fermanoned"] = {
-							[1] = 32,
+						["Vezh"] = {
+							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Vantix"] = {
-							[1] = 51,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Infinety"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Knosoul"] = {
-							[1] = 42,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Clearflame"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cigarettex"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Skinator"] = {
-							[1] = 17,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Cheerup"] = {
-							[1] = 37,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-03",
-						},
-						["Treedancer"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Yuecchi"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Skizzler"] = {
 							[1] = 60,
 							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Windlove"] = {
-							[1] = 25,
+							[1] = 29,
 							[2] = "Heart of Eternity",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Hezzt"] = {
-							[1] = 21,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+						["Firstrage"] = {
+							[1] = 35,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
 						["Demolitia"] = {
 							[1] = 17,
@@ -13018,68 +19215,68 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Frcp"] = {
-							[1] = 55,
+						["Alotofcum"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lukacho"] = {
+							[1] = 30,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Jemoer"] = {
-							[1] = 33,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Blaztamazta"] = {
-							[1] = 15,
+						["Dathne"] = {
+							[1] = 56,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Estel"] = {
+						["Skrinjems"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Brenkirs"] = {
 							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dekroo"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
 						["Shriserk"] = {
-							[1] = 5,
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Fhz"] = {
-							[1] = 25,
-							[2] = "I La Guardia Negra I",
-							[3] = "2019-06-06",
+						["Pintobeanis"] = {
+							[1] = 21,
+							[2] = "Grunts",
+							[3] = "2019-06-07",
 						},
-						["Zmok"] = {
-							[1] = 8,
+						["Sinlahjir"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Azroil"] = {
-							[1] = 4,
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Deadpunk"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Tovur"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Eftamef"] = {
+							[1] = 38,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Isee"] = {
-							[1] = 12,
+						["Zesc"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Snatz"] = {
-							[1] = 12,
+						["Dekroo"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -13088,124 +19285,124 @@ CensusPlus_Database = {
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Thravin"] = {
-							[1] = 43,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Bosqa"] = {
+							[1] = 30,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Rusbebr"] = {
 							[1] = 22,
 							[2] = "BRASIL",
 							[3] = "2019-06-06",
 						},
-						["Crougex"] = {
-							[1] = 56,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Stasonexqt"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Shadoworder"] = {
 							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Khaliva"] = {
-							[1] = 3,
+						["Verifikator"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dreamcastguy"] = {
 							[1] = 23,
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-06",
 						},
-						["Sozpezo"] = {
-							[1] = 5,
+						["Gurty"] = {
+							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Miranice"] = {
-							[1] = 18,
-							[2] = "",
+						["Lebubble"] = {
+							[1] = 10,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Cacaha"] = {
+							[1] = 25,
+							[2] = "Habibi",
 							[3] = "2019-06-06",
 						},
-						["Weedian"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-03",
-						},
-						["Mazarfaker"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Nancypelosii"] = {
+							[1] = 23,
+							[2] = "Quality Assurance",
+							[3] = "2019-06-07",
 						},
 						["Ilvagier"] = {
-							[1] = 38,
+							[1] = 40,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Goingsolo"] = {
-							[1] = 15,
+							[1] = 19,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Zegoth"] = {
-							[1] = 46,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Bestmagus"] = {
-							[1] = 30,
+						["Joanim"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Nerevara"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Zrozzy"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Drair"] = {
-							[1] = 37,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Straponella"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Ebetnormalno"] = {
+						["Racamaul"] = {
 							[1] = 18,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Tanteanna"] = {
-							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Crougex"] = {
+							[1] = 58,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Kooguh"] = {
-							[1] = 41,
+							[1] = 42,
 							[2] = "Nightmares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Archye"] = {
+						["Beatymage"] = {
 							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Raffaellos"] = {
-							[1] = 24,
-							[2] = "Super Adventure Pals",
+						["Frozenwaffle"] = {
+							[1] = 52,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Memeturtle"] = {
-							[1] = 6,
+						["Malexandan"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Zeedricia"] = {
-							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Weedian"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-03",
 						},
-						["Erogance"] = {
-							[1] = 49,
-							[2] = "Ad Nauseam",
+						["Rottenskunk"] = {
+							[1] = 41,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-06",
 						},
 						["Deatlydead"] = {
@@ -13213,50 +19410,50 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Spiritina"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Icementor"] = {
-							[1] = 34,
-							[2] = "FourTwenty",
-							[3] = "2019-06-06",
-						},
-						["Budkevich"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Keost"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Svetsow"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Zhalych"] = {
+						["Mongerald"] = {
 							[1] = 14,
-							[2] = "The PC",
-							[3] = "2019-06-03",
-						},
-						["Kahba"] = {
-							[1] = 60,
-							[2] = "COUSINS",
-							[3] = "2019-06-06",
-						},
-						["Insulatas"] = {
-							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Testlevelrun"] = {
-							[1] = 19,
+						["Hofuspocus"] = {
+							[1] = 30,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
+						},
+						["Eksodus"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Memeturtle"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Sabrinex"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Minglol"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Woopli"] = {
+							[1] = 40,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Southlaker"] = {
+							[1] = 20,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Codor"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Jequavis"] = {
 							[1] = 15,
@@ -13273,308 +19470,303 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dafake"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Magwai"] = {
+							[1] = 55,
+							[2] = "Space Jam",
+							[3] = "2019-06-07",
 						},
 						["Bernardupuit"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Shamonah"] = {
-							[1] = 23,
-							[2] = "",
+						["Teethless"] = {
+							[1] = 18,
+							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Trueflayer"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-03",
+						["Akranos"] = {
+							[1] = 22,
+							[2] = "Leviathan",
+							[3] = "2019-06-07",
 						},
-						["Haleiluyalu"] = {
-							[1] = 4,
+						["Bigdtoby"] = {
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Mithotyn"] = {
-							[1] = 5,
+							[1] = 13,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Fuzzyjones"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Wellew"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Cajivak"] = {
-							[1] = 12,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Zloimagus"] = {
+						["Gorshokjiv"] = {
 							[1] = 28,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Jamburglarr"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Gurty"] = {
-							[1] = 22,
+						["Kupo"] = {
+							[1] = 3,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Rentag"] = {
-							[1] = 45,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Mileger"] = {
-							[1] = 20,
+						["Millilienium"] = {
+							[1] = 23,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Errbalist"] = {
+							[1] = 44,
+							[2] = "Servant of Pengting",
 							[3] = "2019-06-06",
+						},
+						["Mageskies"] = {
+							[1] = 19,
+							[2] = "Zug Zug Team Six",
+							[3] = "2019-06-07",
+						},
+						["Puddingmeat"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Coisoo"] = {
 							[1] = 36,
 							[2] = "The Bronze Crusade",
 							[3] = "2019-06-06",
 						},
-						["Zileanna"] = {
-							[1] = 25,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Monoi"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ankmo"] = {
+						["Bewgs"] = {
 							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
 						},
-						["Rotmind"] = {
-							[1] = 11,
+						["Racalla"] = {
+							[1] = 26,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Oddfella"] = {
+							[1] = 26,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Shizzelz"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Annebonny"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Valonfort"] = {
+						["Lhyna"] = {
+							[1] = 25,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Budkevich"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shuaibaba"] = {
 							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Prexo"] = {
+							[1] = 5,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Treedancer"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Nidadada"] = {
-							[1] = 27,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ruggles"] = {
-							[1] = 26,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Trypmagla"] = {
-							[1] = 22,
+						["Serekja"] = {
+							[1] = 14,
 							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Drinkvendor"] = {
-							[1] = 37,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Superbroli"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Ogkushblunts"] = {
 							[1] = 39,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Veillor"] = {
+						["Darthfrozone"] = {
 							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Bonewizard"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Morticya"] = {
+						["Crewmage"] = {
+							[1] = 19,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Zragna"] = {
+							[1] = 10,
+							[2] = "Blyat",
+							[3] = "2019-06-07",
+						},
+						["Fullfrys"] = {
 							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
-						["Sobnali"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Beatymage"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Overlordes"] = {
-							[1] = 32,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Megicstick"] = {
+						["Holunseven"] = {
 							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Boeseaua"] = {
-							[1] = 18,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+						["Omegawtf"] = {
+							[1] = 15,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Zang"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Kasuti"] = {
 							[1] = 27,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Darktolight"] = {
-							[1] = 11,
-							[2] = "",
+						["Drair"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Eusker"] = {
-							[1] = 12,
+						["Zirizza"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Xxvideos"] = {
-							[1] = 39,
-							[2] = "AGGRESSIVE IDIOTS",
-							[3] = "2019-06-06",
-						},
-						["Deathlycold"] = {
-							[1] = 1,
+						["Bootysects"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Fastiv"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Cusper"] = {
-							[1] = 26,
+							[1] = 27,
 							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Charwizard"] = {
-							[1] = 29,
+						["Kimyouth"] = {
+							[1] = 32,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Mageitor"] = {
-							[1] = 13,
+						["Crowlly"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Natkyina"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Garyt"] = {
+							[1] = 14,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Phoenixfmw"] = {
-							[1] = 6,
+						["Lichess"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Tercoil"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Beacavus"] = {
-							[1] = 33,
-							[2] = "The PC",
-							[3] = "2019-06-06",
+						["Retromer"] = {
+							[1] = 25,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Icypower"] = {
 							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Farenhyte"] = {
-							[1] = 47,
-							[2] = "GET RICH OR DIE GRINDING",
-							[3] = "2019-06-06",
+						["Dalaxan"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Onesecbro"] = {
-							[1] = 12,
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Tnucmai"] = {
-							[1] = 32,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-06",
+						["Cioccolata"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
-						["Luffaren"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Leremiss"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gerk"] = {
-							[1] = 27,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Schmiddey"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Icehorde"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Danmages"] = {
-							[1] = 21,
-							[2] = "The Dark Brotherhood",
-							[3] = "2019-06-06",
-						},
-						["Okazyalen"] = {
-							[1] = 10,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Icypole"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Marcopoloo"] = {
+						["Fivesven"] = {
 							[1] = 34,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Tokenmato"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Matteboii"] = {
+							[1] = 17,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Milfslayer"] = {
+							[1] = 60,
+							[2] = "Troll Lives Matter kek",
+							[3] = "2019-06-07",
+						},
+						["Rbqvv"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Danmages"] = {
+							[1] = 22,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
+						},
+						["Frostyei"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marwynn"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Modestmage"] = {
+							[1] = 30,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 					},
 					["Priest"] = {
-						["Skallah"] = {
-							[1] = 45,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
 						["Apostolpablo"] = {
 							[1] = 1,
 							[2] = "",
@@ -13590,34 +19782,39 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Lilliene"] = {
+							[1] = 20,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
 						["Jinou"] = {
 							[1] = 45,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Beastlyhealz"] = {
-							[1] = 39,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Uvron"] = {
-							[1] = 22,
+						["Paxte"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Putrefactum"] = {
-							[1] = 47,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
+						["Andyseemigh"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Yodrick"] = {
+						["Oombae"] = {
 							[1] = 18,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Meepe"] = {
-							[1] = 29,
-							[2] = "Order of Chaos",
+						["Sheban"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nevalaywka"] = {
+							[1] = 49,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
 						["Choirboylovr"] = {
@@ -13625,40 +19822,35 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Baabern"] = {
-							[1] = 34,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Abraxasas"] = {
+						["Odivino"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kohlroulade"] = {
-							[1] = 32,
+						["Zyarri"] = {
+							[1] = 21,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Gengarr"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Biestypriest"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Oblyvion"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Pofflirini"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Dhaansinn"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Lufonda"] = {
-							[1] = 38,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Lambatunga"] = {
-							[1] = 60,
-							[2] = "Fear and Loathing",
-							[3] = "2019-06-06",
+						["Yuyuhaku"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Krallzgodx"] = {
 							[1] = 38,
@@ -13670,68 +19862,53 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Sectionbb"] = {
-							[1] = 60,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Fellcarier"] = {
-							[1] = 28,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Realegirl"] = {
-							[1] = 25,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Seppspriest"] = {
-							[1] = 23,
+						["Kaidor"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Vata"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Vanagrist"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Daggerhugger"] = {
-							[1] = 20,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-03",
-						},
-						["Veralynn"] = {
-							[1] = 39,
+						["Badcorpse"] = {
+							[1] = 24,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Graviity"] = {
+							[1] = 14,
+							[2] = "Something Australian",
+							[3] = "2019-06-07",
+						},
+						["Mstakee"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Surprisexd"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lyuro"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Nickcc"] = {
-							[1] = 14,
+							[1] = 15,
 							[2] = "Spanishhazlegubia",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Vdugu"] = {
-							[1] = 21,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Cholleric"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Loise"] = {
 							[1] = 38,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Thecancer"] = {
-							[1] = 41,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Popeadope"] = {
-							[1] = 20,
+						["Testingthis"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -13740,80 +19917,55 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Credish"] = {
-							[1] = 25,
-							[2] = "Cold As Ice",
-							[3] = "2019-06-06",
-						},
-						["Perfidus"] = {
-							[1] = 33,
-							[2] = "Chronic",
+						["Yussii"] = {
+							[1] = 46,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Gerelka"] = {
-							[1] = 32,
+							[1] = 35,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Holysesh"] = {
-							[1] = 55,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-03",
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Phucmai"] = {
-							[1] = 26,
+							[1] = 29,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-03",
-						},
-						["Mahrako"] = {
-							[1] = 45,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Hrold"] = {
-							[1] = 35,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Incoma"] = {
-							[1] = 19,
+							[1] = 22,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Exuberance"] = {
-							[1] = 12,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Lynnfield"] = {
+							[1] = 28,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
 						},
 						["Lemonislime"] = {
 							[1] = 37,
 							[2] = "The Bronze Crusade",
 							[3] = "2019-06-06",
 						},
-						["Gangreene"] = {
-							[1] = 32,
+						["Eyewitness"] = {
+							[1] = 20,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Kalluss"] = {
-							[1] = 9,
+						["Keliandeniu"] = {
+							[1] = 38,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Wowowowza"] = {
 							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-03",
-						},
-						["Efialtisi"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Pasunpretre"] = {
-							[1] = 17,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
 						},
 						["Timmytumor"] = {
 							[1] = 23,
@@ -13825,10 +19977,15 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Madisonivy"] = {
-							[1] = 54,
-							[2] = "The Dark Brotherhood",
-							[3] = "2019-06-06",
+						["Zarleen"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Skuggmannen"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Healaitrai"] = {
 							[1] = 3,
@@ -13840,50 +19997,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Snufster"] = {
+						["Drunki"] = {
 							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Cereme"] = {
-							[1] = 20,
-							[2] = "",
 							[3] = "2019-06-06",
-						},
-						["Mortala"] = {
-							[1] = 53,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Priory"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Uglyolga"] = {
-							[1] = 51,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Leichi"] = {
-							[1] = 47,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Aniska"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ziggycuff"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Thend"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
 						},
 						["Quarksalber"] = {
 							[1] = 60,
@@ -13895,58 +20012,13 @@ CensusPlus_Database = {
 							[2] = "Super Adventure Pals",
 							[3] = "2019-06-06",
 						},
-						["Giube"] = {
-							[1] = 9,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-03",
-						},
-						["Gugenstein"] = {
-							[1] = 11,
+						["Acidtouch"] = {
+							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Magloire"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Radlar"] = {
 							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Darkmedicine"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dregis"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Cexscarlett"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mallianno"] = {
-							[1] = 28,
-							[2] = "Los Baldaos",
-							[3] = "2019-06-06",
-						},
-						["Jsav"] = {
-							[1] = 27,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Unnforgiven"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Virixx"] = {
-							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -13955,55 +20027,45 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Acidtrance"] = {
-							[1] = 13,
+						["Eggybollock"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Gotteech"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Virixx"] = {
+							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Insomnnia"] = {
-							[1] = 18,
+							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Penuts"] = {
-							[1] = 17,
-							[2] = "LFM CLASSIC NA",
-							[3] = "2019-06-04",
+							[1] = 22,
+							[2] = "The PC",
+							[3] = "2019-06-07",
 						},
 						["Gitseine"] = {
 							[1] = 36,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-03",
 						},
-						["Ghightap"] = {
-							[1] = 17,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Sulisa"] = {
-							[1] = 54,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
 						["Priestydk"] = {
 							[1] = 60,
 							[2] = "Danish Bacon",
 							[3] = "2019-06-06",
 						},
-						["Zinjila"] = {
-							[1] = 25,
+						["Egttz"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Arkoproceder"] = {
-							[1] = 34,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mstakee"] = {
-							[1] = 30,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Hangingman"] = {
 							[1] = 10,
@@ -14020,65 +20082,35 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Papiix"] = {
-							[1] = 22,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Dppriest"] = {
+							[1] = 27,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
 						},
 						["Tallisia"] = {
 							[1] = 13,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Heralin"] = {
-							[1] = 35,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Miltorand"] = {
-							[1] = 47,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Heylucky"] = {
-							[1] = 60,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Heligfan"] = {
-							[1] = 27,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Sotfjes"] = {
-							[1] = 32,
+						["Quarmia"] = {
+							[1] = 23,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Peanutoil"] = {
 							[1] = 28,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Mischaka"] = {
-							[1] = 50,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
 						["Dryonkerz"] = {
 							[1] = 31,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Deogorath"] = {
-							[1] = 12,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
-						},
-						["Shadoijin"] = {
-							[1] = 25,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Veritous"] = {
+							[1] = 53,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
 						},
 						["Goodmom"] = {
 							[1] = 60,
@@ -14090,144 +20122,79 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Reshiprieh"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Coinshy"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Healthbotz"] = {
-							[1] = 38,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Angeyke"] = {
-							[1] = 26,
+						["Lliroi"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Harve"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Zoltie"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Unfology"] = {
 							[1] = 44,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Nelltu"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Stref"] = {
-							[1] = 10,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Drfolamour"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Shakron"] = {
-							[1] = 26,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Christoberto"] = {
+						["Pinchen"] = {
 							[1] = 25,
-							[2] = "",
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Ricaperri"] = {
-							[1] = 43,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-06",
+						["Kraftkato"] = {
+							[1] = 13,
+							[2] = "Azeroth Swim Team",
+							[3] = "2019-06-07",
 						},
-						["Moonxpriest"] = {
-							[1] = 32,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Blackup"] = {
-							[1] = 34,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Metsu"] = {
-							[1] = 31,
-							[2] = "Los Baldaos",
-							[3] = "2019-06-06",
-						},
-						["Odivino"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Seikers"] = {
+							[1] = 13,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Iksheal"] = {
 							[1] = 21,
 							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Deogorath"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
 							[3] = "2019-06-06",
 						},
-						["Aoru"] = {
-							[1] = 22,
+						["Alliano"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Miorick"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Genialt"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
-						},
-						["Yussii"] = {
-							[1] = 46,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Clawsdogg"] = {
-							[1] = 23,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Voidsum"] = {
-							[1] = 16,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Marlentha"] = {
-							[1] = 46,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Megamom"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-04",
 						},
 						["Gispp"] = {
 							[1] = 32,
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
+						["Kazankov"] = {
+							[1] = 29,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
 						["Sparcley"] = {
 							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kazankov"] = {
-							[1] = 28,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Archdeacon"] = {
-							[1] = 60,
-							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
 						["Hydrazx"] = {
@@ -14240,54 +20207,39 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Aoyts"] = {
+						["Tilrein"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zerothekill"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sotfjes"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sdsasd"] = {
 							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gidsik"] = {
-							[1] = 25,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Miorick"] = {
-							[1] = 59,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Koobi"] = {
-							[1] = 47,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-03",
-						},
-						["Pastafariana"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Goldnate"] = {
-							[1] = 25,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Skiwwer"] = {
 							[1] = 11,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Andyseemigh"] = {
+						["Smuggu"] = {
 							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-03",
+							[2] = "Last Ascension",
+							[3] = "2019-06-07",
 						},
 						["Gnarghharrgh"] = {
 							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Crreature"] = {
-							[1] = 39,
-							[2] = "Czechoslovakia",
 							[3] = "2019-06-06",
 						},
 						["Dudvah"] = {
@@ -14295,60 +20247,20 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
-						["Fransico"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
 						["Invinciblee"] = {
 							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Sherbatsky"] = {
-							[1] = 31,
+							[1] = 32,
 							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Erikd"] = {
-							[1] = 28,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Phuzader"] = {
-							[1] = 5,
+						["Skittyloaf"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Marameste"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kalerus"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Neptic"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hendewie"] = {
-							[1] = 29,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Thehardone"] = {
-							[1] = 24,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
-						},
-						["Deadanarch"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Pynais"] = {
 							[1] = 60,
@@ -14356,122 +20268,127 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Spillmyheal"] = {
-							[1] = 38,
+							[1] = 39,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Simplified"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
+							[1] = 13,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Edenova"] = {
+						["Hollowsoul"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ayolala"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Lavalette"] = {
 							[1] = 20,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Drunki"] = {
+						["Vadmal"] = {
 							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Bedichan"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Oneups"] = {
-							[1] = 1,
+						["Shadoijin"] = {
+							[1] = 25,
 							[2] = "",
 							[3] = "2019-06-03",
-						},
-						["Zappip"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Hjamler"] = {
-							[1] = 49,
-							[2] = "Danish Bacon",
-							[3] = "2019-06-06",
-						},
-						["Nikkidixx"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Ourobora"] = {
-							[1] = 31,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
-						},
-						["Boyl"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
 						},
 						["Inholyflames"] = {
 							[1] = 16,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
-						["Narepriest"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Alisanne"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Illirien"] = {
+						["Drfolamour"] = {
 							[1] = 18,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Genialt"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Thehardone"] = {
+							[1] = 24,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
 						},
-						["Eggybollock"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Stupidpriest"] = {
+							[1] = 32,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
 						},
-						["Preparing"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Clawabhorsen"] = {
+							[1] = 28,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
 						},
-						["Surprisexd"] = {
-							[1] = 8,
+						["Lizardoly"] = {
+							[1] = 21,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Devilprayer"] = {
 							[1] = 33,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Kaidor"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Testingthis"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Skuridat"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Wanabuyaheal"] = {
-							[1] = 49,
+						["Fortifieds"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wafnor"] = {
+							[1] = 42,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Arkhantis"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Woderick"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Diealmighty"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Missuspieces"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Killswitcher"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Caomengde"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Oneups"] = {
+							[1] = 22,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Cexscarlett"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -14480,34 +20397,54 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Jackojack"] = {
-							[1] = 58,
-							[2] = "Wings",
-							[3] = "2019-06-06",
-						},
-						["Nevalaywka"] = {
-							[1] = 49,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Nevrland"] = {
-							[1] = 8,
+						["Uvron"] = {
+							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
 						},
-						["Irisice"] = {
-							[1] = 56,
+						["Yodrick"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Meepe"] = {
+							[1] = 29,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Baabern"] = {
+							[1] = 34,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Abraxasas"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dhaansinn"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-06",
+						},
+						["Suganese"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lufonda"] = {
+							[1] = 40,
 							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Lambatunga"] = {
+							[1] = 60,
+							[2] = "Fear and Loathing",
 							[3] = "2019-06-06",
 						},
-						["Oblyvion"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Pinchen"] = {
+						["Zinjila"] = {
 							[1] = 25,
-							[2] = "Waiting For Retail",
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Geepie"] = {
@@ -14515,19 +20452,614 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Frr"] = {
+						["Sectionbb"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Fellcarier"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Swearlolz"] = {
+							[1] = 7,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Realegirl"] = {
+							[1] = 25,
+							[2] = "Revolution",
+							[3] = "2019-06-06",
+						},
+						["Altarboo"] = {
+							[1] = 49,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Daggerhugger"] = {
+							[1] = 25,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Veralynn"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Shadowstruck"] = {
+							[1] = 15,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
+						},
+						["Julistrasza"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vdugu"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Thecancer"] = {
+							[1] = 42,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Popeadope"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Cchloee"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nightlander"] = {
+							[1] = 28,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Loftye"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Credish"] = {
+							[1] = 25,
+							[2] = "Cold As Ice",
+							[3] = "2019-06-06",
+						},
+						["Luchiy"] = {
+							[1] = 46,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Perfidus"] = {
+							[1] = 34,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Stitchedup"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aidsfunnel"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pasties"] = {
+							[1] = 6,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Mahrako"] = {
+							[1] = 45,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Hrold"] = {
+							[1] = 35,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Fookmie"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Exuberance"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Barbarin"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nitoth"] = {
+							[1] = 41,
+							[2] = "Mud Hut",
+							[3] = "2019-06-07",
+						},
+						["Blazuk"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gangreene"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kalluss"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Vilechaos"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Efialtisi"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Pasunpretre"] = {
+							[1] = 17,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Voidruckus"] = {
+							[1] = 26,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Leatt"] = {
+							[1] = 17,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Miggles"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Preparing"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Khest"] = {
 							[1] = 31,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Badcorpse"] = {
-							[1] = 23,
+						["Velnos"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Snufster"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Minalinsky"] = {
+							[1] = 46,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Mortala"] = {
+							[1] = 54,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Priory"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Hendewie"] = {
+							[1] = 29,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Wagney"] = {
+						["Ihealyou"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marsello"] = {
+							[1] = 12,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Roocksteady"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Salve"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Fourk"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Aniska"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ziggycuff"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Thend"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Miocito"] = {
+							[1] = 60,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Healztokill"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Methmessiah"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pristas"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Symphonii"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jumboo"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vincz"] = {
+							[1] = 28,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Giube"] = {
+							[1] = 9,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-03",
+						},
+						["Gugenstein"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zorpse"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kwopi"] = {
+							[1] = 46,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Holyass"] = {
+							[1] = 51,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Nerealno"] = {
+							[1] = 15,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
+						},
+						["Dregis"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Illirien"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mallianno"] = {
+							[1] = 28,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-06",
+						},
+						["Bedichan"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Blackup"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Skorvir"] = {
+							[1] = 36,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Orenda"] = {
+							[1] = 31,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Smitebolt"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nikkidixx"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Callbito"] = {
+							[1] = 11,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-07",
+						},
+						["Drputricide"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Neptic"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Sulisa"] = {
+							[1] = 54,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Papiix"] = {
+							[1] = 22,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Wolloloo"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Madisonivy"] = {
+							[1] = 55,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
+						},
+						["Samozvanec"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Zappip"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Jsav"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Holythefat"] = {
+							[1] = 37,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Magloire"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Irisice"] = {
 							[1] = 56,
-							[2] = "Reign of Chaos",
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Heralin"] = {
+							[1] = 35,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Rothgorish"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Heylucky"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Heligfan"] = {
+							[1] = 27,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Goldnate"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Gavindrads"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aoyts"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Borvo"] = {
+							[1] = 24,
+							[2] = "Vader",
+							[3] = "2019-06-07",
+						},
+						["Leichi"] = {
+							[1] = 49,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Offabean"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marameste"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Acidtrance"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Reshiprieh"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fayla"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Healthbotz"] = {
+							[1] = 38,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Wolgorn"] = {
+							[1] = 18,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Fransico"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Raverzhul"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cereme"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Voidsum"] = {
+							[1] = 16,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Skallahtest"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Imimpatient"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shakron"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Scarp"] = {
+							[1] = 44,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Primalhatred"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Moonxpriest"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Veroswen"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Wandspam"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ologabeam"] = {
+							[1] = 35,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Vanagrist"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Aoru"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vanpriest"] = {
+							[1] = 18,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Narepriest"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Stref"] = {
+							[1] = 10,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Erikd"] = {
+							[1] = 28,
+							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
 						["Firlasd"] = {
@@ -14535,7 +21067,202 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Missuspieces"] = {
+						["Miltorand"] = {
+							[1] = 47,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Ourobora"] = {
+							[1] = 31,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Pofflirini"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Archdeacon"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Crreature"] = {
+							[1] = 42,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Frr"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shinigaml"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kurjam"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Nelltu"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Koobi"] = {
+							[1] = 48,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Pastafariana"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Putrefactum"] = {
+							[1] = 47,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Blueyez"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Angeyke"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Froggles"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nanotehnolog"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Christoberto"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Manapriest"] = {
+							[1] = 47,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
+						},
+						["Hjamler"] = {
+							[1] = 49,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-06",
+						},
+						["Kohlroulade"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kalerus"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Phuzader"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Shortbuscrew"] = {
+							[1] = 44,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Seppspriest"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Krankerd"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Alisanne"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Skallah"] = {
+							[1] = 48,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Nevrland"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Deadanarch"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Boyl"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Wanabuyaheal"] = {
+							[1] = 49,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Beastlyhealz"] = {
+							[1] = 39,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Deroth"] = {
+							[1] = 60,
+							[2] = "Task Force Loktar",
+							[3] = "2019-06-07",
+						},
+						["Megamom"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Troost"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Darkmedicine"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Uglyolga"] = {
+							[1] = 51,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Bigoldog"] = {
+							[1] = 35,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Gedigedi"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vata"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
@@ -14545,29 +21272,79 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Daniasbf"] = {
-							[1] = 18,
-							[2] = "No Gold Train Skills",
+						["Pnevmoslon"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ghightap"] = {
+							[1] = 20,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Karloff"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Grindtesttwo"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marlentha"] = {
+							[1] = 47,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Gidsik"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Rothgorish"] = {
+						["Praylina"] = {
 							[1] = 28,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ricaperri"] = {
+							[1] = 43,
+							[2] = "Zug Zug por la Horda",
 							[3] = "2019-06-06",
 						},
-						["Misq"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Wolloloo"] = {
-							[1] = 17,
+						["Lazzaruuss"] = {
+							[1] = 33,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Deadbishop"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boxity"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Ggyyder"] = {
-							[1] = 25,
+							[1] = 26,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cepelin"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jackojack"] = {
+							[1] = 59,
+							[2] = "Wings",
+							[3] = "2019-06-07",
+						},
+						["Clawsdogg"] = {
+							[1] = 23,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
 						["Notsquib"] = {
@@ -14575,49 +21352,124 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Healinsasin"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Unnforgiven"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Ancyra"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Huoranperse"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mischaka"] = {
+							[1] = 51,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Ebensee"] = {
+							[1] = 44,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Wagney"] = {
+							[1] = 57,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Arkoproceder"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Zoltie"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bumtoad"] = {
+							[1] = 18,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Daniasbf"] = {
+							[1] = 18,
+							[2] = "No Gold Train Skills",
+							[3] = "2019-06-03",
+						},
+						["Metsu"] = {
+							[1] = 32,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Misq"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Edenova"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fuzzylol"] = {
+							[1] = 48,
+							[2] = "Chad Immersion Squad",
+							[3] = "2019-06-07",
+						},
+						["Udpriestt"] = {
+							[1] = 27,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
 					},
 				},
 				["Orc"] = {
 					["Warrior"] = {
-						["Bloodarms"] = {
-							[1] = 53,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-03",
+						["Haudraufnix"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Sippyk"] = {
-							[1] = 15,
+						["Besilent"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Trreka"] = {
-							[1] = 7,
+							[1] = 17,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Dezdax"] = {
 							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Hodensack"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Unichef"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ctpop"] = {
-							[1] = 42,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Tugarinx"] = {
-							[1] = 4,
+						["Dakha"] = {
+							[1] = 38,
 							[2] = "",
 							[3] = "2019-06-03",
+						},
+						["Tonces"] = {
+							[1] = 22,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Darkviper"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Shib"] = {
 							[1] = 48,
@@ -14627,11 +21479,6 @@ CensusPlus_Database = {
 						["Yawgo"] = {
 							[1] = 45,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Missbrutalis"] = {
-							[1] = 47,
-							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Bozard"] = {
@@ -14649,13 +21496,623 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Migiz"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Platestack"] = {
+							[1] = 60,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
 						},
 						["Draenara"] = {
 							[1] = 46,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bankya"] = {
+							[1] = 1,
+							[2] = "Bank",
+							[3] = "2019-06-03",
+						},
+						["Krashas"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ouek"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Lofthod"] = {
+							[1] = 9,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Sokranga"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Crally"] = {
+							[1] = 37,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gqreaper"] = {
+							[1] = 40,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Lloyydbanks"] = {
+							[1] = 5,
+							[2] = "Basic Bandits",
+							[3] = "2019-06-07",
+						},
+						["Khamsiyega"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Tinggoskraa"] = {
+							[1] = 23,
+							[2] = "Anonymous",
+							[3] = "2019-06-07",
+						},
+						["Resakas"] = {
+							[1] = 28,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Jendrelgun"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Gluteusmaxim"] = {
+							[1] = 29,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Grogrind"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Avedominus"] = {
+							[1] = 30,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Broxigaro"] = {
+							[1] = 43,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Ramarogg"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kronaplz"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rynoman"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Starichok"] = {
+							[1] = 59,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Nagishom"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Malafama"] = {
+							[1] = 23,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Ragehar"] = {
+							[1] = 29,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Separu"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lefalkitaly"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Vackka"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tukxy"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Plazwarrior"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Lolobubu"] = {
+							[1] = 60,
+							[2] = "FourTwenty",
+							[3] = "2019-06-07",
+						},
+						["Nuuskapeke"] = {
+							[1] = 37,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Hulkerella"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Gwine"] = {
+							[1] = 17,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
+						},
+						["Sjnsen"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Crustacea"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pomposa"] = {
+							[1] = 16,
+							[2] = "BRASIL",
+							[3] = "2019-06-07",
+						},
+						["Shushuu"] = {
+							[1] = 59,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Gargalo"] = {
+							[1] = 60,
+							[2] = "Fury",
+							[3] = "2019-06-07",
+						},
+						["Khashayar"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ifeelupain"] = {
+							[1] = 33,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Oakenfjord"] = {
+							[1] = 31,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Vanzi"] = {
+							[1] = 32,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Zalachenko"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Fitish"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Reydo"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tankaslot"] = {
+							[1] = 39,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Pitufa"] = {
+							[1] = 28,
+							[2] = "Leviathan",
+							[3] = "2019-06-07",
+						},
+						["Megathran"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fonamputator"] = {
+							[1] = 60,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Mesmerizing"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Lovastas"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Cyndle"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Iamgreenween"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chicc"] = {
+							[1] = 11,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-04",
+						},
+						["Radgost"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Orkwar"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chargeyoface"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gagommacok"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Haxsel"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Rafus"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dovaknight"] = {
+							[1] = 60,
+							[2] = "Idi Nahuy Gaming",
+							[3] = "2019-06-07",
+						},
+						["Asurik"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Plznotheface"] = {
+							[1] = 46,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Warfangx"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Arbeez"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Screwnicorn"] = {
+							[1] = 13,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Zrzbznz"] = {
+							[1] = 26,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Megaboi"] = {
+							[1] = 18,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Groovstreet"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Hysteri"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Revushka"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lugoros"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Zlega"] = {
+							[1] = 60,
+							[2] = "Knights of the Veil",
+							[3] = "2019-06-07",
+						},
+						["Lestar"] = {
+							[1] = 37,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Orkzisdabest"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Po"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Magthraka"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kefear"] = {
+							[1] = 46,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Meaorc"] = {
+							[1] = 43,
+							[2] = "Mud Hut",
+							[3] = "2019-06-07",
+						},
+						["Zino"] = {
+							[1] = 60,
+							[2] = "SMASH",
+							[3] = "2019-06-07",
+						},
+						["Thewindfurry"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Jordarik"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Sviatogor"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Vichli"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Smasheyboi"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dreadass"] = {
+							[1] = 18,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Peacelilly"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Tstzz"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Happyglow"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Laraxpy"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Detonate"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Mimosa"] = {
+							[1] = 28,
+							[2] = "BRASIL",
+							[3] = "2019-06-06",
+						},
+						["Arganoo"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Afterlike"] = {
+							[1] = 53,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Gorrork"] = {
+							[1] = 11,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Gartonk"] = {
+							[1] = 26,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-06",
+						},
+						["Lesnic"] = {
+							[1] = 13,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Pickleskinn"] = {
+							[1] = 45,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Locknarosh"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Gongale"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gorkamorka"] = {
+							[1] = 34,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Wucash"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Harushanka"] = {
+							[1] = 29,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Venersis"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Muwken"] = {
+							[1] = 47,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-06",
+						},
+						["Argzel"] = {
+							[1] = 36,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Bloodarms"] = {
+							[1] = 55,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Sippyk"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kuruke"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Snickelfritz"] = {
+							[1] = 15,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Rompehuesos"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-04",
+						},
+						["Hodensack"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Xeryz"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kunnay"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Slashsit"] = {
+							[1] = 40,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Tugarinx"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Spankthis"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Smokealots"] = {
+							[1] = 33,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Alicher"] = {
+							[1] = 10,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
+						["Thotbby"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Nitrixi"] = {
+							[1] = 23,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Abraxaza"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Migiz"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -14664,15 +22121,15 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Duluk"] = {
-							[1] = 22,
-							[2] = "Super Adventure Pals",
+						["Torondir"] = {
+							[1] = 46,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Bankya"] = {
-							[1] = 1,
-							[2] = "Bank",
-							[3] = "2019-06-03",
+						["Glarr"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Thebutcherx"] = {
 							[1] = 59,
@@ -14707,22 +22164,12 @@ CensusPlus_Database = {
 						["Pengting"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Gqreaper"] = {
-							[1] = 40,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Khamsiyega"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Resakas"] = {
-							[1] = 26,
-							[2] = "Los Baldaos",
-							[3] = "2019-06-06",
+						["Dpssensei"] = {
+							[1] = 28,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Zamany"] = {
 							[1] = 43,
@@ -14744,60 +22191,80 @@ CensusPlus_Database = {
 							[2] = "Raven Warcries",
 							[3] = "2019-06-06",
 						},
-						["Avedominus"] = {
-							[1] = 29,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Neophren"] = {
-							[1] = 20,
+						["Riiplash"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Tinae"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Fenkz"] = {
 							[1] = 22,
 							[2] = "No Beta Invite",
 							[3] = "2019-06-06",
 						},
+						["Borcuxa"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
 						["Getarer"] = {
-							[1] = 28,
+							[1] = 29,
 							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Deimosin"] = {
-							[1] = 13,
+						["Kenroger"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chubbawub"] = {
+							[1] = 40,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Healmybooty"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Armandiwar"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Gamorax"] = {
+							[1] = 5,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
 						},
 						["Pohada"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Lefalkitaly"] = {
-							[1] = 10,
+						["Clapsdog"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Vackka"] = {
-							[1] = 32,
+						["Erace"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Notwarchief"] = {
+							[1] = 19,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Cenanovic"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Blatsch"] = {
 							[1] = 34,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Taytos"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Hollowheart"] = {
 							[1] = 60,
@@ -14807,102 +22274,182 @@ CensusPlus_Database = {
 						["Uhrodor"] = {
 							[1] = 48,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Nuuskapeke"] = {
-							[1] = 37,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Hulkerella"] = {
-							[1] = 11,
+						["Icypher"] = {
+							[1] = 16,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
 						},
-						["Gwine"] = {
-							[1] = 17,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Krugnak"] = {
+							[1] = 56,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Sjnsen"] = {
+						["Giantsmilk"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Pepeka"] = {
+							[1] = 30,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Ehnn"] = {
 							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Bonafid"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Verworg"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Sigaretkina"] = {
-							[1] = 19,
+							[1] = 22,
 							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Furyei"] = {
+							[1] = 9,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Deimosin"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boshak"] = {
+							[1] = 5,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Fables"] = {
+						["Fartendur"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Grumling"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ramarok"] = {
+							[1] = 28,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Juhb"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Najs"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Potii"] = {
 							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Twofed"] = {
 							[1] = 12,
 							[2] = "Crossroad Festival",
 							[3] = "2019-06-03",
 						},
-						["Ifeelupain"] = {
-							[1] = 33,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Ymotep"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aggrax"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Krianon"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-03",
 						},
 						["Musclewoman"] = {
 							[1] = 60,
 							[2] = "Dafes PuG",
 							[3] = "2019-06-06",
 						},
+						["Vajuicy"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Reardean"] = {
-							[1] = 21,
+							[1] = 22,
 							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Draktak"] = {
-							[1] = 59,
-							[2] = "Furiously Average",
-							[3] = "2019-06-03",
+						["Notoriousrip"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Furyei"] = {
-							[1] = 4,
+						["Whetever"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Groenekech"] = {
-							[1] = 20,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Rokhgar"] = {
+							[1] = 35,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Zuggsy"] = {
-							[1] = 55,
-							[2] = "BRASIL",
-							[3] = "2019-06-06",
+						["Widhok"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Adassor"] = {
+							[1] = 30,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
 						},
 						["Pudzianozki"] = {
 							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Astjota"] = {
-							[1] = 10,
+						["Stummp"] = {
+							[1] = 7,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Fadedzleepy"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Arzol"] = {
-							[1] = 40,
+							[1] = 41,
 							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Zabiyka"] = {
 							[1] = 40,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Fonamputator"] = {
-							[1] = 60,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Bambara"] = {
+							[1] = 29,
+							[2] = "I bims Horde",
+							[3] = "2019-06-07",
 						},
 						["Fartykvmasle"] = {
 							[1] = 24,
@@ -14914,64 +22461,54 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Mesmerizing"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+						["Yigeheshang"] = {
+							[1] = 13,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
 						},
-						["Lovastas"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Saswitra"] = {
-							[1] = 52,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Stekvodoo"] = {
-							[1] = 54,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-06",
-						},
-						["Daddykrys"] = {
-							[1] = 35,
-							[2] = "The PC",
-							[3] = "2019-06-06",
-						},
-						["Chicc"] = {
-							[1] = 11,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-04",
-						},
-						["Radgost"] = {
+						["Niftyfury"] = {
 							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Hokzok"] = {
-							[1] = 31,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
+						["Craply"] = {
+							[1] = 33,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
 						},
-						["Chargeyoface"] = {
-							[1] = 6,
+						["Zakatrupior"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Bahamok"] = {
-							[1] = 26,
+						["Saswitra"] = {
+							[1] = 56,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Gearona"] = {
+							[1] = 29,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Togres"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Stekvodoo"] = {
+							[1] = 54,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Sevenlofi"] = {
+							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Haxsel"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Rafus"] = {
-							[1] = 2,
-							[2] = "",
+						["Xiasa"] = {
+							[1] = 20,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
 						["Eisenhirn"] = {
@@ -14979,180 +22516,310 @@ CensusPlus_Database = {
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Asurik"] = {
-							[1] = 20,
+						["Throkgar"] = {
+							[1] = 52,
 							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Garmshtad"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bahamok"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Thoik"] = {
+							[1] = 26,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Zagri"] = {
+							[1] = 19,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Aldoapach"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Milkmanjaxx"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Locktarogar"] = {
+							[1] = 24,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Fables"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Vadrir"] = {
+							[1] = 45,
+							[2] = "WOW Bank",
+							[3] = "2019-06-06",
+						},
+						["Haomaye"] = {
+							[1] = 18,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Toffax"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Zuggsy"] = {
+							[1] = 55,
+							[2] = "BRASIL",
 							[3] = "2019-06-06",
 						},
 						["Crunkzx"] = {
-							[1] = 30,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Warfangx"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kildoral"] = {
-							[1] = 34,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Robzillar"] = {
-							[1] = 30,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Bulvai"] = {
-							[1] = 60,
-							[2] = "COUSINS",
-							[3] = "2019-06-06",
-						},
-						["Groovstreet"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Boshak"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gnedikk"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hysteri"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Ateat"] = {
-							[1] = 18,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-03",
-						},
-						["Besilent"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Bellatora"] = {
-							[1] = 26,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Zakatrupior"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Niftyfury"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Rokhgar"] = {
-							[1] = 35,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Slashsit"] = {
-							[1] = 38,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Torondir"] = {
-							[1] = 46,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Gluteusmaxim"] = {
-							[1] = 28,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Lestar"] = {
-							[1] = 36,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Izukah"] = {
-							[1] = 30,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Vanzi"] = {
 							[1] = 32,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Danechopper"] = {
-							[1] = 41,
+						["Puretoxicity"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Shinjitsu"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Stupidretard"] = {
 							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Throkgar"] = {
-							[1] = 52,
+						["Ateat"] = {
+							[1] = 23,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Skittlzee"] = {
+							[1] = 46,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Yarosomaha"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Acerimmsy"] = {
-							[1] = 39,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Robzillar"] = {
+							[1] = 32,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
-						["Aggrax"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Pecore"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Meaorc"] = {
-							[1] = 42,
-							[2] = "Mud Hut",
-							[3] = "2019-06-06",
-						},
-						["Boorok"] = {
+						["Bulvai"] = {
 							[1] = 60,
-							[2] = "Chronic",
+							[2] = "COUSINS",
 							[3] = "2019-06-06",
 						},
-						["Starichok"] = {
-							[1] = 59,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Ramarogg"] = {
-							[1] = 12,
+						["Mardall"] = {
+							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Farnest"] = {
-							[1] = 19,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
+						["Overling"] = {
+							[1] = 13,
+							[2] = "Yo Girl aZero Gold Mount",
+							[3] = "2019-06-07",
 						},
-						["Thewindfurry"] = {
+						["Dubansmash"] = {
+							[1] = 20,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Gdvbu"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gromkharn"] = {
 							[1] = 14,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-07",
+						},
+						["Healmybooty"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Doubas"] = {
+							[1] = 58,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Kaiaxe"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jebut"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lilletisser"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Astjota"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
 						},
 						["Matsolas"] = {
 							[1] = 60,
 							[2] = "who cares",
 							[3] = "2019-06-06",
+						},
+						["Bixe"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Scarhand"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zokarra"] = {
+							[1] = 22,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Axeinium"] = {
+							[1] = 48,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Skornis"] = {
+							[1] = 30,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Crunsh"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Aztoe"] = {
+							[1] = 38,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Guanyuu"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Grumok"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Pecore"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vaurok"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Walkingaxe"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nitrokoliki"] = {
+							[1] = 12,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
+						["Garonea"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Danechopper"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Eksoekso"] = {
+							[1] = 40,
+							[2] = "Absolute Mad Lads",
+							[3] = "2019-06-06",
+						},
+						["Otoroshi"] = {
+							[1] = 29,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Duluk"] = {
+							[1] = 22,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Gulks"] = {
+							[1] = 11,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
+						},
+						["Gnedikk"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Yilevas"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ctpop"] = {
+							[1] = 42,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Missbrutalis"] = {
+							[1] = 47,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Thorwarr"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Orkarinte"] = {
+							[1] = 30,
+							[2] = "Better Call Saul",
+							[3] = "2019-06-07",
+						},
+						["Hgood"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hudrak"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Zhuno"] = {
 							[1] = 40,
@@ -15164,19 +22831,19 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
+						["Grantler"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gukra"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Riovar"] = {
 							[1] = 38,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Uzurx"] = {
-							[1] = 13,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
-						},
-						["Sviatogor"] = {
-							[1] = 5,
-							[2] = "Join if playing classic",
 							[3] = "2019-06-06",
 						},
 						["Vallok"] = {
@@ -15192,91 +22859,91 @@ CensusPlus_Database = {
 						["Dirkules"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Hraes"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Whetever"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Shadowdjl"] = {
+							[1] = 15,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Toffax"] = {
-							[1] = 60,
+						["Bohae"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Valroky"] = {
+							[1] = 29,
+							[2] = "BRASIL",
+							[3] = "2019-06-07",
+						},
+						["Draktak"] = {
+							[1] = 59,
 							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Dreadass"] = {
-							[1] = 14,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-04",
-						},
-						["Bambara"] = {
-							[1] = 28,
-							[2] = "I bims Horde",
-							[3] = "2019-06-06",
-						},
-						["Peacelilly"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Tstzz"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Argzel"] = {
-							[1] = 36,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Krianon"] = {
-							[1] = 28,
-							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Zokarra"] = {
-							[1] = 20,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Lilletisser"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Detonate"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Helldrum"] = {
-							[1] = 20,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-03",
-						},
-						["Doubas"] = {
-							[1] = 57,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
-						},
-						["Rompehuesos"] = {
-							[1] = 12,
+						["Uzurx"] = {
+							[1] = 13,
 							[2] = "Chronic",
 							[3] = "2019-06-04",
 						},
-						["Mimosa"] = {
-							[1] = 28,
-							[2] = "BRASIL",
+						["Stuncrit"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Unichef"] = {
+							[1] = 5,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ambellyn"] = {
+						["Rawrw"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Judada"] = {
 							[1] = 60,
-							[2] = "Furiously Average",
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Harveynz"] = {
+							[1] = 54,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Mandarinskal"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Boorok"] = {
+							[1] = 60,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Neophren"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dinglenuts"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Merkules"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Armandiwar"] = {
+							[1] = 8,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
 						["Grushk"] = {
@@ -15294,159 +22961,159 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Screwnicorn"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Ambellyn"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-03",
 						},
-						["Kefear"] = {
-							[1] = 46,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Ulrene"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Bigdikx"] = {
 							[1] = 39,
 							[2] = "Citadel of Ricks",
 							[3] = "2019-06-03",
 						},
-						["Afterlike"] = {
-							[1] = 53,
-							[2] = "Revolution",
-							[3] = "2019-06-06",
-						},
-						["Scarhand"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gorrork"] = {
-							[1] = 11,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Grumok"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Helldrum"] = {
+							[1] = 27,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Shulog"] = {
 							[1] = 21,
 							[2] = "Czechoslovakia",
 							[3] = "2019-06-06",
 						},
-						["Gartonk"] = {
+						["Jojisavedme"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Headtrauma"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Farnest"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-03",
+						},
+						["Groenekech"] = {
+							[1] = 20,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Manowarrec"] = {
+							[1] = 56,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Slaktaarn"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shmitey"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Izukah"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Mloky"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Grumpzilla"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Daddykrys"] = {
+							[1] = 38,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Drilio"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hokzok"] = {
+							[1] = 31,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Thorsein"] = {
+							[1] = 40,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Ttoek"] = {
+							[1] = 33,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Orcforhorde"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Donaloblador"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dakor"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kildoral"] = {
+							[1] = 36,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Forceofcours"] = {
+							[1] = 44,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Bellatora"] = {
 							[1] = 26,
 							[2] = "Dark Side of the Moon",
 							[3] = "2019-06-06",
 						},
-						["Manowarrec"] = {
-							[1] = 54,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Nafazalin"] = {
+							[1] = 51,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Lesnic"] = {
-							[1] = 13,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Griffar"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Vadrir"] = {
-							[1] = 45,
-							[2] = "WOW Bank",
-							[3] = "2019-06-06",
-						},
-						["Pickleskinn"] = {
-							[1] = 44,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Jendrelgun"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dakha"] = {
-							[1] = 38,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Zalachenko"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Milkmanjaxx"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Gorkamorka"] = {
-							[1] = 34,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Ouek"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fitish"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Xiasa"] = {
-							[1] = 20,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Sevenlofi"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Eksoekso"] = {
-							[1] = 40,
-							[2] = "Absolute Mad Lads",
-							[3] = "2019-06-06",
-						},
-						["Venersis"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Aztoe"] = {
-							[1] = 37,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Tankaslot"] = {
+						["Acerimmsy"] = {
 							[1] = 39,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+							[2] = "",
+							[3] = "2019-06-03",
 						},
-						["Zagri"] = {
-							[1] = 18,
-							[2] = "Crossroad Festival",
-							[3] = "2019-06-06",
-						},
-						["Muwken"] = {
-							[1] = 47,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-06",
+						["Fanzigor"] = {
+							[1] = 38,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Uudnax"] = {
 							[1] = 10,
 							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Nafazalin"] = {
-							[1] = 50,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Chubbawub"] = {
-							[1] = 40,
-							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Zilord"] = {
@@ -15456,30 +23123,45 @@ CensusPlus_Database = {
 						},
 					},
 					["Warlock"] = {
-						["Dipdodgedot"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Obmorok"] = {
+							[1] = 43,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
 						},
 						["Grommor"] = {
-							[1] = 42,
+							[1] = 43,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Krabolok"] = {
-							[1] = 37,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Ifeelpretty"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Oiiwjda"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Monkmus"] = {
+							[1] = 56,
+							[2] = "Eskimo Brothers",
+							[3] = "2019-06-07",
 						},
 						["Vigbjorn"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Ogremon"] = {
-							[1] = 42,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
+						["Justicesucks"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tohtammysh"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
 						["Voider"] = {
 							[1] = 42,
@@ -15501,6 +23183,281 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Guljdan"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Odensen"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Guttersnipe"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Memedhams"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Dlimka"] = {
+							[1] = 46,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Afatchef"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Altaenuis"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Liamora"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pupnasty"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jippi"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Parahi"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cursedwound"] = {
+							[1] = 33,
+							[2] = "The Risen Dead",
+							[3] = "2019-06-07",
+						},
+						["Vladaling"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ossiananana"] = {
+							[1] = 52,
+							[2] = "Revolution",
+							[3] = "2019-06-07",
+						},
+						["Joark"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Maplebcn"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Uzz"] = {
+							[1] = 6,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Bambamn"] = {
+							[1] = 45,
+							[2] = "Chad Immersion Squad",
+							[3] = "2019-06-07",
+						},
+						["Knickerless"] = {
+							[1] = 50,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Atomizer"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Codo"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kamata"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marakaa"] = {
+							[1] = 26,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Spaek"] = {
+							[1] = 22,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Vampirka"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Omegamen"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Margaritka"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ballzstein"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mulusi"] = {
+							[1] = 21,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Azusli"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bzwx"] = {
+							[1] = 45,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Tzeitel"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Perlenbacher"] = {
+							[1] = 16,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Etherjackal"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nakagorax"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Darktempest"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zxci"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Muronga"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Greenlobster"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Mizarn"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Targazz"] = {
+							[1] = 29,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Gishanaya"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Voidskin"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fearmongerr"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Demosroussos"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Zyybe"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Dipdodgedot"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ermete"] = {
+							[1] = 57,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Elson"] = {
+							[1] = 29,
+							[2] = "Blessed",
+							[3] = "2019-06-07",
+						},
+						["Krabolok"] = {
+							[1] = 37,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Azzrak"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Malediktus"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ogremon"] = {
+							[1] = 42,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Hagalos"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dotza"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
 						["Vercera"] = {
 							[1] = 18,
 							[2] = "",
@@ -15511,125 +23468,225 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Guttersnipe"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Loiio"] = {
+							[1] = 21,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Shadowbinder"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
 						},
 						["Moofall"] = {
 							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Dlimka"] = {
-							[1] = 44,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+						["Zugzugy"] = {
+							[1] = 27,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Haunted"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Orkonwork"] = {
-							[1] = 54,
+							[1] = 55,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Tomdot"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Rulonoboew"] = {
 							[1] = 43,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Jippi"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
+						["Locktahn"] = {
+							[1] = 13,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
 						},
 						["Cbol"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Ungnissan"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Moonserena"] = {
+							[1] = 9,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
 						},
-						["Strawiie"] = {
-							[1] = 28,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
+						["Lampfot"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Ilskan"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Joark"] = {
-							[1] = 14,
+						["Missdogga"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Gulldone"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Uzz"] = {
-							[1] = 6,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Knickerless"] = {
-							[1] = 49,
+						["Azannie"] = {
+							[1] = 27,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
+						},
+						["Onedotman"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lauseer"] = {
+							[1] = 18,
+							[2] = "Raven Warcries",
+							[3] = "2019-06-07",
+						},
+						["Cyberdragon"] = {
+							[1] = 56,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Deriam"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-07",
+						},
+						["Qwertyuhg"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Galordron"] = {
 							[1] = 20,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Codo"] = {
+						["Naycrofeelya"] = {
 							[1] = 20,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lwmon"] = {
+							[1] = 20,
+							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
 						["Eecko"] = {
 							[1] = 57,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Marakaa"] = {
-							[1] = 23,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
-						},
-						["Omegamen"] = {
-							[1] = 17,
+						["Chupachatis"] = {
+							[1] = 4,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Odensen"] = {
-							[1] = 12,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Qusmid"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Xiiaomi"] = {
-							[1] = 23,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Greenlobster"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Mulusi"] = {
-							[1] = 21,
+						["Mordosh"] = {
+							[1] = 45,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
+						},
+						["Gromgeth"] = {
+							[1] = 51,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Goanfywl"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kelimek"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Conflag"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kiblob"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Pallandoi"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Mafy"] = {
+							[1] = 26,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Nekramang"] = {
+							[1] = 38,
+							[2] = "Waiting For Classic",
+							[3] = "2019-06-07",
+						},
+						["Guldanius"] = {
+							[1] = 40,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Gulldone"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Bloodiste"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Morkmagi"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Strawiie"] = {
+							[1] = 28,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Borago"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ungnissan"] = {
+							[1] = 26,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Toomuchmemes"] = {
+							[1] = 34,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Tyrell"] = {
+							[1] = 22,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Talendris"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Fedyk"] = {
 							[1] = 32,
@@ -15641,44 +23698,59 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Maledictory"] = {
-							[1] = 38,
+						["Nuadas"] = {
+							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Azannie"] = {
-							[1] = 27,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Diggidy"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Guldad"] = {
 							[1] = 37,
 							[2] = "Onyxia Gives Epic Head",
 							[3] = "2019-06-06",
 						},
-						["Exibit"] = {
-							[1] = 14,
+						["Winwang"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Straweberry"] = {
 							[1] = 26,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
 						},
-						["Ifeelpretty"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Lockyboii"] = {
+							[1] = 16,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Tzeitel"] = {
-							[1] = 32,
+						["Virgosilvers"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Guldanius"] = {
-							[1] = 39,
-							[2] = "RUSSIA",
+						["Xathrukk"] = {
+							[1] = 16,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Picklebolte"] = {
+							[1] = 36,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Mogalkhan"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Commotio"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Feraninos"] = {
@@ -15686,29 +23758,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Nakagorax"] = {
-							[1] = 19,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Commotio"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Altaenuis"] = {
-							[1] = 22,
+						["Imortis"] = {
+							[1] = 24,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Mordosh"] = {
-							[1] = 45,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Zxci"] = {
-							[1] = 30,
-							[2] = "",
+						["Mutiilation"] = {
+							[1] = 27,
+							[2] = "NAONED",
 							[3] = "2019-06-06",
 						},
 						["Crazylok"] = {
@@ -15721,34 +23778,34 @@ CensusPlus_Database = {
 							[2] = "Anonymous",
 							[3] = "2019-06-03",
 						},
-						["Imortis"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Xiiaomi"] = {
+							[1] = 24,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
 						},
-						["Bzwx"] = {
-							[1] = 44,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
+						["Jackdanys"] = {
+							[1] = 33,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Shamdonn"] = {
 							[1] = 39,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dotza"] = {
-							[1] = 22,
+						["Guldanknight"] = {
+							[1] = 60,
+							[2] = "No Gold Train Skills",
+							[3] = "2019-06-07",
+						},
+						["Lexalock"] = {
+							[1] = 16,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Targazz"] = {
-							[1] = 29,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Mutiilation"] = {
-							[1] = 27,
-							[2] = "NAONED",
+						["Qusmid"] = {
+							[1] = 2,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Greenbear"] = {
@@ -15759,99 +23816,94 @@ CensusPlus_Database = {
 						["Vacuumm"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Sergoosha"] = {
 							[1] = 44,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Bloodiste"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Whynotlock"] = {
+							[1] = 40,
+							[2] = "No Gold Train Skills",
+							[3] = "2019-06-07",
 						},
-						["Goanfywl"] = {
-							[1] = 35,
+						["Kreloen"] = {
+							[1] = 14,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Nuadas"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Memedhams"] = {
-							[1] = 35,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Demosroussos"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Zyybe"] = {
-							[1] = 17,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Sathoan"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Maledictory"] = {
+							[1] = 41,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
 						},
 						["Ragush"] = {
 							[1] = 37,
 							[2] = "Travellers",
 							[3] = "2019-06-06",
 						},
-						["Lwmon"] = {
-							[1] = 20,
-							[2] = "Chronic",
+						["Exibit"] = {
+							[1] = 14,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Dobrozol"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sathoan"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Quaetest"] = {
+							[1] = 16,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Chillsen"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 					},
 					["Shaman"] = {
-						["Trahh"] = {
-							[1] = 60,
-							[2] = "Idi Nahuy Gaming",
-							[3] = "2019-06-06",
+						["Paddzie"] = {
+							[1] = 14,
+							[2] = "Guardians",
+							[3] = "2019-06-07",
 						},
-						["Mijasa"] = {
-							[1] = 16,
+						["Drustix"] = {
+							[1] = 34,
 							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Galathon"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Kunchy"] = {
 							[1] = 60,
-							[2] = "Dafes PuG",
-							[3] = "2019-06-06",
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Skaai"] = {
 							[1] = 60,
 							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
-						["Katakombe"] = {
+						["Kaph"] = {
+							[1] = 38,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Duragrim"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thamn"] = {
 							[1] = 17,
-							[2] = "Chronic",
-							[3] = "2019-06-04",
-						},
-						["Cudj"] = {
-							[1] = 53,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Romperstomp"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Sebe"] = {
 							[1] = 8,
@@ -15868,35 +23920,30 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kurpat"] = {
-							[1] = 21,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Forcefedglas"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Shaidillis"] = {
-							[1] = 5,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
-						},
-						["Wellpawn"] = {
-							[1] = 60,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-06",
-						},
-						["Terenman"] = {
-							[1] = 37,
+						["Shiama"] = {
+							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Furtuna"] = {
-							[1] = 30,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Grouik"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Volfang"] = {
+							[1] = 35,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
 						},
 						["Lurbakke"] = {
-							[1] = 41,
+							[1] = 42,
 							[2] = "Danish Bacon",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Baraknroll"] = {
 							[1] = 6,
@@ -15908,9 +23955,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Orcuda"] = {
-							[1] = 21,
-							[2] = "Chronic",
+						["Pineachattes"] = {
+							[1] = 25,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Windfurykiss"] = {
@@ -15923,40 +23970,30 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Ragnasock"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Klapboem"] = {
-							[1] = 38,
+							[1] = 39,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Jorhe"] = {
 							[1] = 60,
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Krohh"] = {
-							[1] = 35,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Nakkuru"] = {
+						["Fredok"] = {
 							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Namashy"] = {
-							[1] = 11,
+						["Keminaria"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Namashi"] = {
-							[1] = 43,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hellishcrew"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Rinkler"] = {
 							[1] = 8,
@@ -15968,50 +24005,45 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Orkasborkas"] = {
-							[1] = 55,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-03",
-						},
-						["Hainekos"] = {
-							[1] = 11,
+						["Icekong"] = {
+							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Gromogor"] = {
 							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Ugaroxxar"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Grimrock"] = {
+							[1] = 34,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
 						},
-						["Garkalla"] = {
-							[1] = 41,
+						["Zonderling"] = {
+							[1] = 13,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dcmp"] = {
 							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Fliesenleger"] = {
-							[1] = 24,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+						["Gnaldorf"] = {
+							[1] = 36,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-07",
 						},
-						["Jungamarg"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Makarosh"] = {
+						["Boschetzel"] = {
 							[1] = 21,
-							[2] = "The Warriors of Perun",
-							[3] = "2019-06-06",
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Exploid"] = {
+							[1] = 52,
+							[2] = "Nightmares",
+							[3] = "2019-06-07",
 						},
 						["Telekines"] = {
 							[1] = 15,
@@ -16028,205 +24060,120 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Ergas"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Ltdanny"] = {
-							[1] = 60,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Gojek"] = {
-							[1] = 43,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
-						},
-						["Mazago"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Tsavi"] = {
-							[1] = 44,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Azaran"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Wolfwalker"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Aramina"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Evrakilon"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Flonyx"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Brewbers"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Nozai"] = {
-							[1] = 25,
-							[2] = "Anonymous",
-							[3] = "2019-06-06",
-						},
-						["Smouc"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zipse"] = {
-							[1] = 45,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-06",
-						},
-						["Pandru"] = {
-							[1] = 30,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
-						},
-						["Injass"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Moonsayan"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Urgalack"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Elsawhite"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Exchangerate"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dysenteriae"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kilimak"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fiuna"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Zugxzug"] = {
 							[1] = 10,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Rinzin"] = {
-							[1] = 22,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Stacrew"] = {
-							[1] = 10,
+						["Froznak"] = {
+							[1] = 1,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Exstr"] = {
-							[1] = 52,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Primaltotem"] = {
-							[1] = 6,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Grozz"] = {
 							[1] = 19,
 							[2] = "Nightmares",
 							[3] = "2019-06-06",
 						},
-						["Rahbeks"] = {
-							[1] = 29,
-							[2] = "Chronic",
+						["Gooner"] = {
+							[1] = 49,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Nanatsuya"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shamaloow"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Makodako"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Morfsham"] = {
+							[1] = 27,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Jageskit"] = {
+							[1] = 16,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
+						},
+						["Nozai"] = {
+							[1] = 25,
+							[2] = "Anonymous",
 							[3] = "2019-06-06",
 						},
-						["Abraksos"] = {
-							[1] = 31,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
-						},
-						["Shamolet"] = {
-							[1] = 26,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Originalg"] = {
-							[1] = 26,
+						["Kilwa"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Modik"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Moonsayan"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Urgalack"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Jubeyi"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Fiuna"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Chinazacard"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Exstr"] = {
+							[1] = 52,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Demonmalfas"] = {
+							[1] = 60,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Abraksos"] = {
+							[1] = 32,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
 						["Slickdaddry"] = {
 							[1] = 4,
 							[2] = "Join if playing classic",
 							[3] = "2019-06-06",
 						},
-						["Canamojo"] = {
-							[1] = 51,
-							[2] = "Hitokiri",
-							[3] = "2019-06-06",
-						},
-						["Arsab"] = {
-							[1] = 40,
+						["Tarunta"] = {
+							[1] = 34,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hjaltan"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Usku"] = {
-							[1] = 30,
-							[2] = "BloodSeeker Society",
-							[3] = "2019-06-06",
-						},
-						["Zugfang"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-03",
 						},
 						["Kokasio"] = {
-							[1] = 4,
+							[1] = 9,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Malkoo"] = {
 							[1] = 11,
@@ -16238,29 +24185,524 @@ CensusPlus_Database = {
 							[2] = "The Brew Crew",
 							[3] = "2019-06-03",
 						},
-						["Unbesiegbar"] = {
-							[1] = 51,
+						["Snicth"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Cubeisback"] = {
+							[1] = 29,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Kazawi"] = {
+							[1] = 31,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Greenzone"] = {
+							[1] = 40,
+							[2] = "Barrens Chat",
+							[3] = "2019-06-06",
+						},
+						["Meicflation"] = {
+							[1] = 39,
+							[2] = "No Ragrets",
+							[3] = "2019-06-07",
+						},
+						["Rohger"] = {
+							[1] = 40,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Orcench"] = {
+							[1] = 9,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Bovnxx"] = {
+							[1] = 10,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Ephick"] = {
-							[1] = 33,
-							[2] = "Czechoslovakia",
+						["Lifte"] = {
+							[1] = 25,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Teleador"] = {
+							[1] = 42,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Darshaa"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thorzack"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Agamaz"] = {
+							[1] = 8,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Lowkei"] = {
-							[1] = 19,
-							[2] = "The Dark Brotherhood",
+						["Srmilfslayer"] = {
+							[1] = 44,
+							[2] = "Troll Lives Matter kek",
+							[3] = "2019-06-07",
+						},
+						["Belch"] = {
+							[1] = 25,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Gooner"] = {
-							[1] = 49,
-							[2] = "Reign of Chaos",
+						["Radlite"] = {
+							[1] = 13,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Thizznitty"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bhristopher"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Agalari"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yshnar"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Greenmeth"] = {
+							[1] = 52,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Alkeya"] = {
+							[1] = 34,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Backseatbeef"] = {
-							[1] = 43,
+						["Shpam"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Capichoripan"] = {
+							[1] = 30,
+							[2] = "I La Guardia Negra I",
+							[3] = "2019-06-07",
+						},
+						["Gigiroth"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nodobaka"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Lokashung"] = {
+							[1] = 25,
+							[2] = "Biobuzzard",
+							[3] = "2019-06-07",
+						},
+						["Fullblast"] = {
+							[1] = 25,
+							[2] = "BRASIL",
+							[3] = "2019-06-06",
+						},
+						["Razhahan"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Inflamesh"] = {
+							[1] = 22,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-03",
+						},
+						["Dexle"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bagacio"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Erkasegen"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Varganis"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Shamurder"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ritualspirit"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wolfinger"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Papalexis"] = {
+							[1] = 20,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Shamolet"] = {
+							[1] = 26,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Tronak"] = {
+							[1] = 23,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Kelrotha"] = {
+							[1] = 32,
+							[2] = "Booty Bay Night Club",
+							[3] = "2019-06-06",
+						},
+						["Cindzadza"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Xetal"] = {
+							[1] = 28,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-03",
+						},
+						["Pyaks"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Looktaro"] = {
+							[1] = 26,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Istha"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Trahh"] = {
+							[1] = 60,
+							[2] = "Idi Nahuy Gaming",
+							[3] = "2019-06-06",
+						},
+						["Buksirchik"] = {
+							[1] = 20,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Mijasa"] = {
+							[1] = 21,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
+						},
+						["Building"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Galathon"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Misqbank"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Talalayk"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Katakombe"] = {
+							[1] = 17,
+							[2] = "Chronic",
+							[3] = "2019-06-04",
+						},
+						["Megawizard"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Arsab"] = {
+							[1] = 40,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Pigeonman"] = {
+							[1] = 30,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Unbesiegbar"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Kurpat"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Shaidillis"] = {
+							[1] = 5,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-06",
+						},
+						["Wellpawn"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Ionx"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Furtuna"] = {
+							[1] = 30,
 							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Lennybruce"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Laapsaaptung"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Skammy"] = {
+							[1] = 21,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Dynezeen"] = {
+							[1] = 30,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Loldrg"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wodez"] = {
+							[1] = 22,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Nakkuru"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Geroll"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Namashi"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Garichi"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hellishcrew"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Kittenbeard"] = {
+							[1] = 19,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Hoodlegend"] = {
+							[1] = 49,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-07",
+						},
+						["Splittooth"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Orkasborkas"] = {
+							[1] = 55,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-03",
+						},
+						["Originalg"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Urshakcho"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vikaasa"] = {
+							[1] = 10,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
+						["Ugaroxxar"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Thapower"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thaxral"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Garkalla"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fliesenleger"] = {
+							[1] = 24,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-06",
+						},
+						["Jungamarg"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Makarosh"] = {
+							[1] = 21,
+							[2] = "The Warriors of Perun",
+							[3] = "2019-06-06",
+						},
+						["Jpouz"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ergas"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Shadmann"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Durzokxx"] = {
+							[1] = 8,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Kilimak"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Injass"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Kitpoptop"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Crittytwista"] = {
+							[1] = 23,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Hjaltan"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Dkppl"] = {
+							[1] = 49,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Ryukh"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kupkakes"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Azaran"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Maradae"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Drogthar"] = {
+							[1] = 23,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Canamojo"] = {
+							[1] = 51,
+							[2] = "Hitokiri",
 							[3] = "2019-06-06",
 						},
 						["Gorzarris"] = {
@@ -16268,28 +24710,308 @@ CensusPlus_Database = {
 							[2] = "Two Drink Minimum",
 							[3] = "2019-06-06",
 						},
+						["Ukdaan"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Falconakos"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Flonyx"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Brewbers"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Drrago"] = {
+							[1] = 49,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Roarggar"] = {
+							[1] = 33,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Kuzey"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hulla"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Redkarq"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hakktru"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Handfire"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Needcc"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Edgari"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zipse"] = {
+							[1] = 45,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-06",
+						},
+						["Matrenna"] = {
+							[1] = 22,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Backseatbeef"] = {
+							[1] = 44,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Camajara"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ermant"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Jibhi"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Orchidee"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Swolehalla"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Itsberzerk"] = {
+							[1] = 42,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Elsawhite"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Soycodo"] = {
+							[1] = 17,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Apelbochka"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Proxzz"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Thunderwalke"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dysenteriae"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Draakt"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ephick"] = {
+							[1] = 33,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-06",
+						},
+						["Knaku"] = {
+							[1] = 17,
+							[2] = "Two Drink Minimum",
+							[3] = "2019-06-03",
+						},
+						["Fobra"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Athls"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Tsugrunge"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Volldir"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Saiun"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Vordul"] = {
+							[1] = 45,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Zugfang"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Morokas"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Burokh"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Pandru"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rabblt"] = {
+							[1] = 14,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Smouc"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Rinzin"] = {
+							[1] = 22,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-06",
+						},
+						["Nakumaa"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Usku"] = {
+							[1] = 30,
+							[2] = "BloodSeeker Society",
+							[3] = "2019-06-06",
+						},
+						["Lasternn"] = {
+							[1] = 35,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Evrakilon"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Aramina"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Gojek"] = {
+							[1] = 43,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Packsieh"] = {
+							[1] = 24,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Igreen"] = {
+							[1] = 43,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Octezz"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-06",
+						},
+						["Shamois"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Darkgruntar"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bandiuga"] = {
+							[1] = 25,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
 						["Hromoblesk"] = {
 							[1] = 60,
 							[2] = "Czechoslovakia",
 							[3] = "2019-06-06",
 						},
-						["Kazawi"] = {
-							[1] = 30,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Greenzone"] = {
-							[1] = 40,
-							[2] = "Barrens Chat",
-							[3] = "2019-06-06",
+						["Aestraka"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Spreng"] = {
 							[1] = 49,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Athls"] = {
-							[1] = 16,
+						["Kkshuai"] = {
+							[1] = 22,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Galham"] = {
+							[1] = 37,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -16298,94 +25020,94 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Thunderwalke"] = {
-							[1] = 28,
+						["Stormies"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Rohger"] = {
-							[1] = 39,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
+						["Kratsun"] = {
+							[1] = 30,
+							[2] = "Guild of Holy Shenna",
+							[3] = "2019-06-07",
 						},
 						["Necrolos"] = {
 							[1] = 60,
 							[2] = "who cares",
 							[3] = "2019-06-03",
 						},
-						["Apelbochka"] = {
-							[1] = 17,
+						["Stormpiik"] = {
+							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
 						},
 						["Uglja"] = {
-							[1] = 18,
+							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Orcench"] = {
-							[1] = 3,
+						["Bamsee"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Oogyboogie"] = {
+							[1] = 43,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Sowda"] = {
+							[1] = 39,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Eruul"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Capichoripan"] = {
-							[1] = 30,
-							[2] = "I La Guardia Negra I",
-							[3] = "2019-06-06",
-						},
-						["Matrenna"] = {
-							[1] = 19,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-03",
-						},
-						["Bovnxx"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Pankratien"] = {
-							[1] = 33,
-							[2] = "The PC",
-							[3] = "2019-06-06",
+						["Thassimar"] = {
+							[1] = 21,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Jequh"] = {
 							[1] = 59,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Darshaa"] = {
-							[1] = 18,
+						["Logroth"] = {
+							[1] = 31,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Noppo"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Shamiewamie"] = {
 							[1] = 29,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Shockziey"] = {
+						["Eigrigar"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Namashy"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Drellra"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lowkei"] = {
 							[1] = 19,
-							[2] = "Raven Warcries",
-							[3] = "2019-06-06",
-						},
-						["Cindzadza"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kilwa"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Khnargh"] = {
-							[1] = 50,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Agamaz"] = {
-							[1] = 8,
-							[2] = "",
+							[2] = "The Dark Brotherhood",
 							[3] = "2019-06-06",
 						},
 						["Lonnert"] = {
@@ -16393,35 +25115,35 @@ CensusPlus_Database = {
 							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Drrago"] = {
-							[1] = 48,
-							[2] = "Order of Chaos",
+						["Khnargh"] = {
+							[1] = 50,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Belch"] = {
-							[1] = 25,
+						["Onokh"] = {
+							[1] = 24,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Eim"] = {
 							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Eruul"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Jordhog"] = {
+							[1] = 25,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Oogyboogie"] = {
-							[1] = 43,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Fobra"] = {
-							[1] = 7,
+						["Illbean"] = {
+							[1] = 45,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Pangeros"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Zorthrak"] = {
 							[1] = 10,
@@ -16433,140 +25155,140 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Tabbilynn"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Shampinion"] = {
+							[1] = 43,
+							[2] = "Guards of Azeroth",
+							[3] = "2019-06-07",
 						},
-						["Yshnar"] = {
-							[1] = 6,
+						["Cudj"] = {
+							[1] = 53,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
+						},
+						["Romperstomp"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-06",
 						},
 						["Blaziusz"] = {
-							[1] = 20,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Alkeya"] = {
-							[1] = 34,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Aths"] = {
 							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Saviby"] = {
-							[1] = 45,
+						["Aths"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Khilmer"] = {
+							[1] = 20,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Kankretnij"] = {
+							[1] = 21,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Vikaasa"] = {
-							[1] = 5,
+						["Laserhard"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Mphilosoph"] = {
-							[1] = 15,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
+						["Terenman"] = {
+							[1] = 37,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Kaljuluuseri"] = {
+						["Taote"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Shockziey"] = {
 							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Shpam"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-04",
-						},
-						["Pineachattes"] = {
-							[1] = 25,
-							[2] = "",
+							[2] = "Raven Warcries",
 							[3] = "2019-06-06",
 						},
 						["Zorgues"] = {
-							[1] = 38,
+							[1] = 39,
 							[2] = "La Furie de la Horde",
+							[3] = "2019-06-07",
+						},
+						["Ltdanny"] = {
+							[1] = 60,
+							[2] = "The Brew Crew",
 							[3] = "2019-06-06",
 						},
-						["Woelf"] = {
-							[1] = 23,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
-						},
-						["Vordul"] = {
-							[1] = 45,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+						["Zendya"] = {
+							[1] = 29,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
 						},
 						["Noobhog"] = {
-							[1] = 3,
+							[1] = 8,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Orcuda"] = {
+							[1] = 21,
+							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Nodobaka"] = {
-							[1] = 4,
+						["Comeherebra"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Lokashung"] = {
-							[1] = 24,
-							[2] = "Biobuzzard",
-							[3] = "2019-06-06",
-						},
-						["Itsberzerk"] = {
-							[1] = 42,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Bagacio"] = {
-							[1] = 17,
+						["Thrallss"] = {
+							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Krohh"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Kamanya"] = {
 							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Packsieh"] = {
-							[1] = 23,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+						["Yummo"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Razhahan"] = {
+						["Hainekos"] = {
 							[1] = 11,
 							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Burokh"] = {
-							[1] = 6,
-							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Drogthar"] = {
-							[1] = 22,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+						["Pankratien"] = {
+							[1] = 33,
+							[2] = "The PC",
+							[3] = "2019-06-06",
+						},
+						["Testruntulio"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Krafor"] = {
 							[1] = 21,
 							[2] = "RUSSIA",
 							[3] = "2019-06-03",
 						},
-						["Logroth"] = {
-							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Rahbeks"] = {
+							[1] = 29,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
-						["Inflamesh"] = {
+						["Gorototh"] = {
 							[1] = 22,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-03",
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Drmaxloomis"] = {
 							[1] = 7,
@@ -16576,96 +25298,96 @@ CensusPlus_Database = {
 						["Blakeosaur"] = {
 							[1] = 60,
 							[2] = "COUSINS",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Dragkara"] = {
-							[1] = 56,
+						["Gurdoe"] = {
+							[1] = 22,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Forider"] = {
 							[1] = 34,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
-						["Jubeyi"] = {
-							[1] = 15,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Margara"] = {
-							[1] = 38,
-							[2] = "North American Allstars",
+						["Mazago"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
-						["Tarunta"] = {
-							[1] = 34,
+						["Margara"] = {
+							[1] = 40,
+							[2] = "North American Allstars",
+							[3] = "2019-06-07",
+						},
+						["Tsavi"] = {
+							[1] = 44,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-06",
 						},
 						["Koffii"] = {
 							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Erkasegen"] = {
-							[1] = 29,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fullblast"] = {
+						["Wolfwalker"] = {
 							[1] = 25,
-							[2] = "BRASIL",
-							[3] = "2019-06-06",
-						},
-						["Varganis"] = {
-							[1] = 31,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Primaltotem"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Woelf"] = {
+							[1] = 23,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-06",
 						},
-						["Stormpiik"] = {
+						["Saintinferno"] = {
 							[1] = 12,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Pigeonman"] = {
-							[1] = 30,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+						["Classicplox"] = {
+							[1] = 13,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
 						},
-						["Knaku"] = {
-							[1] = 17,
-							[2] = "Two Drink Minimum",
+						["Kaljuluuseri"] = {
+							[1] = 19,
+							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Kaph"] = {
-							[1] = 36,
-							[2] = "Task Force Yeet",
+						["Panlher"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Saviby"] = {
+							[1] = 45,
+							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Wolfinger"] = {
-							[1] = 6,
+						["Minfin"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tabbilynn"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Exchangerate"] = {
+							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Papalexis"] = {
-							[1] = 19,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
-						},
-						["Laserhard"] = {
-							[1] = 60,
+						["Stacrew"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Tronak"] = {
-							[1] = 23,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
-						},
-						["Megawizard"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
 							[3] = "2019-06-06",
 						},
 						["Thornados"] = {
@@ -16673,65 +25395,65 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kelrotha"] = {
-							[1] = 32,
-							[2] = "Booty Bay Night Club",
-							[3] = "2019-06-06",
+						["Ying"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
-						["Shiama"] = {
-							[1] = 22,
+						["Dragkara"] = {
+							[1] = 57,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Ziggyh"] = {
+							[1] = 12,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Lokazul"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Xetal"] = {
-							[1] = 28,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-03",
+						["Metlbank"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Octezz"] = {
+						["Gungorgha"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lookoutz"] = {
 							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-06",
-						},
-						["Galham"] = {
-							[1] = 37,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Pyaks"] = {
-							[1] = 28,
+						["Milkass"] = {
+							[1] = 16,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Igreen"] = {
-							[1] = 43,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Geroll"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Mphilosoph"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
 						},
 						["Bronsik"] = {
-							[1] = 16,
+							[1] = 34,
 							[2] = "RUSSIA",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Illbean"] = {
-							[1] = 44,
+						["Rzabazeczna"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Blakness"] = {
-							[1] = 24,
+							[1] = 25,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Shamaniaca"] = {
 							[1] = 6,
@@ -16743,10 +25465,10 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Edgari"] = {
-							[1] = 20,
+						["Pedolf"] = {
+							[1] = 26,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 					},
 					["Rogue"] = {
@@ -16760,10 +25482,15 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Orcmustlife"] = {
-							[1] = 20,
+						["Zarga"] = {
+							[1] = 38,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Orcmustlife"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Hehgreetings"] = {
 							[1] = 18,
@@ -16778,22 +25505,42 @@ CensusPlus_Database = {
 						["Wiggel"] = {
 							[1] = 38,
 							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Ixion"] = {
 							[1] = 33,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Num"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dreamgoat"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tuddy"] = {
+							[1] = 25,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Worrllddss"] = {
 							[1] = 39,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Ahry"] = {
-							[1] = 13,
+							[1] = 15,
 							[2] = "Chronic",
-							[3] = "2019-06-05",
+							[3] = "2019-06-07",
+						},
+						["Patrask"] = {
+							[1] = 36,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
 						},
 						["Sloworc"] = {
 							[1] = 11,
@@ -16815,30 +25562,45 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Deadstar"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
+						["Shmoker"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-06",
 						},
 						["Knifeinyourn"] = {
 							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Imbella"] = {
-							[1] = 6,
-							[2] = "",
+						["Khalasarr"] = {
+							[1] = 11,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Zafilia"] = {
+							[1] = 33,
+							[2] = "Super Adventure Pals",
 							[3] = "2019-06-06",
 						},
-						["Kriminel"] = {
-							[1] = 10,
+						["Nazbil"] = {
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
+						},
+						["Jellysauce"] = {
+							[1] = 22,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
+						},
+						["Kriminel"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Kalaboss"] = {
 							[1] = 14,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dimysan"] = {
 							[1] = 46,
@@ -16846,19 +25608,39 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Bobbery"] = {
-							[1] = 4,
+							[1] = 8,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Boolooloo"] = {
+							[1] = 15,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Gibster"] = {
+							[1] = 11,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
 						},
 						["Dastyy"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
+							[1] = 14,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
 						["Stabkaos"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-03",
+						},
+						["Lokksa"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Torblgfkjern"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Darktorogar"] = {
 							[1] = 6,
@@ -16880,13 +25662,158 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Watermealone"] = {
+						["Teerminaat"] = {
+							[1] = 22,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Torroga"] = {
+							[1] = 27,
+							[2] = "RUSSIA",
+							[3] = "2019-06-06",
+						},
+						["Chimkinman"] = {
+							[1] = 7,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Typr"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zagriuun"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Imbella"] = {
 							[1] = 8,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Chomaso"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tiraqt"] = {
+							[1] = 38,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-03",
+						},
+						["Stryknine"] = {
+							[1] = 28,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Relakras"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Oneshotterz"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Stalkt"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Yozshura"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
 						["Shizzak"] = {
 							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Deadlyhero"] = {
+							[1] = 15,
+							[2] = "RUSSIA",
+							[3] = "2019-06-03",
+						},
+						["Abattoir"] = {
+							[1] = 37,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
+						},
+						["Shadzx"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Ursalugus"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fuleteho"] = {
+							[1] = 27,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
+						},
+						["Xaito"] = {
+							[1] = 27,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Tixu"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
+						},
+						["Motarogg"] = {
+							[1] = 27,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-06",
+						},
+						["Tugwig"] = {
+							[1] = 23,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Genura"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Durahanir"] = {
+							[1] = 28,
+							[2] = "I bims Horde",
+							[3] = "2019-06-06",
+						},
+						["Adsasfgas"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Littlerich"] = {
+							[1] = 16,
+							[2] = "Waiting For Classic",
+							[3] = "2019-06-04",
+						},
+						["Zerolegs"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Ouppfostrad"] = {
+							[1] = 47,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Kodes"] = {
+							[1] = 18,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Driponyobish"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -16895,94 +25822,34 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Tiraqt"] = {
-							[1] = 38,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-03",
-						},
-						["Foozdood"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
-						},
-						["Yozshura"] = {
+						["Tschibie"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Deadlyhero"] = {
-							[1] = 15,
-							[2] = "RUSSIA",
-							[3] = "2019-06-03",
-						},
-						["Motarogg"] = {
-							[1] = 27,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Durahanir"] = {
-							[1] = 28,
-							[2] = "I bims Horde",
-							[3] = "2019-06-06",
-						},
-						["Littlerich"] = {
-							[1] = 16,
-							[2] = "Waiting For Classic",
-							[3] = "2019-06-04",
-						},
-						["Adsasfgas"] = {
-							[1] = 22,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Kitsunae"] = {
-							[1] = 13,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Monoilo"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-03",
 						},
+						["Rhossyh"] = {
+							[1] = 47,
+							[2] = "The Dark Brotherhood",
+							[3] = "2019-06-07",
+						},
+						["Svets"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Kabonaa"] = {
+							[1] = 11,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
 						["Bungarus"] = {
 							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Kowarnoe"] = {
-							[1] = 50,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Boolooloo"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Shmoker"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Zerolegs"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Stryknine"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Torroga"] = {
-							[1] = 27,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
-						},
-						["Nierika"] = {
-							[1] = 31,
-							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-06",
 						},
 						["Ahiel"] = {
@@ -16990,69 +25857,119 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Akiiz"] = {
-							[1] = 21,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Zafilia"] = {
-							[1] = 33,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
-						},
-						["Svets"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
-						},
-						["Driponyobish"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Dzhigoorda"] = {
 							[1] = 21,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Gibster"] = {
-							[1] = 11,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-03",
+						["Norepi"] = {
+							[1] = 13,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Psolomouris"] = {
+						["Drozak"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Lerampoldi"] = {
 							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Orcroc"] = {
-							[1] = 51,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
+						["Deadstar"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
 						},
-						["Naroga"] = {
-							[1] = 34,
+						["Hahawat"] = {
+							[1] = 14,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dorosh"] = {
 							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Tschibie"] = {
+						["Jumbi"] = {
+							[1] = 27,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lukka"] = {
 							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-06",
+							[2] = "Furiously Average",
+							[3] = "2019-06-07",
 						},
 						["Dvora"] = {
 							[1] = 22,
 							[2] = "Mankriks Stag Party",
+							[3] = "2019-06-06",
+						},
+						["Kowarnoe"] = {
+							[1] = 50,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Kitsunae"] = {
+							[1] = 13,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-03",
+						},
+						["Bephany"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Orfisneaky"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Psolomouris"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-06",
+						},
+						["Watermealone"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Foozdood"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-06",
+						},
+						["Nierika"] = {
+							[1] = 31,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-06",
+						},
+						["Orcroc"] = {
+							[1] = 52,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Naroga"] = {
+							[1] = 34,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Raeman"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Durklis"] = {
+							[1] = 56,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
+						},
+						["Akiiz"] = {
+							[1] = 21,
+							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
 						["Gambitdeath"] = {
@@ -17060,15 +25977,15 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Zagriuun"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
 						["Arklite"] = {
-							[1] = 39,
+							[1] = 41,
 							[2] = "Excruciation",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Nikolettecz"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 					},
 					["Hunter"] = {
@@ -17078,29 +25995,44 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Nizzlejizzle"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-06",
+							[1] = 31,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Niceblue"] = {
+							[1] = 43,
+							[2] = "who cares",
+							[3] = "2019-06-07",
 						},
 						["Dharmok"] = {
 							[1] = 19,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Huangzhoong"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-06",
+						["Steerling"] = {
+							[1] = 24,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
 						},
-						["Demonhanter"] = {
-							[1] = 8,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-06",
+						["Bigplebby"] = {
+							[1] = 13,
+							[2] = "Crossroad Festival",
+							[3] = "2019-06-07",
 						},
-						["Flatfish"] = {
-							[1] = 21,
+						["Fynbahbp"] = {
+							[1] = 2,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Hardorc"] = {
+							[1] = 60,
+							[2] = "Nightmares",
+							[3] = "2019-06-07",
+						},
+						["Pokky"] = {
+							[1] = 26,
+							[2] = "Czechoslovakia",
+							[3] = "2019-06-07",
 						},
 						["Irvish"] = {
 							[1] = 27,
@@ -17110,47 +26042,62 @@ CensusPlus_Database = {
 						["Humplice"] = {
 							[1] = 30,
 							[2] = "Czechoslovakia",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Durothas"] = {
-							[1] = 28,
+						["Vanhok"] = {
+							[1] = 15,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Santasick"] = {
-							[1] = 14,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Primalraged"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Samvega"] = {
+						["Artimyss"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Prezator"] = {
 							[1] = 60,
-							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
+							[2] = "COUSINS",
+							[3] = "2019-06-07",
 						},
-						["Raaltul"] = {
-							[1] = 22,
-							[2] = "The PC",
-							[3] = "2019-06-06",
+						["Mysticnight"] = {
+							[1] = 24,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
 						},
 						["Kossmm"] = {
 							[1] = 39,
 							[2] = "Blood Legion",
 							[3] = "2019-06-06",
 						},
+						["Misnikdoom"] = {
+							[1] = 13,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
 						["Helihoes"] = {
 							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-04",
 						},
-						["Cerecedok"] = {
-							[1] = 27,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-06",
+						["Orquitoo"] = {
+							[1] = 37,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
 						},
-						["Gulgarak"] = {
-							[1] = 32,
-							[2] = "Task Force Yeet",
-							[3] = "2019-06-06",
+						["Cerecedok"] = {
+							[1] = 29,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-07",
+						},
+						["Dibbyeblo"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-03",
 						},
 						["Leticiaa"] = {
 							[1] = 12,
@@ -17170,47 +26117,87 @@ CensusPlus_Database = {
 						["Darvelteh"] = {
 							[1] = 50,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Serraki"] = {
-							[1] = 8,
+						["Lilblep"] = {
+							[1] = 37,
+							[2] = "Blyat",
+							[3] = "2019-06-07",
+						},
+						["Solemto"] = {
+							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Nazdregg"] = {
-							[1] = 32,
+							[1] = 34,
 							[2] = "No Beta Invite",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
 						["Skora"] = {
 							[1] = 60,
 							[2] = "who cares",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Joejimbob"] = {
-							[1] = 52,
+							[1] = 53,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Garmy"] = {
-							[1] = 1,
+						["Faxito"] = {
+							[1] = 6,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Kozyabra"] = {
 							[1] = 27,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Animalfrend"] = {
+							[1] = 7,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Soodosoo"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Adiwa"] = {
+							[1] = 8,
+							[2] = "Anonymous",
 							[3] = "2019-06-06",
 						},
-						["Nighth"] = {
-							[1] = 4,
+						["Poonaeorc"] = {
+							[1] = 50,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Papapez"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hurkale"] = {
+							[1] = 14,
+							[2] = "Vader",
+							[3] = "2019-06-07",
+						},
+						["Krawak"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Qztoe"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Asalgor"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Meverick"] = {
 							[1] = 53,
@@ -17223,18 +26210,28 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Pomster"] = {
-							[1] = 4,
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Matonhunt"] = {
 							[1] = 24,
 							[2] = "Task Force Yeet",
 							[3] = "2019-06-03",
 						},
+						["Slunto"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Daaly"] = {
 							[1] = 15,
 							[2] = "Chronic",
+							[3] = "2019-06-06",
+						},
+						["Fckthisname"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Natkar"] = {
@@ -17242,10 +26239,40 @@ CensusPlus_Database = {
 							[2] = "No Gold Train Skills",
 							[3] = "2019-06-06",
 						},
+						["Grinmar"] = {
+							[1] = 47,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Bpyy"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Djesba"] = {
 							[1] = 24,
 							[2] = "",
 							[3] = "2019-06-03",
+						},
+						["Huntyboii"] = {
+							[1] = 11,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
+						["Grimmak"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-07",
+						},
+						["Terutanya"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Kradik"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Ziggyone"] = {
 							[1] = 10,
@@ -17258,19 +26285,44 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Nbezx"] = {
-							[1] = 42,
+							[1] = 43,
 							[2] = "AGGRESSIVE IDIOTS",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
+						},
+						["Bleahh"] = {
+							[1] = 24,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
 						},
 						["Castagne"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Funkel"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Smilition"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gliitchh"] = {
+							[1] = 60,
+							[2] = "F E P",
+							[3] = "2019-06-07",
+						},
+						["Oreff"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
 						["Longds"] = {
-							[1] = 31,
+							[1] = 33,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Chadboi"] = {
 							[1] = 29,
@@ -17282,10 +26334,15 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
+						["Gnaarl"] = {
+							[1] = 60,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
 						["Samwil"] = {
-							[1] = 46,
+							[1] = 48,
 							[2] = "Count Fapula",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Dirtyminded"] = {
 							[1] = 9,
@@ -17297,58 +26354,193 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Guzzu"] = {
-							[1] = 21,
+						["Seethrice"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Neemasa"] = {
+							[1] = 27,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-06",
+						},
+						["Nebezdary"] = {
+							[1] = 35,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Besteri"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Grostits"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Schmeedx"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Marakoff"] = {
+							[1] = 37,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Yagr"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Marakoff"] = {
-							[1] = 36,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-06",
+						["Myrowyn"] = {
+							[1] = 41,
+							[2] = "Junk",
+							[3] = "2019-06-07",
 						},
 						["Pivoskilkou"] = {
 							[1] = 29,
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Fatm"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Raduk"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Demiurgus"] = {
+							[1] = 35,
+							[2] = "BRASIL",
+							[3] = "2019-06-07",
+						},
+						["Shindux"] = {
+							[1] = 37,
+							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Grizlyjer"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Elloriann"] = {
+							[1] = 33,
+							[2] = "Los Baldaos",
+							[3] = "2019-06-07",
 						},
 						["Okookoo"] = {
 							[1] = 17,
 							[2] = "The Bronze Crusade",
 							[3] = "2019-06-06",
 						},
-						["Seethrice"] = {
-							[1] = 15,
+						["Natedogglol"] = {
+							[1] = 7,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Assessing"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Borpn"] = {
+							[1] = 34,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Bandeeto"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tamams"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Reckles"] = {
+							[1] = 60,
+							[2] = "COUSINS",
+							[3] = "2019-06-06",
+						},
+						["Burrgack"] = {
+							[1] = 23,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Vanpelte"] = {
+							[1] = 60,
+							[2] = "Task Force Loktar",
+							[3] = "2019-06-07",
+						},
+						["Noscope"] = {
+							[1] = 48,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-03",
+						},
+						["Hunterorgr"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Orcgazmatron"] = {
+							[1] = 54,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
+						},
+						["Hideousorc"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Chassetout"] = {
+							[1] = 20,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Tarluk"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Capsolo"] = {
+							[1] = 31,
+							[2] = "Guards of Azeroth",
+							[3] = "2019-06-07",
 						},
 						["Matdognz"] = {
 							[1] = 33,
 							[2] = "Revolution",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Raduk"] = {
-							[1] = 4,
+						["Milfschnitte"] = {
+							[1] = 27,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Missoorc"] = {
+							[1] = 38,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Mirosh"] = {
-							[1] = 37,
+							[1] = 38,
 							[2] = "Waiting For Retail",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Curlewis"] = {
-							[1] = 6,
+						["Vladax"] = {
+							[1] = 23,
+							[2] = "LFM CLASSIC NA",
+							[3] = "2019-06-07",
+						},
+						["Colaka"] = {
+							[1] = 10,
 							[2] = "",
-							[3] = "2019-06-03",
+							[3] = "2019-06-07",
 						},
-						["Bandeeto"] = {
-							[1] = 7,
+						["Ereke"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -17357,38 +26549,183 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-06",
 						},
-						["Skidmarx"] = {
-							[1] = 13,
+						["Xpold"] = {
+							[1] = 43,
 							[2] = "",
-							[3] = "2019-06-04",
+							[3] = "2019-06-06",
+						},
+						["Santasick"] = {
+							[1] = 14,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Lierenn"] = {
+							[1] = 53,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Groq"] = {
+							[1] = 38,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Runngun"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Northmaan"] = {
 							[1] = 17,
 							[2] = "The PC",
 							[3] = "2019-06-06",
 						},
+						["Pille"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Raaltul"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Wessexar"] = {
 							[1] = 41,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
-						["Sargarn"] = {
-							[1] = 25,
-							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
+						["Jagjagar"] = {
+							[1] = 2,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Sadust"] = {
 							[1] = 60,
 							[2] = "Reign of Chaos",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Bubaluu"] = {
-							[1] = 12,
+						["Moshok"] = {
+							[1] = 22,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Kaliberzcvb"] = {
+							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Orlandovm"] = {
+							[1] = 26,
+							[2] = "The PC",
+							[3] = "2019-06-07",
+						},
 						["Yyhman"] = {
 							[1] = 47,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Orgdor"] = {
+							[1] = 13,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Vinamp"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Hazaga"] = {
+							[1] = 25,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-06",
+						},
+						["Strongoo"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lixxyhunter"] = {
+							[1] = 29,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Redhanter"] = {
+							[1] = 59,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Brikta"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-07",
+						},
+						["Demonhanter"] = {
+							[1] = 9,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Ewox"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zred"] = {
+							[1] = 34,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-07",
+						},
+						["Senhaku"] = {
+							[1] = 30,
+							[2] = "Chronic",
+							[3] = "2019-06-03",
+						},
+						["Cranicum"] = {
+							[1] = 12,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Huangzhoong"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Rezonator"] = {
+							[1] = 30,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Hunnie"] = {
+							[1] = 53,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-03",
+						},
+						["Korpzgrinder"] = {
+							[1] = 33,
+							[2] = "Nicotine",
+							[3] = "2019-06-07",
+						},
+						["Reeza"] = {
+							[1] = 24,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Kajiryoji"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Imabadhunter"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Wenndokki"] = {
+							[1] = 60,
+							[2] = "AGGRESSIVE IDIOTS",
+							[3] = "2019-06-07",
+						},
+						["Dkano"] = {
+							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -17397,20 +26734,60 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-06",
 						},
+						["Jukemenow"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Hunterssuck"] = {
 							[1] = 50,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-03",
+						},
+						["Haella"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Migzar"] = {
 							[1] = 23,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Elgodhand"] = {
-							[1] = 34,
+						["Arsnak"] = {
+							[1] = 12,
 							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Zionder"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Roho"] = {
+							[1] = 53,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
+						},
+						["Coldorm"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
+						},
+						["Nomoreammo"] = {
+							[1] = 16,
+							[2] = "Dark Side of the Moon",
+							[3] = "2019-06-07",
+						},
+						["Elgodhand"] = {
+							[1] = 35,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Sargarn"] = {
+							[1] = 27,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-07",
 						},
 						["Dsidn"] = {
 							[1] = 42,
@@ -17418,34 +26795,59 @@ CensusPlus_Database = {
 							[3] = "2019-06-03",
 						},
 						["Bukah"] = {
-							[1] = 25,
+							[1] = 27,
 							[2] = "",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Misconscru"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Beastinside"] = {
+							[1] = 58,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
 						["Chalkioutse"] = {
 							[1] = 23,
 							[2] = "Chronic",
 							[3] = "2019-06-06",
 						},
-						["Vofke"] = {
-							[1] = 16,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Saltapinnar"] = {
+							[1] = 33,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-07",
 						},
-						["Naylis"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-03",
+						["Vofke"] = {
+							[1] = 18,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Xenrekai"] = {
+							[1] = 10,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-07",
 						},
 						["Raiigor"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-03",
+						},
+						["Rapzillax"] = {
+							[1] = 36,
+							[2] = "Zug Zug por la Horda",
+							[3] = "2019-06-07",
+						},
+						["Skidmarx"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-04",
+						},
+						["Samvega"] = {
+							[1] = 60,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-06",
 						},
 						["Rangeshot"] = {
 							[1] = 39,
@@ -17457,13 +26859,18 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-06",
 						},
-						["Vypich"] = {
-							[1] = 56,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-06",
+						["Orfii"] = {
+							[1] = 37,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
 						},
-						["Nassimtaleb"] = {
-							[1] = 15,
+						["Samshunter"] = {
+							[1] = 3,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Durothas"] = {
+							[1] = 28,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
@@ -17472,14 +26879,29 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-06",
 						},
+						["Shuaiguo"] = {
+							[1] = 60,
+							[2] = "Heart of Eternity",
+							[3] = "2019-06-07",
+						},
+						["Davzeus"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Hantiz"] = {
+							[1] = 20,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
 						["Smuthz"] = {
 							[1] = 42,
 							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
-						["Coldorm"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
+						["Garmy"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-06",
 						},
 						["Newanda"] = {
@@ -17487,24 +26909,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-03",
 						},
-						["Bendix"] = {
-							[1] = 29,
+						["Saftirox"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Dorogosh"] = {
+							[1] = 17,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Nassimtaleb"] = {
+							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Orcgazmatron"] = {
-							[1] = 54,
-							[2] = "Averagely Furious",
-							[3] = "2019-06-06",
-						},
-						["Reckles"] = {
-							[1] = 60,
-							[2] = "COUSINS",
-							[3] = "2019-06-06",
-						},
-						["Dkano"] = {
-							[1] = 9,
-							[2] = "",
+						["Vypich"] = {
+							[1] = 56,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-06",
 						},
 						["Jaslmok"] = {
@@ -17517,45 +26939,45 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-06",
 						},
-						["Vladax"] = {
-							[1] = 12,
-							[2] = "LFM CLASSIC NA",
+						["Naylis"] = {
+							[1] = 8,
+							[2] = "",
 							[3] = "2019-06-03",
-						},
-						["Beastinside"] = {
-							[1] = 57,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Xpold"] = {
-							[1] = 43,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Yagr"] = {
-							[1] = 60,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Groq"] = {
-							[1] = 37,
-							[2] = "",
-							[3] = "2019-06-06",
 						},
 						["Mesogreen"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
+							[1] = 27,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-07",
 						},
-						["Elloriann"] = {
-							[1] = 33,
-							[2] = "Los Baldaos",
+						["Hulikiller"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
+							[3] = "2019-06-07",
+						},
+						["Lowlypeon"] = {
+							[1] = 38,
+							[2] = "The Bronze Crusade",
+							[3] = "2019-06-06",
+						},
+						["Nikaia"] = {
+							[1] = 18,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
+						},
+						["Bergfinn"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Fatm"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-06",
 						},
 						["Lionfoot"] = {
 							[1] = 38,
 							[2] = "Super Adventure Pals",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Orii"] = {
 							[1] = 6,
@@ -17563,189 +26985,189 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Dotcbd"] = {
-							[1] = 33,
-							[2] = "Count Fapula",
-							[3] = "2019-06-06",
-						},
-						["Rapzillax"] = {
 							[1] = 34,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-03",
+							[2] = "Count Fapula",
+							[3] = "2019-06-07",
+						},
+						["Stromnk"] = {
+							[1] = 20,
+							[2] = "Biobuzzard",
+							[3] = "2019-06-07",
 						},
 						["Karlita"] = {
 							[1] = 31,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Tamams"] = {
-							[1] = 6,
+						["Saikra"] = {
+							[1] = 15,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Bendix"] = {
+							[1] = 29,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Senhaku"] = {
-							[1] = 30,
-							[2] = "Chronic",
-							[3] = "2019-06-03",
-						},
 						["Toxicoznic"] = {
-							[1] = 10,
+							[1] = 13,
 							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Enache"] = {
 							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Redhanter"] = {
-							[1] = 58,
+						["Varjana"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Flatfish"] = {
+							[1] = 21,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Kaliberzcvb"] = {
-							[1] = 6,
+						["Bubaluu"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Gramora"] = {
+						["Sajga"] = {
 							[1] = 60,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-07",
+						},
+						["Robbanito"] = {
+							[1] = 23,
+							[2] = "The Mystics",
+							[3] = "2019-06-07",
+						},
+						["Boodda"] = {
+							[1] = 20,
 							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hazaga"] = {
-							[1] = 25,
-							[2] = "Dark Side of the Moon",
-							[3] = "2019-06-06",
-						},
-						["Primalraged"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Fckthisname"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Shuaiguo"] = {
-							[1] = 60,
-							[2] = "Heart of Eternity",
-							[3] = "2019-06-03",
-						},
-						["Imabadhunter"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Noscope"] = {
-							[1] = 48,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-03",
-						},
-						["Dirtmeup"] = {
-							[1] = 28,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hunnie"] = {
-							[1] = 53,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-03",
-						},
-						["Vinamp"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Ereke"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Poonaeorc"] = {
-							[1] = 50,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Hideousorc"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Bleublood"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-06",
-						},
-						["Dibbyeblo"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Youllbeok"] = {
-							[1] = 32,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Pille"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-03",
-						},
-						["Yadira"] = {
-							[1] = 27,
-							[2] = "Chronic",
-							[3] = "2019-06-06",
-						},
-						["Wotshappenin"] = {
-							[1] = 52,
-							[2] = "The Brew Crew",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 						["Naruteador"] = {
 							[1] = 22,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Shindux"] = {
-							[1] = 37,
+						["Gulgarak"] = {
+							[1] = 33,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
+						},
+						["Hulkye"] = {
+							[1] = 28,
+							[2] = "For The Horde Germany",
+							[3] = "2019-06-07",
+						},
+						["Dirtmeup"] = {
+							[1] = 29,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Lastright"] = {
+							[1] = 14,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
+						},
+						["Petslol"] = {
+							[1] = 57,
+							[2] = "Chad Immersion Squad",
+							[3] = "2019-06-07",
+						},
+						["Serraki"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-06",
+						},
+						["Banklw"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Karruk"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Bleublood"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Nighth"] = {
+							[1] = 4,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Youllbeok"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-07",
+						},
+						["Gramora"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-06",
+						},
+						["Yadira"] = {
+							[1] = 28,
+							[2] = "Chronic",
+							[3] = "2019-06-07",
+						},
+						["Wotshappenin"] = {
+							[1] = 52,
+							[2] = "The Brew Crew",
+							[3] = "2019-06-06",
+						},
+						["Curlewis"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-03",
+						},
+						["Malrath"] = {
+							[1] = 24,
+							[2] = "Waiting For Retail",
+							[3] = "2019-06-07",
 						},
 						["Vandolina"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Solemto"] = {
-							[1] = 7,
+						["Guzzu"] = {
+							[1] = 21,
 							[2] = "",
 							[3] = "2019-06-06",
 						},
-						["Lowlypeon"] = {
-							[1] = 38,
-							[2] = "The Bronze Crusade",
-							[3] = "2019-06-06",
+						["Gooktopia"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
-						["Adiwa"] = {
-							[1] = 8,
-							[2] = "Anonymous",
-							[3] = "2019-06-06",
+						["Elsco"] = {
+							[1] = 54,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-07",
 						},
-						["Roho"] = {
-							[1] = 53,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-06",
+						["Homojegeren"] = {
+							[1] = 18,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-07",
 						},
-						["Nebezdary"] = {
-							[1] = 34,
-							[2] = "RUSSIA",
-							[3] = "2019-06-06",
+						["Ddano"] = {
+							[1] = 13,
+							[2] = "Task Force Yeet",
+							[3] = "2019-06-07",
 						},
-						["Neemasa"] = {
-							[1] = 27,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-06",
+						["Hunterlist"] = {
+							[1] = 15,
+							[2] = "",
+							[3] = "2019-06-07",
 						},
 						["Herbyboii"] = {
 							[1] = 35,
@@ -17753,9 +27175,9 @@ CensusPlus_Database = {
 							[3] = "2019-06-06",
 						},
 						["Gorkrok"] = {
-							[1] = 21,
+							[1] = 23,
 							[2] = "Chronic",
-							[3] = "2019-06-06",
+							[3] = "2019-06-07",
 						},
 					},
 				},

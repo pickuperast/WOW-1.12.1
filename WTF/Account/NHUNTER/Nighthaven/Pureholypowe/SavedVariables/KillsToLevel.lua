@@ -5,7 +5,7 @@ KTL_ARRAY = {
 	["KTL_QUEST_STATE"] = 1,
 	["KTL_FRAME"] = 2,
 	["KTL_STATE"] = 1,
-	["KTL_NK"] = 236,
+	["KTL_NK"] = 180,
 	["KTL_RK"] = 0,
 	["KTL_Q"] = 0,
 }
