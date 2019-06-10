@@ -11,14 +11,26 @@ TheoryCraft_MitigationMobs = {
 	["Kolkar Wrangler"] = {
 		[1] = 580,
 	},
+	["Rattlecage Skeleton"] = {
+		[1] = 106,
+	},
 	["Flatland Prowler"] = {
 		[1] = 344,
+	},
+	["Mindless Zombie"] = {
+		[1] = 233,
 	},
 	["Savannah Prowler"] = {
 		[1] = 976,
 	},
-	["Kolkar Packhound"] = {
-		[1] = 534,
+	["Wretched Zombie"] = {
+		[1] = 152,
+	},
+	["Hexed Troll"] = {
+		[1] = 75,
+	},
+	["Swoop"] = {
+		[1] = 512,
 	},
 	["Kolkar Pack Runner"] = {
 		[1] = 974,
@@ -26,20 +38,23 @@ TheoryCraft_MitigationMobs = {
 	["Bristleback Interloper"] = {
 		[1] = 447,
 	},
-	["Hexed Troll"] = {
-		[1] = 75,
+	["Young Scavenger"] = {
+		[1] = 63,
+	},
+	["Kolkar Packhound"] = {
+		[1] = 534,
 	},
 	["Hecklefang Hyena"] = {
 		[1] = 711,
 	},
+	["Duskbat"] = {
+		[1] = 135,
+	},
 	["Durotar Tiger"] = {
 		[1] = 452,
 	},
-	["Swoop"] = {
-		[1] = 512,
-	},
-	["Prairie Wolf Alpha"] = {
-		[1] = 1092,
+	["Taloned Swoop"] = {
+		[1] = 542,
 	},
 	["Kolkar Bloodcharger"] = {
 		[1] = 863,
@@ -53,23 +68,23 @@ TheoryCraft_MitigationMobs = {
 	["Bloodtalon Taillasher"] = {
 		[1] = 312,
 	},
-	["Fleeting Plainstrider"] = {
-		[1] = 1060,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
 	["Voodoo Troll"] = {
 		[1] = 523,
 	},
+	["Fleeting Plainstrider"] = {
+		[1] = 1060,
+	},
 	["Razormane Thornweaver"] = {
 		[1] = 534,
-	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
 	},
 	["Oasis Snapjaw"] = {
 		[1] = 920,
 	},
-	["Taloned Swoop"] = {
-		[1] = 542,
+	["Prairie Wolf Alpha"] = {
+		[1] = 1092,
 	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 455,
