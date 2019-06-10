@@ -80,10 +80,12 @@ TitanSettings = {
 					["ShowIcon"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
+				["TitanRegen"] = {
+					["ShowMPRegen"] = 1,
+					["ShowColoredText"] = "Titan Nil",
+					["ShowHPRegen"] = 1,
+					["ShowPercentage"] = "Titan Nil",
+					["ShowLabelText"] = 1,
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -98,12 +100,10 @@ TitanSettings = {
 					["ShowXPPerHourSession"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["TitanRegen"] = {
-					["ShowMPRegen"] = 1,
-					["ShowColoredText"] = "Titan Nil",
-					["ShowHPRegen"] = 1,
-					["ShowPercentage"] = "Titan Nil",
-					["ShowLabelText"] = 1,
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
 				},
 			},
 			["Panel"] = {
@@ -279,21 +279,21 @@ TitanSettings = {
 					["shortdisplay"] = "Titan Nil",
 					["ShowLabelText"] = 1,
 				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
-				},
-				["LootType"] = {
-					["ShowIcon"] = 1,
-					["ShowLabelText"] = 1,
-				},
 				["TitanRegen"] = {
 					["ShowPercentage"] = "Titan Nil",
 					["ShowColoredText"] = "Titan Nil",
 					["ShowHPRegen"] = 1,
 					["ShowMPRegen"] = 1,
 					["ShowLabelText"] = 1,
+				},
+				["LootType"] = {
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -436,21 +436,21 @@ TitanSettings = {
 					["shortdisplay"] = "Titan Nil",
 					["ShowLabelText"] = 1,
 				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
-				},
-				["LootType"] = {
-					["ShowIcon"] = 1,
-					["ShowLabelText"] = 1,
-				},
 				["TitanRegen"] = {
 					["ShowPercentage"] = "Titan Nil",
 					["ShowColoredText"] = "Titan Nil",
 					["ShowHPRegen"] = 1,
 					["ShowMPRegen"] = 1,
 					["ShowLabelText"] = 1,
+				},
+				["LootType"] = {
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -593,21 +593,21 @@ TitanSettings = {
 					["shortdisplay"] = "Titan Nil",
 					["ShowLabelText"] = 1,
 				},
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
+				},
+				["LootType"] = {
+					["ShowIcon"] = 1,
+					["ShowLabelText"] = 1,
+				},
 				["TitanRegen"] = {
 					["ShowPercentage"] = "Titan Nil",
 					["ShowColoredText"] = "Titan Nil",
 					["ShowHPRegen"] = 1,
 					["ShowMPRegen"] = 1,
 					["ShowLabelText"] = 1,
-				},
-				["LootType"] = {
-					["ShowIcon"] = 1,
-					["ShowLabelText"] = 1,
-				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -708,12 +708,10 @@ TitanSettings = {
 					["ShowIcon"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["TitanRegen"] = {
-					["ShowMPRegen"] = 1,
-					["ShowColoredText"] = "Titan Nil",
-					["ShowHPRegen"] = 1,
-					["ShowPercentage"] = "Titan Nil",
-					["ShowLabelText"] = 1,
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -728,10 +726,12 @@ TitanSettings = {
 					["ShowXPPerHourSession"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
+				["TitanRegen"] = {
+					["ShowMPRegen"] = 1,
+					["ShowColoredText"] = "Titan Nil",
+					["ShowHPRegen"] = 1,
+					["ShowPercentage"] = "Titan Nil",
+					["ShowLabelText"] = 1,
 				},
 			},
 			["Panel"] = {
@@ -865,10 +865,12 @@ TitanSettings = {
 					["ShowIcon"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
+				["TitanRegen"] = {
+					["ShowMPRegen"] = 1,
+					["ShowColoredText"] = "Titan Nil",
+					["ShowHPRegen"] = 1,
+					["ShowPercentage"] = "Titan Nil",
+					["ShowLabelText"] = 1,
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -883,12 +885,10 @@ TitanSettings = {
 					["ShowXPPerHourSession"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["TitanRegen"] = {
-					["ShowMPRegen"] = 1,
-					["ShowColoredText"] = "Titan Nil",
-					["ShowHPRegen"] = 1,
-					["ShowPercentage"] = "Titan Nil",
-					["ShowLabelText"] = 1,
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
 				},
 			},
 			["Panel"] = {
@@ -1022,10 +1022,12 @@ TitanSettings = {
 					["ShowIcon"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["Clock"] = {
-					["OffsetHour"] = 0,
-					["DisplayOnRightSide"] = 1,
-					["Format"] = "12H",
+				["TitanRegen"] = {
+					["ShowMPRegen"] = 1,
+					["ShowColoredText"] = "Titan Nil",
+					["ShowHPRegen"] = 1,
+					["ShowPercentage"] = "Titan Nil",
+					["ShowLabelText"] = 1,
 				},
 				["Performance"] = {
 					["ShowColoredText"] = 1,
@@ -1040,12 +1042,10 @@ TitanSettings = {
 					["ShowXPPerHourSession"] = 1,
 					["ShowLabelText"] = 1,
 				},
-				["TitanRegen"] = {
-					["ShowMPRegen"] = 1,
-					["ShowColoredText"] = "Titan Nil",
-					["ShowHPRegen"] = 1,
-					["ShowPercentage"] = "Titan Nil",
-					["ShowLabelText"] = 1,
+				["Clock"] = {
+					["OffsetHour"] = 0,
+					["DisplayOnRightSide"] = 1,
+					["Format"] = "12H",
 				},
 			},
 			["Panel"] = {
@@ -1119,7 +1119,7 @@ TITAN_HONORPLUS = {
 		["currentbonus"] = 0,
 		["todayb"] = 0,
 		["yesterday"] = 0,
-		["todayd"] = 3,
+		["todayd"] = 5,
 		["todayhk"] = 0,
 	},
 	["Easypeasyy|Nighthaven"] = {

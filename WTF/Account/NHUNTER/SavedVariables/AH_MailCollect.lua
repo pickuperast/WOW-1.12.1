@@ -12,6 +12,9 @@ AH_MailCollectDB = {
 			["displayMail"] = 1,
 			["itemsMail"] = 1,
 			["MsgsWithCash"] = {
+				[1] = 1,
+				[2] = 2,
+				[3] = 3,
 			},
 		},
 	},

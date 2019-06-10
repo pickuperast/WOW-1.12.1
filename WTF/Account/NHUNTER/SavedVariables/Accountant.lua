@@ -92,40 +92,22 @@ Accountant_SaveData = {
 					["Out"] = 501,
 				},
 			},
-			["LOOT"] = {
+			["MERCH"] = {
 				["Week"] = {
-					["In"] = 2358,
-					["Out"] = 0,
+					["In"] = 6751,
+					["Out"] = 4634,
 				},
 				["Day"] = {
-					["In"] = 1385,
-					["Out"] = 0,
+					["In"] = 5290,
+					["Out"] = 4434,
 				},
 				["Session"] = {
-					["In"] = 234,
-					["Out"] = 0,
+					["In"] = 833,
+					["Out"] = 114,
 				},
 				["Total"] = {
-					["In"] = 2928,
-					["Out"] = 0,
-				},
-			},
-			["MAIL"] = {
-				["Week"] = {
-					["In"] = 132050,
-					["Out"] = 10300,
-				},
-				["Day"] = {
-					["In"] = 123067,
-					["Out"] = 10300,
-				},
-				["Session"] = {
-					["In"] = 23536,
-					["Out"] = 30,
-				},
-				["Total"] = {
-					["In"] = 134202,
-					["Out"] = 10300,
+					["In"] = 8760,
+					["Out"] = 5034,
 				},
 			},
 			["OTHER"] = {
@@ -146,22 +128,40 @@ Accountant_SaveData = {
 					["Out"] = 500,
 				},
 			},
-			["MERCH"] = {
+			["MAIL"] = {
 				["Week"] = {
-					["In"] = 6751,
-					["Out"] = 4634,
+					["In"] = 132050,
+					["Out"] = 10300,
 				},
 				["Day"] = {
-					["In"] = 5290,
-					["Out"] = 4434,
+					["In"] = 123067,
+					["Out"] = 10300,
 				},
 				["Session"] = {
-					["In"] = 833,
-					["Out"] = 114,
+					["In"] = 23536,
+					["Out"] = 30,
 				},
 				["Total"] = {
-					["In"] = 8760,
-					["Out"] = 5034,
+					["In"] = 134202,
+					["Out"] = 10300,
+				},
+			},
+			["LOOT"] = {
+				["Week"] = {
+					["In"] = 2358,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 1385,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 234,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 2928,
+					["Out"] = 0,
 				},
 			},
 			["QUEST"] = {
@@ -184,14 +184,14 @@ Accountant_SaveData = {
 			},
 		},
 		["options"] = {
-			["buttonpos"] = 255,
-			["weekstart"] = 2,
+			["weekdate"] = "",
+			["showbutton"] = true,
 			["date"] = "06/04/19",
 			["dateweek"] = "06/03/19",
 			["version"] = "2.3",
 			["totalcash"] = 121749,
-			["showbutton"] = true,
-			["weekdate"] = "",
+			["weekstart"] = 2,
+			["buttonpos"] = 255,
 		},
 	},
 	["Pureholypowe"] = {
@@ -286,22 +286,40 @@ Accountant_SaveData = {
 					["Out"] = 4783,
 				},
 			},
-			["MERCH"] = {
+			["LOOT"] = {
 				["Week"] = {
-					["In"] = 141800,
-					["Out"] = 50543,
+					["In"] = 38131,
+					["Out"] = 4,
 				},
 				["Day"] = {
-					["In"] = 141230,
-					["Out"] = 50443,
+					["In"] = 37106,
+					["Out"] = 3,
 				},
 				["Session"] = {
-					["In"] = 6262,
-					["Out"] = 4500,
+					["In"] = 2147,
+					["Out"] = 3,
 				},
 				["Total"] = {
-					["In"] = 141800,
-					["Out"] = 50543,
+					["In"] = 38131,
+					["Out"] = 4,
+				},
+			},
+			["MAIL"] = {
+				["Week"] = {
+					["In"] = 147080,
+					["Out"] = 6050,
+				},
+				["Day"] = {
+					["In"] = 132470,
+					["Out"] = 4650,
+				},
+				["Session"] = {
+					["In"] = 57344,
+					["Out"] = 180,
+				},
+				["Total"] = {
+					["In"] = 147080,
+					["Out"] = 6050,
 				},
 			},
 			["OTHER"] = {
@@ -322,70 +340,52 @@ Accountant_SaveData = {
 					["Out"] = 10000,
 				},
 			},
-			["MAIL"] = {
+			["MERCH"] = {
 				["Week"] = {
-					["In"] = 89736,
-					["Out"] = 5870,
+					["In"] = 143941,
+					["Out"] = 50703,
 				},
 				["Day"] = {
-					["In"] = 75126,
-					["Out"] = 4470,
+					["In"] = 143371,
+					["Out"] = 50603,
 				},
 				["Session"] = {
-					["In"] = 85,
-					["Out"] = 600,
+					["In"] = 2141,
+					["Out"] = 160,
 				},
 				["Total"] = {
-					["In"] = 89736,
-					["Out"] = 5870,
-				},
-			},
-			["LOOT"] = {
-				["Week"] = {
-					["In"] = 35984,
-					["Out"] = 4,
-				},
-				["Day"] = {
-					["In"] = 34959,
-					["Out"] = 3,
-				},
-				["Session"] = {
-					["In"] = 882,
-					["Out"] = 3,
-				},
-				["Total"] = {
-					["In"] = 35984,
-					["Out"] = 4,
+					["In"] = 143941,
+					["Out"] = 50703,
 				},
 			},
 			["QUEST"] = {
 				["Week"] = {
-					["In"] = 80017,
+					["In"] = 87367,
 					["Out"] = 0,
 				},
 				["Day"] = {
-					["In"] = 79575,
+					["In"] = 86925,
 					["Out"] = 0,
 				},
 				["Session"] = {
-					["In"] = 8500,
+					["In"] = 7350,
 					["Out"] = 0,
 				},
 				["Total"] = {
-					["In"] = 80017,
+					["In"] = 87367,
 					["Out"] = 0,
 				},
 			},
 		},
 		["options"] = {
-			["weekdate"] = "",
-			["showbutton"] = true,
+			["buttonpos"] = 252,
+			["weekstart"] = 3,
 			["date"] = "06/05/19",
 			["dateweek"] = "06/04/19",
 			["version"] = "2.3",
-			["totalcash"] = 64758,
-			["weekstart"] = 3,
-			["buttonpos"] = 252,
+			["totalcash"] = 133400,
+			["showbutton"] = true,
+			["weekdate"] = "",
 		},
 	},
 	["Easypisy"] = {
@@ -480,39 +480,21 @@ Accountant_SaveData = {
 					["Out"] = 0,
 				},
 			},
-			["LOOT"] = {
+			["MERCH"] = {
 				["Week"] = {
-					["In"] = 95,
+					["In"] = 250,
 					["Out"] = 0,
 				},
 				["Day"] = {
-					["In"] = 95,
+					["In"] = 250,
 					["Out"] = 0,
 				},
 				["Session"] = {
-					["In"] = 95,
+					["In"] = 250,
 					["Out"] = 0,
 				},
 				["Total"] = {
-					["In"] = 95,
-					["Out"] = 0,
-				},
-			},
-			["MAIL"] = {
-				["Week"] = {
-					["In"] = 0,
-					["Out"] = 0,
-				},
-				["Day"] = {
-					["In"] = 0,
-					["Out"] = 0,
-				},
-				["Session"] = {
-					["In"] = 0,
-					["Out"] = 0,
-				},
-				["Total"] = {
-					["In"] = 0,
+					["In"] = 250,
 					["Out"] = 0,
 				},
 			},
@@ -534,21 +516,39 @@ Accountant_SaveData = {
 					["Out"] = 0,
 				},
 			},
-			["MERCH"] = {
+			["MAIL"] = {
 				["Week"] = {
-					["In"] = 250,
+					["In"] = 0,
 					["Out"] = 0,
 				},
 				["Day"] = {
-					["In"] = 250,
+					["In"] = 0,
 					["Out"] = 0,
 				},
 				["Session"] = {
-					["In"] = 250,
+					["In"] = 0,
 					["Out"] = 0,
 				},
 				["Total"] = {
-					["In"] = 250,
+					["In"] = 0,
+					["Out"] = 0,
+				},
+			},
+			["LOOT"] = {
+				["Week"] = {
+					["In"] = 95,
+					["Out"] = 0,
+				},
+				["Day"] = {
+					["In"] = 95,
+					["Out"] = 0,
+				},
+				["Session"] = {
+					["In"] = 95,
+					["Out"] = 0,
+				},
+				["Total"] = {
+					["In"] = 95,
 					["Out"] = 0,
 				},
 			},
@@ -572,14 +572,14 @@ Accountant_SaveData = {
 			},
 		},
 		["options"] = {
-			["buttonpos"] = 0,
-			["weekstart"] = 3,
+			["weekdate"] = "",
+			["showbutton"] = true,
 			["date"] = "06/10/19",
 			["dateweek"] = "06/04/19",
 			["version"] = "2.3",
 			["totalcash"] = 171,
-			["showbutton"] = true,
-			["weekdate"] = "",
+			["weekstart"] = 3,
+			["buttonpos"] = 0,
 		},
 	},
 }
