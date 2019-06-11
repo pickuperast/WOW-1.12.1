@@ -1,7 +1,7 @@
 Frame: ChatFrame2
 FrameLevel: 4
 X: 32
-Y: -607
+Y: -609
 W: 430
 H: 120
 Frame: WorldMapFrame
@@ -19,7 +19,7 @@ FrameLevel: 1
 X: 728
 Y: -167
 Frame: AuxFrame
-FrameLevel: 55
+FrameLevel: 29
 X: 287
 Y: -130
 Frame: CensusPlus
@@ -39,9 +39,9 @@ FrameLevel: 6
 X: 1374
 Y: -208
 Frame: OneBagFrame
-FrameLevel: 46
+FrameLevel: 26
 X: 758
-Y: -401
+Y: -404
 Frame: ZHunterButtonTrack
 FrameLevel: 9
 X: 903

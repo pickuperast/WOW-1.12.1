@@ -3,35 +3,6 @@ GuildAdsDatabase = {
 	["Config"] = {
 		["Profile"] = {
 			["Nighthaven"] = {
-				["Easypewpew"] = {
-					["Guild"] = {
-						["Filters"] = {
-							[1] = true,
-							[2] = true,
-							[3] = true,
-							[4] = true,
-							[5] = true,
-							[6] = true,
-							[7] = true,
-							[8] = true,
-							[9] = true,
-						},
-					},
-					["Trade"] = {
-					},
-					["Skill"] = {
-						["Filters"] = {
-							[4] = true,
-							[5] = true,
-							[6] = true,
-							[7] = true,
-							[8] = true,
-							[13] = true,
-							[9] = true,
-						},
-					},
-					["ChannelCommand"] = "ga",
-				},
 				["Pureholypowe"] = {
 					["Guild"] = {
 						["Filters"] = {
@@ -66,6 +37,35 @@ GuildAdsDatabase = {
 						},
 					},
 				},
+				["Easypewpew"] = {
+					["Guild"] = {
+						["Filters"] = {
+							[1] = true,
+							[2] = true,
+							[3] = true,
+							[4] = true,
+							[5] = true,
+							[6] = true,
+							[7] = true,
+							[8] = true,
+							[9] = true,
+						},
+					},
+					["Trade"] = {
+					},
+					["Skill"] = {
+						["Filters"] = {
+							[4] = true,
+							[5] = true,
+							[6] = true,
+							[7] = true,
+							[8] = true,
+							[13] = true,
+							[9] = true,
+						},
+					},
+					["ChannelCommand"] = "ga",
+				},
 				["Easypisy"] = {
 					["Guild"] = {
 						["Filters"] = {
@@ -97,14 +97,15 @@ GuildAdsDatabase = {
 			},
 		},
 		["MinimapButton"] = {
-			["ArcOffset"] = 176,
 			["RadiusOffset"] = 77,
+			["ArcOffset"] = 176,
 		},
 		["Account"] = "LXYI7525575",
 	},
 	["Versions"] = {
+		["DB"] = "20060512",
 		["DataTypes"] = {
-			["TradeNeed"] = {
+			["TradeSkill"] = {
 				["Current"] = 1,
 				["MostRecent"] = 1,
 			},
@@ -116,7 +117,7 @@ GuildAdsDatabase = {
 				["Current"] = 1,
 				["MostRecent"] = 1,
 			},
-			["TradeSkill"] = {
+			["Inventory"] = {
 				["Current"] = 1,
 				["MostRecent"] = 1,
 			},
@@ -124,55 +125,14 @@ GuildAdsDatabase = {
 				["Current"] = 1,
 				["MostRecent"] = 1,
 			},
-			["Inventory"] = {
+			["TradeNeed"] = {
 				["Current"] = 1,
 				["MostRecent"] = 1,
 			},
 		},
-		["DB"] = "20060512",
 	},
 	["Data"] = {
 		["Nighthaven"] = {
-			["channels"] = {
-				["GuildAdsEasypisy@Horde"] = {
-					["Players"] = {
-						["Easypisy"] = true,
-					},
-				},
-				["GuildAdsRUSSIA@Horde"] = {
-					["items"] = {
-						["item:1251:0:0:0"] = {
-							["o"] = {
-								["Pureholypowe"] = {
-									["_t"] = 7526985,
-									["_u"] = 1,
-								},
-							},
-						},
-					},
-					["itemsRevision"] = {
-						["Pureholypowe"] = {
-							["_uo"] = 1,
-						},
-					},
-					["Players"] = {
-						["Pureholypowe"] = true,
-						["Karmadonw"] = true,
-						["Lvlonetwink"] = true,
-						["Easypewpew"] = true,
-					},
-				},
-				["GuildAdsEasypewpew@Horde"] = {
-					["Players"] = {
-						["Easypewpew"] = true,
-					},
-				},
-				["GuildAdsPureholypowe@Horde"] = {
-					["Players"] = {
-						["Pureholypowe"] = true,
-					},
-				},
-			},
 			["profiles"] = {
 				["Deathmettal"] = {
 					["main"] = {
@@ -228,21 +188,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kroatt"] = {
+				["Sainell"] = {
 					["main"] = {
 						["c"] = 5,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 53,
+						["l"] = 40,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Adversariusy"] = {
+				["Tagerum"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 23,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -507,21 +467,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Strucker"] = {
+				["Dellorean"] = {
 					["main"] = {
 						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 37,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 6,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Spawka"] = {
+				["Cynepgepouh"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 18,
+						["c"] = 8,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 37,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -543,30 +503,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Anagarka"] = {
+				["Jamilbek"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 43,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Grozz"] = {
+				["Shabay"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sinyavka"] = {
+				["Onaax"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 28,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -579,21 +539,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Nidal"] = {
+				["Ifeelupain"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 39,
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 34,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Wastter"] = {
+				["Terrorko"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 52,
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 37,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -624,12 +584,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Minodru"] = {
+				["Serekja"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 18,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -651,125 +611,13 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Pureholypowe"] = {
-					["inventory"] = {
-						[1] = {
-							["i"] = "item:3732:0:0:0",
-							["_u"] = 56,
-						},
-						[3] = {
-							["i"] = "item:15457:0:0:0",
-							["_u"] = 42,
-						},
-						[4] = {
-							["i"] = "item:5107:0:0:0",
-							["_u"] = 19,
-						},
-						[5] = {
-							["i"] = "item:6512:0:1839:0",
-							["_u"] = 54,
-						},
-						[6] = {
-							["i"] = "item:6477:0:0:0",
-							["_u"] = 25,
-						},
-						[7] = {
-							["i"] = "item:2277:0:0:0",
-							["_u"] = 57,
-						},
-						[8] = {
-							["i"] = "item:15461:0:0:0",
-							["_u"] = 52,
-						},
-						[9] = {
-							["i"] = "item:14187:0:133:0",
-							["_u"] = 47,
-						},
-						[10] = {
-							["i"] = "item:7047:0:0:0",
-							["_u"] = 53,
-						},
-						[11] = {
-							["i"] = "item:15467:0:0:0",
-							["_u"] = 44,
-						},
-						[12] = {
-							["i"] = "item:5313:0:0:0",
-							["_u"] = 38,
-						},
-						[15] = {
-							["i"] = "item:15468:0:0:0",
-							["_u"] = 45,
-						},
-						[16] = {
-							["i"] = "item:2632:0:2027:0",
-							["_u"] = 55,
-						},
-						["_u"] = 59,
-						[18] = {
-							["i"] = "item:5347:0:0:0",
-							["_u"] = 59,
-						},
-						[17] = {
-							["i"] = "item:5323:0:0:0",
-							["_u"] = 32,
-						},
-					},
+				["Fonamputator"] = {
 					["main"] = {
-						["a"] = "LXYI7525575",
-						["c"] = 7,
-						["r"] = 6,
+						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 60,
 						["g"] = "RUSSIA",
-						["_u"] = 41,
-						["gri"] = 4,
-						["l"] = 32,
-						["gr"] = "Dust",
-					},
-					["skills"] = {
-						[12] = {
-							["_u"] = 296,
-							["m"] = 75,
-							["v"] = 1,
-						},
-						["_u"] = 347,
-						[11] = {
-							["_u"] = 302,
-							["m"] = 150,
-							["v"] = 115,
-						},
-						[21] = {
-							["_u"] = 345,
-							["m"] = 160,
-							["v"] = 51,
-						},
-						[34] = {
-							["_u"] = 347,
-							["m"] = 160,
-							["v"] = 156,
-						},
-						[29] = {
-							["_u"] = 338,
-							["m"] = 160,
-							["v"] = 17,
-						},
-					},
-					["craft"] = {
-						["item:1251:0:0:0"] = {
-							["_u"] = 1,
-						},
-						["_u"] = 5,
-						["item:3531:0:0:0"] = {
-							["_u"] = 5,
-						},
-						["item:3530:0:0:0"] = {
-							["_u"] = 3,
-						},
-						["item:6452:0:0:0"] = {
-							["_u"] = 4,
-						},
-						["item:2581:0:0:0"] = {
-							["_u"] = 2,
-						},
 					},
 				},
 				["Skargoth"] = {
@@ -844,12 +692,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Molotostrel"] = {
+				["Sinid"] = {
 					["main"] = {
-						["c"] = 6,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 6,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -862,21 +710,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Fireorc"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 42,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Supadivya"] = {
+				["Trongor"] = {
 					["main"] = {
 						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 13,
+						["l"] = 26,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Geogsogen"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -961,12 +809,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kanderus"] = {
+				["Sunama"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 29,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -997,12 +845,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Betonomehal"] = {
+				["Kdc"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 9,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 37,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1024,12 +872,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kefear"] = {
+				["Zloylok"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 46,
+						["c"] = 7,
+						["gr"] = "President",
+						["gri"] = 0,
+						["l"] = 11,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1042,12 +890,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Likam"] = {
+				["Wowzoneshamy"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 56,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1087,12 +935,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Deorg"] = {
+				["Serwar"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Officer",
-						["gri"] = 1,
-						["l"] = 58,
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 5,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1186,12 +1034,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Rutnevu"] = {
+				["Iliuiiuill"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 37,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1312,12 +1160,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Shpion"] = {
+				["Holynessa"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 50,
+						["l"] = 10,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1393,12 +1241,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Hasium"] = {
+				["Rvenie"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1447,12 +1295,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Tatarstan"] = {
+				["Versalys"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 1,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 60,
+						["l"] = 52,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1654,12 +1502,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Gdemoyhill"] = {
+				["Blameruin"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
+						["c"] = 7,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1744,12 +1592,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Gazbingo"] = {
+				["Legatgun"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 11,
+						["l"] = 29,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1789,12 +1637,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Vipivoha"] = {
+				["Bezuna"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 31,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 13,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1897,21 +1745,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Voodler"] = {
+				["Hellfires"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 19,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Aiceqp"] = {
+				["Fsbfsb"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -1978,12 +1826,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Pristons"] = {
+				["Ahakgarra"] = {
 					["main"] = {
 						["c"] = 9,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 50,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2077,12 +1925,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Theimmortal"] = {
+				["Raigaros"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 56,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2248,21 +2096,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kamsor"] = {
+				["Sovywka"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 15,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Xalzan"] = {
+				["Dekanderoga"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 23,
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 41,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2275,12 +2123,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Molfarka"] = {
+				["Kargalon"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 33,
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2293,21 +2141,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kazachek"] = {
+				["Cureoreat"] = {
 					["main"] = {
 						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 12,
+						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ourvenuk"] = {
+				["Cusper"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 36,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2320,12 +2168,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Everblood"] = {
+				["Karochyn"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 39,
+						["c"] = 7,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 57,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2419,21 +2267,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kenrich"] = {
+				["Zatmenie"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 25,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Korushk"] = {
+				["Nevalaywka"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 21,
+						["c"] = 9,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 49,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2509,12 +2357,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Reflenai"] = {
+				["Hazikostas"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 23,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2590,12 +2438,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Phalene"] = {
+				["Andraxus"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 18,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2608,12 +2456,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Selecktor"] = {
+				["Axeinium"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 28,
+						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 48,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2689,12 +2537,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Fortify"] = {
+				["Wrongel"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 28,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2779,12 +2627,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Xitrik"] = {
+				["Swdpro"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 46,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2878,12 +2726,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Byhou"] = {
+				["Psihoza"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 50,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -2995,21 +2843,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Rutenium"] = {
+				["Ogunaro"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 19,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Killameow"] = {
+				["Smertiich"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 31,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -3058,12 +2906,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ebetnormalno"] = {
+				["Teleador"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 20,
+						["c"] = 2,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 52,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -3202,12 +3050,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sangviana"] = {
+				["Darkstranger"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 32,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 29,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4390,12 +4238,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kopelilok"] = {
+				["Semensergeih"] = {
 					["main"] = {
-						["c"] = 6,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 36,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4417,12 +4265,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Oomakarena"] = {
+				["Kazlo"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 13,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4444,12 +4292,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dgambo"] = {
+				["Amaxarg"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 25,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4489,12 +4337,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Magxxd"] = {
+				["Pyssyweed"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4579,21 +4427,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mstissense"] = {
+				["Bigel"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Nejdanna"] = {
+				["Tekzor"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 13,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4606,12 +4454,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Broxigaro"] = {
+				["Kortel"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 43,
+						["c"] = 2,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 45,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4651,12 +4499,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zididjoypro"] = {
+				["Icanmt"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 15,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4687,12 +4535,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Meloman"] = {
+				["Ragehar"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 22,
+						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4732,12 +4580,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zaklinak"] = {
+				["Artyfanboy"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 31,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 54,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4786,12 +4634,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Hordekat"] = {
+				["Mishaggwp"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 38,
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 9,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4813,12 +4661,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Revnost"] = {
+				["Peterbilt"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 35,
+						["c"] = 6,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 50,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4912,12 +4760,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Chebupelka"] = {
+				["Haslaq"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 45,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -4993,12 +4841,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kilsajem"] = {
+				["Shadowgp"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 24,
+						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5074,12 +4922,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Akrios"] = {
+				["Skifi"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
+						["c"] = 9,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 47,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5110,12 +4958,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Korefan"] = {
+				["Vurtnest"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 9,
+						["l"] = 19,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5146,12 +4994,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Byhil"] = {
+				["Zzman"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 46,
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5182,12 +5030,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Danzor"] = {
+				["Inharik"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 42,
+						["c"] = 6,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 44,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5261,20 +5109,20 @@ GuildAdsDatabase = {
 							["m"] = 150,
 							["v"] = 68,
 						},
-						[31] = {
-							["_u"] = 49,
+						[32] = {
+							["_u"] = 47,
 							["m"] = 80,
-							["v"] = 45,
+							["v"] = 73,
 						},
 						[21] = {
 							["_u"] = 53,
 							["m"] = 80,
 							["v"] = 39,
 						},
-						[32] = {
-							["_u"] = 47,
+						[31] = {
+							["_u"] = 49,
 							["m"] = 80,
-							["v"] = 73,
+							["v"] = 45,
 						},
 					},
 					["craft"] = {
@@ -5449,12 +5297,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Larenda"] = {
+				["Restorussia"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 25,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5467,12 +5315,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Masenkis"] = {
+				["Wutangen"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 5,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 35,
+						["l"] = 37,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5485,12 +5333,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Panasonik"] = {
+				["Mihalna"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 26,
+						["c"] = 9,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 41,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5647,12 +5495,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Thornhide"] = {
+				["Gorshokjiv"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -5881,12 +5729,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Chudesnik"] = {
+				["Kirovskiy"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 33,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6016,12 +5864,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Riovar"] = {
+				["Erbolat"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 40,
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6052,12 +5900,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Otanna"] = {
+				["Zeppelinx"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 14,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 28,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6097,12 +5945,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Trollerr"] = {
+				["Torsham"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 21,
+						["c"] = 2,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 34,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6160,12 +6008,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Drulwar"] = {
+				["Fondubra"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
+						["c"] = 4,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6277,21 +6125,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dihaza"] = {
+				["Shamty"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 25,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Horntrick"] = {
+				["Katerpiller"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 23,
+						["c"] = 8,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6403,12 +6251,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Loise"] = {
+				["Stirsa"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 40,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6439,12 +6287,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Vitaminoff"] = {
+				["Jajil"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 8,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 34,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6466,12 +6314,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Muchatel"] = {
+				["Dakadoo"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 21,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6502,47 +6350,22 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Redrox"] = {
+				["Meleonica"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 27,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Mmgrad"] = {
+					["main"] = {
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 16,
 						["g"] = "RUSSIA",
-					},
-				},
-				["Karmadonw"] = {
-					["inventory"] = {
-						[1] = {
-							["i"] = "item:9849:0:863:0",
-							["_u"] = 261,
-						},
-						[2] = {
-							["i"] = "item:15690:0:0:0",
-							["_u"] = 259,
-						},
-						[3] = {
-							["i"] = "item:4197:0:0:0",
-							["_u"] = 228,
-						},
-						[4] = {
-							["i"] = "item:5107:0:0:0",
-							["_u"] = 229,
-						},
-						[5] = {
-							["i"] = "item:9623:0:0:0",
-							["_u"] = 257,
-						},
-					},
-					["main"] = {
-						["a"] = "MQXJ7466371",
-						["c"] = -1,
-						["r"] = -1,
-						["g"] = "RUSSIA",
-						["_u"] = 27,
-						["gri"] = 3,
-						["l"] = 36,
-						["gr"] = "Beginner",
 					},
 				},
 				["Soulik"] = {
@@ -6581,12 +6404,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Orcroc"] = {
+				["Qaori"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 45,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Yakrutoy"] = {
 					["main"] = {
 						["c"] = 5,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 50,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 13,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Bubonka"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6599,24 +6440,6 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dobrik"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 32,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Sergoosha"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 46,
-						["g"] = "RUSSIA",
-					},
-				},
 				["Gerzhus"] = {
 					["main"] = {
 						["c"] = 7,
@@ -6626,12 +6449,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Fenomkin"] = {
+				["Kanil"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 12,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6653,21 +6476,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bjorngelotte"] = {
+				["Sigaretkina"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 9,
+						["l"] = 30,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Veejayspb"] = {
+				["Migim"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 22,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6698,12 +6521,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sigaretkina"] = {
+				["Fenomkin"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 30,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6716,30 +6539,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Darkstranger"] = {
+				["Vertelnahuy"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 29,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Anidab"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Barracha"] = {
-					["main"] = {
-						["c"] = 1,
+						["c"] = 6,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 32,
+						["l"] = 35,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Murderrabbit"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Atamarany"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6770,21 +6593,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Minimishka"] = {
+				["Zillallia"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 16,
+						["l"] = 19,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Merulla"] = {
+				["Elemwrath"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 24,
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6824,21 +6647,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mexanikb"] = {
+				["Radahan"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 39,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Merulla"] = {
 					["main"] = {
 						["c"] = 7,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 38,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Fanzigor"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 38,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6860,21 +6683,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Teleador"] = {
+				["Shamg"] = {
 					["main"] = {
 						["c"] = 2,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 52,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Noobwin"] = {
+				["Jurist"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 26,
+						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6905,12 +6728,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Drair"] = {
+				["Killameow"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 36,
+						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6932,21 +6755,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Frombfa"] = {
+				["Pyrodox"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 10,
+						["c"] = 6,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 57,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Renouncing"] = {
+				["Vaynashca"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 2,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 34,
+						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -6959,84 +6782,84 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Shadowprophe"] = {
+				["Hauberk"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 38,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Daggershot"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 22,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Kronchik"] = {
-					["main"] = {
-						["c"] = 6,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Uucyc"] = {
+				["Svenische"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 58,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Iksheal"] = {
 					["main"] = {
 						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 26,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kopenb"] = {
+				["Frombfa"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 10,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Pristof"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 28,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Byhou"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 50,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Rutenium"] = {
+					["main"] = {
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 19,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Cassil"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 10,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Dobrik"] = {
+					["main"] = {
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
 						["l"] = 32,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Swdpro"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 23,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Murderrabbit"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 17,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Krakazabla"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 25,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Psihoza"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7049,12 +6872,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Avariana"] = {
+				["Noobwin"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 31,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7067,21 +6890,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Gorrillaz"] = {
+				["Xitrik"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 20,
+						["c"] = 2,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 46,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Muxan"] = {
+				["Tupobarmalei"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 33,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 22,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7103,30 +6926,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Vertelnahuy"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 35,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Wutangen"] = {
+				["Pyzen"] = {
 					["main"] = {
 						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 37,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Marakumba"] = {
+				["Kononn"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 4,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 53,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Veejayspb"] = {
+					["main"] = {
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 25,
+						["l"] = 22,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7139,57 +6962,57 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Pyzen"] = {
+				["Ragvolt"] = {
 					["main"] = {
 						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 21,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mortera"] = {
+				["Phalene"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 23,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Orcion"] = {
+				["Karachyn"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 5,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 45,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dkwarlock"] = {
+				["Selecktor"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 28,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Xalakosta"] = {
+				["Fortify"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 28,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Loise"] = {
+					["main"] = {
+						["c"] = 9,
 						["gr"] = "Beginner",
 						["gri"] = 3,
 						["l"] = 40,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Sibistin"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 45,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7211,39 +7034,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Wisenet"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 15,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Elemwrath"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 17,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Bagrattion"] = {
+				["Hardhord"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 35,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kanil"] = {
+				["Mortera"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7253,6 +7058,24 @@ GuildAdsDatabase = {
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 13,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Horntrick"] = {
+					["main"] = {
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Reflenai"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7274,66 +7097,66 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Denzolo"] = {
+				["Bloodorc"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 42,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Oodji"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Imbarandom"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 58,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Masenkis"] = {
 					["main"] = {
 						["c"] = 1,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 45,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Cristof"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 14,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Wrongel"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
+						["gr"] = "Beginner",
+						["gri"] = 3,
 						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kirton"] = {
+				["Rubikkubik"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 33,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Neecs"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 48,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Rogogul"] = {
-					["main"] = {
-						["c"] = 5,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 33,
+						["l"] = 30,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kononn"] = {
+				["Korushk"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 53,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 21,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Kenrich"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7346,84 +7169,84 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Tupobarmalei"] = {
+				["Kykuryza"] = {
 					["main"] = {
 						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 22,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Slis"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Necrozes"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 43,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Gundabad"] = {
-					["main"] = {
-						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Shamg"] = {
+				["Barracha"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 18,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Iksheal"] = {
+				["Wintergirl"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 19,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Krakazabla"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 25,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Asshott"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 36,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Uucyc"] = {
 					["main"] = {
 						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Maarali"] = {
+				["Everblood"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 20,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 39,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Jurist"] = {
+				["Drair"] = {
 					["main"] = {
 						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 21,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 36,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Shemira"] = {
+				["Ourvenuk"] = {
 					["main"] = {
 						["c"] = 7,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 35,
+						["l"] = 36,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7436,12 +7259,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Cureoreat"] = {
+				["Kazachek"] = {
 					["main"] = {
 						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 15,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7454,57 +7277,57 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Grekkerr"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Noveechok"] = {
+				["Royalgift"] = {
 					["main"] = {
 						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 25,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Smertiich"] = {
+				["Melowboxx"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
+						["l"] = 14,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Spizdiliname"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Beginner",
+						["gri"] = 3,
 						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Madlawyer"] = {
+				["Deterak"] = {
 					["main"] = {
 						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Psixotnik"] = {
-					["main"] = {
-						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Torsham"] = {
+				["Molfarka"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 7,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 34,
+						["l"] = 33,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Trollerr"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7517,12 +7340,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Andyk"] = {
+				["Neznayueng"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 8,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 50,
+						["l"] = 42,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7535,12 +7358,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dekanderoga"] = {
+				["Xalzan"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 41,
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7562,12 +7385,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Tvoyasamka"] = {
+				["Kamsor"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 18,
+						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7580,48 +7403,48 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ewerblood"] = {
+				["Thornhide"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dudewoman"] = {
+				["Ebonthorn"] = {
 					["main"] = {
-						["c"] = 6,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Ryoklo"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 52,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Vaynashka"] = {
-					["main"] = {
-						["c"] = 7,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 29,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mazarfaker"] = {
+				["Otanna"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 24,
+						["l"] = 14,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Ebetnormalno"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 20,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Riovar"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 40,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7634,12 +7457,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Reinard"] = {
+				["Tandern"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7652,39 +7475,39 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ximikus"] = {
+				["Gelezyaka"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zirkun"] = {
+				["Mazarfaker"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 24,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Buntsuka"] = {
+					["main"] = {
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bpyc"] = {
+				["Theimmortal"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Tpatopuct"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 45,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 56,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7697,27 +7520,27 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Frostguards"] = {
+				["Buksirchik"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 51,
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Taratal"] = {
+				["Spenk"] = {
 					["main"] = {
-						["c"] = 6,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 34,
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 19,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Trollster"] = {
+				["Nejdanna"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 2,
 						["gr"] = "Veteran",
 						["gri"] = 2,
 						["l"] = 60,
@@ -7733,12 +7556,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Melowboxx"] = {
+				["Bjorngelotte"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 9,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7760,9 +7583,9 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ragvolt"] = {
+				["Bagrattion"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 1,
 						["gr"] = "Beginner",
 						["gri"] = 3,
 						["l"] = 35,
@@ -7778,12 +7601,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Gousdohnem"] = {
+				["Wargarukk"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 30,
+						["l"] = 10,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7805,12 +7628,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Raigaros"] = {
+				["Sangviana"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 14,
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7832,21 +7655,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Vovaloh"] = {
+				["Chapaina"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Smolla"] = {
+				["Dothka"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 12,
+						["l"] = 6,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7868,12 +7691,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zaknoris"] = {
+				["Chudesnik"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 17,
+						["c"] = 8,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7886,21 +7709,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Atamarany"] = {
+				["Bulbisa"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Fsbfsb"] = {
+				["Pristons"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 32,
+						["c"] = 9,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 50,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -7913,111 +7736,111 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sbs"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 36,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Kykuryza"] = {
+				["Trenchtown"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
+						["l"] = 9,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Akellas"] = {
+				["Kirton"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 18,
+						["c"] = 4,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dedkill"] = {
+				["Babaii"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 45,
+						["c"] = 6,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 46,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bezuna"] = {
+				["Boodda"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 13,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Semensergeih"] = {
-					["main"] = {
-						["c"] = 7,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sainell"] = {
+				["Poralik"] = {
 					["main"] = {
 						["c"] = 5,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 40,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Wintergirl"] = {
+				["Kopelilok"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 36,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Kroatt"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 53,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Slis"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Adversariusy"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 23,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Usurpator"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 28,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Einbolit"] = {
+					["main"] = {
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 30,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Voodler"] = {
 					["main"] = {
 						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 19,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Tagerum"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 14,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Maralii"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 7,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Nltrix"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 21,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Yakrutoy"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 13,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8030,21 +7853,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kazlo"] = {
+				["Oomakarena"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 24,
+						["l"] = 13,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Hotcot"] = {
+				["Kkn"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 34,
+						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8075,12 +7898,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bubonka"] = {
+				["Zaebus"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 18,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8093,21 +7916,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Euphyllio"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 33,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Svenische"] = {
+				["Gdemoyhill"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 58,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Madlawyer"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8120,30 +7943,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Amaxarg"] = {
+				["Dgambo"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Pyssyweed"] = {
+				["Magxxd"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 26,
+						["c"] = 9,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mahambet"] = {
+				["Orcguzm"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 38,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8156,39 +7979,39 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mlningeth"] = {
+				["Proteinum"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 57,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Mulgorstreet"] = {
-					["main"] = {
-						["c"] = 1,
+						["c"] = 7,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 39,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Lakoheal"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 12,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Shinjitsu"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
 						["l"] = 31,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Thaxral"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 16,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Gambitdeath"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 20,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Gazbingo"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 11,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8201,12 +8024,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mortalday"] = {
+				["Ximikus"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 43,
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8219,18 +8042,18 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Gelezyaka"] = {
+				["Tpatopuct"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 18,
+						["c"] = 5,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 45,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bigel"] = {
+				["Mstissense"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 20,
@@ -8246,21 +8069,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Buksirchik"] = {
+				["Shord"] = {
 					["main"] = {
 						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 26,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 47,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Tekzor"] = {
+				["Maguss"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 13,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8273,30 +8096,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Veinport"] = {
+				["Vovaloh"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 21,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zebrajin"] = {
+				["Ybuica"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 37,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Broxigaro"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 34,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Kortel"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 45,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8318,12 +8141,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Icanmt"] = {
+				["Zididjoypro"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 16,
+						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8336,39 +8159,39 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dothka"] = {
+				["Deathprieste"] = {
 					["main"] = {
 						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 6,
+						["l"] = 11,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mihalna"] = {
+				["Panasonik"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 41,
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dobryivecher"] = {
+				["Tatarstan"] = {
 					["main"] = {
 						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 12,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bulbisa"] = {
+				["Chervak"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
+						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8381,57 +8204,57 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Uhrodor"] = {
+				["Larenda"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 48,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ragehar"] = {
+				["Meloman"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 22,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Lupid"] = {
+					["main"] = {
+						["c"] = 7,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 31,
+						["l"] = 49,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Chapaina"] = {
+				["Bedwudu"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 12,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Santasick"] = {
+					["main"] = {
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Madgodlike"] = {
+				["Remov"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Boodda"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 23,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Reinkornacia"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 60,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8444,30 +8267,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Artyfanboy"] = {
+				["Zaklinak"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 54,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Cortezo"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 13,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Dellorean"] = {
+				["Kofetaim"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 6,
+						["l"] = 50,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Strucker"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 37,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8480,12 +8303,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Cynepgepouh"] = {
+				["Spawka"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 37,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8498,21 +8321,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Clawandfang"] = {
+				["Hasium"] = {
 					["main"] = {
 						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 23,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Fonamputator"] = {
+				["Drutank"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8534,21 +8357,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Damacle"] = {
+				["Shpion"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 26,
+						["l"] = 50,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Jamilbek"] = {
+				["Anagarka"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 33,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8570,102 +8393,57 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Easypisy"] = {
-					["inventory"] = {
-						[4] = {
-							["i"] = "item:2105:0:0:0",
-							["_u"] = 1,
-						},
-						[6] = {
-							["i"] = "item:2173:0:0:0",
-							["_u"] = 14,
-						},
-						[7] = {
-							["i"] = "item:120:0:0:0",
-							["_u"] = 2,
-						},
-						[8] = {
-							["i"] = "item:121:0:0:0",
-							["_u"] = 3,
-						},
-						[16] = {
-							["i"] = "item:2092:0:0:0",
-							["_u"] = 4,
-						},
-						["_u"] = 14,
-						[18] = {
-							["q"] = 179,
-							["_u"] = 13,
-							["i"] = "item:2947:0:0:0",
-						},
-						[15] = {
-							["i"] = "item:11847:0:0:0",
-							["_u"] = 10,
-						},
-					},
+				["Euphyllio"] = {
 					["main"] = {
-						["a"] = "LXYI7525575",
-						["c"] = 5,
-						["_u"] = 6,
-						["l"] = 4,
-						["r"] = 6,
-					},
-					["skills"] = {
-						[30] = {
-							["_u"] = 15,
-							["m"] = 20,
-							["v"] = 6,
-						},
-						["_u"] = 21,
-						[21] = {
-							["_u"] = 21,
-							["m"] = 20,
-							["v"] = 19,
-						},
-					},
-				},
-				["Zakilla"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 44,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Angass"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 29,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Gambitdeath"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 20,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Shabay"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
+						["c"] = 9,
+						["gr"] = "Beginner",
+						["gri"] = 3,
 						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zaebus"] = {
+				["Mavicks"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Bucharati"] = {
 					["main"] = {
 						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 35,
+						["l"] = 17,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Resteros"] = {
+					["main"] = {
+						["c"] = 4,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 52,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Grozz"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 27,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Qooattro"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8678,12 +8456,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sufiks"] = {
+				["Turkay"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 20,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8696,30 +8474,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Onaax"] = {
+				["Sinyavka"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 28,
+						["l"] = 27,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Iliuiiuill"] = {
+				["Danzor"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 42,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Drulwar"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Ugarigg"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 5,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8732,21 +8510,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mishaggwp"] = {
+				["Hordekat"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 9,
+						["c"] = 8,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 38,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ifeelupain"] = {
+				["Nidal"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 34,
+						["c"] = 2,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 39,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8759,30 +8537,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Terrorko"] = {
+				["Wastter"] = {
+					["main"] = {
+						["c"] = 9,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 52,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Tresi"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 38,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Revnost"] = {
 					["main"] = {
 						["c"] = 5,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 37,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Asshanti"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 29,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Peterbilt"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 50,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8795,21 +8573,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zaebalka"] = {
+				["Dihaza"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 21,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Eyesofdream"] = {
+				["Dobryivecher"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8822,21 +8600,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Serekja"] = {
+				["Minodru"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bubenzi"] = {
+				["Byhil"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 12,
+						["c"] = 9,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 46,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8849,12 +8627,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Lupid"] = {
+				["Cortezo"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 49,
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 13,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8876,39 +8654,151 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kofetaim"] = {
+				["Pureholypowe"] = {
+					["inventory"] = {
+						[1] = {
+							["i"] = "item:3732:0:0:0",
+							["_u"] = 56,
+						},
+						[3] = {
+							["i"] = "item:15457:0:0:0",
+							["_u"] = 42,
+						},
+						[4] = {
+							["i"] = "item:5107:0:0:0",
+							["_u"] = 19,
+						},
+						[5] = {
+							["i"] = "item:6512:0:1839:0",
+							["_u"] = 54,
+						},
+						[6] = {
+							["i"] = "item:6477:0:0:0",
+							["_u"] = 25,
+						},
+						[7] = {
+							["i"] = "item:2277:0:0:0",
+							["_u"] = 57,
+						},
+						[8] = {
+							["i"] = "item:15461:0:0:0",
+							["_u"] = 52,
+						},
+						[9] = {
+							["i"] = "item:14187:0:133:0",
+							["_u"] = 47,
+						},
+						[10] = {
+							["i"] = "item:7047:0:0:0",
+							["_u"] = 53,
+						},
+						[11] = {
+							["i"] = "item:15467:0:0:0",
+							["_u"] = 44,
+						},
+						[12] = {
+							["i"] = "item:5313:0:0:0",
+							["_u"] = 38,
+						},
+						[15] = {
+							["i"] = "item:15468:0:0:0",
+							["_u"] = 45,
+						},
+						[16] = {
+							["i"] = "item:2632:0:2027:0",
+							["_u"] = 55,
+						},
+						["_u"] = 59,
+						[18] = {
+							["i"] = "item:5347:0:0:0",
+							["_u"] = 59,
+						},
+						[17] = {
+							["i"] = "item:5323:0:0:0",
+							["_u"] = 32,
+						},
+					},
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 50,
+						["a"] = "LXYI7525575",
+						["c"] = 7,
+						["r"] = 6,
 						["g"] = "RUSSIA",
+						["_u"] = 41,
+						["gri"] = 4,
+						["l"] = 32,
+						["gr"] = "Dust",
+					},
+					["skills"] = {
+						[12] = {
+							["_u"] = 296,
+							["m"] = 75,
+							["v"] = 1,
+						},
+						["_u"] = 347,
+						[11] = {
+							["_u"] = 302,
+							["m"] = 150,
+							["v"] = 115,
+						},
+						[34] = {
+							["_u"] = 347,
+							["m"] = 160,
+							["v"] = 156,
+						},
+						[29] = {
+							["_u"] = 338,
+							["m"] = 160,
+							["v"] = 17,
+						},
+						[21] = {
+							["_u"] = 345,
+							["m"] = 160,
+							["v"] = 51,
+						},
+					},
+					["craft"] = {
+						["item:1251:0:0:0"] = {
+							["_u"] = 1,
+						},
+						["_u"] = 5,
+						["item:3531:0:0:0"] = {
+							["_u"] = 5,
+						},
+						["item:3530:0:0:0"] = {
+							["_u"] = 3,
+						},
+						["item:6452:0:0:0"] = {
+							["_u"] = 4,
+						},
+						["item:2581:0:0:0"] = {
+							["_u"] = 2,
+						},
 					},
 				},
-				["Serwar"] = {
+				["Invinciblee"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 5,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Vurtnest"] = {
-					["main"] = {
-						["c"] = 8,
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 19,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Drutank"] = {
+				["Korefan"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 9,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Damacle"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 26,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8921,12 +8811,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bobeer"] = {
+				["Akrios"] = {
 					["main"] = {
 						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 14,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8948,12 +8838,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Rastafaren"] = {
+				["Aharra"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 2,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 32,
+						["l"] = 28,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -8966,36 +8856,36 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Nafazalin"] = {
+				["Felplague"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 7,
+						["gr"] = "Officer",
+						["gri"] = 1,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Molotostrel"] = {
+					["main"] = {
+						["c"] = 6,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 49,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sinid"] = {
+				["Likam"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 6,
+						["l"] = 56,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Broxigarosh"] = {
+				["Dimkil"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 13,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Tankwow"] = {
-					["main"] = {
-						["c"] = 1,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 14,
@@ -9011,12 +8901,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Haslaq"] = {
+				["Chebupelka"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 12,
+						["c"] = 9,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 45,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9038,30 +8928,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Trongor"] = {
+				["Fireorc"] = {
 					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 26,
+						["c"] = 2,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 42,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Sambist"] = {
+				["Uhrodor"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 19,
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 48,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zloylok"] = {
+				["Lolitop"] = {
 					["main"] = {
 						["c"] = 7,
-						["gr"] = "President",
-						["gri"] = 0,
-						["l"] = 11,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9092,111 +8982,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Geogsogen"] = {
+				["Supadivya"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 12,
+						["l"] = 13,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Taiturst"] = {
+				["Broxigarosh"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 13,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Betonomehal"] = {
+					["main"] = {
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
 						["l"] = 37,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Qoorlyk"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 43,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Zabiyka"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 42,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Kissdeath"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Korjagaman"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 32,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Pivoskilkou"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 31,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Kvebek"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 53,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Shuherizzada"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Funnylilcow"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 10,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Sunama"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 14,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Shadowgp"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9209,21 +9018,102 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kdc"] = {
+				["Kilsajem"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 24,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Kanderus"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 29,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Funnylilcow"] = {
+					["main"] = {
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 10,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Shuherizzada"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Kvebek"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 53,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Pivoskilkou"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 31,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Korjagaman"] = {
+					["main"] = {
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
+						["l"] = 32,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Kissdeath"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 24,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Zabiyka"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 42,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Qoorlyk"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
 						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Lolitop"] = {
+				["Kefear"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 1,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 25,
+						["l"] = 46,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9236,9 +9126,9 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dimkil"] = {
+				["Tankwow"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 14,
@@ -9263,39 +9153,39 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Wowzoneshamy"] = {
+				["Taiturst"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 17,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Felplague"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Officer",
-						["gri"] = 1,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Aharra"] = {
-					["main"] = {
-						["c"] = 2,
+						["c"] = 6,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 28,
+						["l"] = 37,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Skifi"] = {
+				["Nafazalin"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 1,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 47,
+						["l"] = 49,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Rastafaren"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 32,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Bobeer"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9308,12 +9198,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Invinciblee"] = {
+				["Deorg"] = {
 					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 19,
+						["c"] = 4,
+						["gr"] = "Officer",
+						["gri"] = 1,
+						["l"] = 58,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9326,85 +9216,130 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zzman"] = {
+				["Sambist"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 19,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Zaebalka"] = {
+					["main"] = {
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 21,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Asshanti"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 29,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Ugarigg"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 5,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Rutnevu"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 37,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Sufiks"] = {
+					["main"] = {
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Shamty"] = {
+				["Angass"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 29,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Tresi"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 38,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Fondubra"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Inharik"] = {
+				["Zakilla"] = {
 					["main"] = {
 						["c"] = 6,
-						["gr"] = "Beginner",
-						["gri"] = 3,
+						["gr"] = "Veteran",
+						["gri"] = 2,
 						["l"] = 44,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Turkay"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 18,
-						["g"] = "RUSSIA",
+				["Easypisy"] = {
+					["inventory"] = {
+						[4] = {
+							["i"] = "item:2105:0:0:0",
+							["_u"] = 1,
+						},
+						[6] = {
+							["i"] = "item:2173:0:0:0",
+							["_u"] = 14,
+						},
+						[7] = {
+							["i"] = "item:120:0:0:0",
+							["_u"] = 2,
+						},
+						[8] = {
+							["i"] = "item:121:0:0:0",
+							["_u"] = 3,
+						},
+						[16] = {
+							["i"] = "item:2092:0:0:0",
+							["_u"] = 4,
+						},
+						["_u"] = 14,
+						[18] = {
+							["i"] = "item:2947:0:0:0",
+							["_u"] = 13,
+							["q"] = 179,
+						},
+						[15] = {
+							["i"] = "item:11847:0:0:0",
+							["_u"] = 10,
+						},
 					},
-				},
-				["Bucharati"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 17,
-						["g"] = "RUSSIA",
+						["a"] = "LXYI7525575",
+						["c"] = 5,
+						["_u"] = 6,
+						["l"] = 4,
+						["r"] = 6,
 					},
-				},
-				["Mavicks"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 17,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Holynessa"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 10,
-						["g"] = "RUSSIA",
+					["skills"] = {
+						[30] = {
+							["_u"] = 15,
+							["m"] = 20,
+							["v"] = 6,
+						},
+						["_u"] = 21,
+						[21] = {
+							["_u"] = 21,
+							["m"] = 20,
+							["v"] = 19,
+						},
 					},
 				},
 				["Sms"] = {
@@ -9425,9 +9360,9 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Rvenie"] = {
+				["Clawandfang"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 23,
@@ -9443,21 +9378,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Poralik"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 35,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Bedwudu"] = {
+				["Reinkornacia"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 12,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Madgodlike"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9470,21 +9405,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Restorussia"] = {
+				["Bubenzi"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 16,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Versalys"] = {
+				["Eyesofdream"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 9,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 52,
+						["l"] = 60,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9497,30 +9432,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ybuica"] = {
+				["Zebrajin"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 1,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 37,
+						["l"] = 34,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Blameruin"] = {
+				["Veinport"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 43,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Qooattro"] = {
-					["main"] = {
-						["c"] = 8,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 26,
+						["l"] = 21,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Mortalday"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 43,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9542,48 +9477,48 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Legatgun"] = {
+				["Shinjitsu"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 29,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Resteros"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 52,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Thaxral"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Proteinum"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
 						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Orcguzm"] = {
+				["Lakoheal"] = {
+					["main"] = {
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 12,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Mulgorstreet"] = {
 					["main"] = {
 						["c"] = 1,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 38,
+						["l"] = 39,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Mlningeth"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 57,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Mahambet"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 24,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9605,21 +9540,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kkn"] = {
+				["Hotcot"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 20,
+						["l"] = 34,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Hellfires"] = {
+				["Vaynashka"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 18,
+						["l"] = 29,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9632,21 +9567,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Einbolit"] = {
+				["Nltrix"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 30,
+						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Yazok"] = {
+				["Maralii"] = {
 					["main"] = {
-						["c"] = 7,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 22,
+						["l"] = 7,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9659,75 +9594,75 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Remov"] = {
+				["Vipivoha"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 35,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Santasick"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Babaii"] = {
-					["main"] = {
-						["c"] = 6,
+						["c"] = 2,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 46,
+						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Trenchtown"] = {
+				["Dedkill"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 9,
+						["l"] = 45,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ahakgarra"] = {
+				["Akellas"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 26,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Chervak"] = {
+				["Goldum"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 15,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kirovskiy"] = {
+				["Aiceqp"] = {
 					["main"] = {
-						["c"] = 4,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Deathprieste"] = {
-					["main"] = {
-						["c"] = 9,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 11,
+						["l"] = 17,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Sbs"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 36,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Zaknoris"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Smolla"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 12,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9749,12 +9684,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Wargarukk"] = {
+				["Gousdohnem"] = {
 					["main"] = {
-						["c"] = 1,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 10,
+						["l"] = 30,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9767,30 +9702,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Maguss"] = {
+				["Trollster"] = {
 					["main"] = {
 						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Spenk"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 19,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Shord"] = {
-					["main"] = {
-						["c"] = 2,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 47,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Taratal"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 34,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Frostguards"] = {
+					["main"] = {
+						["c"] = 8,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 51,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9803,21 +9738,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Buntsuka"] = {
+				["Bpyc"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 15,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Usurpator"] = {
+				["Zirkun"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 28,
+						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9830,21 +9765,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Hopbane"] = {
+				["Reinard"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 32,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Erbolat"] = {
+				["Fiolo"] = {
 					["main"] = {
 						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 26,
+						["l"] = 7,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9857,39 +9792,39 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zeppelinx"] = {
+				["Ryoklo"] = {
 					["main"] = {
-						["c"] = 1,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 28,
+						["c"] = 5,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 52,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Ebonthorn"] = {
+				["Dudewoman"] = {
 					["main"] = {
-						["c"] = 4,
+						["c"] = 6,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 60,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Ewerblood"] = {
+					["main"] = {
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 29,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Gorshokjiv"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 33,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Sovywka"] = {
+				["Tvoyasamka"] = {
 					["main"] = {
 						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 12,
+						["l"] = 18,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9902,12 +9837,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Neznayueng"] = {
+				["Andyk"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 6,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 42,
+						["l"] = 50,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9920,21 +9855,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Kargalon"] = {
+				["Psixotnik"] = {
 					["main"] = {
 						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 18,
+						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Deterak"] = {
+				["Clyyzx"] = {
 					["main"] = {
-						["c"] = 5,
+						["c"] = 6,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 20,
+						["l"] = 23,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9956,12 +9891,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Royalgift"] = {
+				["Grekkerr"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 32,
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -9974,21 +9909,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Cusper"] = {
+				["Shemira"] = {
 					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 27,
+						["c"] = 7,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 35,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Karochyn"] = {
+				["Maarali"] = {
 					["main"] = {
-						["c"] = 7,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 57,
+						["c"] = 4,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 20,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10010,12 +9945,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Asshott"] = {
+				["Gundabad"] = {
 					["main"] = {
 						["c"] = 6,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 36,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 17,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10046,30 +9981,30 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zatmenie"] = {
+				["Gorrillaz"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 20,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Rogogul"] = {
+					["main"] = {
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 33,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Nevalaywka"] = {
+				["Neecs"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 5,
 						["gr"] = "Veteran",
 						["gri"] = 2,
-						["l"] = 49,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Rubikkubik"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 30,
+						["l"] = 48,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10091,57 +10026,57 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Oodji"] = {
+				["Cristof"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 7,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 23,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Bloodorc"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 42,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Hazikostas"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 43,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Katerpiller"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 43,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Imbarandom"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 58,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Hardhord"] = {
+				["Denzolo"] = {
 					["main"] = {
 						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 45,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Noveechok"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 25,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Xalakosta"] = {
+					["main"] = {
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 33,
+						["l"] = 40,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Dkwarlock"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 14,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Wisenet"] = {
+					["main"] = {
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 15,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10172,84 +10107,39 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Andraxus"] = {
+				["Necrozes"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 43,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Muxan"] = {
 					["main"] = {
 						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 33,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Anidab"] = {
+					["main"] = {
+						["c"] = 9,
 						["gr"] = "Dust",
 						["gri"] = 4,
 						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Stirsa"] = {
+				["Avariana"] = {
 					["main"] = {
 						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Axeinium"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 48,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Radahan"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 39,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Wowzonkh"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 20,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Karachyn"] = {
-					["main"] = {
-						["c"] = 5,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 60,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Krafor"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 22,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Nordstream"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 33,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Jusp"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 24,
+						["l"] = 31,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10271,6 +10161,51 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
+				["Krafor"] = {
+					["main"] = {
+						["c"] = 2,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 22,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Sergoosha"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 46,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Jusp"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 24,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Yazok"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 22,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Mexanikb"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 38,
+						["g"] = "RUSSIA",
+					},
+				},
 				["Nirenberg"] = {
 					["main"] = {
 						["c"] = 2,
@@ -10280,75 +10215,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Pristof"] = {
+				["Kopenb"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 5,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 28,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Solashu"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 11,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Lopb"] = {
-					["main"] = {
-						["c"] = 8,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Ogunaro"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 27,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Pakodrulyako"] = {
-					["main"] = {
-						["c"] = 4,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 14,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Cassil"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 10,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Guldanius"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 42,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Pyrodox"] = {
-					["main"] = {
-						["c"] = 6,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 57,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10361,39 +10233,48 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Clyyzx"] = {
+				["Lopb"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 23,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Manowarrec"] = {
-					["main"] = {
-						["c"] = 1,
-						["gr"] = "Veteran",
-						["gri"] = 2,
-						["l"] = 54,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Migim"] = {
+				["Daggershot"] = {
 					["main"] = {
 						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 32,
+						["l"] = 22,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Goldum"] = {
+				["Unholywater"] = {
 					["main"] = {
-						["c"] = 2,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 12,
+						["c"] = 5,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 30,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Renouncing"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 34,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Guldanius"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 42,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10406,12 +10287,66 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Zillallia"] = {
+				["Shadowprophe"] = {
+					["main"] = {
+						["c"] = 9,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 38,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Nordstream"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 19,
+						["l"] = 33,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Manowarrec"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 54,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Kronchik"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 16,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Orcion"] = {
+					["main"] = {
+						["c"] = 6,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 45,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Marakumba"] = {
+					["main"] = {
+						["c"] = 1,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 25,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Minimishka"] = {
+					["main"] = {
+						["c"] = 7,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10433,33 +10368,6 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Proyarix"] = {
-					["main"] = {
-						["c"] = 7,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 25,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Vaynashca"] = {
-					["main"] = {
-						["c"] = 2,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 31,
-						["g"] = "RUSSIA",
-					},
-				},
-				["Fiolo"] = {
-					["main"] = {
-						["c"] = 9,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 7,
-						["g"] = "RUSSIA",
-					},
-				},
 				["Miltorand"] = {
 					["main"] = {
 						["c"] = 9,
@@ -10469,21 +10377,21 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Unholywater"] = {
+				["Solashu"] = {
 					["main"] = {
-						["c"] = 5,
-						["gr"] = "Beginner",
-						["gri"] = 3,
-						["l"] = 30,
+						["c"] = 9,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 11,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Tandern"] = {
+				["Hopbane"] = {
 					["main"] = {
-						["c"] = 6,
+						["c"] = 5,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 17,
+						["l"] = 32,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10496,48 +10404,100 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Spizdiliname"] = {
+				["Proyarix"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 7,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 60,
+						["l"] = 25,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Qaori"] = {
+				["Sibistin"] = {
 					["main"] = {
-						["c"] = 2,
+						["c"] = 5,
 						["gr"] = "Beginner",
 						["gri"] = 3,
 						["l"] = 45,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Hauberk"] = {
+				["Fanzigor"] = {
 					["main"] = {
 						["c"] = 1,
-						["gr"] = "Dust",
-						["gri"] = 4,
-						["l"] = 16,
+						["gr"] = "Beginner",
+						["gri"] = 3,
+						["l"] = 38,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Mmgrad"] = {
+				["Pakodrulyako"] = {
 					["main"] = {
 						["c"] = 4,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 16,
+						["l"] = 14,
 						["g"] = "RUSSIA",
 					},
 				},
-				["Meleonica"] = {
+				["Orcroc"] = {
 					["main"] = {
-						["c"] = 9,
+						["c"] = 5,
+						["gr"] = "Veteran",
+						["gri"] = 2,
+						["l"] = 50,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Wowzonkh"] = {
+					["main"] = {
+						["c"] = 8,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 27,
+						["l"] = 20,
+						["g"] = "RUSSIA",
+					},
+				},
+				["Karmadonw"] = {
+					["inventory"] = {
+						[1] = {
+							["i"] = "item:9849:0:863:0",
+							["_u"] = 261,
+						},
+						[2] = {
+							["i"] = "item:15690:0:0:0",
+							["_u"] = 259,
+						},
+						[3] = {
+							["i"] = "item:4197:0:0:0",
+							["_u"] = 228,
+						},
+						[4] = {
+							["i"] = "item:5107:0:0:0",
+							["_u"] = 229,
+						},
+						[5] = {
+							["i"] = "item:9623:0:0:0",
+							["_u"] = 257,
+						},
+					},
+					["main"] = {
+						["a"] = "MQXJ7466371",
+						["c"] = -1,
+						["r"] = -1,
+						["g"] = "RUSSIA",
+						["_u"] = 27,
+						["gri"] = 3,
+						["l"] = 36,
+						["gr"] = "Beginner",
+					},
+				},
+				["Redrox"] = {
+					["main"] = {
+						["c"] = 5,
+						["gr"] = "Dust",
+						["gri"] = 4,
+						["l"] = 16,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10550,12 +10510,12 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Dakadoo"] = {
+				["Muchatel"] = {
 					["main"] = {
 						["c"] = 2,
 						["gr"] = "Dust",
 						["gri"] = 4,
-						["l"] = 25,
+						["l"] = 21,
 						["g"] = "RUSSIA",
 					},
 				},
@@ -10568,13 +10528,53 @@ GuildAdsDatabase = {
 						["g"] = "RUSSIA",
 					},
 				},
-				["Jajil"] = {
+				["Vitaminoff"] = {
 					["main"] = {
-						["c"] = 8,
+						["c"] = 4,
 						["gr"] = "Beginner",
 						["gri"] = 3,
-						["l"] = 32,
+						["l"] = 34,
 						["g"] = "RUSSIA",
+					},
+				},
+			},
+			["channels"] = {
+				["GuildAdsEasypisy@Horde"] = {
+					["Players"] = {
+						["Easypisy"] = true,
+					},
+				},
+				["GuildAdsRUSSIA@Horde"] = {
+					["Players"] = {
+						["Pureholypowe"] = true,
+						["Karmadonw"] = true,
+						["Lvlonetwink"] = true,
+						["Easypewpew"] = true,
+					},
+					["itemsRevision"] = {
+						["Pureholypowe"] = {
+							["_uo"] = 1,
+						},
+					},
+					["items"] = {
+						["item:1251:0:0:0"] = {
+							["o"] = {
+								["Pureholypowe"] = {
+									["_t"] = 7526985,
+									["_u"] = 1,
+								},
+							},
+						},
+					},
+				},
+				["GuildAdsEasypewpew@Horde"] = {
+					["Players"] = {
+						["Easypewpew"] = true,
+					},
+				},
+				["GuildAdsPureholypowe@Horde"] = {
+					["Players"] = {
+						["Pureholypowe"] = true,
 					},
 				},
 			},
