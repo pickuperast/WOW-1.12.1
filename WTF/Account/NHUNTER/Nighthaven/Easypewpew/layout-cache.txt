@@ -19,9 +19,9 @@ FrameLevel: 1
 X: 728
 Y: -167
 Frame: AuxFrame
-FrameLevel: 52
-X: 92
-Y: -118
+FrameLevel: 55
+X: 287
+Y: -130
 Frame: CensusPlus
 FrameLevel: 16
 X: 116
@@ -39,7 +39,7 @@ FrameLevel: 6
 X: 1374
 Y: -208
 Frame: OneBagFrame
-FrameLevel: 49
+FrameLevel: 46
 X: 758
 Y: -401
 Frame: ZHunterButtonTrack

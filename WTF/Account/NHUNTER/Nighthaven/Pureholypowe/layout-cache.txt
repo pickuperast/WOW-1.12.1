@@ -23,7 +23,7 @@ FrameLevel: 8
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 17
+FrameLevel: 14
 X: 284
 Y: -96
 Frame: CensusPlus

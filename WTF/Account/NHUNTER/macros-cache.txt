@@ -29,6 +29,9 @@ END
 MACRO 7 "HELLO" Spell_Misc_Drink
 /hello
 END
+MACRO 15 "HelloAlliance" Ability_Creature_Disease_01
+/yell 11 d d c
+END
 MACRO 5 "HM" Spell_Fire_ElementalDevastation
 /cast Hunter's Mark
 /script if GetUnitName("target")==nil then TargetNearestEnemy() end

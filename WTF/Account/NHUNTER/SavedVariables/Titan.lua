@@ -1119,7 +1119,7 @@ TITAN_HONORPLUS = {
 		["currentbonus"] = 0,
 		["todayb"] = 0,
 		["yesterday"] = 0,
-		["todayd"] = 5,
+		["todayd"] = 10,
 		["todayhk"] = 0,
 	},
 	["Easypeasyy|Nighthaven"] = {
