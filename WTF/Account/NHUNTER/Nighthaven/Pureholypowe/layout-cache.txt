@@ -1,7 +1,7 @@
 Frame: ChatFrame2
 FrameLevel: 4
 X: 32
-Y: -569
+Y: -607
 W: 430
 H: 120
 Frame: WorldMapFrame
@@ -23,7 +23,7 @@ FrameLevel: 8
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 24
+FrameLevel: 48
 X: 284
 Y: -96
 Frame: CensusPlus
