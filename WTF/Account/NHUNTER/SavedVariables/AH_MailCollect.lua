@@ -16,10 +16,10 @@ AH_MailCollectDB = {
 			},
 			["auctionMail"] = false,
 			["deleteAllMail"] = false,
-			["displayMail"] = 1,
-			["itemsMail"] = 1,
 			["MsgsWithCash"] = {
 			},
+			["itemsMail"] = 1,
+			["displayMail"] = 1,
 		},
 	},
 }
