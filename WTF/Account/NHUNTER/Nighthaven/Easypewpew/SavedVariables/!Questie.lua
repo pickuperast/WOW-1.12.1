@@ -36,7 +36,7 @@ QuestieSeenQuests = {
 	[526082082] = 0,
 	[1258277690] = 1,
 	[3178331786] = 1,
-	[1517467578] = 1,
+	[667847874] = 1,
 	[2118818226] = 1,
 	[2641519226] = 1,
 	[2227313472] = 1,
@@ -65,10 +65,10 @@ QuestieSeenQuests = {
 	[461742392] = 0,
 	[2303129178] = 1,
 	[3085470560] = 1,
-	[1322390482] = 1,
-	[1449638066] = 1,
-	[1797931944] = 1,
 	[2208421042] = 1,
+	[1322390482] = 1,
+	[1797931944] = 1,
+	[1449638066] = 1,
 	[797109714] = 0,
 	[2595004784] = 1,
 	[1289989402] = 1,
@@ -77,7 +77,7 @@ QuestieSeenQuests = {
 	[2051302640] = 1,
 	[1603382250] = 1,
 	[468404282] = 1,
-	[667847874] = 1,
+	[1517467578] = 1,
 	[3989126474] = 1,
 	[3452165072] = 1,
 	[3048206458] = 0,
@@ -90,7 +90,7 @@ QuestieCachedQuests = {
 			["type"] = "monster",
 			["desc"] = "Southsea Brigand slain: 0/12",
 		},
-		["leaderboards"] = 2,
+		["logId"] = 7,
 		["arrowPoint"] = {
 			["hash"] = 3517355320,
 			["c"] = 1,
@@ -110,8 +110,8 @@ QuestieCachedQuests = {
 		},
 		["questName"] = "Southsea Freebooters",
 		["level"] = 14,
-		["logId"] = 7,
 		["tracked"] = false,
+		["leaderboards"] = 2,
 	},
 	[2656167592] = {
 		["objective1"] = {
@@ -122,8 +122,6 @@ QuestieCachedQuests = {
 		},
 		["leaderboards"] = 1,
 		["logId"] = 13,
-		["questName"] = "Miner's Fortune",
-		["level"] = 18,
 		["arrowPoint"] = {
 			["hash"] = 2656167592,
 			["c"] = 1,
@@ -135,10 +133,12 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFF8040[18] |rMiner's Fortune",
 			["z"] = 17,
 		},
+		["level"] = 18,
+		["questName"] = "Miner's Fortune",
 		["tracked"] = false,
 	},
 	[201768176] = {
-		["tracked"] = false,
+		["leaderboards"] = 0,
 		["arrowPoint"] = {
 			["hash"] = 201768176,
 			["c"] = 1,
@@ -152,8 +152,8 @@ QuestieCachedQuests = {
 		},
 		["questName"] = "Samophlange",
 		["level"] = 14,
-		["leaderboards"] = 0,
 		["logId"] = 6,
+		["tracked"] = false,
 	},
 	[3048206458] = {
 		["objective1"] = {
@@ -171,9 +171,9 @@ QuestieCachedQuests = {
 		["arrowPoint"] = {
 			["hash"] = 3048206458,
 			["c"] = 1,
-			["dist"] = 3143.110658265818,
-			["yDelta"] = 1907.982437697576,
-			["xDelta"] = -2497.748511668418,
+			["dist"] = 3186.150477156142,
+			["yDelta"] = 1953.78007355545,
+			["xDelta"] = -2516.803188026424,
 			["y"] = 0.2816,
 			["x"] = 0.4459,
 			["title"] = "|cFFFF8040[20+] |rCounterattack!",
@@ -189,6 +189,9 @@ QuestieCachedQuests = {
 		},
 		["logId"] = 15,
 		["leaderboards"] = 1,
+		["questName"] = "Consumed by Hatred",
+		["level"] = 20,
+		["tracked"] = false,
 		["arrowPoint"] = {
 			["hash"] = 2167072298,
 			["c"] = 1,
@@ -200,9 +203,6 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFF1A1A[20] |rConsumed by Hatred",
 			["z"] = 17,
 		},
-		["level"] = 20,
-		["tracked"] = false,
-		["questName"] = "Consumed by Hatred",
 	},
 	[2418198176] = {
 		["objective1"] = {
@@ -263,6 +263,9 @@ QuestieCachedQuests = {
 		},
 		["leaderboards"] = 1,
 		["tracked"] = false,
+		["questName"] = "Lost in Battle",
+		["level"] = 20,
+		["logId"] = 17,
 		["arrowPoint"] = {
 			["hash"] = 1081116338,
 			["c"] = 1,
@@ -274,9 +277,6 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFF1A1A[20] |rLost in Battle",
 			["z"] = 17,
 		},
-		["level"] = 20,
-		["logId"] = 17,
-		["questName"] = "Lost in Battle",
 	},
 	[526082082] = {
 		["objective1"] = {
@@ -285,23 +285,23 @@ QuestieCachedQuests = {
 			["type"] = "item",
 			["desc"] = "Gem of Cobrahn: 0/1",
 		},
-		["leaderboards"] = 4,
-		["questName"] = "Leaders of the Fang",
-		["level"] = 22,
 		["logId"] = 20,
+		["questName"] = "Leaders of the Fang",
+		["questTag"] = "Dungeon",
+		["leaderboards"] = 4,
 		["objective2"] = {
 			["notes"] = {
 			},
 			["type"] = "item",
 			["desc"] = "Gem of Anacondra: 0/1",
 		},
-		["questTag"] = "Dungeon",
+		["level"] = 22,
 		["arrowPoint"] = {
 			["hash"] = 526082082,
 			["c"] = 1,
-			["dist"] = 3213.273897337051,
-			["yDelta"] = 2362.002429494451,
-			["xDelta"] = -2178.548521922327,
+			["dist"] = 3259.901988066913,
+			["yDelta"] = 2407.800065352325,
+			["xDelta"] = -2197.603198280332,
 			["y"] = 0.3488,
 			["x"] = 0.4774,
 			["title"] = "|cFFFF1A1A[22+] |rLeaders of the Fang",
@@ -313,13 +313,13 @@ QuestieCachedQuests = {
 			["type"] = "item",
 			["desc"] = "Gem of Pythas: 0/1",
 		},
+		["tracked"] = true,
 		["objective4"] = {
 			["notes"] = {
 			},
 			["type"] = "item",
 			["desc"] = "Gem of Serpentis: 0/1",
 		},
-		["tracked"] = true,
 	},
 	[461742392] = {
 		["objective1"] = {
@@ -330,8 +330,6 @@ QuestieCachedQuests = {
 		},
 		["leaderboards"] = 1,
 		["logId"] = 19,
-		["questName"] = "Trouble at the Docks",
-		["level"] = 18,
 		["arrowPoint"] = {
 			["hash"] = 461742392,
 			["c"] = 1,
@@ -343,6 +341,8 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFF8040[18] |rTrouble at the Docks",
 			["z"] = 17,
 		},
+		["level"] = 18,
+		["questName"] = "Trouble at the Docks",
 		["tracked"] = false,
 	},
 	[1106765282] = {
@@ -354,6 +354,9 @@ QuestieCachedQuests = {
 		},
 		["logId"] = 12,
 		["tracked"] = false,
+		["questName"] = "Echeyakee",
+		["level"] = 16,
+		["leaderboards"] = 1,
 		["arrowPoint"] = {
 			["hash"] = 1106765282,
 			["c"] = 1,
@@ -365,9 +368,6 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFFFF00[16] |rEcheyakee",
 			["z"] = 17,
 		},
-		["level"] = 16,
-		["leaderboards"] = 1,
-		["questName"] = "Echeyakee",
 	},
 	[3767370266] = {
 		["objective1"] = {
@@ -384,6 +384,7 @@ QuestieCachedQuests = {
 			["type"] = "monster",
 			["desc"] = "Ragefire Shaman slain: 0/8",
 		},
+		["questName"] = "Testing an Enemy's Strength",
 		["arrowPoint"] = {
 			["hash"] = 3767370266,
 			["c"] = 1,
@@ -395,10 +396,9 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFFFF00[15+] |rTesting an Enemy's Strength",
 			["z"] = 12,
 		},
-		["questName"] = "Testing an Enemy's Strength",
-		["level"] = 15,
-		["leaderboards"] = 2,
 		["questTag"] = "Dungeon",
+		["leaderboards"] = 2,
+		["level"] = 15,
 	},
 	[2077376978] = {
 		["objective1"] = {
@@ -417,13 +417,13 @@ QuestieCachedQuests = {
 		},
 		["logId"] = 11,
 		["questName"] = "The Disruption Ends",
+		["level"] = 15,
 		["objective3"] = {
 			["notes"] = {
 			},
 			["type"] = "item",
 			["desc"] = "Kreenig Snarlsnout's Tusk: 0/1",
 		},
-		["level"] = 15,
 		["arrowPoint"] = {
 			["hash"] = 2077376978,
 			["c"] = 1,
@@ -437,9 +437,12 @@ QuestieCachedQuests = {
 		},
 	},
 	[3285308738] = {
-		["leaderboards"] = 0,
 		["logId"] = 9,
+		["tracked"] = false,
 		["isComplete"] = 1,
+		["questName"] = "Apothecary Zamah",
+		["level"] = 15,
+		["leaderboards"] = 0,
 		["arrowPoint"] = {
 			["hash"] = 3285308738,
 			["c"] = 1,
@@ -451,9 +454,6 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFFFF00[15] |rApothecary Zamah",
 			["z"] = 19,
 		},
-		["level"] = 15,
-		["tracked"] = false,
-		["questName"] = "Apothecary Zamah",
 	},
 	[2352886930] = {
 		["objective1"] = {
@@ -481,8 +481,9 @@ QuestieCachedQuests = {
 		["logId"] = 8,
 	},
 	[3464359170] = {
+		["tracked"] = false,
 		["logId"] = 3,
-		["leaderboards"] = 0,
+		["questName"] = "Searching for the Lost Satchel",
 		["arrowPoint"] = {
 			["hash"] = 3464359170,
 			["c"] = 1,
@@ -494,29 +495,28 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFFFF00[16+] |rSearching for the Lost Satchel",
 			["z"] = 12,
 		},
-		["questName"] = "Searching for the Lost Satchel",
 		["level"] = 16,
-		["tracked"] = false,
+		["leaderboards"] = 0,
 		["questTag"] = "Dungeon",
 	},
 	[553770050] = {
-		["logId"] = 10,
+		["tracked"] = true,
+		["questName"] = "Mura Runetotem",
+		["isComplete"] = 1,
 		["arrowPoint"] = {
 			["hash"] = 553770050,
 			["c"] = 2,
-			["dist"] = 18181.434442962,
-			["yDelta"] = -3551.884620175955,
-			["xDelta"] = 17831.11533383939,
+			["dist"] = 18153.84672204216,
+			["yDelta"] = -3506.086984318081,
+			["xDelta"] = 17812.06065748139,
 			["y"] = 0.4197,
 			["x"] = 0.43,
 			["title"] = "|cFFFFFF00[15] |rMura Runetotem",
 			["z"] = 16,
 		},
-		["isComplete"] = 1,
-		["questName"] = "Mura Runetotem",
 		["level"] = 15,
-		["tracked"] = true,
 		["leaderboards"] = 0,
+		["logId"] = 10,
 	},
 	[797109714] = {
 		["objective1"] = {
@@ -527,6 +527,9 @@ QuestieCachedQuests = {
 		},
 		["logId"] = 14,
 		["tracked"] = false,
+		["questName"] = "Stolen Silver",
+		["level"] = 18,
+		["leaderboards"] = 1,
 		["arrowPoint"] = {
 			["hash"] = 797109714,
 			["c"] = 1,
@@ -538,25 +541,22 @@ QuestieCachedQuests = {
 			["title"] = "|cFFFF8040[18] |rStolen Silver",
 			["z"] = 17,
 		},
-		["level"] = 18,
-		["leaderboards"] = 1,
-		["questName"] = "Stolen Silver",
 	},
 }
 QuestieConfig = {
-	["trackerMinimize"] = false,
+	["trackerAlpha"] = 0.6,
 	["alwaysShowObjectives"] = true,
 	["maxShowLevel"] = 2,
 	["showToolTips"] = true,
 	["clusterQuests"] = true,
 	["getVersion"] = 3.7,
 	["showMapNotes"] = true,
-	["maxLevelFilter"] = true,
+	["hideMinimapIcons"] = false,
 	["arrowEnabled"] = true,
-	["boldColors"] = true,
-	["trackerList"] = false,
+	["maxLevelFilter"] = true,
+	["trackerScale"] = 0.82,
 	["showTrackerHeader"] = false,
-	["trackerAlpha"] = 0.6,
+	["trackerMinimize"] = false,
 	["trackerBackground"] = false,
 	["trackerEnabled"] = true,
 	["resizeWorldmap"] = false,
@@ -565,10 +565,10 @@ QuestieConfig = {
 	["minLevelFilter"] = true,
 	["minimapZoom"] = false,
 	["minShowLevel"] = 4,
-	["trackerScale"] = 0.82,
+	["trackerList"] = false,
 	["corpseArrow"] = true,
 	["minimapButton"] = true,
-	["hideMinimapIcons"] = false,
+	["boldColors"] = true,
 }
 QuestieTrackerVariables = {
 	["position"] = {

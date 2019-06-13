@@ -53,8 +53,8 @@ TheoryCraft_MitigationMobs = {
 	["Swoop"] = {
 		[1] = 512,
 	},
-	["Fleeting Plainstrider"] = {
-		[1] = 1060,
+	["Razormane Thornweaver"] = {
+		[1] = 534,
 	},
 	["Kolkar Bloodcharger"] = {
 		[1] = 863,
@@ -62,8 +62,8 @@ TheoryCraft_MitigationMobs = {
 	["Razormane Defender"] = {
 		[1] = 779,
 	},
-	["Razormane Thornweaver"] = {
-		[1] = 534,
+	["Fleeting Plainstrider"] = {
+		[1] = 1060,
 	},
 	["Bloodtalon Taillasher"] = {
 		[1] = 312,
