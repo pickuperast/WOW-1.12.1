@@ -1124,6 +1124,32 @@ TITAN_HONORPLUS = {
 	},
 	["Pureholypowe|Nighthaven"] = {
 		["log"] = {
+			["Kioik"] = {
+				["h"] = 30,
+				["k"] = 1,
+				["r"] = "Corporal",
+			},
+			["Oxmodoggo"] = {
+				["h"] = 35,
+				["k"] = 1,
+				["r"] = "Corporal",
+				["l"] = 41,
+				["c"] = 9,
+			},
+			["Daenlog"] = {
+				["h"] = 5,
+				["k"] = 1,
+				["r"] = "Private",
+				["l"] = 41,
+				["c"] = 4,
+			},
+			["Pewpewudead"] = {
+				["h"] = 20,
+				["k"] = 1,
+				["r"] = "Private",
+				["l"] = 35,
+				["c"] = 2,
+			},
 			["Fuzzfizz"] = {
 				["h"] = 127,
 				["k"] = 3,
@@ -1131,10 +1157,12 @@ TITAN_HONORPLUS = {
 				["l"] = 35,
 				["c"] = 6,
 			},
-			["Kioik"] = {
-				["h"] = 30,
+			["Swooshswoosh"] = {
+				["h"] = 4,
 				["k"] = 1,
-				["r"] = "Corporal",
+				["r"] = "Private",
+				["l"] = 35,
+				["c"] = 8,
 			},
 		},
 		["weekdk"] = 0,
@@ -1142,16 +1170,16 @@ TITAN_HONORPLUS = {
 		["weekcp"] = 0,
 		["currentbonus"] = 0,
 		["lastweek"] = 77,
-		["todaycp"] = 157,
+		["todaycp"] = 221,
 		["todaydk"] = 0,
 		["updatenow"] = 0,
-		["todaycp2"] = 209,
+		["todaycp2"] = 273,
 		["yesterday2"] = 37,
 		["updatetime"] = 1,
 		["todayb"] = 0,
 		["yesterday"] = 51,
-		["todayd"] = 9,
-		["todayhk"] = 4,
+		["todayd"] = 11,
+		["todayhk"] = 8,
 	},
 	["Easypeasyy|Nighthaven"] = {
 		["log"] = {
