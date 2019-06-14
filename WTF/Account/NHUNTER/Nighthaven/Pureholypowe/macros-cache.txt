@@ -1,3 +1,7 @@
+MACRO 16777219 "|cff00dd00REGEN" warlock_-healthstone
+/script UseContainerItem(0, 2)
+/script UseInventoryItem(17)
+END
 MACRO 16777218 "PETHEAL" Spell_Holy_PrayerofShadowProtection
 /cast Consume Shadows
 END

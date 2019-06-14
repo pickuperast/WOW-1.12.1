@@ -1,7 +1,7 @@
 
 pfQuest_config = {
 	["cutoutminimap"] = "1",
-	["currentquestgivers"] = "1",
+	["mindropchance"] = "0",
 	["colorbyspawn"] = "1",
 	["showids"] = "0",
 	["worldmapmenu"] = "1",
@@ -16,7 +16,7 @@ pfQuest_config = {
 	["minimaptransp"] = "1.0",
 	["questlinks"] = "1",
 	["minimapbutton"] = "1",
-	["mindropchance"] = "0",
+	["currentquestgivers"] = "1",
 }
 pfBrowser_fav = {
 	["items"] = {
@@ -29,8 +29,17 @@ pfBrowser_fav = {
 	},
 }
 pfQuest_history = {
+	[606] = true,
+	[600] = true,
+	[595] = true,
+	[571] = true,
 }
 pfQuest_colors = {
+	["Elder Mistvale Gorilla"] = {
+		[1] = 0.1137254901960784,
+		[2] = 0.6235294117647059,
+		[3] = 0.8784313725490196,
+	},
 }
 pfQuest_server = {
 	["items"] = {
