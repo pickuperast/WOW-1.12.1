@@ -28,6 +28,10 @@ Frame: ItemRefTooltip
 FrameLevel: 10
 X: 398
 Y: -342
+Frame: GossipFrame
+FrameLevel: 1
+X: 0
+Y: -104
 Frame: AccountantFrame
 FrameLevel: 8
 X: 0
@@ -56,8 +60,8 @@ W: 227
 H: 207
 Frame: BWP_MainFrame
 FrameLevel: 8
-X: 735
-Y: -402
+X: 731
+Y: -381
 Frame: MacroFrame
 FrameLevel: 1
 X: 0

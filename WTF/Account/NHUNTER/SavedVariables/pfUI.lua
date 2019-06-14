@@ -248,7 +248,7 @@ pfUI_cache = {
 	},
 	["gold"] = {
 		["Nighthaven"] = {
-			["Pureholypowe"] = 349636,
+			["Pureholypowe"] = 350008,
 		},
 	},
 }

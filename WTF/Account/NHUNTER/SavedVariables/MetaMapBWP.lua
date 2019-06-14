@@ -2,19 +2,14 @@
 BWP_Options = {
 	["ShowNPC"] = true,
 	["ShowCorpse"] = false,
-	["SetAlpha"] = 1,
-	["ShowOnGuard"] = false,
-	["ClearDest"] = true,
-	["ShowYards"] = false,
 	["SetDistance"] = 0.004100000020116568,
 	["ShowPoints"] = true,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetAlpha"] = 1,
+	["ShowOnGuard"] = false,
 }
-BWP_Destination = {
-	["y"] = 0.66,
-	["x"] = 0.32,
-	["name"] = "Stranglethorn Vale",
-	["zone"] = "Stranglethorn Vale",
-}
+BWP_Destination = nil
 BWP_QuestList = {
 	[1] = {
 		["Y"] = 0.2919557690620422,
