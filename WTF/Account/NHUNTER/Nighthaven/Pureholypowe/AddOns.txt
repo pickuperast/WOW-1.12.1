@@ -1,0 +1,8 @@
+!Questie: disabled
+Cartographer: disabled
+EquipCompare: disabled
+ShaguError: disabled
+ShaguPlates: disabled
+ShaguTooltips: disabled
+ShaguValue: disabled
+ShaguMount: disabled

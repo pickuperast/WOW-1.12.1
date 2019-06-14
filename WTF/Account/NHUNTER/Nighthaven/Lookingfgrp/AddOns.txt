@@ -11,6 +11,7 @@ QuestAnnouncer: enabled
 SellValue: enabled
 Carnival_EnemyCastBar: enabled
 QuickLoot: disabled
-!Questie: enabled
+!Questie: disabled
 YaHT: disabled
 aux-addon: enabled
+Cartographer: disabled

@@ -2,3 +2,5 @@ YaHT: enabled
 DruidBar: disabled
 aux-addon: enabled
 Auctioneer: enabled
+!Questie: disabled
+Cartographer: disabled
