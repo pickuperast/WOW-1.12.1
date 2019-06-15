@@ -2,15 +2,8 @@
 VanillaGuideDBPC = {
 	["global"] = {
 		["GuideValues"] = {
-			["GuideID"] = 29,
-			["Step"] = 20,
-		},
-		["CharInfo"] = {
-			["Race"] = "Undead",
-			["Faction"] = "Horde",
-			["CharName"] = "Pureholypowe",
-			["RealmName"] = "Nighthaven",
-			["Class"] = "Warlock",
+			["GuideID"] = 31,
+			["Step"] = 4,
 		},
 		["UI"] = {
 			["ScrollFrameVisible"] = false,
@@ -25,12 +18,19 @@ VanillaGuideDBPC = {
 				["nHeight"] = 319.999998010553,
 			},
 		},
+		["CharInfo"] = {
+			["Race"] = "Undead",
+			["Faction"] = "Horde",
+			["CharName"] = "Pureholypowe",
+			["RealmName"] = "Nighthaven",
+			["Class"] = "Warlock",
+		},
 		["MetaMap"] = {
 			["BWPPresence"] = true,
-			["NotesEnable"] = true,
+			["BWPEnable"] = true,
 			["Presence"] = true,
 			["NotesPresence"] = true,
-			["BWPEnable"] = true,
+			["NotesEnable"] = true,
 		},
 	},
 }

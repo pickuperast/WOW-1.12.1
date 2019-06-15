@@ -1,42 +1,12 @@
 
 QuestieSeenQuests = {
-	[4083622250] = 0,
+	[1133791962] = 1,
 	[3097990128] = 1,
+	[123108464] = 1,
+	[4037026418] = 1,
+	[4083622250] = 1,
 }
 QuestieCachedQuests = {
-	[4083622250] = {
-		["objective1"] = {
-			["notes"] = {
-			},
-			["done"] = 1,
-			["type"] = "monster",
-			["desc"] = "Mindless Zombie slain: 8/8",
-		},
-		["logId"] = 2,
-		["arrowPoint"] = {
-			["hash"] = 4083622250,
-			["c"] = 2,
-			["dist"] = 117.6159657110999,
-			["yDelta"] = 73.10389667941482,
-			["xDelta"] = -92.1375910279842,
-			["y"] = 0.6619,
-			["x"] = 0.3089,
-			["title"] = "|cFFFFFF00[2] The Mindless Ones|r",
-			["z"] = 21,
-		},
-		["objective2"] = {
-			["notes"] = {
-			},
-			["done"] = 1,
-			["type"] = "monster",
-			["desc"] = "Wretched Zombie slain: 8/8",
-		},
-		["isComplete"] = 1,
-		["questName"] = "The Mindless Ones",
-		["level"] = 2,
-		["tracked"] = true,
-		["leaderboards"] = 2,
-	},
 }
 QuestieConfig = {
 	["trackerAlpha"] = 0.6,
@@ -70,8 +40,8 @@ QuestieTrackerVariables = {
 		["relativeTo"] = "UIParent",
 		["point"] = "TOPLEFT",
 		["relativePoint"] = "TOPLEFT",
-		["yOfs"] = 0,
-		["xOfs"] = 0,
+		["yOfs"] = -174.5502255178954,
+		["xOfs"] = 35.32835669326251,
 	},
 }
 QuestieMinimapPosition = -90

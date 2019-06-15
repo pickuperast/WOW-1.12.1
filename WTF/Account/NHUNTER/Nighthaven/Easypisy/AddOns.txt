@@ -1,5 +1,8 @@
-YaHT: disabled
-aux-addon: enabled
-Auctioneer: enabled
 !Questie: disabled
 Cartographer: disabled
+EquipCompare: disabled
+ShaguError: disabled
+ShaguPlates: disabled
+ShaguTooltips: disabled
+ShaguValue: disabled
+ShaguMount: disabled

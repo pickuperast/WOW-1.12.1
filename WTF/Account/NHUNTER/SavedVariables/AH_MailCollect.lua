@@ -4,16 +4,15 @@ AH_MailCollectDB = {
 		["default"] = {
 			["summaryMail"] = 1,
 			["MsgsWithItem"] = {
-				[1] = 5,
 			},
 			["dbNames"] = {
 			},
 			["auctionMail"] = false,
 			["deleteAllMail"] = false,
+			["displayMail"] = 1,
+			["itemsMail"] = 1,
 			["MsgsWithCash"] = {
 			},
-			["itemsMail"] = 1,
-			["displayMail"] = 1,
 		},
 	},
 }
