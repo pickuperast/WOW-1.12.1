@@ -10,6 +10,7 @@ BWP_CZone = {};
 BWP_Destination = nil;
 BWP_Data["Kalimdor"] = {};
 BWP_Data["Eastern Kingdoms"] = {};
+BWP_Data["Outland"] = {};
 
 local BWPnode = {};
 local BWPmeta = {};
@@ -478,7 +479,7 @@ function BWP_DropDownFrame_Initialize() --Create Dropdown
 				ZonePoints = BWP_CZone
 			end
 			if(ZonePoints) then
-				for val,k in ZonePoints do
+				for val,k in pairs(ZonePoints) do
 					if(k) then
 						title =  ZonePoints[val].title;
 					end
@@ -503,7 +504,7 @@ function BWP_DropDownFrame_Initialize() --Create Dropdown
 			info.value = "BWP_CZone";
 			UIDropDownMenu_AddButton(info);
 			if(BWP_CZone_XTRA) then
-				for k,v in BWP_CZone_XTRA do
+				for k,v in pairs(BWP_CZone_XTRA) do
 					if(BWP_Get_MenuTitle(v)) then
 					local info = {};
 					info.text = BWP_Get_MenuTitle(v);
@@ -522,7 +523,7 @@ function BWP_DropDownFrame_Initialize() --Create Dropdown
 		if(not BWP_BREAK_IT_DOWN) or (( UIDROPDOWNMENU_MENU_LEVEL == 2 ) and (this.value == "Q")) then
 			table.sort(LocalQList,BWPSortByQuestGiverName)
 			local thisindex = 0
-			for v, thisquest in LocalQList do
+			for v, thisquest in pairs(LocalQList) do
 				if(thisquest) then 
 					descript = {};--Make our menu Options
 					descript.text = BWP_NPC_TEXT..thisquest["QuestGiver"];
@@ -547,7 +548,7 @@ end
 function BWP_Get_MenuTitle(MList)
 	local tempstring = nil
 	local firstword,lastword = nil, nil
-	for k,v in MList do
+	for k,v in pairs(MList) do
 		
 		if(not tempstring) then -- if its our first word in the List
 			if(v.title) then 
@@ -627,7 +628,7 @@ function clearquest(title)	--Removes a quest/questgiver
 		title = realtitle
 	end
 	if(BWP_QuestList)then
-		for v, thisquest in BWP_QuestList do
+		for v, thisquest in pairs(BWP_QuestList) do
 			if(string.find(thisquest["QuestName"],title))then
 				if(thisquest["QuestName"] == title) then
 					if(BWP_Destination) and (thisquest["QuestGiver"] == BWP_Destination.name)then
@@ -637,7 +638,7 @@ function clearquest(title)	--Removes a quest/questgiver
 					BWP_QuestList[v]= nil
 					tempQuestlist = {}
 					local index = 1 
-					for i,q in BWP_QuestList do
+					for i,q in pairs(BWP_QuestList) do
 						tempQuestlist[index] = q
 						index = index + 1
 					end
@@ -663,23 +664,23 @@ function clearquest(title)	--Removes a quest/questgiver
 end
 	
 function BWP_numpoints()
-	if(table.getn(BWP_CZone) > 20 ) then BWP_ChecknumPOI() end
+	if(MetaMap_TableSize(BWP_CZone) > 20 ) then BWP_ChecknumPOI() end
 	local tempnum = 0
 	if(BWP_CZone) then
-			tempnum = table.getn(BWP_CZone)
+			tempnum = MetaMap_TableSize(BWP_CZone)
 	end
 	if (BWP_CZone_XTRA) then 
-		if(BWP_CZone_XTRA[1]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[1]) end
-		if(BWP_CZone_XTRA[2]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[2]) end
-		if(BWP_CZone_XTRA[3]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[3]) end
-		if(BWP_CZone_XTRA[4]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[4]) end
-		if(BWP_CZone_XTRA[5]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[5]) end
-		if(BWP_CZone_XTRA[6]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[6]) end
-		if(BWP_CZone_XTRA[7]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[7]) end
-		if(BWP_CZone_XTRA[8]) then tempnum = tempnum + table.getn(BWP_CZone_XTRA[8]) end -- max number of second menus
+		if(BWP_CZone_XTRA[1]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[1]) end
+		if(BWP_CZone_XTRA[2]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[2]) end
+		if(BWP_CZone_XTRA[3]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[3]) end
+		if(BWP_CZone_XTRA[4]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[4]) end
+		if(BWP_CZone_XTRA[5]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[5]) end
+		if(BWP_CZone_XTRA[6]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[6]) end
+		if(BWP_CZone_XTRA[7]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[7]) end
+		if(BWP_CZone_XTRA[8]) then tempnum = tempnum + MetaMap_TableSize(BWP_CZone_XTRA[8]) end -- max number of second menus
 	end
 	if(BWP_QuestList) then
-		for v, thisquest in BWP_QuestList do
+		for v, thisquest in pairs(BWP_QuestList) do
 			if(thisquest)and(thisquest.Zone == GetCurrentMapZone())then
 				tempnum = tempnum + 1
 			end
@@ -754,7 +755,7 @@ end
 function BWP_GetQuestList() -- Returns an Array of QuestNPC Data
 	local localquestlist = {}
 	if(BWP_QuestList) then
-		for k,v in BWP_QuestList do
+		for k,v in pairs(BWP_QuestList) do
 			zone = GetCurrentMapZone()
 			if(v.Zone == zone) then
 				table.insert(localquestlist,v)
@@ -784,7 +785,7 @@ function BWP_AddQuest(questname)--Adds a quest giver to waypoint menu
 			questitem["QuestGiver"] = UnitName("Target")
 			questitem["Zone"]= GetCurrentMapZone()
 			questitem["X"],questitem["Y"] = GetPlayerMapPosition("Player")
-			for k,v in Questlist do 
+			for k,v in pairs(Questlist) do 
 				index = index + 1
 				if(UnitName("Target") == v["QuestGiver"]) then
 					if(v["QuestName"])then
@@ -903,7 +904,7 @@ end
 
 function BWP_ChecknumPOI()
 	BWP_CZone_XTRA = nil
-	local POIinZone = table.getn(BWP_CZone)
+	local POIinZone = MetaMap_TableSize(BWP_CZone)
 	if( POIinZone > 20) then
 		local temp_CZone = {nil}
 		BWP_CZone_XTRA = {nil}
@@ -917,7 +918,7 @@ function BWP_ChecknumPOI()
 		BWP_CZone_XTRA[8] = {nil}
 		local BWPcount = 0
 		table.sort(BWP_CZone,BWPsortbyName)
-		for k,v in BWP_CZone do
+		for k,v in pairs(BWP_CZone) do
 			BWPcount = BWPcount + 1
 			if(BWPcount < 21) then
 				tinsert(temp_CZone, v)
@@ -1136,8 +1137,7 @@ function GetLocalPoints()
 	local cont = nil;
 	local cData;
 
-	if (BWP_Zones and BWP_Zones[zone] == 1) then cont = "Kalimdor";
-	elseif (BWP_Zones and BWP_Zones[zone] == 2) then cont = "Eastern Kingdoms"; end
+	cont = MetaMap_Continents[BWP_Zones[zone]];
 	if (BWP_Data[cont] and BWP_Data[cont][zone]) then	
 		text = "\n"
 		local temp = BWP_Data[cont][zone];

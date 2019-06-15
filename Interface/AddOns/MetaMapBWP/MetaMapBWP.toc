@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: [|cff3fcf26K|r] MetaMapBWP
+## Title: MetaMapBWP
 ## Author: MetaHawk
 ## Notes: Waypoints system module
 ## LoadOnDemand: 1
