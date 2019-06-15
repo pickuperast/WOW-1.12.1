@@ -240,15 +240,20 @@ pfUI_cache = {
 		["Nighthaven"] = {
 			["Pureholypowe"] = {
 				["heals"] = {
-					["Drain LifeRank 4"] = 48,
+					["Drain LifeRank 4"] = 0,
 					["Siphon LifeRank 2"] = 23,
+				},
+			},
+			["Easypewpew"] = {
+				["heals"] = {
 				},
 			},
 		},
 	},
 	["gold"] = {
 		["Nighthaven"] = {
-			["Pureholypowe"] = 350008,
+			["Pureholypowe"] = 277050,
+			["Easypewpew"] = 241842,
 		},
 	},
 }

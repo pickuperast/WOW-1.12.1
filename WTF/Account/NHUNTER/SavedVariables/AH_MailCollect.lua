@@ -4,6 +4,7 @@ AH_MailCollectDB = {
 		["default"] = {
 			["summaryMail"] = 1,
 			["MsgsWithItem"] = {
+				[1] = 5,
 			},
 			["dbNames"] = {
 			},

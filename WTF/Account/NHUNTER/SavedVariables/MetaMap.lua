@@ -28,10 +28,10 @@ MetaMapOptions = {
 	["MetaMapShowAuthor"] = true,
 	["MiniParty"] = true,
 	["MetaMapAlpha1"] = 0.9300000071525574,
-	["MetaMapButtonPosition"] = 220,
+	["MetaMapScale2"] = 0.550000011920929,
 	["ZoneShiftVersion"] = 0,
 	["MetaMapZone"] = 1,
-	["MetaMapScale2"] = 0.550000011920929,
+	["MetaMapButtonPosition"] = 220,
 	["SortList"] = false,
 	["LastHighlight"] = true,
 }
@@ -125,8 +125,8 @@ MetaMapNotes_Data = {
 				["ncol"] = 6,
 				["xPos"] = 0.27,
 				["yPos"] = 0.69,
-				["in1c"] = 9,
 				["icon"] = 6,
+				["in1c"] = 9,
 			},
 			[2] = {
 				["creator"] = "VanillaGuide",
@@ -137,8 +137,8 @@ MetaMapNotes_Data = {
 				["ncol"] = 6,
 				["xPos"] = 0.32,
 				["yPos"] = 0.66,
-				["in1c"] = 9,
 				["icon"] = 6,
+				["in1c"] = 9,
 			},
 		},
 		[19] = {

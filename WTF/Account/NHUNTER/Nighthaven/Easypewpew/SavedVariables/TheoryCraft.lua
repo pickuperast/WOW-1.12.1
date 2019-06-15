@@ -28,7 +28,7 @@ TheoryCraft_Settings = {
 	["dontresist"] = true,
 	["procs"] = true,
 	["mitigation"] = true,
-	["FontPath"] = "Fonts\\ArialN.TTF",
+	["FontPath"] = "Interface\\AddOns\\pfUI\\fonts\\BigNoodleTitling.ttf",
 	["combinedot"] = true,
 	["healanddamage"] = true,
 }

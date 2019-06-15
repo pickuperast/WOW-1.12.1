@@ -1,2 +1,2 @@
 cameraDistance 12.838750
-cameraPitch 23.299642
+cameraPitch 18.200030

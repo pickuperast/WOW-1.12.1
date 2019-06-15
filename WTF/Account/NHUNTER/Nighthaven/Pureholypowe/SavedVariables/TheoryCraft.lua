@@ -8,8 +8,8 @@ TheoryCraft_Settings = {
 		["Shadow"] = 0,
 		["Nature"] = 0,
 	},
-	["buttontexty"] = 10.22,
-	["buttontextx"] = 1.111,
+	["ColR"] = 1,
+	["ColG"] = 1,
 	["ColG2"] = 1,
 	["ColR2"] = 1,
 	["embedstyle1"] = true,
@@ -18,8 +18,8 @@ TheoryCraft_Settings = {
 	["ColB"] = 1,
 	["tryfirstsfg"] = 0,
 	["embed"] = true,
-	["ColG"] = 1,
-	["ColR"] = 1,
+	["buttontextx"] = 1.111,
+	["buttontexty"] = 10.22,
 	["mitigation"] = true,
 	["ColB2"] = 0.6862745098039216,
 	["dontresist"] = true,
@@ -50,11 +50,11 @@ TheoryCraft_Settings = {
 		},
 		["newstat"] = {
 		},
-		["slots"] = {
-		},
+		["strength"] = 0,
 		["agility"] = 0,
 		["name"] = "Naked",
-		["strength"] = 0,
+		["slots"] = {
+		},
 		["wear"] = {
 		},
 		["intellect"] = 0,

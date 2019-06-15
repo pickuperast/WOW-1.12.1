@@ -74,11 +74,11 @@ TheoryCraft_MitigationMobs = {
 	["Voodoo Troll"] = {
 		[1] = 523,
 	},
-	["Fleeting Plainstrider"] = {
-		[1] = 1060,
-	},
 	["Razormane Thornweaver"] = {
 		[1] = 534,
+	},
+	["Fleeting Plainstrider"] = {
+		[1] = 1060,
 	},
 	["Oasis Snapjaw"] = {
 		[1] = 920,

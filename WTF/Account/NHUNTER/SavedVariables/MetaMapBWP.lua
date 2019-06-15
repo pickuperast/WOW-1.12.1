@@ -19,11 +19,32 @@ BWP_QuestList = {
 		["QuestGiver"] = "Far Seer Mok'thardin",
 	},
 	[2] = {
-		["Y"] = 0.7362872362136841,
-		["X"] = 0.2691210508346558,
-		["Zone"] = 18,
-		["QuestName"] = "Return to MacKinley",
-		["QuestGiver"] = "\"Shaky\" Phillipe",
+		["Y"] = 0.5280050039291382,
+		["X"] = 0.4226677417755127,
+		["Zone"] = 3,
+		["QuestName"] = "Barbecued Buzzard Wings",
+		["QuestGiver"] = "Rigglefuzz",
+	},
+	[3] = {
+		["Y"] = 0.5256097316741943,
+		["X"] = 0.4218993484973908,
+		["Zone"] = 3,
+		["QuestName"] = "News for Fizzle",
+		["QuestGiver"] = "Martek the Exiled",
+	},
+	[4] = {
+		["Y"] = 0.4483655095100403,
+		["X"] = 0.2598786056041718,
+		["Zone"] = 3,
+		["QuestName"] = ",,,,",
+		["QuestGiver"] = "Lotwil Veriatus",
+	},
+	[5] = {
+		["Y"] = 0.4714325964450836,
+		["X"] = 0.06399271637201309,
+		["Zone"] = 3,
+		["QuestName"] = "Report to Helgrum",
+		["QuestGiver"] = "Neeka Bloodscar",
 	},
 }
 BWP_AbandonedQuests = nil
