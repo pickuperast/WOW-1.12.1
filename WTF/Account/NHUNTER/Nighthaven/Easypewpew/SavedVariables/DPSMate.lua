@@ -3,6 +3,9 @@ DPSMateUser = {
 	["Helloimgrey"] = {
 		[1] = 226,
 	},
+	["Stormpiik"] = {
+		[1] = 1591,
+	},
 	["Mortess"] = {
 		[1] = 334,
 		[2] = "warlock",
@@ -14,6 +17,9 @@ DPSMateUser = {
 		[2] = "druid",
 		[3] = -1,
 		[8] = 60,
+	},
+	["Jeriso"] = {
+		[1] = 1582,
 	},
 	["Irmadoctor"] = {
 		[1] = 904,
@@ -33,6 +39,9 @@ DPSMateUser = {
 	["Smokyhorn"] = {
 		[1] = 1003,
 	},
+	["Samvega"] = {
+		[1] = 1525,
+	},
 	["Raaltul"] = {
 		[1] = 522,
 		[2] = "hunter",
@@ -40,6 +49,9 @@ DPSMateUser = {
 		[4] = false,
 		[5] = "Spider",
 		[8] = 19,
+	},
+	["Glitterponie"] = {
+		[1] = 1531,
 	},
 	["Kornelio"] = {
 		[1] = 1243,
@@ -119,6 +131,9 @@ DPSMateUser = {
 	["Kodo Calf"] = {
 		[1] = 79,
 	},
+	["Yussii"] = {
+		[1] = 1543,
+	},
 	["Gurkor"] = {
 		[1] = 1098,
 	},
@@ -134,8 +149,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
-	["Cardow"] = {
-		[1] = 91,
+	["Volkhanam"] = {
+		[1] = 1526,
+	},
+	["Shootmedown"] = {
+		[1] = 1538,
 	},
 	["Digipen"] = {
 		[1] = 1130,
@@ -149,8 +167,8 @@ DPSMateUser = {
 	["Handduck"] = {
 		[1] = 299,
 	},
-	["Rawkrad"] = {
-		[1] = 511,
+	["Vanilkaa"] = {
+		[1] = 480,
 	},
 	["Jafarbad"] = {
 		[1] = 497,
@@ -160,6 +178,9 @@ DPSMateUser = {
 	},
 	["Murbin"] = {
 		[1] = 364,
+	},
+	["Daxel"] = {
+		[1] = 1578,
 	},
 	["Sylvaniaa"] = {
 		[1] = 905,
@@ -185,6 +206,9 @@ DPSMateUser = {
 	["Bogelmagus"] = {
 		[1] = 1452,
 	},
+	["Halken"] = {
+		[1] = 1533,
+	},
 	["Abortionlaw"] = {
 		[1] = 144,
 	},
@@ -193,6 +217,9 @@ DPSMateUser = {
 	},
 	["Rakarroth"] = {
 		[1] = 1457,
+	},
+	["Pynne"] = {
+		[1] = 1567,
 	},
 	["Asaph"] = {
 		[1] = 1122,
@@ -206,8 +233,8 @@ DPSMateUser = {
 	["Syphrus"] = {
 		[1] = 244,
 	},
-	["Ardiloso"] = {
-		[1] = 1259,
+	["Notfear"] = {
+		[1] = 776,
 	},
 	["Megathran"] = {
 		[1] = 918,
@@ -227,6 +254,9 @@ DPSMateUser = {
 	["Bossless"] = {
 		[1] = 1435,
 	},
+	["Holyass"] = {
+		[1] = 1588,
+	},
 	["Sozpriest"] = {
 		[1] = 486,
 	},
@@ -239,8 +269,8 @@ DPSMateUser = {
 	["Snuzzles"] = {
 		[1] = 1143,
 	},
-	["Aeha"] = {
-		[1] = 1109,
+	["Squaanchy"] = {
+		[1] = 1426,
 	},
 	["Radgost"] = {
 		[1] = 552,
@@ -260,8 +290,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 52,
 	},
-	["Dovaknight"] = {
-		[1] = 786,
+	["Gefjon"] = {
+		[1] = 1428,
 	},
 	["Fire Nova Totem"] = {
 		[1] = 160,
@@ -269,8 +299,8 @@ DPSMateUser = {
 	["Orango"] = {
 		[1] = 943,
 	},
-	["Seeqtisse"] = {
-		[1] = 306,
+	["Spassitel"] = {
+		[1] = 1532,
 	},
 	["Confi"] = {
 		[1] = 338,
@@ -284,8 +314,8 @@ DPSMateUser = {
 	["Iluki"] = {
 		[1] = 1449,
 	},
-	["Leagolas"] = {
-		[1] = 722,
+	["Alitampouras"] = {
+		[1] = 1355,
 	},
 	["Fayla"] = {
 		[1] = 651,
@@ -299,11 +329,14 @@ DPSMateUser = {
 	["Earthbind Totem"] = {
 		[1] = 489,
 	},
-	["Theraphosida"] = {
-		[1] = 810,
+	["Qafa"] = {
+		[1] = 1463,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Betonomehal"] = {
-		[1] = 1287,
+	["Flatland Cougar"] = {
+		[1] = 64,
 	},
 	["Kobear"] = {
 		[1] = 34,
@@ -311,11 +344,14 @@ DPSMateUser = {
 	["Imacowithink"] = {
 		[1] = 247,
 	},
-	["Pjatla"] = {
-		[1] = 680,
+	["Zilligar"] = {
+		[1] = 1546,
 	},
 	["Palemane Poacher"] = {
 		[1] = 45,
+	},
+	["Gellor"] = {
+		[1] = 1559,
 	},
 	["Yshnar"] = {
 		[1] = 426,
@@ -346,17 +382,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Fatbannk"] = {
-		[1] = 1348,
+	["Garfield"] = {
+		[1] = 1499,
 	},
 	["Lepetitnerd"] = {
 		[1] = 491,
 	},
-	["Lagerther"] = {
-		[1] = 690,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 18,
+	["Monoi"] = {
+		[1] = 703,
 	},
 	["Ezraexa"] = {
 		[1] = 575,
@@ -364,8 +397,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Atahla"] = {
-		[1] = 1025,
+	["Jinun"] = {
+		[1] = 1442,
 	},
 	["Meneleth"] = {
 		[1] = 178,
@@ -379,14 +412,17 @@ DPSMateUser = {
 	["Thesea"] = {
 		[1] = 40,
 	},
-	["Justalilgnar"] = {
-		[1] = 503,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 16,
+	["Swarbie"] = {
+		[1] = 1516,
 	},
-	["Jpouz"] = {
-		[1] = 767,
+	["Unbreackable"] = {
+		[1] = 1584,
+	},
+	["Ayeterie"] = {
+		[1] = 675,
+	},
+	["Igar"] = {
+		[1] = 768,
 	},
 	["Sufiks"] = {
 		[1] = 560,
@@ -409,14 +445,14 @@ DPSMateUser = {
 	["Locknarosh"] = {
 		[1] = 554,
 	},
-	["Juderina"] = {
-		[1] = 1320,
+	["Pigpapapump"] = {
+		[1] = 1482,
 	},
 	["Straxhuset"] = {
 		[1] = 882,
 	},
-	["Shamdonn"] = {
-		[1] = 785,
+	["Patrick"] = {
+		[1] = 411,
 	},
 	["Lowkei"] = {
 		[1] = 567,
@@ -430,8 +466,8 @@ DPSMateUser = {
 	["Rimjobbobz"] = {
 		[1] = 1184,
 	},
-	["Bloopert"] = {
-		[1] = 878,
+	["Missuspieces"] = {
+		[1] = 1142,
 	},
 	["Vicour"] = {
 		[1] = 1202,
@@ -496,8 +532,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Korthex"] = {
-		[1] = 38,
+	["Sloworc"] = {
+		[1] = 153,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 11,
 	},
 	["Weedeala"] = {
 		[1] = 184,
@@ -505,20 +544,26 @@ DPSMateUser = {
 	["Supervisor Fizsprocket"] = {
 		[1] = 255,
 	},
+	["Klazy"] = {
+		[1] = 1509,
+	},
 	["Morglock"] = {
 		[1] = 530,
 	},
-	["Zxt"] = {
-		[1] = 1066,
+	["Venture Co. Taskmaster"] = {
+		[1] = 242,
 	},
 	["Mahgwa"] = {
 		[1] = 265,
 	},
-	["Plazmito"] = {
-		[1] = 747,
+	["Bristleback Shaman"] = {
+		[1] = 19,
 	},
-	["Regally"] = {
-		[1] = 1052,
+	["Abaethor"] = {
+		[1] = 414,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 14,
 	},
 	["Dooshee"] = {
 		[1] = 1345,
@@ -551,11 +596,11 @@ DPSMateUser = {
 	["Spiritbringe"] = {
 		[1] = 322,
 	},
-	["Bambamn"] = {
-		[1] = 572,
-		[2] = "warlock",
+	["Vikaasa"] = {
+		[1] = 993,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 42,
+		[8] = 20,
 	},
 	["Plastered"] = {
 		[1] = 642,
@@ -587,26 +632,23 @@ DPSMateUser = {
 	["Bristleback Interloper"] = {
 		[1] = 392,
 	},
-	["Mountain Cougar"] = {
-		[1] = 12,
+	["Onieromancer"] = {
+		[1] = 860,
 	},
-	["Nerevaresque"] = {
-		[1] = 230,
+	["Zackara"] = {
+		[1] = 1493,
 	},
-	["Suunder"] = {
-		[1] = 1121,
-		[2] = "warrior",
+	["Drippnn"] = {
+		[1] = 653,
+		[2] = "rogue",
 		[3] = -1,
-		[8] = 54,
+		[8] = 29,
 	},
-	["Butchi"] = {
-		[1] = 1040,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 53,
+	["Klathmos"] = {
+		[1] = 931,
 	},
-	["Sunscale Lashtail"] = {
-		[1] = 638,
+	["Yiggina"] = {
+		[1] = 1174,
 	},
 	["Sherayin"] = {
 		[1] = 318,
@@ -626,8 +668,23 @@ DPSMateUser = {
 	["Drschaman"] = {
 		[1] = 1042,
 	},
-	["Torama"] = {
-		[1] = 1139,
+	["Onkan"] = {
+		[1] = 1528,
+	},
+	["Karibs"] = {
+		[1] = 1200,
+	},
+	["Bloodlore"] = {
+		[1] = 1589,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 16,
+	},
+	["Muecke"] = {
+		[1] = 1529,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 17,
 	},
 	["Waritto"] = {
 		[1] = 516,
@@ -644,8 +701,8 @@ DPSMateUser = {
 	["Sleezebag"] = {
 		[1] = 919,
 	},
-	["Whizkey"] = {
-		[1] = 1047,
+	["Thundamoo"] = {
+		[1] = 1336,
 	},
 	["Bajinda"] = {
 		[1] = 602,
@@ -656,8 +713,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Sunscale Screecher"] = {
-		[1] = 126,
+	["Phoenix"] = {
+		[1] = 398,
 	},
 	["Windfury Sorceress"] = {
 		[1] = 665,
@@ -704,8 +761,8 @@ DPSMateUser = {
 	["Yarosomaha"] = {
 		[1] = 788,
 	},
-	["Chartast"] = {
-		[1] = 355,
+	["Aellenia"] = {
+		[1] = 1144,
 	},
 	["Tbnx"] = {
 		[1] = 4,
@@ -734,8 +791,8 @@ DPSMateUser = {
 	["Rokotansky"] = {
 		[1] = 46,
 	},
-	["Tomdot"] = {
-		[1] = 778,
+	["Zwoggl"] = {
+		[1] = 1510,
 	},
 	["Firebag"] = {
 		[1] = 1135,
@@ -785,14 +842,14 @@ DPSMateUser = {
 	["Nickulus"] = {
 		[1] = 1210,
 	},
-	["Spartanus"] = {
-		[1] = 744,
-	},
-	["Mejora"] = {
-		[1] = 147,
-		[2] = "shaman",
+	["Seazhd"] = {
+		[1] = 99,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 21,
+		[8] = 13,
+	},
+	["Subiepriest"] = {
+		[1] = 496,
 	},
 	["Barutt"] = {
 		[1] = 828,
@@ -802,6 +859,9 @@ DPSMateUser = {
 	},
 	["Sevelt"] = {
 		[1] = 1316,
+	},
+	["Akunahei"] = {
+		[1] = 1581,
 	},
 	["Elefantenkuh"] = {
 		[1] = 1392,
@@ -821,8 +881,8 @@ DPSMateUser = {
 	["Bhaeros"] = {
 		[1] = 1436,
 	},
-	["Lilnige"] = {
-		[1] = 260,
+	["Leotrim"] = {
+		[1] = 1514,
 	},
 	["Dragobor"] = {
 		[1] = 93,
@@ -836,8 +896,8 @@ DPSMateUser = {
 	["Gefestt"] = {
 		[1] = 1264,
 	},
-	["Horbollen"] = {
-		[1] = 487,
+	["Vaelastrasz"] = {
+		[1] = 1513,
 	},
 	["Krugnaidan"] = {
 		[1] = 1471,
@@ -863,6 +923,12 @@ DPSMateUser = {
 	["Kasuti"] = {
 		[1] = 362,
 	},
+	["Sumtingwong"] = {
+		[1] = 1587,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 60,
+	},
 	["Santloui"] = {
 		[1] = 101,
 	},
@@ -887,8 +953,8 @@ DPSMateUser = {
 	["Bagheera"] = {
 		[1] = 964,
 	},
-	["Mystiah"] = {
-		[1] = 858,
+	["Panchogollo"] = {
+		[1] = 584,
 	},
 	["Benhunter"] = {
 		[1] = 737,
@@ -896,8 +962,8 @@ DPSMateUser = {
 	["Taloned Swoop"] = {
 		[1] = 241,
 	},
-	["Olololoman"] = {
-		[1] = 1321,
+	["Gorkrok"] = {
+		[1] = 205,
 	},
 	["Shamanokk"] = {
 		[1] = 177,
@@ -905,14 +971,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 15,
 	},
-	["Sakorvis"] = {
-		[1] = 331,
+	["Ansekhwa"] = {
+		[1] = 279,
 	},
 	["Vhurm"] = {
 		[1] = 950,
 	},
-	["Nusi"] = {
-		[1] = 1009,
+	["Alkatrass"] = {
+		[1] = 1519,
+	},
+	["Malzahr"] = {
+		[1] = 1215,
 	},
 	["Salambo"] = {
 		[1] = 1108,
@@ -926,8 +995,8 @@ DPSMateUser = {
 	["Sukno"] = {
 		[1] = 1181,
 	},
-	["Krakmos"] = {
-		[1] = 626,
+	["Moorkilar"] = {
+		[1] = 910,
 	},
 	["Ramoceptura"] = {
 		[1] = 1115,
@@ -947,8 +1016,8 @@ DPSMateUser = {
 	["Platestack"] = {
 		[1] = 1221,
 	},
-	["Arra'chea"] = {
-		[1] = 659,
+	["Moramage"] = {
+		[1] = 985,
 	},
 	["Sacredos"] = {
 		[1] = 617,
@@ -968,8 +1037,8 @@ DPSMateUser = {
 	["Imbarandom"] = {
 		[1] = 782,
 	},
-	["Bluntmessiah"] = {
-		[1] = 271,
+	["Kyearazv"] = {
+		[1] = 269,
 	},
 	["Bigoldog"] = {
 		[1] = 670,
@@ -1022,8 +1091,8 @@ DPSMateUser = {
 	["Natassia"] = {
 		[1] = 1116,
 	},
-	["Eruul"] = {
-		[1] = 846,
+	["Crantzengild"] = {
+		[1] = 1167,
 	},
 	["Airjin"] = {
 		[1] = 727,
@@ -1067,14 +1136,18 @@ DPSMateUser = {
 	["Mazago"] = {
 		[1] = 813,
 	},
-	["Octezz"] = {
-		[1] = 1225,
+	["Gooner"] = {
+		[1] = 1251,
 	},
 	["Rittiez"] = {
 		[1] = 898,
 	},
-	["Dramazug"] = {
-		[1] = 1244,
+	["Cheetar"] = {
+		[1] = 106,
+		[2] = "druid",
+		[3] = -1,
+		[4] = false,
+		[8] = 9,
 	},
 	["Iteets"] = {
 		[1] = 30,
@@ -1094,11 +1167,11 @@ DPSMateUser = {
 	["Reydo"] = {
 		[1] = 579,
 	},
-	["Tollyho"] = {
-		[1] = 227,
-		[2] = "druid",
+	["Mardrom"] = {
+		[1] = 1451,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 12,
+		[8] = 60,
 	},
 	["Espire"] = {
 		[1] = 1097,
@@ -1118,8 +1191,8 @@ DPSMateUser = {
 	["Riianimates"] = {
 		[1] = 1437,
 	},
-	["Forceworn"] = {
-		[1] = 520,
+	["Atakama"] = {
+		[1] = 1507,
 	},
 	["Trigsten"] = {
 		[1] = 315,
@@ -1160,11 +1233,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
-	["Aerostat"] = {
-		[1] = 369,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 18,
+	["Panxx"] = {
+		[1] = 1469,
 	},
 	["Kokasio"] = {
 		[1] = 772,
@@ -1175,14 +1245,17 @@ DPSMateUser = {
 	["Pogchamper"] = {
 		[1] = 371,
 	},
-	["Patent"] = {
-		[1] = 865,
+	["Peviit"] = {
+		[1] = 1511,
+	},
+	["Alkanoid"] = {
+		[1] = 1535,
 	},
 	["Razormane"] = {
 		[1] = 488,
 	},
-	["Emperador"] = {
-		[1] = 600,
+	["Darkcuster"] = {
+		[1] = 726,
 	},
 	["Kantaifi"] = {
 		[1] = 1288,
@@ -1214,6 +1287,9 @@ DPSMateUser = {
 	["Firra"] = {
 		[1] = 812,
 	},
+	["Bruaka"] = {
+		[1] = 1518,
+	},
 	["Zhtjhh"] = {
 		[1] = 1416,
 	},
@@ -1229,8 +1305,11 @@ DPSMateUser = {
 	["Grdi"] = {
 		[1] = 842,
 	},
-	["Tusky"] = {
-		[1] = 1094,
+	["Chunderclap"] = {
+		[1] = 270,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 22,
 	},
 	["Rolkon"] = {
 		[1] = 694,
@@ -1253,8 +1332,11 @@ DPSMateUser = {
 	["Chixi"] = {
 		[1] = 581,
 	},
-	["Shoe"] = {
-		[1] = 844,
+	["Death Flayer"] = {
+		[1] = 456,
+	},
+	["Teapanda"] = {
+		[1] = 1562,
 	},
 	["Dyso"] = {
 		[1] = 1278,
@@ -1262,14 +1344,14 @@ DPSMateUser = {
 	["Stoneclaw Totem"] = {
 		[1] = 435,
 	},
-	["Overlordes"] = {
-		[1] = 809,
+	["Fomalhaut"] = {
+		[1] = 823,
 	},
-	["Mowalord"] = {
-		[1] = 1069,
+	["Sdasgg"] = {
+		[1] = 1341,
 	},
-	["Cootermcgee"] = {
-		[1] = 1043,
+	["Nommertoento"] = {
+		[1] = 1134,
 	},
 	["Blaztamazta"] = {
 		[1] = 709,
@@ -1277,8 +1359,8 @@ DPSMateUser = {
 	["Kickasslol"] = {
 		[1] = 498,
 	},
-	["Skuridat"] = {
-		[1] = 341,
+	["Abombinabull"] = {
+		[1] = 1556,
 	},
 	["Thorene"] = {
 		[1] = 11,
@@ -1289,8 +1371,8 @@ DPSMateUser = {
 	["Warmastercat"] = {
 		[1] = 1440,
 	},
-	["Gorkamorka"] = {
-		[1] = 1001,
+	["EshKere"] = {
+		[1] = 1383,
 	},
 	["Tarankin"] = {
 		[1] = 50,
@@ -1313,6 +1395,9 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
+	["Pouetepouete"] = {
+		[1] = 1563,
+	},
 	["Environment"] = {
 		[1] = 8,
 	},
@@ -1331,11 +1416,11 @@ DPSMateUser = {
 	["Kuruke"] = {
 		[1] = 348,
 	},
-	["Sstealthh"] = {
-		[1] = 1305,
-		[2] = "rogue",
+	["Kairappa"] = {
+		[1] = 180,
+		[2] = "mage",
 		[3] = -1,
-		[8] = 7,
+		[8] = 13,
 	},
 	["Lokadaflika"] = {
 		[1] = 1026,
@@ -1367,6 +1452,9 @@ DPSMateUser = {
 	["Refracted"] = {
 		[1] = 1420,
 	},
+	["Sezero"] = {
+		[1] = 1530,
+	},
 	["Goupil"] = {
 		[1] = 975,
 	},
@@ -1379,8 +1467,8 @@ DPSMateUser = {
 	["Zarig"] = {
 		[1] = 997,
 	},
-	["Gnflock"] = {
-		[1] = 803,
+	["Somnamna"] = {
+		[1] = 1512,
 	},
 	["Nokaled"] = {
 		[1] = 1119,
@@ -1406,8 +1494,8 @@ DPSMateUser = {
 	["Gennia"] = {
 		[1] = 382,
 	},
-	["Bigpopsicle"] = {
-		[1] = 1236,
+	["Glacion"] = {
+		[1] = 264,
 	},
 	["Mcferal"] = {
 		[1] = 476,
@@ -1415,8 +1503,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Milkaxd"] = {
-		[1] = 24,
+	["Toonn"] = {
+		[1] = 1387,
 	},
 	["Mutaro"] = {
 		[1] = 1227,
@@ -1448,12 +1536,8 @@ DPSMateUser = {
 	["Aidsfunnel"] = {
 		[1] = 676,
 	},
-	["Tharator"] = {
-		[1] = 103,
-		[2] = "druid",
-		[3] = -1,
-		[4] = false,
-		[8] = 9,
+	["Vzdoh"] = {
+		[1] = 736,
 	},
 	["Hundur"] = {
 		[1] = 353,
@@ -1485,11 +1569,11 @@ DPSMateUser = {
 	["Thrakhmarr"] = {
 		[1] = 1337,
 	},
-	["Ergas"] = {
-		[1] = 433,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 8,
+	["Zimnij"] = {
+		[1] = 1386,
+	},
+	["Tamams"] = {
+		[1] = 1580,
 	},
 	["Mordain"] = {
 		[1] = 1412,
@@ -1497,8 +1581,8 @@ DPSMateUser = {
 	["Venarie"] = {
 		[1] = 1304,
 	},
-	["Kwanik"] = {
-		[1] = 378,
+	["Rokkie"] = {
+		[1] = 1191,
 	},
 	["Gourmetchef"] = {
 		[1] = 167,
@@ -1512,8 +1596,8 @@ DPSMateUser = {
 	["Jandica"] = {
 		[1] = 974,
 	},
-	["Vincz"] = {
-		[1] = 707,
+	["Moosaholic"] = {
+		[1] = 1470,
 	},
 	["Facehead"] = {
 		[1] = 54,
@@ -1609,8 +1693,11 @@ DPSMateUser = {
 	["Zhevra Charger"] = {
 		[1] = 356,
 	},
-	["Venture Co. Laborer"] = {
-		[1] = 83,
+	["Slimjimfatty"] = {
+		[1] = 122,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Skippehr"] = {
 		[1] = 33,
@@ -1630,6 +1717,9 @@ DPSMateUser = {
 	["Kolkar Packhound"] = {
 		[1] = 538,
 	},
+	["Knackehaxan"] = {
+		[1] = 1554,
+	},
 	["Kolkar Pack Runner"] = {
 		[1] = 534,
 	},
@@ -1645,6 +1735,9 @@ DPSMateUser = {
 	["Xgrommash"] = {
 		[1] = 1344,
 	},
+	["Bobanotbiba"] = {
+		[1] = 1500,
+	},
 	["Vurtneqtx"] = {
 		[1] = 1027,
 	},
@@ -1657,8 +1750,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Noobgame"] = {
-		[1] = 685,
+	["Razorog"] = {
+		[1] = 1443,
 	},
 	["Soert"] = {
 		[1] = 367,
@@ -1678,8 +1771,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 27,
 	},
-	["Bristleback"] = {
-		[1] = 120,
+	["Elder Mottled Boar"] = {
+		[1] = 452,
 	},
 	["Blyathunter"] = {
 		[1] = 1074,
@@ -1696,14 +1789,26 @@ DPSMateUser = {
 	["Velithillin"] = {
 		[1] = 1136,
 	},
+	["Chaarlyy"] = {
+		[1] = 746,
+	},
 	["Motarogg"] = {
 		[1] = 129,
 		[2] = "rogue",
 		[3] = -1,
 		[8] = 18,
 	},
+	["Jesserh"] = {
+		[1] = 1592,
+	},
 	["Dotndab"] = {
 		[1] = 934,
+	},
+	["Sdsagg"] = {
+		[1] = 1590,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Nevadareno"] = {
 		[1] = 829,
@@ -1717,11 +1822,44 @@ DPSMateUser = {
 	["Caramela"] = {
 		[1] = 1284,
 	},
+	["Evilana"] = {
+		[1] = 1586,
+	},
+	["Couto"] = {
+		[1] = 1089,
+	},
+	["Zenkal"] = {
+		[1] = 1583,
+	},
+	["Waizei"] = {
+		[1] = 1579,
+	},
 	["Yellowrose"] = {
 		[1] = 431,
 	},
 	["Ulrene"] = {
 		[1] = 762,
+	},
+	["Lysea"] = {
+		[1] = 1577,
+	},
+	["Besteri"] = {
+		[1] = 1417,
+	},
+	["Makkel"] = {
+		[1] = 354,
+	},
+	["Amini"] = {
+		[1] = 1574,
+	},
+	["Altriysia"] = {
+		[1] = 1573,
+	},
+	["Xitto"] = {
+		[1] = 1572,
+	},
+	["Djundead"] = {
+		[1] = 1571,
 	},
 	["Prairie Stalker"] = {
 		[1] = 56,
@@ -1729,26 +1867,47 @@ DPSMateUser = {
 	["Deadincrease"] = {
 		[1] = 625,
 	},
+	["Zilart"] = {
+		[1] = 1570,
+	},
 	["Jackdanys"] = {
 		[1] = 1099,
 		[2] = "warlock",
 		[3] = -1,
 		[8] = 39,
 	},
+	["Bawn"] = {
+		[1] = 1569,
+	},
 	["Fagniss"] = {
 		[1] = 1046,
+	},
+	["Shtsandwich"] = {
+		[1] = 296,
 	},
 	["Maledito"] = {
 		[1] = 689,
 	},
+	["Adralt"] = {
+		[1] = 1566,
+	},
 	["Swoop"] = {
 		[1] = 66,
+	},
+	["Torkaz"] = {
+		[1] = 1565,
 	},
 	["Sebassasin"] = {
 		[1] = 118,
 	},
+	["Pjaellus"] = {
+		[1] = 1564,
+	},
 	["Doctrol"] = {
 		[1] = 277,
+	},
+	["Tourobrog"] = {
+		[1] = 1152,
 	},
 	["Mozaic"] = {
 		[1] = 182,
@@ -1756,20 +1915,44 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 17,
 	},
+	["Bristleback"] = {
+		[1] = 120,
+	},
 	["Molltrage"] = {
 		[1] = 697,
 	},
 	["Akalanttys"] = {
 		[1] = 292,
 	},
+	["Noobgame"] = {
+		[1] = 685,
+	},
+	["Kozanostra"] = {
+		[1] = 859,
+	},
+	["Jequh"] = {
+		[1] = 880,
+	},
 	["Venomtail Scorpid"] = {
 		[1] = 211,
+	},
+	["Vincz"] = {
+		[1] = 707,
+	},
+	["Bisonburger"] = {
+		[1] = 1434,
 	},
 	["Sammaji"] = {
 		[1] = 808,
 	},
 	["Bristleback Thornweaver"] = {
 		[1] = 119,
+	},
+	["Craztor"] = {
+		[1] = 1343,
+	},
+	["Cowii"] = {
+		[1] = 1430,
 	},
 	["Brave"] = {
 		[1] = 58,
@@ -1796,14 +1979,32 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 15,
 	},
+	["Kodo Matriarch"] = {
+		[1] = 94,
+	},
+	["Kwanik"] = {
+		[1] = 378,
+	},
 	["Birgir"] = {
 		[1] = 1407,
+	},
+	["Drheks"] = {
+		[1] = 1576,
+	},
+	["Sweetskill"] = {
+		[1] = 1405,
 	},
 	["Prall"] = {
 		[1] = 1388,
 	},
+	["Miggles"] = {
+		[1] = 448,
+	},
 	["Jouesf"] = {
 		[1] = 1087,
+	},
+	["Turbotusk"] = {
+		[1] = 1432,
 	},
 	["Nilpferd"] = {
 		[1] = 857,
@@ -1817,14 +2018,26 @@ DPSMateUser = {
 	["Bloodtalon Taillasher"] = {
 		[1] = 421,
 	},
+	["Emdicjordi"] = {
+		[1] = 1403,
+	},
 	["Zenzhi"] = {
 		[1] = 561,
 	},
-	["Sambow"] = {
-		[1] = 979,
+	["Troxighar"] = {
+		[1] = 1474,
+	},
+	["Eigrigar"] = {
+		[1] = 752,
 	},
 	["Kaileesam"] = {
 		[1] = 1170,
+	},
+	["Skanktank"] = {
+		[1] = 1375,
+	},
+	["Lupowulf"] = {
+		[1] = 1315,
 	},
 	["Dragonyck"] = {
 		[1] = 1223,
@@ -1832,8 +2045,17 @@ DPSMateUser = {
 	["Hitscan"] = {
 		[1] = 1314,
 	},
+	["Mcgrath"] = {
+		[1] = 311,
+	},
 	["Bewgs"] = {
 		[1] = 1277,
+	},
+	["Applesock"] = {
+		[1] = 133,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 13,
 	},
 	["Phiggus"] = {
 		[1] = 243,
@@ -1844,11 +2066,25 @@ DPSMateUser = {
 	["Freakishkid"] = {
 		[1] = 909,
 	},
-	["Badonkadonk"] = {
-		[1] = 42,
+	["Nitrobomb"] = {
+		[1] = 1326,
+	},
+	["Tesslas"] = {
+		[1] = 1527,
+	},
+	["Spider"] = {
+		[1] = 539,
+		[4] = true,
+		[6] = 522,
 	},
 	["Surprisexd"] = {
 		[1] = 1211,
+	},
+	["Kalimdorc"] = {
+		[1] = 1342,
+	},
+	["Overlordes"] = {
+		[1] = 809,
 	},
 	["Theo"] = {
 		[1] = 413,
@@ -1862,11 +2098,23 @@ DPSMateUser = {
 	["Prairie Dog"] = {
 		[1] = 36,
 	},
+	["Dacatineu"] = {
+		[1] = 976,
+	},
+	["Dlinjxui"] = {
+		[1] = 1137,
+	},
+	["Yinchuriki"] = {
+		[1] = 1112,
+	},
 	["Sibiz"] = {
 		[1] = 1234,
 	},
 	["Oushijin"] = {
 		[1] = 1084,
+	},
+	["Kavvu"] = {
+		[1] = 1339,
 	},
 	["Matsolas"] = {
 		[1] = 784,
@@ -1880,8 +2128,17 @@ DPSMateUser = {
 	["Laitier"] = {
 		[1] = 1334,
 	},
+	["Snagglespear"] = {
+		[1] = 39,
+	},
 	["Rargna"] = {
 		[1] = 1450,
+	},
+	["Roho"] = {
+		[1] = 1228,
+	},
+	["Devish"] = {
+		[1] = 1399,
 	},
 	["Madmemexd"] = {
 		[1] = 757,
@@ -1892,23 +2149,68 @@ DPSMateUser = {
 	["Daaly"] = {
 		[1] = 1253,
 	},
+	["Warlord Krom'zar"] = {
+		[1] = 519,
+	},
 	["Osiden"] = {
 		[1] = 952,
+	},
+	["Champagnie"] = {
+		[1] = 1146,
+	},
+	["Adamss"] = {
+		[1] = 90,
+	},
+	["Abrohax"] = {
+		[1] = 1275,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
+	},
+	["Sharantyr"] = {
+		[1] = 138,
 	},
 	["Eazysnack"] = {
 		[1] = 824,
 	},
+	["Beleez"] = {
+		[1] = 616,
+	},
 	["Phaine"] = {
 		[1] = 863,
+	},
+	["Cootermcgee"] = {
+		[1] = 1043,
+	},
+	["Greater Plainstrider"] = {
+		[1] = 168,
+	},
+	["Drfolamour"] = {
+		[1] = 1370,
+	},
+	["Chyks"] = {
+		[1] = 620,
 	},
 	["Eustachette"] = {
 		[1] = 416,
 	},
+	["Zeuqma"] = {
+		[1] = 881,
+	},
 	["Somecore"] = {
 		[1] = 1245,
 	},
+	["Zaratoo"] = {
+		[1] = 1453,
+	},
+	["Shoe"] = {
+		[1] = 844,
+	},
 	["Kolkar Bloodcharger"] = {
 		[1] = 533,
+	},
+	["Hapkomuku"] = {
+		[1] = 868,
 	},
 	["Kaszu"] = {
 		[1] = 1302,
@@ -1916,59 +2218,68 @@ DPSMateUser = {
 	["Gazelle"] = {
 		[1] = 518,
 	},
+	["Pazzet"] = {
+		[1] = 1126,
+	},
 	["Andrewwz"] = {
 		[1] = 566,
 	},
-	["Drfolamour"] = {
-		[1] = 1370,
+	["Deadroses"] = {
+		[1] = 960,
 	},
-	["Pouki"] = {
-		[1] = 1495,
+	["Moyadorogaya"] = {
+		[1] = 1481,
+	},
+	["Tusky"] = {
+		[1] = 1094,
 	},
 	["Saltaz"] = {
 		[1] = 272,
 	},
-	["Xaynne"] = {
-		[1] = 1494,
+	["Breduq"] = {
+		[1] = 333,
 	},
 	["Stormsnout"] = {
 		[1] = 374,
 	},
-	["Zackara"] = {
-		[1] = 1493,
+	["Vixor"] = {
+		[1] = 730,
 	},
 	["Prairie Wolf"] = {
 		[1] = 28,
 	},
-	["Mutaren"] = {
-		[1] = 1492,
+	["Skeethunt"] = {
+		[1] = 562,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 8,
 	},
 	["Tiptoeboi"] = {
 		[1] = 606,
 	},
-	["Zhonara"] = {
-		[1] = 1491,
+	["Tuwunda"] = {
+		[1] = 262,
 	},
-	["Cobbleepot"] = {
-		[1] = 1490,
+	["Oodji"] = {
+		[1] = 404,
 	},
 	["Leonidacs"] = {
 		[1] = 1447,
 	},
-	["Gakrai"] = {
-		[1] = 1489,
+	["Thegor"] = {
+		[1] = 27,
 	},
 	["Fallenmar"] = {
 		[1] = 278,
 	},
-	["Fomalhaut"] = {
-		[1] = 823,
+	["Relakras"] = {
+		[1] = 734,
 	},
-	["Dworm"] = {
-		[1] = 1487,
+	["Foozdood"] = {
+		[1] = 601,
 	},
-	["Fullnatural"] = {
-		[1] = 1486,
+	["Tomlossayt"] = {
+		[1] = 771,
 	},
 	["Vozull"] = {
 		[1] = 1013,
@@ -1976,23 +2287,23 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Evilmf"] = {
-		[1] = 1485,
+	["Gittyy"] = {
+		[1] = 1313,
 	},
 	["Smokiepoke"] = {
 		[1] = 564,
 	},
-	["Heyhowareya"] = {
-		[1] = 1484,
+	["Ebetnormalno"] = {
+		[1] = 363,
 	},
-	["Lilkink"] = {
-		[1] = 1483,
+	["Emperador"] = {
+		[1] = 600,
 	},
 	["Sarkrit"] = {
 		[1] = 532,
 	},
-	["Pigpapapump"] = {
-		[1] = 1482,
+	["Zadika"] = {
+		[1] = 619,
 	},
 	["Phorm"] = {
 		[1] = 989,
@@ -2018,11 +2329,11 @@ DPSMateUser = {
 	["Nightshader"] = {
 		[1] = 1438,
 	},
-	["Moyadorogaya"] = {
-		[1] = 1481,
+	["Ebensee"] = {
+		[1] = 1260,
 	},
-	["Grizraz"] = {
-		[1] = 1030,
+	["Killer"] = {
+		[1] = 889,
 	},
 	["Truckbadass"] = {
 		[1] = 123,
@@ -2033,17 +2344,14 @@ DPSMateUser = {
 	["Ormgarth"] = {
 		[1] = 352,
 	},
-	["Shamastan"] = {
-		[1] = 1479,
+	["Ratskiin"] = {
+		[1] = 805,
 	},
-	["Elary"] = {
-		[1] = 1478,
+	["Dreadmaw Crocolisk"] = {
+		[1] = 420,
 	},
-	["Helihoes"] = {
-		[1] = 131,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 12,
+	["Guchin"] = {
+		[1] = 1424,
 	},
 	["Badpreist"] = {
 		[1] = 998,
@@ -2051,8 +2359,8 @@ DPSMateUser = {
 	["Hermitsham"] = {
 		[1] = 1038,
 	},
-	["Eventyren"] = {
-		[1] = 856,
+	["Zevic"] = {
+		[1] = 954,
 	},
 	["Bloodtalon Scythemaw"] = {
 		[1] = 455,
@@ -2069,14 +2377,14 @@ DPSMateUser = {
 	["Greenmilkers"] = {
 		[1] = 556,
 	},
-	["Seekthebeer"] = {
-		[1] = 1475,
+	["Vonwarlock"] = {
+		[1] = 112,
 	},
-	["Troxighar"] = {
-		[1] = 1474,
+	["Priestydk"] = {
+		[1] = 1550,
 	},
-	["Druidyy"] = {
-		[1] = 1472,
+	["Kimyouth"] = {
+		[1] = 1071,
 	},
 	["Eggskies"] = {
 		[1] = 649,
@@ -2084,11 +2392,11 @@ DPSMateUser = {
 	["Fleshdl"] = {
 		[1] = 888,
 	},
-	["Moosaholic"] = {
-		[1] = 1470,
+	["Forceworn"] = {
+		[1] = 520,
 	},
-	["Panxx"] = {
-		[1] = 1469,
+	["Gakrai"] = {
+		[1] = 1489,
 	},
 	["Wolloloo"] = {
 		[1] = 1011,
@@ -2099,14 +2407,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Storkan"] = {
-		[1] = 1150,
+	["Waterpeddler"] = {
+		[1] = 897,
 	},
 	["Thebuck"] = {
 		[1] = 1333,
 	},
-	["Shamolet"] = {
-		[1] = 1468,
+	["Davethulu"] = {
+		[1] = 1427,
 	},
 	["Arrowpuffs"] = {
 		[1] = 557,
@@ -2114,8 +2422,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Lockyjoe"] = {
-		[1] = 1467,
+	["Aerostat"] = {
+		[1] = 369,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Derektor"] = {
 		[1] = 832,
@@ -2129,41 +2440,38 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Heligfan"] = {
-		[1] = 1454,
+	["Deafth"] = {
+		[1] = 582,
 	},
-	["Daggersnhoes"] = {
-		[1] = 472,
-		[2] = "rogue",
+	["Titopito"] = {
+		[1] = 507,
+		[2] = "warlock",
 		[3] = -1,
 		[8] = 14,
 	},
 	["Chaosangel"] = {
 		[1] = 1039,
 	},
-	["Bigninjafan"] = {
-		[1] = 1464,
+	["Dramazug"] = {
+		[1] = 1244,
 	},
-	["Qafa"] = {
-		[1] = 1463,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Palemane Skinner"] = {
+		[1] = 44,
 	},
 	["Kremaul"] = {
 		[1] = 1238,
 	},
-	["Xiaokankang"] = {
-		[1] = 1462,
+	["Razormane Scout"] = {
+		[1] = 427,
 	},
 	["Kazawi"] = {
 		[1] = 875,
 	},
-	["Weedpolice"] = {
-		[1] = 1460,
+	["Pofflerini"] = {
+		[1] = 883,
 	},
-	["Voodoo Troll"] = {
-		[1] = 439,
+	["Octezz"] = {
+		[1] = 1225,
 	},
 	["Kolkar Wrangler"] = {
 		[1] = 135,
@@ -2174,11 +2482,11 @@ DPSMateUser = {
 	["Apothesis"] = {
 		[1] = 1093,
 	},
-	["Kowmapuk"] = {
-		[1] = 376,
+	["Rohger"] = {
+		[1] = 1390,
 	},
-	["Ultranikos"] = {
-		[1] = 1455,
+	["Feva"] = {
+		[1] = 945,
 	},
 	["Seigtrus"] = {
 		[1] = 1466,
@@ -2192,8 +2500,8 @@ DPSMateUser = {
 	["Grintusk"] = {
 		[1] = 874,
 	},
-	["Zaratoo"] = {
-		[1] = 1453,
+	["Chillsen"] = {
+		[1] = 655,
 	},
 	["Lilfreezy"] = {
 		[1] = 526,
@@ -2210,17 +2518,14 @@ DPSMateUser = {
 	["Rake"] = {
 		[1] = 789,
 	},
-	["Mardrom"] = {
-		[1] = 1451,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Bluntmessiah"] = {
+		[1] = 271,
 	},
-	["Kozanostra"] = {
-		[1] = 859,
+	["Grizraz"] = {
+		[1] = 1030,
 	},
-	["Turbotusk"] = {
-		[1] = 1432,
+	["Mileger"] = {
+		[1] = 854,
 	},
 	["Cuunhunter"] = {
 		[1] = 682,
@@ -2249,17 +2554,17 @@ DPSMateUser = {
 	["Windfury Matriarch"] = {
 		[1] = 666,
 	},
-	["Mcmike"] = {
-		[1] = 1446,
-	},
-	["Callyabluff"] = {
-		[1] = 648,
-		[2] = "shaman",
+	["Tollyho"] = {
+		[1] = 227,
+		[2] = "druid",
 		[3] = -1,
 		[8] = 12,
 	},
-	["Jequh"] = {
-		[1] = 880,
+	["Charlesmansn"] = {
+		[1] = 990,
+	},
+	["Arriganda"] = {
+		[1] = 1248,
 	},
 	["Nathreyeth"] = {
 		[1] = 62,
@@ -2267,8 +2572,8 @@ DPSMateUser = {
 	["Praably"] = {
 		[1] = 386,
 	},
-	["Razorog"] = {
-		[1] = 1443,
+	["Krakmos"] = {
+		[1] = 626,
 	},
 	["Yakrutoy"] = {
 		[1] = 845,
@@ -2276,17 +2581,17 @@ DPSMateUser = {
 	["Pygmy Surf Crawler"] = {
 		[1] = 432,
 	},
-	["Jinun"] = {
-		[1] = 1442,
+	["Nincampoop"] = {
+		[1] = 1279,
 	},
 	["\"Squealer\" Thornmantle"] = {
 		[1] = 16,
 	},
-	["Memnone"] = {
-		[1] = 1439,
+	["Nusi"] = {
+		[1] = 1009,
 	},
-	["Bisonburger"] = {
-		[1] = 1434,
+	["Lockyjoe"] = {
+		[1] = 1467,
 	},
 	["Assflame"] = {
 		[1] = 710,
@@ -2294,8 +2599,8 @@ DPSMateUser = {
 	["Desilock"] = {
 		[1] = 800,
 	},
-	["Tankdru"] = {
-		[1] = 1433,
+	["Zornik"] = {
+		[1] = 337,
 	},
 	["Cejrowski"] = {
 		[1] = 468,
@@ -2303,8 +2608,8 @@ DPSMateUser = {
 	["Fitzii"] = {
 		[1] = 1448,
 	},
-	["Dreadass"] = {
-		[1] = 615,
+	["Hyrro"] = {
+		[1] = 380,
 	},
 	["Vorvash"] = {
 		[1] = 1164,
@@ -2328,17 +2633,17 @@ DPSMateUser = {
 	["Flokiiee"] = {
 		[1] = 246,
 	},
-	["Izolentochka"] = {
-		[1] = 1431,
+	["Bestbenk"] = {
+		[1] = 1508,
 	},
 	["Lionfoot"] = {
 		[1] = 1096,
 	},
-	["Cymbaline"] = {
-		[1] = 310,
+	["Davzeus"] = {
+		[1] = 1354,
 	},
-	["Cowii"] = {
-		[1] = 1430,
+	["Olololoman"] = {
+		[1] = 1321,
 	},
 	["Wiry Swoop"] = {
 		[1] = 47,
@@ -2349,18 +2654,14 @@ DPSMateUser = {
 	["Yaon"] = {
 		[1] = 115,
 	},
-	["Graumoc"] = {
-		[1] = 441,
-		[2] = "rogue",
-		[3] = -1,
-		[4] = false,
-		[8] = 6,
+	["Fan"] = {
+		[1] = 825,
 	},
-	["Gefjon"] = {
-		[1] = 1428,
+	["Orcyboy"] = {
+		[1] = 1548,
 	},
-	["Davethulu"] = {
-		[1] = 1427,
+	["Unbehagen"] = {
+		[1] = 833,
 	},
 	["Killroy"] = {
 		[1] = 1232,
@@ -2370,17 +2671,20 @@ DPSMateUser = {
 		[5] = "Swifty",
 		[8] = 0,
 	},
-	["Squaanchy"] = {
-		[1] = 1426,
+	["Dayde"] = {
+		[1] = 696,
 	},
-	["Lnsomne"] = {
-		[1] = 1425,
+	["Dworm"] = {
+		[1] = 1487,
 	},
 	["Venture Co. Supervisor"] = {
 		[1] = 254,
 	},
-	["Guchin"] = {
-		[1] = 1424,
+	["Jamburglarr"] = {
+		[1] = 587,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Papadok"] = {
 		[1] = 683,
@@ -2391,17 +2695,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Didthedab"] = {
-		[1] = 982,
+	["Melondeath"] = {
+		[1] = 1402,
 	},
-	["Besteri"] = {
-		[1] = 1417,
+	["Troost"] = {
+		[1] = 999,
 	},
-	["Sweetskill"] = {
-		[1] = 1405,
+	["Teerminaat"] = {
+		[1] = 509,
 	},
-	["Miggles"] = {
-		[1] = 448,
+	["Shamastan"] = {
+		[1] = 1479,
 	},
 	["Farbane"] = {
 		[1] = 777,
@@ -2409,17 +2713,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Ratskiin"] = {
-		[1] = 805,
+	["Uradech"] = {
+		[1] = 1520,
 	},
 	["Kodo Bull"] = {
 		[1] = 95,
 	},
-	["Employer"] = {
-		[1] = 923,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 19,
+	["Taiwong"] = {
+		[1] = 1552,
 	},
 	["Glaciattion"] = {
 		[1] = 1102,
@@ -2439,8 +2740,8 @@ DPSMateUser = {
 	["Wotshappenin"] = {
 		[1] = 847,
 	},
-	["Emdicjordi"] = {
-		[1] = 1403,
+	["Sandyk"] = {
+		[1] = 87,
 	},
 	["Shindux"] = {
 		[1] = 1162,
@@ -2454,11 +2755,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Backspire"] = {
-		[1] = 1077,
+	["Ansgarius"] = {
+		[1] = 125,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Eigrigar"] = {
-		[1] = 752,
+	["Tomdot"] = {
+		[1] = 778,
 	},
 	["Optimum"] = {
 		[1] = 236,
@@ -2466,11 +2770,11 @@ DPSMateUser = {
 	["Aggrax"] = {
 		[1] = 1157,
 	},
-	["Skanktank"] = {
-		[1] = 1375,
+	["Heligfan"] = {
+		[1] = 1454,
 	},
-	["Lupowulf"] = {
-		[1] = 1315,
+	["Zoggles"] = {
+		[1] = 229,
 	},
 	["Oreff"] = {
 		[1] = 748,
@@ -2478,26 +2782,26 @@ DPSMateUser = {
 	["Obmorok"] = {
 		[1] = 759,
 	},
-	["Camelboi"] = {
-		[1] = 1300,
+	["Rumgrol"] = {
+		[1] = 840,
 	},
-	["Kodo Matriarch"] = {
-		[1] = 94,
+	["Underbush"] = {
+		[1] = 593,
 	},
 	["Zipba"] = {
 		[1] = 428,
 	},
-	["Applesock"] = {
-		[1] = 133,
-		[2] = "druid",
+	["Ggyyder"] = {
+		[1] = 1322,
+		[2] = "priest",
 		[3] = -1,
-		[8] = 13,
+		[8] = 37,
 	},
-	["Nitrobomb"] = {
-		[1] = 1326,
+	["Gurty"] = {
+		[1] = 379,
 	},
-	["Kalimdorc"] = {
-		[1] = 1342,
+	["Mutaren"] = {
+		[1] = 1492,
 	},
 	["Rompehuesos"] = {
 		[1] = 501,
@@ -2511,17 +2815,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 12,
 	},
-	["Dacatineu"] = {
-		[1] = 976,
+	["Lnsomne"] = {
+		[1] = 1425,
 	},
-	["Kavvu"] = {
-		[1] = 1339,
+	["Vedsham"] = {
+		[1] = 1542,
 	},
-	["Snagglespear"] = {
-		[1] = 39,
+	["Sunscale Screecher"] = {
+		[1] = 126,
 	},
-	["Roho"] = {
-		[1] = 1228,
+	["Marsvolta"] = {
+		[1] = 402,
 	},
 	["Thorman"] = {
 		[1] = 1444,
@@ -2529,32 +2833,32 @@ DPSMateUser = {
 	["Gazrog"] = {
 		[1] = 681,
 	},
-	["Keshala"] = {
-		[1] = 1028,
+	["Thebuu"] = {
+		[1] = 912,
 	},
-	["Hapkomuku"] = {
-		[1] = 868,
+	["Kagebunshinn"] = {
+		[1] = 29,
 	},
-	["Ojibwe"] = {
-		[1] = 1352,
+	["Daggersnhoes"] = {
+		[1] = 472,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 14,
 	},
-	["Champagnie"] = {
-		[1] = 1146,
+	["Xiaokankang"] = {
+		[1] = 1462,
 	},
-	["Warlord Krom'zar"] = {
-		[1] = 519,
+	["Kitsunae"] = {
+		[1] = 372,
 	},
 	["Nitrixi"] = {
 		[1] = 848,
 	},
-	["Abrohax"] = {
-		[1] = 1275,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 60,
+	["Ghost"] = {
+		[1] = 1073,
 	},
-	["Sharantyr"] = {
-		[1] = 138,
+	["Sunscale Lashtail"] = {
+		[1] = 638,
 	},
 	["Prezator"] = {
 		[1] = 1091,
@@ -2562,20 +2866,23 @@ DPSMateUser = {
 	["Kwari"] = {
 		[1] = 1214,
 	},
-	["Frostiez"] = {
-		[1] = 1308,
+	["Bonusrogue"] = {
+		[1] = 1082,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Beleez"] = {
-		[1] = 616,
+	["Nerevaresque"] = {
+		[1] = 230,
 	},
-	["Myme"] = {
-		[1] = 686,
+	["Mountain Cougar"] = {
+		[1] = 12,
 	},
-	["Greater Plainstrider"] = {
-		[1] = 168,
+	["Whulken"] = {
+		[1] = 864,
 	},
-	["Dlinjxui"] = {
-		[1] = 1137,
+	["Flatland Prowler"] = {
+		[1] = 239,
 	},
 	["Kragtaz"] = {
 		[1] = 629,
@@ -2586,8 +2893,8 @@ DPSMateUser = {
 	["Orptwo"] = {
 		[1] = 773,
 	},
-	["Chyks"] = {
-		[1] = 620,
+	["Uapp"] = {
+		[1] = 1311,
 	},
 	["Duroj"] = {
 		[1] = 102,
@@ -2601,8 +2908,8 @@ DPSMateUser = {
 	["Bookboi"] = {
 		[1] = 604,
 	},
-	["Zeuqma"] = {
-		[1] = 881,
+	["Crade"] = {
+		[1] = 1362,
 	},
 	["Zarda"] = {
 		[1] = 935,
@@ -2610,8 +2917,8 @@ DPSMateUser = {
 	["Revgr"] = {
 		[1] = 1497,
 	},
-	["Kolunja"] = {
-		[1] = 1061,
+	["Storkan"] = {
+		[1] = 1150,
 	},
 	["Venture Co. Hireling"] = {
 		[1] = 52,
@@ -2625,38 +2932,41 @@ DPSMateUser = {
 	["Nekotsume"] = {
 		[1] = 484,
 	},
-	["Devish"] = {
-		[1] = 1399,
+	["Xenneth"] = {
+		[1] = 1503,
 	},
-	["Pazzet"] = {
-		[1] = 1126,
+	["Bambamn"] = {
+		[1] = 572,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 42,
 	},
-	["Deadroses"] = {
-		[1] = 960,
+	["Dedwun"] = {
+		[1] = 1045,
 	},
 	["Innkeeper Boorand Plainswind"] = {
 		[1] = 190,
 	},
-	["Raenis"] = {
-		[1] = 981,
+	["Bronsik"] = {
+		[1] = 445,
 	},
 	["Vdugu"] = {
 		[1] = 870,
 	},
-	["Arriganda"] = {
-		[1] = 1248,
+	["Voltaa"] = {
+		[1] = 1159,
 	},
-	["Waterpeddler"] = {
-		[1] = 897,
+	["Zxt"] = {
+		[1] = 1066,
 	},
 	["Haladraxer"] = {
 		[1] = 443,
 	},
-	["Obkakiy"] = {
-		[1] = 191,
+	["Porkchopxprs"] = {
+		[1] = 948,
 	},
-	["Breduq"] = {
-		[1] = 333,
+	["Thisismylock"] = {
+		[1] = 1276,
 	},
 	["Xost"] = {
 		[1] = 1257,
@@ -2670,11 +2980,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 7,
 	},
-	["Samthara"] = {
-		[1] = 1359,
+	["Whizkey"] = {
+		[1] = 1047,
 	},
-	["Hunglong"] = {
-		[1] = 394,
+	["Korthex"] = {
+		[1] = 38,
 	},
 	["Aenore"] = {
 		[1] = 23,
@@ -2685,14 +2995,11 @@ DPSMateUser = {
 	["Ojbara"] = {
 		[1] = 41,
 	},
-	["Vixor"] = {
-		[1] = 730,
+	["Hunglong"] = {
+		[1] = 394,
 	},
-	["Skeethunt"] = {
-		[1] = 562,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 8,
+	["Torama"] = {
+		[1] = 1139,
 	},
 	["Cosbyswife"] = {
 		[1] = 814,
@@ -2709,8 +3016,8 @@ DPSMateUser = {
 	["Hornmann"] = {
 		[1] = 61,
 	},
-	["Tuwunda"] = {
-		[1] = 262,
+	["Mairg"] = {
+		[1] = 917,
 	},
 	["Zharga"] = {
 		[1] = 104,
@@ -2721,11 +3028,14 @@ DPSMateUser = {
 	["Dropzone"] = {
 		[1] = 1235,
 	},
-	["Zevic"] = {
-		[1] = 954,
+	["Suunder"] = {
+		[1] = 1121,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 54,
 	},
-	["Thegor"] = {
-		[1] = 27,
+	["Keshala"] = {
+		[1] = 1028,
 	},
 	["Rokomis"] = {
 		[1] = 774,
@@ -2733,32 +3043,26 @@ DPSMateUser = {
 	["Raekwan"] = {
 		[1] = 1373,
 	},
-	["Psychiatre"] = {
-		[1] = 1078,
+	["Horde Axe Thrower"] = {
+		[1] = 155,
 	},
-	["Morin Cloudstalker"] = {
-		[1] = 65,
+	["Alpenfoehn"] = {
+		[1] = 1410,
 	},
 	["Vieillebite"] = {
 		[1] = 592,
 	},
-	["Smegmamamma"] = {
-		[1] = 349,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 12,
+	["Gungster"] = {
+		[1] = 1083,
 	},
-	["Dustwind Harpy"] = {
-		[1] = 208,
-	},
-	["Jamburglarr"] = {
-		[1] = 587,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 60,
+	["Armored Scorpid"] = {
+		[1] = 423,
 	},
 	["Jhomkresh"] = {
 		[1] = 542,
+	},
+	["Vilduhadeng"] = {
+		[1] = 1312,
 	},
 	["Hotdogbag"] = {
 		[1] = 132,
@@ -2769,65 +3073,68 @@ DPSMateUser = {
 	["Priestbob"] = {
 		[1] = 1389,
 	},
-	["Ebetnormalno"] = {
-		[1] = 363,
+	["Flooderz"] = {
+		[1] = 565,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 8,
 	},
-	["Brewerofboom"] = {
-		[1] = 894,
+	["Perkunos"] = {
+		[1] = 203,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 12,
 	},
-	["Zadika"] = {
-		[1] = 619,
+	["Myme"] = {
+		[1] = 686,
 	},
 	["Ornery Plainstrider"] = {
 		[1] = 358,
 	},
-	["Ebensee"] = {
-		[1] = 1260,
+	["Gerdul"] = {
+		[1] = 609,
 	},
 	["Horde"] = {
 		[1] = 157,
 	},
-	["Propped"] = {
-		[1] = 995,
+	["Crenetter"] = {
+		[1] = 1374,
 	},
-	["Killer"] = {
-		[1] = 889,
+	["Shamolet"] = {
+		[1] = 1468,
 	},
-	["Matrenna"] = {
-		[1] = 504,
+	["Aparna"] = {
+		[1] = 1498,
 	},
-	["Voltaa"] = {
-		[1] = 1159,
+	["Bloopert"] = {
+		[1] = 878,
 	},
 	["Izishamaizi"] = {
 		[1] = 661,
 	},
-	["Oodji"] = {
-		[1] = 404,
+	["Mcmike"] = {
+		[1] = 1446,
 	},
-	["Underbush"] = {
-		[1] = 593,
+	["Zylord"] = {
+		[1] = 399,
 	},
 	["Ressing"] = {
 		[1] = 610,
 	},
-	["Vonwarlock"] = {
-		[1] = 112,
+	["Shamdonn"] = {
+		[1] = 785,
 	},
 	["Bristleback Hunter"] = {
 		[1] = 116,
 	},
-	["Ggyyder"] = {
-		[1] = 1322,
-		[2] = "priest",
-		[3] = -1,
-		[8] = 37,
+	["Uglyazzfoo"] = {
+		[1] = 614,
 	},
-	["Relakras"] = {
-		[1] = 734,
+	["Juderina"] = {
+		[1] = 1320,
 	},
-	["Foozdood"] = {
-		[1] = 601,
+	["Didthedab"] = {
+		[1] = 982,
 	},
 	["Coldknife"] = {
 		[1] = 885,
@@ -2844,8 +3151,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Jemmorah"] = {
-		[1] = 662,
+	["Zshot"] = {
+		[1] = 1327,
 	},
 	["Ziggycuff"] = {
 		[1] = 1062,
@@ -2871,8 +3178,8 @@ DPSMateUser = {
 	["Edgari"] = {
 		[1] = 1325,
 	},
-	["Gittyy"] = {
-		[1] = 1313,
+	["Sabrinex"] = {
+		[1] = 359,
 	},
 	["Occrano"] = {
 		[1] = 134,
@@ -2880,20 +3187,27 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 30,
 	},
-	["Bruteforcer"] = {
-		[1] = 1379,
+	["Atulldarak"] = {
+		[1] = 1413,
 	},
-	["Moorkilar"] = {
-		[1] = 910,
+	["Birb"] = {
+		[1] = 1324,
 	},
-	["Fullfrys"] = {
-		[1] = 743,
+	["Graumoc"] = {
+		[1] = 441,
+		[2] = "rogue",
+		[3] = -1,
+		[4] = false,
+		[8] = 6,
 	},
-	["Reapy"] = {
-		[1] = 1160,
+	["Youshallnot"] = {
+		[1] = 176,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 10,
 	},
-	["Deafth"] = {
-		[1] = 582,
+	["Bulmon"] = {
+		[1] = 1382,
 	},
 	["Mahgay"] = {
 		[1] = 1048,
@@ -2901,8 +3215,8 @@ DPSMateUser = {
 	["Classicbrb"] = {
 		[1] = 170,
 	},
-	["Spillmyheal"] = {
-		[1] = 1151,
+	["Gugumko"] = {
+		[1] = 1557,
 	},
 	["Pneumatika"] = {
 		[1] = 991,
@@ -2913,8 +3227,8 @@ DPSMateUser = {
 	["Obebowenuy"] = {
 		[1] = 438,
 	},
-	["Dreadmaw Crocolisk"] = {
-		[1] = 420,
+	["Samthara"] = {
+		[1] = 1359,
 	},
 	["Peperonii"] = {
 		[1] = 288,
@@ -2925,32 +3239,35 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Unbehagen"] = {
-		[1] = 833,
+	["Heyhowareya"] = {
+		[1] = 1484,
 	},
-	["Agbita"] = {
-		[1] = 1230,
+	["Druidyy"] = {
+		[1] = 1472,
 	},
-	["Unlocky"] = {
-		[1] = 1105,
+	["Moistrag"] = {
+		[1] = 1262,
 	},
-	["Malzahr"] = {
-		[1] = 1215,
+	["Senhaku"] = {
+		[1] = 98,
 	},
-	["Gorkrok"] = {
-		[1] = 205,
+	["Lagerther"] = {
+		[1] = 690,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Finwick"] = {
 		[1] = 555,
 	},
-	["Troost"] = {
-		[1] = 999,
+	["Theraphosida"] = {
+		[1] = 810,
 	},
-	["Feva"] = {
-		[1] = 945,
+	["Zync"] = {
+		[1] = 219,
 	},
-	["Xxvideos"] = {
-		[1] = 368,
+	["Agbita"] = {
+		[1] = 1230,
 	},
 	["Skizzler"] = {
 		[1] = 769,
@@ -2961,8 +3278,8 @@ DPSMateUser = {
 	["Zavertok"] = {
 		[1] = 1280,
 	},
-	["Chillsen"] = {
-		[1] = 655,
+	["Hezrul Bloodmark"] = {
+		[1] = 631,
 	},
 	["Gerasimoff"] = {
 		[1] = 1445,
@@ -2970,17 +3287,17 @@ DPSMateUser = {
 	["Ayur"] = {
 		[1] = 867,
 	},
-	["Skuggah"] = {
-		[1] = 1378,
+	["Unlocky"] = {
+		[1] = 1105,
 	},
 	["Bovinerush"] = {
 		[1] = 280,
 	},
-	["Kitsunae"] = {
-		[1] = 372,
+	["Ezdunks"] = {
+		[1] = 249,
 	},
-	["Fan"] = {
-		[1] = 825,
+	["Pjatla"] = {
+		[1] = 680,
 	},
 	["Zugfang"] = {
 		[1] = 111,
@@ -2994,8 +3311,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Palemane Skinner"] = {
-		[1] = 44,
+	["Omonox"] = {
+		[1] = 877,
 	},
 	["Runikon"] = {
 		[1] = 350,
@@ -3006,79 +3323,73 @@ DPSMateUser = {
 	["Kononn"] = {
 		[1] = 383,
 	},
-	["Razormane Scout"] = {
-		[1] = 427,
+	["Betonomehal"] = {
+		[1] = 1287,
 	},
-	["Pofflerini"] = {
-		[1] = 883,
+	["Kowmapuk"] = {
+		[1] = 376,
 	},
 	["Grassman"] = {
 		[1] = 1120,
 	},
-	["Nednerb"] = {
-		[1] = 1085,
+	["Festivalgnu"] = {
+		[1] = 1090,
 	},
-	["Coppertop"] = {
-		[1] = 451,
+	["Leagolas"] = {
+		[1] = 722,
 	},
 	["Kolkar Invader"] = {
 		[1] = 156,
 	},
-	["Crade"] = {
-		[1] = 1362,
+	["Tatotem"] = {
+		[1] = 933,
 	},
 	["Chronic"] = {
 		[1] = 816,
 	},
-	["Munamiess"] = {
-		[1] = 408,
+	["Thingers"] = {
+		[1] = 1353,
 	},
 	["Olken"] = {
 		[1] = 901,
 	},
-	["Azxsc"] = {
-		[1] = 1008,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 1,
+	["Propped"] = {
+		[1] = 995,
 	},
-	["Nincampoop"] = {
-		[1] = 1279,
+	["Matedin"] = {
+		[1] = 1250,
 	},
 	["Orkonwork"] = {
 		[1] = 955,
 	},
-	["Ezdunks"] = {
-		[1] = 249,
+	["Deathmaga"] = {
+		[1] = 1283,
 	},
-	["Oruspu"] = {
-		[1] = 613,
+	["Urchun"] = {
+		[1] = 1172,
 	},
-	["Vilduhadeng"] = {
-		[1] = 1312,
+	["Enjoye"] = {
+		[1] = 755,
 	},
 	["Amalias"] = {
 		[1] = 674,
 	},
-	["Horntrick"] = {
-		[1] = 261,
+	["Morin"] = {
+		[1] = 81,
 	},
 	["Wolf"] = {
 		[1] = 185,
 		[4] = true,
 		[6] = 1,
 	},
-	["Phoenix"] = {
-		[1] = 398,
+	["Pouki"] = {
+		[1] = 1495,
 	},
-	["Zshot"] = {
-		[1] = 1327,
+	["Jemmorah"] = {
+		[1] = 662,
 	},
-	["Perkunos"] = {
-		[1] = 203,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 12,
+	["Nednerb"] = {
+		[1] = 1085,
 	},
 	["Zangkath"] = {
 		[1] = 403,
@@ -3086,29 +3397,29 @@ DPSMateUser = {
 	["Barrens Giraffe"] = {
 		[1] = 351,
 	},
-	["Zornik"] = {
-		[1] = 337,
+	["Stargatefan"] = {
+		[1] = 783,
 	},
-	["Tieru"] = {
-		[1] = 218,
+	["Canteen"] = {
+		[1] = 1522,
 	},
 	["Stompinghoof"] = {
 		[1] = 794,
 	},
-	["Mairg"] = {
-		[1] = 917,
+	["Reapy"] = {
+		[1] = 1160,
 	},
-	["Bristleback Shaman"] = {
-		[1] = 19,
+	["kentah"] = {
+		[1] = 911,
 	},
-	["Dayde"] = {
-		[1] = 696,
+	["Makuch"] = {
+		[1] = 1237,
 	},
-	["Yiggina"] = {
-		[1] = 1174,
+	["Beastshaman"] = {
+		[1] = 639,
 	},
-	["Urchun"] = {
-		[1] = 1172,
+	["Sambow"] = {
+		[1] = 979,
 	},
 	["Hunterhanne"] = {
 		[1] = 454,
@@ -3119,59 +3430,50 @@ DPSMateUser = {
 	["Packsieh"] = {
 		[1] = 699,
 	},
-	["Pineachattes"] = {
-		[1] = 415,
+	["Carachyn"] = {
+		[1] = 328,
 	},
-	["Teerminaat"] = {
-		[1] = 509,
+	["Skuggah"] = {
+		[1] = 1378,
 	},
-	["Alpenfoehn"] = {
-		[1] = 1410,
+	["Guanyubattle"] = {
+		[1] = 400,
 	},
-	["Vikaasa"] = {
-		[1] = 993,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 20,
+	["Jubeyi"] = {
+		[1] = 457,
 	},
 	["Goldhorde"] = {
 		[1] = 499,
 	},
-	["Sandyk"] = {
-		[1] = 87,
+	["Psychiatre"] = {
+		[1] = 1078,
 	},
 	["Morrigahn"] = {
 		[1] = 1000,
 	},
-	["Flooderz"] = {
-		[1] = 565,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 8,
+	["Owl"] = {
+		[1] = 1558,
 	},
 	["Yarij"] = {
 		[1] = 35,
 	},
-	["Crenetter"] = {
-		[1] = 1374,
+	["Gustavoa"] = {
+		[1] = 1506,
 	},
-	["Sloworc"] = {
-		[1] = 153,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 11,
+	["Omgjj"] = {
+		[1] = 1286,
 	},
 	["Sleepyshaman"] = {
 		[1] = 896,
 	},
-	["Thingers"] = {
-		[1] = 1353,
+	["Slywoopin"] = {
+		[1] = 514,
 	},
-	["Rumgrol"] = {
-		[1] = 840,
+	["Atahla"] = {
+		[1] = 1025,
 	},
-	["Onieromancer"] = {
-		[1] = 860,
+	["BatBob"] = {
+		[1] = 924,
 	},
 	["Cottontail Rabbit"] = {
 		[1] = 725,
@@ -3179,47 +3481,47 @@ DPSMateUser = {
 	["Egtz"] = {
 		[1] = 977,
 	},
-	["Armored Scorpid"] = {
-		[1] = 423,
+	["Badonkadonk"] = {
+		[1] = 42,
 	},
 	["Gorolts"] = {
 		[1] = 266,
 	},
-	["Gurty"] = {
-		[1] = 379,
+	["Fullfrys"] = {
+		[1] = 743,
 	},
-	["Thebuu"] = {
-		[1] = 912,
+	["Vmag"] = {
+		[1] = 201,
 	},
-	["Swattie"] = {
-		[1] = 515,
+	["Omgdmg"] = {
+		[1] = 1016,
 	},
 	["Fein"] = {
 		[1] = 1180,
 	},
-	["Zoggles"] = {
-		[1] = 229,
+	["Dreft"] = {
+		[1] = 1285,
 	},
-	["Kagebunshinn"] = {
-		[1] = 29,
+	["Horde Defender"] = {
+		[1] = 159,
 	},
 	["Sarkonis"] = {
 		[1] = 949,
 	},
-	["Wickedsticks"] = {
-		[1] = 596,
+	["Aeha"] = {
+		[1] = 1109,
 	},
-	["Searing Totem"] = {
-		[1] = 130,
+	["Nubai"] = {
+		[1] = 473,
 	},
 	["Jorgitokun"] = {
 		[1] = 551,
 	},
-	["Jeromy"] = {
-		[1] = 770,
+	["Virtumx"] = {
+		[1] = 267,
 	},
-	["Marsvolta"] = {
-		[1] = 402,
+	["Macraw"] = {
+		[1] = 669,
 	},
 	["Fire"] = {
 		[1] = 161,
@@ -3227,41 +3529,44 @@ DPSMateUser = {
 	["Cafy"] = {
 		[1] = 1018,
 	},
-	["Estt"] = {
-		[1] = 325,
-		[2] = "priest",
+	["Azxsc"] = {
+		[1] = 1008,
+		[2] = "warlock",
 		[3] = -1,
-		[8] = 25,
+		[8] = 1,
 	},
 	["Babe"] = {
 		[1] = 1153,
 	},
-	["Missuspieces"] = {
-		[1] = 1142,
+	["Memnone"] = {
+		[1] = 1439,
 	},
 	["Profe"] = {
 		[1] = 458,
 	},
-	["Ghost"] = {
-		[1] = 1073,
+	["Ensoph"] = {
+		[1] = 1303,
 	},
 	["Fetoful"] = {
 		[1] = 478,
 	},
-	["Bronsik"] = {
-		[1] = 445,
+	["Skittlzee"] = {
+		[1] = 1023,
 	},
-	["Bulmon"] = {
-		[1] = 1382,
+	["Squaredroot"] = {
+		[1] = 109,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 13,
 	},
-	["Whulken"] = {
-		[1] = 864,
+	["Bjorhny"] = {
+		[1] = 701,
 	},
-	["Flatland Prowler"] = {
-		[1] = 239,
+	["Afatchef"] = {
+		[1] = 634,
 	},
-	["Uapp"] = {
-		[1] = 1311,
+	["Crougex"] = {
+		[1] = 1222,
 	},
 	["Chronaz"] = {
 		[1] = 850,
@@ -3269,17 +3574,14 @@ DPSMateUser = {
 	["Dirtylake"] = {
 		[1] = 1465,
 	},
-	["Sabrinex"] = {
-		[1] = 359,
+	["Koktskinke"] = {
+		[1] = 1269,
 	},
 	["Buggal"] = {
 		[1] = 1480,
 	},
-	["Errorbear"] = {
-		[1] = 568,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 18,
+	["Razormane Thornweaver"] = {
+		[1] = 471,
 	},
 	["Mysttica"] = {
 		[1] = 223,
@@ -3296,29 +3598,32 @@ DPSMateUser = {
 	["Orcbandit"] = {
 		[1] = 1298,
 	},
-	["Dedwun"] = {
-		[1] = 1045,
+	["Spierkan"] = {
+		[1] = 339,
 	},
 	["Hazbeen"] = {
 		[1] = 855,
 	},
-	["Ayeterie"] = {
-		[1] = 675,
+	["Jahgreens"] = {
+		[1] = 1049,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 40,
 	},
-	["Melondeath"] = {
-		[1] = 1402,
+	["Snaskarn"] = {
+		[1] = 1175,
 	},
 	["Neptic"] = {
 		[1] = 673,
 	},
-	["Manbirdcow"] = {
-		[1] = 1079,
+	["Pylletest"] = {
+		[1] = 289,
 	},
 	["Espinoza"] = {
 		[1] = 389,
 	},
-	["Atulldarak"] = {
-		[1] = 1413,
+	["Coppertop"] = {
+		[1] = 451,
 	},
 	["Misq"] = {
 		[1] = 758,
@@ -3326,32 +3631,38 @@ DPSMateUser = {
 	["Wuk"] = {
 		[1] = 1411,
 	},
-	["Jubtik"] = {
-		[1] = 1187,
+	["Avelox"] = {
+		[1] = 738,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
-	["Stargatefan"] = {
-		[1] = 783,
+	["Pangamanium"] = {
+		[1] = 248,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 17,
 	},
-	["Senhaku"] = {
-		[1] = 98,
+	["Sukzuk"] = {
+		[1] = 1177,
 	},
-	["Virtumx"] = {
-		[1] = 267,
+	["Kunchy"] = {
+		[1] = 1088,
 	},
-	["Zync"] = {
-		[1] = 219,
+	["Horntrick"] = {
+		[1] = 261,
 	},
-	["Shtsandwich"] = {
-		[1] = 296,
+	["Oruspu"] = {
+		[1] = 613,
 	},
-	["Hezrul Bloodmark"] = {
-		[1] = 631,
+	["Bigninjafan"] = {
+		[1] = 1464,
 	},
 	["Missdiane"] = {
 		[1] = 1419,
 	},
-	["Horde Axe Thrower"] = {
-		[1] = 155,
+	["Rasama"] = {
+		[1] = 1041,
 	},
 	["Dezdax"] = {
 		[1] = 820,
@@ -3368,25 +3679,25 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 19,
 	},
-	["Kyearazv"] = {
-		[1] = 269,
+	["Jumpy"] = {
+		[1] = 1034,
 	},
-	["Stabocrabo"] = {
-		[1] = 1110,
+	["Voodoo Troll"] = {
+		[1] = 439,
 	},
 	["Goodwife"] = {
 		[1] = 1095,
 	},
-	["Festivalgnu"] = {
-		[1] = 1090,
+	["Boodlight"] = {
+		[1] = 578,
 	},
 	["Scorpid"] = {
 		[1] = 459,
 		[4] = true,
 		[6] = 1,
 	},
-	["Gerdul"] = {
-		[1] = 609,
+	["Machuelo"] = {
+		[1] = 714,
 	},
 	["Devouring Ectoplasm"] = {
 		[1] = 621,
@@ -3394,11 +3705,11 @@ DPSMateUser = {
 	["Southlaker"] = {
 		[1] = 361,
 	},
-	["Matedin"] = {
-		[1] = 1250,
+	["Longtroll"] = {
+		[1] = 796,
 	},
-	["Deathmaga"] = {
-		[1] = 1283,
+	["Bannterr"] = {
+		[1] = 594,
 	},
 	["Omgcrayons"] = {
 		[1] = 327,
@@ -3406,8 +3717,8 @@ DPSMateUser = {
 	["Wanabuyaheal"] = {
 		[1] = 715,
 	},
-	["Enjoye"] = {
-		[1] = 755,
+	["Dieseppe"] = {
+		[1] = 852,
 	},
 	["Yingzi"] = {
 		[1] = 793,
@@ -3415,11 +3726,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Morin"] = {
-		[1] = 81,
+	["Luskenp"] = {
+		[1] = 780,
 	},
-	["Squalle"] = {
-		[1] = 841,
+	["Ivan"] = {
+		[1] = 1523,
 	},
 	["Haybo"] = {
 		[1] = 961,
@@ -3427,26 +3738,26 @@ DPSMateUser = {
 	["Dihaza"] = {
 		[1] = 245,
 	},
-	["Bonusrogue"] = {
-		[1] = 1082,
-		[2] = "rogue",
+	["Ninnoh"] = {
+		[1] = 197,
+	},
+	["Shinnuu"] = {
+		[1] = 1194,
+	},
+	["Karlzul"] = {
+		[1] = 818,
+	},
+	["Podiw"] = {
+		[1] = 127,
+	},
+	["Pineachattes"] = {
+		[1] = 415,
+	},
+	["Moyojin"] = {
+		[1] = 580,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 60,
-	},
-	["Zueside"] = {
-		[1] = 418,
-	},
-	["Warlord"] = {
-		[1] = 521,
-	},
-	["Makuch"] = {
-		[1] = 1237,
-	},
-	["Beastshaman"] = {
-		[1] = 639,
-	},
-	["Grubbler"] = {
-		[1] = 723,
+		[8] = 45,
 	},
 	["Halock"] = {
 		[1] = 866,
@@ -3469,23 +3780,29 @@ DPSMateUser = {
 	["Khaldrogoh"] = {
 		[1] = 200,
 	},
-	["Dcmp"] = {
-		[1] = 849,
+	["Senlayan"] = {
+		[1] = 283,
 	},
-	["Carachyn"] = {
-		[1] = 328,
+	["Estt"] = {
+		[1] = 325,
+		[2] = "priest",
+		[3] = -1,
+		[8] = 25,
 	},
-	["Littlerich"] = {
-		[1] = 149,
+	["Draien"] = {
+		[1] = 851,
 	},
-	["Jubeyi"] = {
-		[1] = 457,
+	["Tankdru"] = {
+		[1] = 1433,
 	},
-	["Birb"] = {
-		[1] = 1324,
+	["Phucmai"] = {
+		[1] = 741,
 	},
-	["Pukken"] = {
-		[1] = 1124,
+	["Mistleote"] = {
+		[1] = 1014,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Skora"] = {
 		[1] = 1101,
@@ -3493,8 +3810,12 @@ DPSMateUser = {
 	["Wahaa"] = {
 		[1] = 760,
 	},
-	["Omgjj"] = {
-		[1] = 1286,
+	["Megamom"] = {
+		[1] = 513,
+		[2] = "priest",
+		[3] = -1,
+		[4] = false,
+		[8] = 17,
 	},
 	["Thouth"] = {
 		[1] = 623,
@@ -3505,23 +3826,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 24,
 	},
-	["Youshallnot"] = {
-		[1] = 176,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 10,
+	["Krabolok"] = {
+		[1] = 970,
 	},
-	["Senlayan"] = {
-		[1] = 283,
+	["Ophilyna"] = {
+		[1] = 684,
 	},
 	["Deathjester"] = {
 		[1] = 1058,
 	},
-	["Exgrif"] = {
-		[1] = 60,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 6,
+	["Vooie"] = {
+		[1] = 1290,
 	},
 	["Tuskii"] = {
 		[1] = 1369,
@@ -3529,17 +3844,17 @@ DPSMateUser = {
 	["Drdukies"] = {
 		[1] = 1229,
 	},
-	["Benpeor"] = {
-		[1] = 347,
+	["Saroxan"] = {
+		[1] = 1266,
 	},
-	["Vmag"] = {
-		[1] = 201,
+	["Dig Rat"] = {
+		[1] = 1012,
 	},
-	["Omgdmg"] = {
-		[1] = 1016,
+	["Thenorus"] = {
+		[1] = 78,
 	},
-	["Vooie"] = {
-		[1] = 1290,
+	["Shadowbinder"] = {
+		[1] = 583,
 	},
 	["Shanghan"] = {
 		[1] = 1015,
@@ -3550,32 +3865,32 @@ DPSMateUser = {
 	["Rozman"] = {
 		[1] = 1361,
 	},
-	["Dig Rat"] = {
-		[1] = 1012,
+	["Gorrm"] = {
+		[1] = 142,
 	},
-	["Ghraul"] = {
-		[1] = 1179,
+	["Tangthak"] = {
+		[1] = 508,
 	},
 	["Posni"] = {
 		[1] = 332,
 	},
-	["Phucmai"] = {
-		[1] = 741,
+	["Beefsticks"] = {
+		[1] = 951,
 	},
-	["Valroky"] = {
-		[1] = 742,
+	["Jeqois"] = {
+		[1] = 302,
 	},
 	["Gamblemaster"] = {
 		[1] = 429,
 	},
-	["Lanzador"] = {
-		[1] = 1031,
-	},
-	["Zdravitov"] = {
-		[1] = 82,
+	["Gronack"] = {
+		[1] = 695,
 		[2] = "druid",
 		[3] = -1,
-		[8] = 5,
+		[8] = 30,
+	},
+	["Bruhmius"] = {
+		[1] = 1338,
 	},
 	["Kapoll"] = {
 		[1] = 49,
@@ -3584,107 +3899,113 @@ DPSMateUser = {
 		[4] = false,
 		[8] = 7,
 	},
-	["Ninnoh"] = {
-		[1] = 197,
+	["Chipsour"] = {
+		[1] = 406,
 	},
-	["Vik"] = {
-		[1] = 1414,
+	["Durothas"] = {
+		[1] = 396,
 	},
-	["Skittlzee"] = {
-		[1] = 1023,
+	["Dcmp"] = {
+		[1] = 849,
 	},
 	["Nexplosion"] = {
 		[1] = 1346,
 	},
-	["Squaredroot"] = {
-		[1] = 109,
-		[2] = "mage",
+	["Purehoof"] = {
+		[1] = 506,
+	},
+	["Tearack"] = {
+		[1] = 892,
+	},
+	["Lost Barrens Kodo"] = {
+		[1] = 346,
+	},
+	["Cat"] = {
+		[1] = 192,
+		[4] = true,
+		[6] = 1,
+	},
+	["Littlerich"] = {
+		[1] = 149,
+	},
+	["Sulan"] = {
+		[1] = 740,
+	},
+	["Zqqf"] = {
+		[1] = 393,
+		[2] = "druid",
 		[3] = -1,
-		[8] = 13,
-	},
-	["Bjorhny"] = {
-		[1] = 701,
-	},
-	["Afatchef"] = {
-		[1] = 634,
-	},
-	["Stonard Hunter"] = {
-		[1] = 645,
-	},
-	["Crougex"] = {
-		[1] = 1222,
-	},
-	["Koktskinke"] = {
-		[1] = 1269,
-	},
-	["Razormane Thornweaver"] = {
-		[1] = 471,
-	},
-	["Felmy"] = {
-		[1] = 1358,
-	},
-	["Jahgreens"] = {
-		[1] = 1049,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 40,
+		[8] = 20,
 	},
 	["Telekines"] = {
 		[1] = 994,
 	},
-	["Pylletest"] = {
-		[1] = 289,
+	["Drozdiara"] = {
+		[1] = 32,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 7,
 	},
-	["Viserol"] = {
-		[1] = 1351,
+	["Grubbler"] = {
+		[1] = 723,
 	},
-	["Avelox"] = {
-		[1] = 738,
-		[2] = "warlock",
+	["Pantaloncios"] = {
+		[1] = 1536,
+	},
+	["Lokazul"] = {
+		[1] = 124,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 15,
+	},
+	["Valroky"] = {
+		[1] = 742,
+	},
+	["Freshestbaby"] = {
+		[1] = 721,
+	},
+	["Quelzera"] = {
+		[1] = 1545,
+		[2] = "shaman",
 		[3] = -1,
 		[8] = 60,
 	},
-	["Pangamanium"] = {
-		[1] = 248,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 17,
+	["Krintor"] = {
+		[1] = 502,
 	},
-	["Tkix"] = {
-		[1] = 590,
-	},
-	["Sukzuk"] = {
-		[1] = 1177,
-	},
-	["Kunchy"] = {
-		[1] = 1088,
+	["Stdemons"] = {
+		[1] = 1502,
 	},
 	["Prairie Wolf Alpha"] = {
 		[1] = 108,
 	},
-	["Sarmidius"] = {
-		[1] = 959,
+	["Ohtanko"] = {
+		[1] = 598,
 	},
 	["Crazybologne"] = {
 		[1] = 172,
 	},
-	["Rokkie"] = {
-		[1] = 1191,
+	["Thorpe"] = {
+		[1] = 1318,
 	},
-	["Rasama"] = {
-		[1] = 1041,
+	["Adder"] = {
+		[1] = 490,
 	},
 	["Kospy"] = {
 		[1] = 1010,
 	},
-	["Jumpy"] = {
-		[1] = 1034,
+	["Lanzador"] = {
+		[1] = 1031,
 	},
-	["Boodlight"] = {
-		[1] = 578,
+	["Ibnar"] = {
+		[1] = 571,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 15,
 	},
-	["kentah"] = {
-		[1] = 911,
+	["Tubesteaks"] = {
+		[1] = 1204,
 	},
 	["Tamagara"] = {
 		[1] = 1199,
@@ -3695,26 +4016,26 @@ DPSMateUser = {
 	["Shuaibaba"] = {
 		[1] = 603,
 	},
-	["Longtroll"] = {
-		[1] = 796,
+	["Pnespump"] = {
+		[1] = 1140,
 	},
-	["Bannterr"] = {
-		[1] = 594,
+	["Bolwebnik"] = {
+		[1] = 237,
 	},
-	["Zqqf"] = {
-		[1] = 393,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 20,
+	["Goobohunter"] = {
+		[1] = 531,
 	},
 	["Exzo"] = {
 		[1] = 143,
 	},
-	["Mcpipp"] = {
-		[1] = 1104,
+	["Stonard Hunter"] = {
+		[1] = 645,
 	},
-	["Weegee"] = {
-		[1] = 1207,
+	["Bestbargains"] = {
+		[1] = 1154,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Necroxis"] = {
 		[1] = 1163,
@@ -3728,14 +4049,14 @@ DPSMateUser = {
 	["Cacaha"] = {
 		[1] = 799,
 	},
-	["Barak Kodobane"] = {
-		[1] = 150,
+	["Zoneh"] = {
+		[1] = 761,
 	},
-	["Luskenp"] = {
-		[1] = 780,
+	["Cobbleepot"] = {
+		[1] = 1490,
 	},
-	["Kolkar Stormseer"] = {
-		[1] = 154,
+	["Ferghas"] = {
+		[1] = 1050,
 	},
 	["Kerkero"] = {
 		[1] = 650,
@@ -3743,8 +4064,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 14,
 	},
-	["Jeringhak"] = {
-		[1] = 819,
+	["Tazdyngo"] = {
+		[1] = 1068,
 	},
 	["Fabbybill"] = {
 		[1] = 233,
@@ -3752,63 +4073,53 @@ DPSMateUser = {
 	["Floodbar"] = {
 		[1] = 1024,
 	},
-	["Guanyubattle"] = {
-		[1] = 400,
+	["Kohtas"] = {
+		[1] = 1218,
 	},
-	["Thorpe"] = {
-		[1] = 1318,
+	["Stachu"] = {
+		[1] = 1365,
 	},
-	["Sargarn"] = {
-		[1] = 221,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 10,
+	["Uzurx"] = {
+		[1] = 510,
 	},
 	["Draughir"] = {
 		[1] = 577,
 	},
-	["Shinnuu"] = {
-		[1] = 1194,
+	["Ultranikos"] = {
+		[1] = 1455,
 	},
-	["Soondie"] = {
-		[1] = 713,
+	["Eragasx"] = {
+		[1] = 677,
 	},
-	["Podiw"] = {
-		[1] = 127,
+	["Bristleback Water Seeker"] = {
+		[1] = 113,
 	},
-	["Kulautor"] = {
-		[1] = 397,
+	["Gromxigar"] = {
+		[1] = 1208,
 	},
-	["Moyojin"] = {
-		[1] = 580,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 45,
-	},
-	["BatBob"] = {
-		[1] = 924,
-	},
-	["Draien"] = {
-		[1] = 851,
-	},
-	["Farhavn"] = {
-		[1] = 6,
+	["Testeruslus"] = {
+		[1] = 1328,
 		[2] = "warrior",
 		[3] = -1,
-		[8] = 6,
+		[8] = 60,
 	},
-	["Osiheals"] = {
-		[1] = 1166,
+	["Earlgrei"] = {
+		[1] = 25,
+	},
+	["Irokezx"] = {
+		[1] = 1173,
+	},
+	["Rinkler"] = {
+		[1] = 751,
+	},
+	["Weegee"] = {
+		[1] = 1207,
 	},
 	["Hamanur"] = {
 		[1] = 1272,
 	},
-	["Megamom"] = {
-		[1] = 513,
-		[2] = "priest",
-		[3] = -1,
-		[4] = false,
-		[8] = 17,
+	["Adzeery"] = {
+		[1] = 1064,
 	},
 	["Olacrush"] = {
 		[1] = 7,
@@ -3819,23 +4130,26 @@ DPSMateUser = {
 	["Scrapicoco"] = {
 		[1] = 298,
 	},
-	["Ophilyna"] = {
-		[1] = 684,
+	["Kolkar Stormseer"] = {
+		[1] = 154,
 	},
-	["Dreft"] = {
-		[1] = 1285,
+	["Freth"] = {
+		[1] = 1063,
 	},
-	["Testeruslus"] = {
-		[1] = 1328,
-		[2] = "warrior",
+	["Demonmalfas"] = {
+		[1] = 589,
+		[2] = "shaman",
 		[3] = -1,
 		[8] = 60,
 	},
 	["ELITE"] = {
 		[1] = 462,
 	},
-	["Saroxan"] = {
-		[1] = 1266,
+	["Sargarn"] = {
+		[1] = 221,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 10,
 	},
 	["Snakkez"] = {
 		[1] = 297,
@@ -3843,11 +4157,14 @@ DPSMateUser = {
 	["Elemwrath"] = {
 		[1] = 365,
 	},
-	["Horde Defender"] = {
-		[1] = 159,
+	["Mlool"] = {
+		[1] = 839,
 	},
-	["Thenorus"] = {
-		[1] = 78,
+	["Farhavn"] = {
+		[1] = 6,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 6,
 	},
 	["Jumpu"] = {
 		[1] = 1035,
@@ -3858,17 +4175,17 @@ DPSMateUser = {
 	["Danchu"] = {
 		[1] = 1281,
 	},
-	["Shadowbinder"] = {
-		[1] = 583,
+	["Furiouspeet"] = {
+		[1] = 300,
 	},
-	["Charsy"] = {
-		[1] = 1092,
+	["Healbuck"] = {
+		[1] = 550,
 	},
-	["Aluminumgear"] = {
-		[1] = 1292,
+	["Brustulache"] = {
+		[1] = 1289,
 	},
-	["Tangthak"] = {
-		[1] = 508,
+	["Mayjalook"] = {
+		[1] = 228,
 	},
 	["Kushsting"] = {
 		[1] = 926,
@@ -3879,23 +4196,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 1,
 	},
-	["Jippi"] = {
-		[1] = 591,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 60,
+	["Polotence"] = {
+		[1] = 1145,
 	},
 	["Zrzbznz"] = {
 		[1] = 517,
 	},
-	["Gronack"] = {
-		[1] = 695,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 30,
+	["Osiheals"] = {
+		[1] = 1166,
 	},
-	["Healbuck"] = {
-		[1] = 550,
+	["Scouser"] = {
+		[1] = 983,
 	},
 	["Bashanda"] = {
 		[1] = 329,
@@ -3906,26 +4217,29 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 22,
 	},
-	["Durothas"] = {
-		[1] = 396,
+	["Megachifre"] = {
+		[1] = 632,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 15,
 	},
 	["Hadouk"] = {
 		[1] = 765,
 	},
-	["Purehoof"] = {
-		[1] = 506,
+	["Clawabhorsen"] = {
+		[1] = 492,
 	},
 	["Budhunterr"] = {
 		[1] = 22,
 	},
-	["Schall"] = {
-		[1] = 1241,
+	["Clubb"] = {
+		[1] = 1212,
 	},
-	["Polotence"] = {
-		[1] = 1145,
+	["Mcpipp"] = {
+		[1] = 1104,
 	},
-	["Nikaia"] = {
-		[1] = 750,
+	["Wtfnuseu"] = {
+		[1] = 908,
 	},
 	["Krooll"] = {
 		[1] = 1220,
@@ -3933,40 +4247,38 @@ DPSMateUser = {
 	["Spookyflames"] = {
 		[1] = 643,
 	},
-	["Cat"] = {
-		[1] = 192,
-		[4] = true,
-		[6] = 1,
-	},
-	["Clubb"] = {
-		[1] = 1212,
-	},
-	["Sulan"] = {
-		[1] = 740,
-	},
-	["Arkzham"] = {
-		[1] = 1029,
-	},
-	["Axemeister"] = {
-		[1] = 1141,
+	["Skorvir"] = {
+		[1] = 276,
 	},
 	["Elgodhand"] = {
 		[1] = 175,
 	},
-	["Snaskarn"] = {
-		[1] = 1175,
+	["Axemeister"] = {
+		[1] = 1141,
 	},
-	["Overling"] = {
-		[1] = 1219,
+	["Arkzham"] = {
+		[1] = 1029,
+	},
+	["Rollfortsav"] = {
+		[1] = 1213,
+	},
+	["Gerenrim"] = {
+		[1] = 1517,
+	},
+	["Sadust"] = {
+		[1] = 887,
+	},
+	["Kazzack"] = {
+		[1] = 1183,
 	},
 	["Pemohu"] = {
 		[1] = 1044,
 	},
-	["Machacado"] = {
-		[1] = 1217,
+	["Grimrash"] = {
+		[1] = 922,
 	},
-	["Krintor"] = {
-		[1] = 502,
+	["Maroth"] = {
+		[1] = 585,
 	},
 	["Zoea"] = {
 		[1] = 541,
@@ -3974,8 +4286,8 @@ DPSMateUser = {
 	["Erolilly"] = {
 		[1] = 286,
 	},
-	["Ohtanko"] = {
-		[1] = 598,
+	["Schall"] = {
+		[1] = 1241,
 	},
 	["Wljzhentian"] = {
 		[1] = 688,
@@ -3992,14 +4304,17 @@ DPSMateUser = {
 	["Kerfufflez"] = {
 		[1] = 231,
 	},
-	["Maroth"] = {
-		[1] = 585,
+	["Overling"] = {
+		[1] = 1219,
 	},
-	["Skorvir"] = {
-		[1] = 276,
+	["Machacado"] = {
+		[1] = 1217,
 	},
-	["Smuthz"] = {
-		[1] = 401,
+	["Adiki"] = {
+		[1] = 21,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 6,
 	},
 	["Jackachattes"] = {
 		[1] = 410,
@@ -4007,26 +4322,23 @@ DPSMateUser = {
 	["Zulull"] = {
 		[1] = 291,
 	},
-	["Adder"] = {
-		[1] = 490,
+	["Cheesos"] = {
+		[1] = 1347,
+	},
+	["Galordron"] = {
+		[1] = 425,
+	},
+	["Jeloco"] = {
+		[1] = 1128,
 	},
 	["Kamanche"] = {
 		[1] = 830,
 	},
-	["Cheesos"] = {
-		[1] = 1347,
+	["Smuthz"] = {
+		[1] = 401,
 	},
-	["Ibnar"] = {
-		[1] = 571,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 15,
-	},
-	["Tubesteaks"] = {
-		[1] = 1204,
-	},
-	["Pnespump"] = {
-		[1] = 1140,
+	["Douevenshift"] = {
+		[1] = 17,
 	},
 	["Newanda"] = {
 		[1] = 395,
@@ -4034,8 +4346,8 @@ DPSMateUser = {
 	["Dakhs"] = {
 		[1] = 1459,
 	},
-	["Bolwebnik"] = {
-		[1] = 237,
+	["Shaamankiing"] = {
+		[1] = 527,
 	},
 	["Mazalazaa"] = {
 		[1] = 70,
@@ -4046,14 +4358,17 @@ DPSMateUser = {
 	["Zloimagus"] = {
 		[1] = 779,
 	},
-	["Bestbargains"] = {
-		[1] = 1154,
-		[2] = "shaman",
+	["Wucash"] = {
+		[1] = 163,
+		[2] = "warrior",
 		[3] = -1,
-		[8] = 5,
+		[8] = 15,
 	},
-	["Ferghas"] = {
-		[1] = 1050,
+	["Jippi"] = {
+		[1] = 591,
+		[2] = "warlock",
+		[3] = -1,
+		[8] = 60,
 	},
 	["Apelbochka"] = {
 		[1] = 388,
@@ -4061,23 +4376,20 @@ DPSMateUser = {
 	["Ratablanca"] = {
 		[1] = 826,
 	},
-	["Bristleback Water Seeker"] = {
-		[1] = 113,
+	["Gamon"] = {
+		[1] = 607,
 	},
 	["Galahor"] = {
 		[1] = 222,
 	},
-	["Dieseppe"] = {
-		[1] = 852,
+	["Charsy"] = {
+		[1] = 1092,
 	},
-	["Megachifre"] = {
-		[1] = 632,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 15,
+	["Mordredto"] = {
+		[1] = 1002,
 	},
-	["Scouser"] = {
-		[1] = 983,
+	["Nikaia"] = {
+		[1] = 750,
 	},
 	["Kalasbank"] = {
 		[1] = 1201,
@@ -4088,14 +4400,14 @@ DPSMateUser = {
 	["Hatsunetsu"] = {
 		[1] = 274,
 	},
-	["Brustulache"] = {
-		[1] = 1289,
+	["Icypher"] = {
+		[1] = 693,
 	},
 	["Baijiahei"] = {
 		[1] = 193,
 	},
-	["Furiouspeet"] = {
-		[1] = 300,
+	["Aluminumgear"] = {
+		[1] = 1292,
 	},
 	["Luhgra"] = {
 		[1] = 1301,
@@ -4103,8 +4415,8 @@ DPSMateUser = {
 	["Frostyei"] = {
 		[1] = 284,
 	},
-	["Irokezx"] = {
-		[1] = 1173,
+	["Zueside"] = {
+		[1] = 418,
 	},
 	["Xamanco"] = {
 		[1] = 573,
@@ -4112,11 +4424,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 9,
 	},
-	["Rinkler"] = {
-		[1] = 751,
+	["Conkys"] = {
+		[1] = 477,
 	},
-	["Adzeery"] = {
-		[1] = 1064,
+	["Kulautor"] = {
+		[1] = 397,
 	},
 	["Kenrod"] = {
 		[1] = 1261,
@@ -4127,129 +4439,122 @@ DPSMateUser = {
 	["Dompenion"] = {
 		[1] = 872,
 	},
-	["Clawabhorsen"] = {
-		[1] = 492,
-	},
-	["Uzurx"] = {
-		[1] = 510,
-	},
-	["Jezzawar"] = {
-		[1] = 925,
-	},
-	["Rollfortsav"] = {
-		[1] = 1213,
-	},
-	["Grimrash"] = {
-		[1] = 922,
-	},
-	["Lokazul"] = {
-		[1] = 124,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 15,
-	},
-	["Adiki"] = {
-		[1] = 21,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 6,
-	},
-	["Freshestbaby"] = {
-		[1] = 721,
-	},
-	["Douevenshift"] = {
-		[1] = 17,
-	},
-	["Tearack"] = {
-		[1] = 892,
-	},
-	["Orcgazmatron"] = {
-		[1] = 293,
-	},
-	["Shaamankiing"] = {
-		[1] = 527,
-	},
-	["Kazzack"] = {
-		[1] = 1183,
-	},
-	["Madlawyer"] = {
-		[1] = 804,
-	},
-	["Wucash"] = {
-		[1] = 163,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 15,
-	},
-	["Jeqois"] = {
-		[1] = 302,
-	},
-	["Deviate Coiler"] = {
-		[1] = 627,
-	},
-	["Gamon"] = {
-		[1] = 607,
-	},
-	["Cassiya"] = {
-		[1] = 708,
-	},
-	["Gorrm"] = {
-		[1] = 142,
-	},
-	["Mordella"] = {
-		[1] = 366,
-	},
-	["Mayjalook"] = {
-		[1] = 228,
-	},
-	["Icypher"] = {
-		[1] = 693,
-	},
-	["Bruhmius"] = {
-		[1] = 1338,
-	},
-	["Syncerus"] = {
-		[1] = 1273,
-	},
-	["Mlool"] = {
-		[1] = 839,
-	},
-	["Freth"] = {
-		[1] = 1063,
-	},
-	["Zulindra"] = {
-		[1] = 285,
+	["Hitormiss"] = {
+		[1] = 281,
 	},
 	["Chuckschumer"] = {
 		[1] = 385,
 	},
-	["Allafflicted"] = {
-		[1] = 969,
+	["Jezzawar"] = {
+		[1] = 925,
 	},
-	["Earlgrei"] = {
-		[1] = 25,
-	},
-	["Torret"] = {
-		[1] = 1196,
-	},
-	["Kohtas"] = {
-		[1] = 1218,
-	},
-	["Tourobrog"] = {
-		[1] = 1152,
+	["Drbigtoe"] = {
+		[1] = 1561,
 	},
 	["Blazsej"] = {
 		[1] = 259,
 	},
+	["Barak Kodobane"] = {
+		[1] = 150,
+	},
+	["Ozzark"] = {
+		[1] = 1020,
+	},
+	["Batmancat"] = {
+		[1] = 189,
+	},
+	["Soondie"] = {
+		[1] = 713,
+	},
+	["Dejs"] = {
+		[1] = 1193,
+	},
+	["Orcgazmatron"] = {
+		[1] = 293,
+	},
+	["Esoxx"] = {
+		[1] = 611,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 34,
+	},
+	["Jeringhak"] = {
+		[1] = 819,
+	},
+	["Madlawyer"] = {
+		[1] = 804,
+	},
 	["Orminir"] = {
 		[1] = 444,
+	},
+	["Propplor"] = {
+		[1] = 1593,
+	},
+	["Deviate Coiler"] = {
+		[1] = 627,
+	},
+	["Blyatlock"] = {
+		[1] = 295,
+	},
+	["Cassiya"] = {
+		[1] = 708,
+	},
+	["Ghraul"] = {
+		[1] = 1179,
+	},
+	["Mordella"] = {
+		[1] = 366,
+	},
+	["Torret"] = {
+		[1] = 1196,
+	},
+	["Exreliz"] = {
+		[1] = 836,
+	},
+	["Tkix"] = {
+		[1] = 590,
+	},
+	["Syncerus"] = {
+		[1] = 1273,
+	},
+	["Zenmojo"] = {
+		[1] = 1501,
+	},
+	["Sinobit"] = {
+		[1] = 202,
+	},
+	["Zulindra"] = {
+		[1] = 285,
+	},
+	["Sarmidius"] = {
+		[1] = 959,
+	},
+	["Allafflicted"] = {
+		[1] = 969,
+	},
+	["Leriez"] = {
+		[1] = 807,
+	},
+	["Dokamako"] = {
+		[1] = 493,
+	},
+	["Viserol"] = {
+		[1] = 1351,
+	},
+	["Kolkar Drudge"] = {
+		[1] = 430,
+	},
+	["Kkshuai"] = {
+		[1] = 546,
+	},
+	["Felmy"] = {
+		[1] = 1358,
 	},
 	["Laeltha"] = {
 		[1] = 871,
 	},
-	["Ozzark"] = {
-		[1] = 1020,
+	["Goofane"] = {
+		[1] = 873,
 	},
 	["Hoothoof"] = {
 		[1] = 48,
@@ -4260,29 +4565,29 @@ DPSMateUser = {
 	["Brave Rockhorn"] = {
 		[1] = 59,
 	},
-	["Dejs"] = {
-		[1] = 1193,
+	["Crashes"] = {
+		[1] = 939,
 	},
-	["Esoxx"] = {
-		[1] = 611,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 34,
+	["Tarunta"] = {
+		[1] = 984,
 	},
-	["Sadust"] = {
-		[1] = 887,
+	["Schkuter"] = {
+		[1] = 1022,
 	},
-	["Chaarlyy"] = {
-		[1] = 746,
+	["Weedpolice"] = {
+		[1] = 1460,
 	},
-	["Blyatlock"] = {
-		[1] = 295,
+	["Vik"] = {
+		[1] = 1414,
 	},
 	["Kiing"] = {
 		[1] = 988,
 	},
-	["Jeloco"] = {
-		[1] = 1128,
+	["Zdravitov"] = {
+		[1] = 82,
+		[2] = "druid",
+		[3] = -1,
+		[8] = 5,
 	},
 	["Ivket"] = {
 		[1] = 2,
@@ -4290,17 +4595,17 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 2,
 	},
-	["Lost Barrens Kodo"] = {
-		[1] = 346,
+	["Stabocrabo"] = {
+		[1] = 1110,
 	},
-	["Gromxigar"] = {
-		[1] = 1208,
+	["Pukken"] = {
+		[1] = 1124,
 	},
-	["Mordredto"] = {
-		[1] = 1002,
+	["Kulbak"] = {
+		[1] = 1539,
 	},
-	["Vanilkaa"] = {
-		[1] = 480,
+	["Kolkar Marauder"] = {
+		[1] = 535,
 	},
 	["Wudang"] = {
 		[1] = 835,
@@ -4308,11 +4613,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Chipsour"] = {
-		[1] = 406,
+	["Benpeor"] = {
+		[1] = 347,
 	},
-	["Sinobit"] = {
-		[1] = 202,
+	["Exgrif"] = {
+		[1] = 60,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 6,
 	},
 	["Hladogen"] = {
 		[1] = 946,
@@ -4323,23 +4631,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Conkys"] = {
-		[1] = 477,
+	["Meperdonas"] = {
+		[1] = 148,
 	},
-	["Galordron"] = {
-		[1] = 425,
+	["Munamiess"] = {
+		[1] = 408,
 	},
-	["Leriez"] = {
-		[1] = 807,
+	["Justalilgnar"] = {
+		[1] = 503,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 16,
 	},
-	["Dokamako"] = {
-		[1] = 493,
+	["Asmonkowal"] = {
+		[1] = 1585,
 	},
 	["Zygmuntmn"] = {
 		[1] = 1376,
 	},
-	["Hitormiss"] = {
-		[1] = 281,
+	["Lootza"] = {
+		[1] = 1568,
 	},
 	["Cwalkk"] = {
 		[1] = 57,
@@ -4347,32 +4658,32 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 6,
 	},
-	["Kkshuai"] = {
-		[1] = 546,
+	["Hecklefang Snarler"] = {
+		[1] = 117,
 	},
 	["Limen"] = {
 		[1] = 1249,
 	},
-	["Wtfnuseu"] = {
-		[1] = 908,
+	["Bruteforcer"] = {
+		[1] = 1379,
 	},
-	["Krabolok"] = {
-		[1] = 970,
+	["Gaktog"] = {
+		[1] = 330,
 	},
-	["Goofane"] = {
-		[1] = 873,
+	["Squalle"] = {
+		[1] = 841,
 	},
-	["Batmancat"] = {
-		[1] = 189,
+	["Sujari"] = {
+		[1] = 412,
 	},
-	["Crashes"] = {
-		[1] = 939,
+	["Izolentochka"] = {
+		[1] = 1431,
 	},
-	["Tarunta"] = {
-		[1] = 984,
+	["Arcanoo"] = {
+		[1] = 801,
 	},
-	["Schkuter"] = {
-		[1] = 1022,
+	["Droodnames"] = {
+		[1] = 1377,
 	},
 	["Agilazumi"] = {
 		[1] = 1356,
@@ -4400,11 +4711,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 45,
 	},
-	["Kolkar Marauder"] = {
-		[1] = 535,
+	["Dovaknight"] = {
+		[1] = 786,
 	},
-	["Exreliz"] = {
-		[1] = 836,
+	["Razormane Geomancer"] = {
+		[1] = 465,
 	},
 	["Buruguda"] = {
 		[1] = 251,
@@ -4415,104 +4726,26 @@ DPSMateUser = {
 	["Moonlite"] = {
 		[1] = 1267,
 	},
-	["Demonmalfas"] = {
-		[1] = 589,
-		[2] = "shaman",
-		[3] = -1,
-		[8] = 60,
+	["Deviate Creeper"] = {
+		[1] = 622,
 	},
-	["Meperdonas"] = {
-		[1] = 148,
+	["Bhunky"] = {
+		[1] = 1504,
 	},
 	["Worgutz"] = {
 		[1] = 1415,
 	},
-	["Couto"] = {
-		[1] = 1089,
+	["Cardow"] = {
+		[1] = 91,
 	},
 	["Dirtreynolds"] = {
 		[1] = 1367,
 	},
-	["Kolkar Drudge"] = {
-		[1] = 430,
+	["Rawkrad"] = {
+		[1] = 511,
 	},
-	["Hecklefang Snarler"] = {
-		[1] = 117,
-	},
-	["Spierkan"] = {
-		[1] = 339,
-	},
-	["Eragasx"] = {
-		[1] = 677,
-	},
-	["Huncutpopo"] = {
-		[1] = 705,
-	},
-	["Gaktog"] = {
-		[1] = 330,
-	},
-	["Stachu"] = {
-		[1] = 1365,
-	},
-	["Tazdyngo"] = {
-		[1] = 1068,
-	},
-	["Cyberdruid"] = {
-		[1] = 86,
-	},
-	["Zoneh"] = {
-		[1] = 761,
-	},
-	["Sujari"] = {
-		[1] = 412,
-	},
-	["Brogich"] = {
-		[1] = 1205,
-	},
-	["Goobohunter"] = {
-		[1] = 531,
-	},
-	["Arcanoo"] = {
-		[1] = 801,
-	},
-	["Droodnames"] = {
-		[1] = 1377,
-	},
-	["Urkhaida"] = {
-		[1] = 1360,
-	},
-	["Plopydes"] = {
-		[1] = 9,
-	},
-	["Macraw"] = {
-		[1] = 669,
-	},
-	["Nubai"] = {
-		[1] = 473,
-	},
-	["Battleboar"] = {
-		[1] = 10,
-	},
-	["Schamscham"] = {
-		[1] = 483,
-	},
-	["Machuelo"] = {
-		[1] = 714,
-	},
-	["Girardi"] = {
-		[1] = 72,
-	},
-	["Razormane Geomancer"] = {
-		[1] = 465,
-	},
-	["Durahanir"] = {
-		[1] = 1408,
-	},
-	["Deviate Creeper"] = {
-		[1] = 622,
-	},
-	["Tapewyrms"] = {
-		[1] = 1004,
+	["Jeromy"] = {
+		[1] = 770,
 	},
 	["Abzorbs"] = {
 		[1] = 941,
@@ -4520,17 +4753,89 @@ DPSMateUser = {
 	["Zegar"] = {
 		[1] = 1258,
 	},
-	["Voidruckus"] = {
-		[1] = 540,
-	},
-	["Drozdiara"] = {
-		[1] = 32,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 7,
+	["Huncutpopo"] = {
+		[1] = 705,
 	},
 	["Blaeh"] = {
 		[1] = 1171,
+	},
+	["Frubblor"] = {
+		[1] = 1534,
+	},
+	["Ardiloso"] = {
+		[1] = 1259,
+	},
+	["Cyberdruid"] = {
+		[1] = 86,
+	},
+	["Jubtik"] = {
+		[1] = 1187,
+	},
+	["Eventyren"] = {
+		[1] = 856,
+	},
+	["Brogich"] = {
+		[1] = 1205,
+	},
+	["Huntertryout"] = {
+		[1] = 1553,
+	},
+	["Seeqtisse"] = {
+		[1] = 306,
+	},
+	["Savannah Huntress"] = {
+		[1] = 324,
+	},
+	["Urkhaida"] = {
+		[1] = 1360,
+	},
+	["Plopydes"] = {
+		[1] = 9,
+	},
+	["Elleshar"] = {
+		[1] = 1555,
+	},
+	["Charjuk"] = {
+		[1] = 644,
+	},
+	["Battleboar"] = {
+		[1] = 10,
+	},
+	["Schamscham"] = {
+		[1] = 483,
+	},
+	["Schmun"] = {
+		[1] = 1515,
+	},
+	["Girardi"] = {
+		[1] = 72,
+	},
+	["Manbirdcow"] = {
+		[1] = 1079,
+	},
+	["Durahanir"] = {
+		[1] = 1408,
+	},
+	["Nigmer"] = {
+		[1] = 1547,
+	},
+	["Tapewyrms"] = {
+		[1] = 1004,
+	},
+	["Dreadass"] = {
+		[1] = 615,
+	},
+	["Fatbannk"] = {
+		[1] = 1348,
+	},
+	["Voidruckus"] = {
+		[1] = 540,
+	},
+	["Jpouz"] = {
+		[1] = 767,
+	},
+	["Dustwind Harpy"] = {
+		[1] = 208,
 	},
 	["Bearbelly"] = {
 		[1] = 1307,
@@ -4544,14 +4849,14 @@ DPSMateUser = {
 	["Venture Co. Worker"] = {
 		[1] = 253,
 	},
-	["Savannah Huntress"] = {
-		[1] = 324,
+	["Deadfrozer"] = {
+		[1] = 735,
 	},
-	["Charjuk"] = {
-		[1] = 644,
+	["Wolfwalker"] = {
+		[1] = 1541,
 	},
-	["Crantzengild"] = {
-		[1] = 1167,
+	["Rukgur"] = {
+		[1] = 187,
 	},
 	["Freeform"] = {
 		[1] = 1335,
@@ -4559,20 +4864,20 @@ DPSMateUser = {
 	["Hendewie"] = {
 		[1] = 811,
 	},
-	["Slywoopin"] = {
-		[1] = 514,
+	["Searing Totem"] = {
+		[1] = 130,
 	},
-	["Alitampouras"] = {
-		[1] = 1355,
+	["Gigi"] = {
+		[1] = 1551,
 	},
-	["Rohger"] = {
-		[1] = 1390,
+	["Dypb"] = {
+		[1] = 1505,
 	},
-	["Deadfrozer"] = {
-		[1] = 735,
+	["Swattie"] = {
+		[1] = 515,
 	},
-	["Rukgur"] = {
-		[1] = 187,
+	["Tieru"] = {
+		[1] = 218,
 	},
 	["Arrancar"] = {
 		[1] = 304,
@@ -4580,8 +4885,11 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 11,
 	},
-	["Flatland Cougar"] = {
-		[1] = 64,
+	["Helihoes"] = {
+		[1] = 131,
+		[2] = "hunter",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Zhevra Runner"] = {
 		[1] = 141,
@@ -4589,14 +4897,14 @@ DPSMateUser = {
 	["Rastafaren"] = {
 		[1] = 1296,
 	},
-	["Beefsticks"] = {
-		[1] = 951,
+	["Seekthebeer"] = {
+		[1] = 1475,
 	},
 	["Groeler"] = {
 		[1] = 1477,
 	},
-	["Notfear"] = {
-		[1] = 776,
+	["Regally"] = {
+		[1] = 1052,
 	},
 	["Orthash"] = {
 		[1] = 544,
@@ -4607,20 +4915,29 @@ DPSMateUser = {
 	["Novadk"] = {
 		[1] = 1203,
 	},
-	["Hyrro"] = {
-		[1] = 380,
+	["Smegmamamma"] = {
+		[1] = 349,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 12,
 	},
 	["Asshanti"] = {
 		[1] = 319,
 	},
-	["Monoi"] = {
-		[1] = 703,
+	["Butchi"] = {
+		[1] = 1040,
+		[2] = "warrior",
+		[3] = -1,
+		[8] = 53,
 	},
 	["Bambara"] = {
 		[1] = 1076,
 	},
-	["Igar"] = {
-		[1] = 768,
+	["Errorbear"] = {
+		[1] = 568,
+		[2] = "mage",
+		[3] = -1,
+		[8] = 18,
 	},
 	["Zaharo"] = {
 		[1] = 69,
@@ -4640,14 +4957,14 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 13,
 	},
-	["Porkchopxprs"] = {
-		[1] = 948,
+	["Plazmito"] = {
+		[1] = 747,
 	},
 	["Villaran"] = {
 		[1] = 204,
 	},
-	["Thisismylock"] = {
-		[1] = 1276,
+	["Chartast"] = {
+		[1] = 355,
 	},
 	["Anastard"] = {
 		[1] = 1007,
@@ -4676,23 +4993,14 @@ DPSMateUser = {
 	["Theassman"] = {
 		[1] = 1255,
 	},
-	["Venture Co. Taskmaster"] = {
-		[1] = 242,
+	["Spartanus"] = {
+		[1] = 744,
 	},
-	["Omonox"] = {
-		[1] = 877,
-	},
-	["Tatotem"] = {
-		[1] = 933,
-	},
-	["Mistleote"] = {
-		[1] = 1014,
-		[2] = "hunter",
+	["Mejora"] = {
+		[1] = 147,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 60,
-	},
-	["Ogremon"] = {
-		[1] = 1132,
+		[8] = 21,
 	},
 	["Pollitoo"] = {
 		[1] = 1072,
@@ -4703,20 +5011,26 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 16,
 	},
+	["Ogremon"] = {
+		[1] = 1132,
+	},
+	["Lilnige"] = {
+		[1] = 260,
+	},
+	["Horbollen"] = {
+		[1] = 487,
+	},
 	["Chuhlya"] = {
 		[1] = 377,
 	},
-	["Abaethor"] = {
-		[1] = 414,
-		[2] = "rogue",
-		[3] = -1,
-		[8] = 14,
+	["Brewerofboom"] = {
+		[1] = 894,
 	},
-	["Ensoph"] = {
-		[1] = 1303,
+	["Raenis"] = {
+		[1] = 981,
 	},
-	["Gungster"] = {
-		[1] = 1083,
+	["Wickedsticks"] = {
+		[1] = 596,
 	},
 	["Creeph"] = {
 		[1] = 862,
@@ -4730,17 +5044,17 @@ DPSMateUser = {
 	["Brenkirs"] = {
 		[1] = 1270,
 	},
-	["Drippnn"] = {
-		[1] = 653,
-		[2] = "rogue",
+	["Callyabluff"] = {
+		[1] = 648,
+		[2] = "shaman",
 		[3] = -1,
-		[8] = 29,
+		[8] = 12,
 	},
-	["Klathmos"] = {
-		[1] = 931,
+	["Sakorvis"] = {
+		[1] = 331,
 	},
-	["Karibs"] = {
-		[1] = 1200,
+	["Xxvideos"] = {
+		[1] = 368,
 	},
 	["Fleeting Plainstrider"] = {
 		[1] = 151,
@@ -4751,8 +5065,8 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 14,
 	},
-	["Uglyazzfoo"] = {
-		[1] = 614,
+	["Mystiah"] = {
+		[1] = 858,
 	},
 	["Brudbud"] = {
 		[1] = 166,
@@ -4760,17 +5074,17 @@ DPSMateUser = {
 	["Bael'dun Appraiser"] = {
 		[1] = 107,
 	},
-	["Kulaz"] = {
-		[1] = 309,
+	["Donsinger"] = {
+		[1] = 1544,
 	},
 	["Krakmoth"] = {
 		[1] = 321,
 	},
-	["Thundamoo"] = {
-		[1] = 1336,
+	["Kulaz"] = {
+		[1] = 309,
 	},
-	["Zylord"] = {
-		[1] = 399,
+	["Warlord"] = {
+		[1] = 521,
 	},
 	["Angelbezdni"] = {
 		[1] = 1019,
@@ -4781,11 +5095,11 @@ DPSMateUser = {
 	["Vududelbueno"] = {
 		[1] = 495,
 	},
-	["Ansekhwa"] = {
-		[1] = 279,
+	["Eruul"] = {
+		[1] = 846,
 	},
-	["Aellenia"] = {
-		[1] = 1144,
+	["Arra'chea"] = {
+		[1] = 659,
 	},
 	["Bristleback Quilboar"] = {
 		[1] = 14,
@@ -4793,26 +5107,23 @@ DPSMateUser = {
 	["Goliafuss"] = {
 		[1] = 792,
 	},
-	["Charlesmansn"] = {
-		[1] = 990,
+	["Lilkink"] = {
+		[1] = 1483,
 	},
 	["Bortoloff"] = {
 		[1] = 733,
 	},
-	["Seazhd"] = {
-		[1] = 99,
-		[2] = "druid",
-		[3] = -1,
-		[8] = 13,
+	["Frostiez"] = {
+		[1] = 1308,
 	},
-	["Mileger"] = {
-		[1] = 854,
+	["Xaynne"] = {
+		[1] = 1494,
 	},
-	["Subiepriest"] = {
-		[1] = 496,
+	["Spillmyheal"] = {
+		[1] = 1151,
 	},
-	["Patrick"] = {
-		[1] = 411,
+	["Maxhole"] = {
+		[1] = 1549,
 	},
 	["Xudo"] = {
 		[1] = 706,
@@ -4829,11 +5140,8 @@ DPSMateUser = {
 	["Meton"] = {
 		[1] = 588,
 	},
-	["Titopito"] = {
-		[1] = 507,
-		[2] = "warlock",
-		[3] = -1,
-		[8] = 14,
+	["Lokashung"] = {
+		[1] = 1524,
 	},
 	["Dagigi"] = {
 		[1] = 344,
@@ -4856,11 +5164,15 @@ DPSMateUser = {
 		[3] = -1,
 		[8] = 60,
 	},
-	["Moramage"] = {
-		[1] = 985,
+	["Matrenna"] = {
+		[1] = 504,
 	},
-	["Karlzul"] = {
-		[1] = 818,
+	["Ttazhdingo"] = {
+		[1] = 146,
+		[2] = "shaman",
+		[3] = -1,
+		[4] = false,
+		[8] = 12,
 	},
 	["Katticus"] = {
 		[1] = 238,
@@ -4871,28 +5183,23 @@ DPSMateUser = {
 	["Cowhammer"] = {
 		[1] = 1357,
 	},
-	["Ttazhdingo"] = {
-		[1] = 146,
-		[2] = "shaman",
-		[3] = -1,
-		[4] = false,
-		[8] = 12,
+	["Backspire"] = {
+		[1] = 1077,
 	},
-	["Kimyouth"] = {
-		[1] = 1071,
+	["Morin Cloudstalker"] = {
+		[1] = 65,
 	},
-	["Gooner"] = {
-		[1] = 1251,
+	["Patent"] = {
+		[1] = 865,
 	},
 	["Maturin"] = {
 		[1] = 728,
 	},
-	["Cheetar"] = {
-		[1] = 106,
-		[2] = "druid",
+	["Employer"] = {
+		[1] = 923,
+		[2] = "rogue",
 		[3] = -1,
-		[4] = false,
-		[8] = 9,
+		[8] = 19,
 	},
 	["Helten"] = {
 		[1] = 1176,
@@ -4903,8 +5210,8 @@ DPSMateUser = {
 	["Attilaca"] = {
 		[1] = 313,
 	},
-	["Tomlossayt"] = {
-		[1] = 771,
+	["Lixice"] = {
+		[1] = 1521,
 	},
 	["Bellop"] = {
 		[1] = 1186,
@@ -4915,17 +5222,17 @@ DPSMateUser = {
 	["Mithotyn"] = {
 		[1] = 1111,
 	},
-	["Panchogollo"] = {
-		[1] = 584,
+	["Elary"] = {
+		[1] = 1478,
 	},
 	["Shaggy"] = {
 		[1] = 921,
 	},
-	["Darkcuster"] = {
-		[1] = 726,
+	["Obkakiy"] = {
+		[1] = 191,
 	},
-	["Elder Mottled Boar"] = {
-		[1] = 452,
+	["Cymbaline"] = {
+		[1] = 310,
 	},
 	["Toleek"] = {
 		[1] = 1409,
@@ -4939,11 +5246,8 @@ DPSMateUser = {
 	["Callbito"] = {
 		[1] = 1037,
 	},
-	["Chunderclap"] = {
-		[1] = 270,
-		[2] = "warrior",
-		[3] = -1,
-		[8] = 22,
+	["Kolunja"] = {
+		[1] = 1061,
 	},
 	["Straenjwaes"] = {
 		[1] = 574,
@@ -4954,53 +5258,53 @@ DPSMateUser = {
 	["Istok"] = {
 		[1] = 1192,
 	},
+	["Mawra"] = {
+		[1] = 1540,
+	},
 	["Lovacnaglave"] = {
 		[1] = 654,
-	},
-	["Ansgarius"] = {
-		[1] = 125,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 12,
 	},
 	["Crocolisk"] = {
 		[1] = 453,
 	},
-	["Death Flayer"] = {
-		[1] = 456,
+	["Mowalord"] = {
+		[1] = 1069,
 	},
 	["Nikoparua"] = {
 		[1] = 1182,
 	},
-	["Moistrag"] = {
-		[1] = 1262,
+	["Evilmf"] = {
+		[1] = 1485,
 	},
-	["Adamss"] = {
-		[1] = 90,
+	["Skuridat"] = {
+		[1] = 341,
 	},
-	["Necromo"] = {
-		[1] = 597,
+	["Gorkamorka"] = {
+		[1] = 1001,
 	},
 	["Taruq"] = {
 		[1] = 1488,
 	},
-	["Sdasgg"] = {
-		[1] = 1341,
+	["Necromo"] = {
+		[1] = 597,
 	},
 	["Ralastingo"] = {
 		[1] = 553,
 	},
+	["Clappa"] = {
+		[1] = 1537,
+	},
+	["Sstealthh"] = {
+		[1] = 1305,
+		[2] = "rogue",
+		[3] = -1,
+		[8] = 7,
+	},
+	["Ojibwe"] = {
+		[1] = 1352,
+	},
 	["Catalol"] = {
 		[1] = 1155,
-	},
-	["Nommertoento"] = {
-		[1] = 1134,
-	},
-	["EshKere"] = {
-		[1] = 1383,
-	},
-	["Yinchuriki"] = {
-		[1] = 1112,
 	},
 	["Jojisavedme"] = {
 		[1] = 1165,
@@ -5008,31 +5312,23 @@ DPSMateUser = {
 	["Dohvahkin"] = {
 		[1] = 210,
 	},
-	["Kairappa"] = {
-		[1] = 180,
-		[2] = "mage",
-		[3] = -1,
-		[8] = 13,
+	["Gnflock"] = {
+		[1] = 803,
 	},
 	["Kindskopf"] = {
 		[1] = 569,
 	},
-	["Slimjimfatty"] = {
-		[1] = 122,
-		[2] = "hunter",
-		[3] = -1,
-		[8] = 13,
+	["Zhonara"] = {
+		[1] = 1491,
 	},
 	["Ghost Howl"] = {
 		[1] = 664,
 	},
-	["Spider"] = {
-		[1] = 539,
-		[4] = true,
-		[6] = 522,
+	["Bigpopsicle"] = {
+		[1] = 1236,
 	},
-	["Mcgrath"] = {
-		[1] = 311,
+	["Milkaxd"] = {
+		[1] = 24,
 	},
 	["Minimishka"] = {
 		[1] = 336,
@@ -5043,23 +5339,30 @@ DPSMateUser = {
 		[7] = "RUSSIA",
 		[8] = 14,
 	},
+	["Camelboi"] = {
+		[1] = 1300,
+	},
 	["Mordreaded"] = {
 		[1] = 599,
 	},
-	["Vzdoh"] = {
-		[1] = 736,
+	["Tharator"] = {
+		[1] = 103,
+		[2] = "druid",
+		[3] = -1,
+		[4] = false,
+		[8] = 9,
 	},
-	["Glacion"] = {
-		[1] = 264,
-	},
-	["Toonn"] = {
-		[1] = 1387,
+	["Ergas"] = {
+		[1] = 433,
+		[2] = "shaman",
+		[3] = -1,
+		[8] = 8,
 	},
 	["Superlock"] = {
 		[1] = 1331,
 	},
-	["Makkel"] = {
-		[1] = 354,
+	["Machetteman"] = {
+		[1] = 1575,
 	},
 	["Frr"] = {
 		[1] = 1299,
@@ -5085,17 +5388,17 @@ DPSMateUser = {
 	["Switchformz"] = {
 		[1] = 287,
 	},
-	["Zimnij"] = {
-		[1] = 1386,
-	},
-	["Craztor"] = {
-		[1] = 1343,
-	},
-	["Davzeus"] = {
-		[1] = 1354,
-	},
 	["Dwimmerlike"] = {
 		[1] = 1372,
+	},
+	["Dreaddzz"] = {
+		[1] = 1560,
+	},
+	["Fullnatural"] = {
+		[1] = 1486,
+	},
+	["Venture Co. Laborer"] = {
+		[1] = 83,
 	},
 	["Tazbringo"] = {
 		[1] = 821,
@@ -5105,8 +5408,8 @@ DPSMateUser = {
 	},
 }
 DPSMateAbility = {
-	["Hezrul Bloodmark"] = {
-		[1] = 247,
+	["Shadow Word: Pain"] = {
+		[1] = 119,
 	},
 	["Tetanus"] = {
 		[1] = 111,
@@ -5114,8 +5417,8 @@ DPSMateAbility = {
 	["Berserker Rage"] = {
 		[1] = 283,
 	},
-	["Heroic Strike"] = {
-		[1] = 4,
+	["Detect Greater Invisibility"] = {
+		[1] = 307,
 	},
 	["Strike"] = {
 		[1] = 109,
@@ -5126,11 +5429,14 @@ DPSMateAbility = {
 	["Blind"] = {
 		[1] = 258,
 	},
+	["Yaaarrrr"] = {
+		[1] = 331,
+	},
 	["Dampen Magic"] = {
 		[1] = 147,
 	},
-	["Redoubt"] = {
-		[1] = 238,
+	["Sinister Strike"] = {
+		[1] = 68,
 	},
 	["Track Humanoids"] = {
 		[1] = 129,
@@ -5150,8 +5456,8 @@ DPSMateAbility = {
 		[1] = 189,
 		[3] = "nature",
 	},
-	["Mana Shield"] = {
-		[1] = 177,
+	["Arcane Intellect"] = {
+		[1] = 36,
 	},
 	["Aftermath"] = {
 		[1] = 246,
@@ -5173,9 +5479,8 @@ DPSMateAbility = {
 		[1] = 308,
 		[3] = "shadow",
 	},
-	["Shadow Word: Pain(Periodic)"] = {
-		[1] = 118,
-		[3] = "shadow",
+	["First Aid"] = {
+		[1] = 93,
 	},
 	["Charge Stun"] = {
 		[1] = 2,
@@ -5183,14 +5488,14 @@ DPSMateAbility = {
 	["Razormane Thornweaver"] = {
 		[1] = 194,
 	},
-	["Stamina"] = {
-		[1] = 200,
+	["Furor"] = {
+		[1] = 145,
 	},
 	["Wing Clip"] = {
 		[1] = 182,
 	},
-	["Detect Lesser Invisibility"] = {
-		[1] = 274,
+	["Distilled Wisdom"] = {
+		[1] = 292,
 	},
 	["Kolkar Stormer"] = {
 		[1] = 156,
@@ -5202,9 +5507,8 @@ DPSMateAbility = {
 	["Aspect of the Hawk"] = {
 		[1] = 57,
 	},
-	["Flame Shock"] = {
-		[1] = 103,
-		[3] = "fire",
+	["Serpent Sting"] = {
+		[1] = 21,
 	},
 	["Piercing Howl"] = {
 		[1] = 211,
@@ -5212,11 +5516,11 @@ DPSMateAbility = {
 	["Lesser Invisibility"] = {
 		[1] = 271,
 	},
-	["Spirit of Zanza"] = {
-		[1] = 329,
+	["Fury of the Frostwolf"] = {
+		[1] = 309,
 	},
-	["Demoralizing Roar"] = {
-		[1] = 166,
+	["Spirit"] = {
+		[1] = 33,
 	},
 	["Demon Skin"] = {
 		[1] = 117,
@@ -5227,8 +5531,8 @@ DPSMateAbility = {
 	["Kolkar Bloodcharger"] = {
 		[1] = 213,
 	},
-	["Shoot Bow"] = {
-		[1] = 212,
+	["Lay on Hands"] = {
+		[1] = 243,
 	},
 	["Health"] = {
 		[1] = 135,
@@ -5242,11 +5546,11 @@ DPSMateAbility = {
 	["Travel Form"] = {
 		[1] = 143,
 	},
-	["Sprint"] = {
-		[1] = 88,
+	["Amplify Magic"] = {
+		[1] = 314,
 	},
-	["Master Demonologist"] = {
-		[1] = 281,
+	["Faerie Fire"] = {
+		[1] = 190,
 	},
 	["Mark of the Chosen Effect"] = {
 		[1] = 230,
@@ -5281,8 +5585,8 @@ DPSMateAbility = {
 	["Hamstring"] = {
 		[1] = 47,
 	},
-	["Init"] = {
-		[1] = 1,
+	["Kodo Stomp"] = {
+		[1] = 162,
 	},
 	["Lesser Heal"] = {
 		[1] = 170,
@@ -5305,6 +5609,9 @@ DPSMateAbility = {
 	},
 	["Kick"] = {
 		[1] = 183,
+	},
+	["Frost Protection"] = {
+		[1] = 337,
 	},
 	["Demon Armor"] = {
 		[1] = 149,
@@ -5330,6 +5637,9 @@ DPSMateAbility = {
 	["Overpower"] = {
 		[1] = 159,
 	},
+	["Nature's Grace"] = {
+		[1] = 336,
+	},
 	["Judgement of Righteousness"] = {
 		[1] = 237,
 		[3] = "holy",
@@ -5352,8 +5662,8 @@ DPSMateAbility = {
 	["Minor Healthstone"] = {
 		[1] = 205,
 	},
-	["Psychic Scream"] = {
-		[1] = 168,
+	["Renew(Periodic)"] = {
+		[1] = 116,
 	},
 	["Gordok Green Grog"] = {
 		[1] = 231,
@@ -5379,14 +5689,18 @@ DPSMateAbility = {
 	["Arcane Brilliance"] = {
 		[1] = 255,
 	},
-	["Defensive Stance"] = {
-		[1] = 134,
+	["Increased Stamina"] = {
+		[1] = 333,
+	},
+	["Serpent Sting(Periodic)"] = {
+		[1] = 13,
+		[3] = "nature",
 	},
 	["Thunder Clap"] = {
 		[1] = 40,
 	},
-	["Invigorate"] = {
-		[1] = 299,
+	["Recently Bandaged"] = {
+		[1] = 41,
 	},
 	["Boar Charge"] = {
 		[1] = 17,
@@ -5394,9 +5708,8 @@ DPSMateAbility = {
 	["Inner Fire"] = {
 		[1] = 154,
 	},
-	["Poisoned Shot(Periodic)"] = {
-		[1] = 67,
-		[3] = "nature",
+	["Life Tap"] = {
+		[1] = 201,
 	},
 	["Perfume"] = {
 		[1] = 272,
@@ -5416,14 +5729,17 @@ DPSMateAbility = {
 	["Intellect"] = {
 		[1] = 233,
 	},
-	["Creeping Mold"] = {
-		[1] = 184,
+	["Inner Focus"] = {
+		[1] = 335,
 	},
 	["Lesser Healing Wave"] = {
 		[1] = 249,
 	},
 	["Health Funnel"] = {
 		[1] = 151,
+	},
+	["Rage of Ages"] = {
+		[1] = 332,
 	},
 	["Flash Heal"] = {
 		[1] = 277,
@@ -5555,11 +5871,11 @@ DPSMateAbility = {
 	["Fear"] = {
 		[1] = 72,
 	},
-	["Nature's Grasp"] = {
-		[1] = 98,
+	["Greater Agility"] = {
+		[1] = 320,
 	},
-	["Scorpid Poison"] = {
-		[1] = 188,
+	["Unending Breath"] = {
+		[1] = 226,
 	},
 	["Chilled"] = {
 		[1] = 78,
@@ -5579,28 +5895,37 @@ DPSMateAbility = {
 		[1] = 65,
 		[3] = "fire",
 	},
+	["Curse of the Shadowhorn"] = {
+		[1] = 340,
+	},
 	["Savannah Prowler"] = {
 		[1] = 197,
 	},
 	["Agility"] = {
 		[1] = 150,
 	},
-	["Lightning Cloud"] = {
-		[1] = 92,
-		[3] = "nature",
+	["Curse of Thorns"] = {
+		[1] = 339,
+	},
+	["Mend Pet(Periodic)"] = {
+		[1] = 313,
 	},
 	["Attack"] = {
 		[1] = 83,
 		[3] = "fire",
 	},
-	["Ice Barrier"] = {
-		[1] = 131,
-	},
 	["Paranoia"] = {
 		[1] = 304,
 	},
+	["Lightning Cloud"] = {
+		[1] = 92,
+		[3] = "nature",
+	},
 	["Curse of Agony"] = {
 		[1] = 202,
+	},
+	["Ice Barrier"] = {
+		[1] = 131,
 	},
 	["Blood Pact"] = {
 		[1] = 132,
@@ -5611,6 +5936,13 @@ DPSMateAbility = {
 	["Consume Shadows"] = {
 		[1] = 275,
 	},
+	["Shoot"] = {
+		[1] = 31,
+		[3] = "arcane",
+	},
+	["Holy Nova"] = {
+		[1] = 252,
+	},
 	["Aspect of the Pack"] = {
 		[1] = 196,
 	},
@@ -5620,12 +5952,11 @@ DPSMateAbility = {
 	["Falling"] = {
 		[1] = 16,
 	},
-	["Shoot"] = {
-		[1] = 31,
-		[3] = "arcane",
+	["Scorpid Poison"] = {
+		[1] = 188,
 	},
-	["Holy Nova"] = {
-		[1] = 252,
+	["Blessing of the Claw"] = {
+		[1] = 319,
 	},
 	["Aspect of the Monkey"] = {
 		[1] = 20,
@@ -5633,11 +5964,11 @@ DPSMateAbility = {
 	["Weakened Soul"] = {
 		[1] = 55,
 	},
-	["Unending Breath"] = {
-		[1] = 226,
+	["Maul"] = {
+		[1] = 101,
 	},
-	["Mend Pet(Periodic)"] = {
-		[1] = 313,
+	["Defensive Stance"] = {
+		[1] = 134,
 	},
 	["Earth Shock"] = {
 		[1] = 14,
@@ -5647,15 +5978,15 @@ DPSMateAbility = {
 		[1] = 110,
 		[3] = "fire",
 	},
-	["Flame Shock(Periodic)"] = {
-		[1] = 104,
-		[3] = "fire",
+	["Ice Armor"] = {
+		[1] = 179,
 	},
 	["Furious Howl"] = {
 		[1] = 141,
 	},
-	["Divine Spirit"] = {
-		[1] = 234,
+	["Frostbrand Attack"] = {
+		[1] = 279,
+		[3] = "frost",
 	},
 	["Auto Shot"] = {
 		[1] = 6,
@@ -5664,53 +5995,51 @@ DPSMateAbility = {
 		[1] = 77,
 		[3] = "frost",
 	},
-	["Ice Armor"] = {
-		[1] = 179,
+	["Invigorate"] = {
+		[1] = 299,
 	},
-	["Frostbrand Attack"] = {
-		[1] = 279,
-		[3] = "frost",
+	["AutoAttack"] = {
+		[1] = 3,
 	},
 	["Eviscerate"] = {
 		[1] = 96,
 	},
-	["Spirit"] = {
-		[1] = 33,
+	["Divine Spirit"] = {
+		[1] = 234,
 	},
-	["Serpent Sting(Periodic)"] = {
-		[1] = 13,
-		[3] = "nature",
+	["Init"] = {
+		[1] = 1,
 	},
-	["Slow Fall"] = {
-		[1] = 167,
+	["Growl"] = {
+		[1] = 100,
 	},
-	["Maul"] = {
-		[1] = 101,
+	["Lesser Agility"] = {
+		[1] = 172,
 	},
-	["Gouge"] = {
-		[1] = 74,
+	["Flurry"] = {
+		[1] = 280,
 	},
 	["Fengus' Ferocity"] = {
 		[1] = 324,
 	},
-	["Aspect of the Wild"] = {
-		[1] = 323,
+	["Zhevra Runner"] = {
+		[1] = 155,
 	},
-	["Seal of Righteousness"] = {
-		[1] = 235,
-		[3] = "holy",
+	["Master Demonologist"] = {
+		[1] = 281,
 	},
 	["Siphon Life"] = {
 		[1] = 310,
 	},
-	["Kodo Stomp"] = {
-		[1] = 162,
+	["Sprint"] = {
+		[1] = 88,
 	},
-	["Concussion Blow"] = {
-		[1] = 263,
+	["Entangling Roots(Periodic)"] = {
+		[1] = 59,
+		[3] = "nature",
 	},
-	["Net"] = {
-		[1] = 39,
+	["Gouge"] = {
+		[1] = 74,
 	},
 	["Hellfire"] = {
 		[1] = 317,
@@ -5722,29 +6051,30 @@ DPSMateAbility = {
 	["Phase Shift"] = {
 		[1] = 270,
 	},
-	["Faerie Fire"] = {
-		[1] = 190,
+	["Concussion Blow"] = {
+		[1] = 263,
 	},
-	["Raptor Punch"] = {
-		[1] = 120,
+	["Spirit of Zanza"] = {
+		[1] = 329,
 	},
-	["Power Word: Shield"] = {
-		[1] = 124,
+	["Slow Fall"] = {
+		[1] = 167,
 	},
-	["Nature's Swiftness"] = {
-		[1] = 306,
+	["Arcane Explosion"] = {
+		[1] = 198,
+		[3] = "arcane",
 	},
-	["Fury of the Frostwolf"] = {
-		[1] = 309,
+	["Shoot Bow"] = {
+		[1] = 212,
 	},
 	["Sunscale Screecher"] = {
 		[1] = 160,
 	},
-	["Summon Felsteed"] = {
-		[1] = 144,
+	["Leader of the Pack"] = {
+		[1] = 146,
 	},
-	["Shadow Protection"] = {
-		[1] = 273,
+	["Detect Lesser Invisibility"] = {
+		[1] = 274,
 	},
 	["Renew"] = {
 		[1] = 115,
@@ -5752,8 +6082,9 @@ DPSMateAbility = {
 	["Immune Root/Snare/Stun"] = {
 		[1] = 296,
 	},
-	["Eyes of the Beast"] = {
-		[1] = 301,
+	["Seal of Righteousness"] = {
+		[1] = 235,
+		[3] = "holy",
 	},
 	["Detect Invisibility"] = {
 		[1] = 256,
@@ -5761,33 +6092,34 @@ DPSMateAbility = {
 	["Shadow Ward"] = {
 		[1] = 297,
 	},
-	["Growl"] = {
-		[1] = 100,
-	},
-	["Torment"] = {
-		[1] = 220,
-	},
-	["Zhevra Charger"] = {
-		[1] = 164,
+	["Spirit of the Wind"] = {
+		[1] = 61,
 	},
 	["Fireball(Periodic)"] = {
 		[1] = 80,
 		[3] = "fire",
 	},
-	["Furor"] = {
-		[1] = 145,
+	["Stamina"] = {
+		[1] = 200,
 	},
-	["Distilled Wisdom"] = {
-		[1] = 292,
+	["Razormane Water Seeker"] = {
+		[1] = 191,
 	},
-	["First Aid"] = {
-		[1] = 93,
+	["Shadow Word: Pain(Periodic)"] = {
+		[1] = 118,
+		[3] = "shadow",
 	},
-	["Flurry"] = {
-		[1] = 280,
+	["Backstab"] = {
+		[1] = 75,
 	},
-	["AutoAttack"] = {
-		[1] = 3,
+	["Nature's Grasp"] = {
+		[1] = 98,
+	},
+	["Slip'kik's Savvy"] = {
+		[1] = 321,
+	},
+	["Eyes of the Beast"] = {
+		[1] = 301,
 	},
 	["Multi-Shot"] = {
 		[1] = 218,
@@ -5802,14 +6134,15 @@ DPSMateAbility = {
 	["Divine Protection"] = {
 		[1] = 239,
 	},
-	["Regrowth"] = {
-		[1] = 49,
+	["Shadow Bolt"] = {
+		[1] = 76,
+		[3] = "shadow",
 	},
-	["Noggenfogger Elixir"] = {
-		[1] = 259,
+	["Shadow Protection"] = {
+		[1] = 273,
 	},
-	["Renew(Periodic)"] = {
-		[1] = 116,
+	["Shoot Gun"] = {
+		[1] = 206,
 	},
 	["Drain Soul"] = {
 		[1] = 204,
@@ -5823,8 +6156,8 @@ DPSMateAbility = {
 	["Curse of Blood"] = {
 		[1] = 173,
 	},
-	["Evasion"] = {
-		[1] = 185,
+	["Summon Felsteed"] = {
+		[1] = 144,
 	},
 	["Corruption(Periodic)"] = {
 		[1] = 64,
@@ -5833,33 +6166,32 @@ DPSMateAbility = {
 	["Rejuvenation(Periodic)"] = {
 		[1] = 29,
 	},
-	["Shadow Bolt"] = {
-		[1] = 76,
-		[3] = "shadow",
+	["Redoubt"] = {
+		[1] = 238,
 	},
 	["Claw"] = {
 		[1] = 51,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 191,
+	["Supreme Power"] = {
+		[1] = 338,
 	},
-	["Sinister Strike"] = {
-		[1] = 68,
+	["Power Word: Shield"] = {
+		[1] = 124,
 	},
-	["Spirit of the Wind"] = {
-		[1] = 61,
+	["Zhevra Charger"] = {
+		[1] = 164,
 	},
 	["Will of the Forsaken"] = {
 		[1] = 186,
 	},
-	["Sweet Surprise"] = {
-		[1] = 224,
+	["Flare"] = {
+		[1] = 288,
 	},
-	["Backstab"] = {
-		[1] = 75,
+	["Regrowth"] = {
+		[1] = 49,
 	},
-	["Leader of the Pack"] = {
-		[1] = 146,
+	["Demoralizing Roar"] = {
+		[1] = 166,
 	},
 	["Ignite(Periodic)"] = {
 		[1] = 113,
@@ -5871,8 +6203,8 @@ DPSMateAbility = {
 	["Sapta Sight"] = {
 		[1] = 43,
 	},
-	["Threatening Growl"] = {
-		[1] = 22,
+	["Prayer of Shadow Protection"] = {
+		[1] = 303,
 	},
 	["Venom Sting(Periodic)"] = {
 		[1] = 128,
@@ -5881,67 +6213,68 @@ DPSMateAbility = {
 	["Curse of Weakness"] = {
 		[1] = 302,
 	},
-	["Shoot Gun"] = {
-		[1] = 206,
+	["Stoneskin"] = {
+		[1] = 91,
 	},
 	["Kolkar Pack Runner"] = {
 		[1] = 214,
 	},
-	["Shadow Word: Pain"] = {
-		[1] = 119,
-	},
-	["Stoneskin"] = {
-		[1] = 91,
-	},
 	["Ambush"] = {
 		[1] = 203,
 	},
-	["Flametongue Attack"] = {
-		[1] = 195,
-		[3] = "fire",
-	},
-	["Regrowth(Periodic)"] = {
-		[1] = 48,
-	},
-	["Omen of Clarity"] = {
-		[1] = 289,
-	},
-	["Prayer of Shadow Protection"] = {
-		[1] = 303,
+	["World Enlarger"] = {
+		[1] = 267,
 	},
 	["Garrote"] = {
 		[1] = 84,
 	},
-	["Sling Dirt"] = {
-		[1] = 221,
+	["Curse of Agony(Periodic)"] = {
+		[1] = 63,
+		[3] = "shadow",
 	},
-	["Mongoose Bite"] = {
-		[1] = 192,
-	},
-	["Quick Shots"] = {
-		[1] = 138,
+	["Regrowth(Periodic)"] = {
+		[1] = 48,
 	},
 	["Beast Lore"] = {
 		[1] = 290,
 	},
-	["Dust Cloud"] = {
-		[1] = 46,
+	["Wrath"] = {
+		[1] = 18,
+		[3] = "nature",
 	},
-	["Warchief's Blessing"] = {
-		[1] = 257,
+	["Quick Shots"] = {
+		[1] = 138,
+	},
+	["Sling Dirt"] = {
+		[1] = 221,
 	},
 	["Moonfire"] = {
 		[1] = 26,
 		[3] = "arcane",
 	},
-	["Oasis Snapjaw"] = {
-		[1] = 222,
+	["Warchief's Blessing"] = {
+		[1] = 257,
 	},
-	["Rejuvenation"] = {
-		[1] = 28,
+	["Threatening Growl"] = {
+		[1] = 22,
 	},
 	["Slice and Dice"] = {
 		[1] = 85,
+	},
+	["Fire Protection"] = {
+		[1] = 305,
+	},
+	["Mongoose Bite"] = {
+		[1] = 192,
+	},
+	["Oasis Snapjaw"] = {
+		[1] = 222,
+	},
+	["Dust Cloud"] = {
+		[1] = 46,
+	},
+	["Earthbind"] = {
+		[1] = 112,
 	},
 	["Thorns"] = {
 		[1] = 23,
@@ -5952,8 +6285,8 @@ DPSMateAbility = {
 	["Improved Blocking"] = {
 		[1] = 127,
 	},
-	["Earthbind"] = {
-		[1] = 112,
+	["Mage Armor"] = {
+		[1] = 253,
 	},
 	["Infected Wound"] = {
 		[1] = 121,
@@ -5961,8 +6294,8 @@ DPSMateAbility = {
 	["Shrink"] = {
 		[1] = 176,
 	},
-	["Mage Armor"] = {
-		[1] = 253,
+	["Rejuvenation"] = {
+		[1] = 28,
 	},
 	["Ghost Wolf"] = {
 		[1] = 105,
@@ -5990,12 +6323,12 @@ DPSMateAbility = {
 	["Evil Twin"] = {
 		[1] = 322,
 	},
-	["Wrath"] = {
-		[1] = 18,
-		[3] = "nature",
+	["Hezrul Bloodmark"] = {
+		[1] = 247,
 	},
-	["Fire Protection"] = {
-		[1] = 305,
+	["Flametongue Attack"] = {
+		[1] = 195,
+		[3] = "fire",
 	},
 	["Spirit Tap"] = {
 		[1] = 180,
@@ -6012,15 +6345,34 @@ DPSMateAbility = {
 	["Healing Potion"] = {
 		[1] = 58,
 	},
-	["Curse of Agony(Periodic)"] = {
-		[1] = 63,
-		[3] = "shadow",
+	["Omen of Clarity"] = {
+		[1] = 289,
 	},
-	["Detect Greater Invisibility"] = {
-		[1] = 307,
+	["Evasion"] = {
+		[1] = 185,
+	},
+	["Heroic Strike"] = {
+		[1] = 4,
+	},
+	["Mana Shield"] = {
+		[1] = 177,
+	},
+	["Noggenfogger Elixir"] = {
+		[1] = 259,
+	},
+	["Sweet Surprise"] = {
+		[1] = 224,
+	},
+	["Smite"] = {
+		[1] = 126,
+		[3] = "holy",
 	},
 	["Evocation"] = {
 		[1] = 254,
+	},
+	["Fire"] = {
+		[1] = 8,
+		[3] = "fire",
 	},
 	["Reflection"] = {
 		[1] = 44,
@@ -6028,38 +6380,18 @@ DPSMateAbility = {
 	["Blink"] = {
 		[1] = 38,
 	},
-	["Arcane Intellect"] = {
-		[1] = 36,
-	},
-	["Smite"] = {
-		[1] = 126,
-		[3] = "holy",
-	},
-	["Corruption"] = {
-		[1] = 97,
-	},
-	["Fire"] = {
-		[1] = 8,
-		[3] = "fire",
-	},
-	["Greater Agility"] = {
-		[1] = 320,
-	},
-	["Flare"] = {
-		[1] = 288,
-	},
 	["Healing Touch"] = {
 		[1] = 27,
 	},
-	["Cat Form"] = {
-		[1] = 142,
+	["Flame Shock"] = {
+		[1] = 103,
+		[3] = "fire",
 	},
-	["Entangling Roots(Periodic)"] = {
-		[1] = 59,
-		[3] = "nature",
+	["Torment"] = {
+		[1] = 220,
 	},
-	["Serpent Sting"] = {
-		[1] = 21,
+	["Corruption"] = {
+		[1] = 97,
 	},
 	["Execute"] = {
 		[1] = 266,
@@ -6067,12 +6399,11 @@ DPSMateAbility = {
 	["Rend"] = {
 		[1] = 24,
 	},
-	["Arcane Explosion"] = {
-		[1] = 198,
-		[3] = "arcane",
+	["Localized Toxin"] = {
+		[1] = 334,
 	},
-	["Lay on Hands"] = {
-		[1] = 243,
+	["Nature's Swiftness"] = {
+		[1] = 306,
 	},
 	["Mind Blast"] = {
 		[1] = 125,
@@ -6081,11 +6412,11 @@ DPSMateAbility = {
 	["Warlord Krom'zar"] = {
 		[1] = 248,
 	},
-	["Amplify Magic"] = {
-		[1] = 314,
+	["Aspect of the Wild"] = {
+		[1] = 323,
 	},
-	["Zhevra Runner"] = {
-		[1] = 155,
+	["Net"] = {
+		[1] = 39,
 	},
 	["Hunter's Mark"] = {
 		[1] = 45,
@@ -6093,14 +6424,15 @@ DPSMateAbility = {
 	["Sneak"] = {
 		[1] = 236,
 	},
-	["Slip'kik's Savvy"] = {
-		[1] = 321,
+	["Cat Form"] = {
+		[1] = 142,
 	},
-	["Blessing of the Claw"] = {
-		[1] = 319,
+	["Psychic Scream"] = {
+		[1] = 168,
 	},
-	["Recently Bandaged"] = {
-		[1] = 41,
+	["Flame Shock(Periodic)"] = {
+		[1] = 104,
+		[3] = "fire",
 	},
 	["Running Speed"] = {
 		[1] = 311,
@@ -6111,8 +6443,9 @@ DPSMateAbility = {
 	["Kolkar Marauder"] = {
 		[1] = 215,
 	},
-	["Life Tap"] = {
-		[1] = 201,
+	["Poisoned Shot(Periodic)"] = {
+		[1] = 67,
+		[3] = "nature",
 	},
 	["Tame Beast"] = {
 		[1] = 136,
@@ -6121,11 +6454,11 @@ DPSMateAbility = {
 		[1] = 107,
 		[3] = "nature",
 	},
-	["Lesser Agility"] = {
-		[1] = 172,
+	["Creeping Mold"] = {
+		[1] = 184,
 	},
-	["World Enlarger"] = {
-		[1] = 267,
+	["Raptor Punch"] = {
+		[1] = 120,
 	},
 	["Aspect of the Cheetah"] = {
 		[1] = 122,
@@ -6272,7 +6605,7 @@ DPSMateDamageDone = {
 					[157] = 22,
 					[1769] = 31,
 					[1013] = 26,
-					[1771] = 27,
+					[886] = 25,
 					[631] = 25,
 					[759] = 24,
 					[887] = 23,
@@ -6287,41 +6620,41 @@ DPSMateDamageDone = {
 					[1017] = 22,
 					[634] = 25,
 					[94] = 25,
-					[1779] = 26,
+					[27] = 21,
 					[1018] = 22,
 					[78] = 20,
-					[1786] = 39,
-					[1781] = 28,
 					[1783] = 28,
+					[1781] = 28,
+					[1060] = 22,
 					[636] = 26,
-					[223] = 25,
+					[255] = 44,
 					[892] = 26,
 					[1020] = 26,
-					[1784] = 30,
+					[1273] = 24,
 					[627] = 28,
-					[1785] = 39,
+					[223] = 25,
 					[1021] = 26,
-					[1275] = 27,
+					[1786] = 39,
 					[766] = 25,
 					[894] = 24,
-					[255] = 44,
+					[1088] = 23,
 					[1788] = 66,
-					[795] = 24,
-					[1562] = 31,
+					[55] = 22,
+					[263] = 21,
 					[256] = 23,
 					[640] = 27,
 					[768] = 27,
 					[1280] = 25,
 					[1251] = 25,
-					[1823] = 39,
+					[1277] = 24,
 					[220] = 21,
 					[897] = 25,
-					[633] = 25,
+					[316] = 23,
 					[642] = 28,
 					[770] = 28,
 					[1795] = 26,
 					[625] = 28,
-					[886] = 25,
+					[1785] = 39,
 					[1030] = 24,
 					[1797] = 28,
 					[1031] = 23,
@@ -6332,27 +6665,27 @@ DPSMateDamageDone = {
 					[1800] = 30,
 					[773] = 24,
 					[225] = 25,
-					[316] = 23,
+					[1032] = 23,
 					[646] = 24,
-					[387] = 22,
+					[1036] = 23,
 					[902] = 26,
 					[312] = 21,
 					[647] = 28,
 					[1038] = 25,
 					[903] = 25,
-					[1039] = 23,
+					[260] = 21,
 					[1806] = 39,
-					[1065] = 24,
-					[1798] = 30,
-					[80] = 23,
+					[1562] = 31,
+					[253] = 22,
+					[932] = 22,
 					[1808] = 38,
-					[221] = 26,
+					[319] = 22,
 					[226] = 24,
-					[1125] = 24,
+					[221] = 26,
 					[1810] = 26,
 					[389] = 26,
-					[1822] = 34,
-					[309] = 22,
+					[1125] = 24,
+					[339] = 27,
 					[1812] = 31,
 					[1046] = 26,
 					[907] = 25,
@@ -6365,51 +6698,51 @@ DPSMateDamageDone = {
 					[1243] = 21,
 					[1817] = 26,
 					[1051] = 26,
-					[327] = 23,
+					[654] = 28,
 					[782] = 23,
-					[910] = 26,
-					[1053] = 24,
+					[1819] = 28,
+					[1564] = 27,
 					[655] = 27,
-					[819] = 21,
+					[314] = 22,
 					[1821] = 31,
 					[1566] = 26,
 					[328] = 26,
 					[1242] = 22,
 					[912] = 24,
-					[1568] = 31,
+					[1057] = 24,
 					[657] = 23,
 					[1569] = 27,
 					[1825] = 33,
 					[1059] = 24,
-					[102] = 24,
-					[1060] = 22,
+					[1823] = 39,
+					[1571] = 30,
 					[914] = 22,
 					[1572] = 27,
 					[659] = 28,
 					[1062] = 21,
-					[393] = 23,
+					[102] = 24,
 					[66] = 26,
 					[330] = 25,
-					[394] = 25,
+					[1064] = 24,
 					[916] = 50,
 					[1576] = 24,
 					[661] = 24,
-					[1277] = 24,
+					[1822] = 34,
 					[1240] = 23,
 					[1578] = 24,
 					[662] = 26,
 					[1068] = 23,
 					[918] = 25,
-					[654] = 28,
+					[1275] = 27,
 					[310] = 23,
 					[1581] = 27,
 					[1003] = 50,
 					[536] = 25,
 					[664] = 27,
-					[319] = 22,
+					[910] = 26,
 					[920] = 24,
-					[560] = 24,
-					[1571] = 30,
+					[1053] = 24,
+					[559] = 21,
 					[909] = 24,
 					[230] = 26,
 					[1586] = 26,
@@ -6420,20 +6753,20 @@ DPSMateDamageDone = {
 					[667] = 26,
 					[1589] = 25,
 					[57] = 22,
-					[67] = 24,
-					[27] = 21,
+					[540] = 20,
+					[1065] = 24,
 					[1591] = 26,
 					[924] = 24,
 					[1235] = 22,
 					[669] = 23,
 					[1593] = 26,
-					[263] = 21,
-					[1625] = 29,
+					[1120] = 24,
+					[1114] = 24,
 					[670] = 28,
 					[1595] = 55,
 					[463] = 25,
 					[1085] = 23,
-					[1626] = 26,
+					[1115] = 27,
 					[1597] = 25,
 					[927] = 21,
 					[617] = 25,
@@ -6442,42 +6775,42 @@ DPSMateDamageDone = {
 					[928] = 20,
 					[1600] = 29,
 					[673] = 23,
-					[1630] = 29,
+					[896] = 22,
 					[232] = 23,
 					[1602] = 25,
 					[337] = 27,
 					[1603] = 31,
 					[930] = 21,
-					[678] = 28,
+					[1809] = 36,
 					[675] = 25,
 					[1605] = 28,
-					[228] = 25,
+					[1279] = 26,
 					[1606] = 30,
 					[1231] = 23,
 					[100] = 25,
-					[932] = 22,
+					[466] = 28,
 					[1608] = 30,
-					[1809] = 36,
+					[1771] = 27,
 					[201] = 20,
-					[690] = 19,
+					[946] = 22,
 					[1610] = 28,
-					[339] = 27,
-					[896] = 22,
+					[678] = 28,
+					[228] = 25,
 					[934] = 21,
 					[1612] = 25,
 					[679] = 25,
-					[905] = 24,
+					[1890] = 29,
 					[998] = 25,
 					[276] = 21,
-					[1564] = 27,
-					[55] = 22,
+					[1039] = 23,
+					[205] = 25,
 					[468] = 25,
 					[614] = 26,
-					[649] = 23,
+					[1634] = 26,
 					[809] = 24,
 					[234] = 22,
 					[869] = 27,
-					[1279] = 26,
+					[309] = 22,
 					[1108] = 27,
 					[938] = 27,
 					[34] = 22,
@@ -6485,48 +6818,48 @@ DPSMateDamageDone = {
 					[1110] = 25,
 					[58] = 21,
 					[1622] = 28,
-					[559] = 21,
+					[50] = 21,
 					[1112] = 25,
 					[940] = 28,
 					[1624] = 26,
 					[685] = 28,
-					[1114] = 24,
+					[1625] = 29,
 					[941] = 26,
-					[1115] = 27,
+					[1626] = 26,
 					[1882] = 29,
-					[616] = 27,
-					[50] = 21,
+					[1798] = 30,
+					[1779] = 26,
 					[1628] = 28,
-					[1884] = 27,
+					[687] = 53,
 					[815] = 24,
 					[943] = 25,
-					[1119] = 20,
+					[1630] = 29,
 					[1886] = 28,
-					[1120] = 24,
+					[1631] = 25,
 					[944] = 21,
 					[1632] = 27,
 					[1888] = 30,
 					[1122] = 23,
 					[236] = 21,
 					[562] = 22,
-					[1890] = 29,
+					[690] = 19,
 					[1124] = 22,
-					[946] = 22,
+					[473] = 24,
 					[1636] = 28,
-					[205] = 25,
+					[616] = 27,
 					[1637] = 27,
-					[525] = 22,
+					[327] = 23,
 					[564] = 23,
 					[692] = 25,
 					[1128] = 20,
-					[260] = 21,
+					[905] = 24,
 					[1733] = 26,
 					[693] = 26,
 					[1130] = 24,
 					[465] = 25,
 					[566] = 25,
 					[822] = 24,
-					[411] = 23,
+					[1132] = 21,
 					[333] = 23,
 					[567] = 24,
 					[1220] = 21,
@@ -6546,102 +6879,102 @@ DPSMateDamageDone = {
 					[29] = 21,
 					[571] = 26,
 					[689] = 25,
-					[1142] = 27,
+					[51] = 26,
 					[1034] = 25,
 					[572] = 25,
-					[103] = 23,
 					[1144] = 22,
+					[103] = 23,
 					[119] = 24,
-					[1148] = 24,
+					[830] = 24,
 					[701] = 27,
 					[1146] = 22,
 					[239] = 25,
 					[574] = 28,
 					[702] = 28,
-					[830] = 24,
+					[1148] = 24,
 					[391] = 43,
 					[1149] = 24,
 					[703] = 25,
 					[831] = 25,
 					[576] = 24,
 					[1151] = 20,
-					[1153] = 22,
-					[416] = 24,
-					[833] = 28,
 					[577] = 18,
-					[705] = 25,
+					[416] = 24,
 					[208] = 25,
+					[1153] = 22,
+					[705] = 25,
+					[1154] = 26,
 					[624] = 28,
-					[1156] = 26,
-					[836] = 26,
 					[417] = 26,
-					[965] = 26,
+					[1160] = 27,
+					[1156] = 26,
+					[241] = 25,
 					[420] = 25,
 					[707] = 23,
-					[835] = 21,
+					[1158] = 22,
 					[963] = 21,
 					[1169] = 20,
-					[178] = 23,
-					[1160] = 27,
-					[107] = 47,
+					[1425] = 24,
+					[836] = 26,
+					[860] = 25,
 					[581] = 24,
 					[709] = 28,
 					[588] = 23,
-					[241] = 25,
+					[965] = 26,
 					[89] = 20,
 					[710] = 22,
 					[419] = 24,
 					[966] = 23,
-					[583] = 23,
-					[105] = 20,
+					[1676] = 26,
+					[422] = 27,
 					[151] = 19,
-					[53] = 26,
-					[1678] = 26,
+					[1206] = 27,
+					[1167] = 23,
 					[712] = 28,
 					[840] = 25,
 					[968] = 23,
 					[585] = 23,
-					[1425] = 24,
+					[178] = 23,
 					[210] = 23,
-					[860] = 25,
+					[107] = 47,
 					[586] = 25,
-					[714] = 26,
+					[1427] = 26,
 					[1172] = 21,
 					[1428] = 49,
 					[36] = 23,
 					[715] = 25,
 					[1174] = 21,
-					[1430] = 28,
+					[60] = 22,
 					[1686] = 28,
 					[358] = 25,
-					[422] = 27,
-					[972] = 24,
+					[844] = 26,
+					[121] = 25,
 					[589] = 54,
 					[423] = 26,
 					[75] = 25,
 					[243] = 25,
 					[1693] = 68,
-					[1206] = 27,
+					[53] = 26,
 					[846] = 22,
 					[974] = 24,
 					[591] = 25,
-					[1182] = 21,
 					[847] = 28,
+					[1182] = 21,
 					[37] = 25,
-					[1697] = 33,
-					[720] = 25,
+					[849] = 25,
+					[360] = 27,
 					[1695] = 38,
 					[976] = 24,
 					[593] = 27,
 					[1204] = 27,
-					[849] = 25,
-					[1698] = 27,
+					[212] = 23,
 					[594] = 24,
+					[1698] = 27,
 					[722] = 23,
 					[425] = 28,
 					[1203] = 27,
+					[857] = 28,
 					[214] = 23,
-					[1713] = 26,
 					[851] = 24,
 					[843] = 25,
 					[596] = 28,
@@ -6652,7 +6985,7 @@ DPSMateDamageDone = {
 					[428] = 25,
 					[853] = 26,
 					[1137] = 22,
-					[598] = 22,
+					[1706] = 26,
 					[600] = 24,
 					[629] = 22,
 					[982] = 23,
@@ -6661,121 +6994,121 @@ DPSMateDamageDone = {
 					[855] = 28,
 					[983] = 24,
 					[1710] = 28,
-					[1706] = 26,
+					[598] = 22,
 					[1711] = 26,
 					[842] = 28,
 					[82] = 21,
 					[1457] = 36,
-					[857] = 28,
+					[1713] = 26,
 					[985] = 24,
 					[602] = 25,
 					[838] = 25,
 					[1715] = 33,
-					[212] = 23,
+					[1697] = 33,
 					[603] = 26,
-					[360] = 27,
+					[720] = 25,
 					[1717] = 39,
 					[987] = 24,
 					[1718] = 36,
 					[91] = 20,
 					[1208] = 24,
-					[121] = 25,
+					[972] = 24,
 					[605] = 27,
-					[844] = 26,
+					[105] = 20,
 					[215] = 22,
 					[989] = 22,
-					[60] = 22,
-					[1427] = 26,
+					[1430] = 28,
+					[714] = 26,
 					[862] = 51,
 					[990] = 23,
-					[1167] = 23,
-					[1676] = 26,
-					[1158] = 22,
+					[1678] = 26,
+					[583] = 23,
+					[835] = 21,
 					[1117] = 21,
-					[1154] = 26,
+					[833] = 28,
 					[876] = 26,
 					[864] = 26,
 					[992] = 26,
 					[25] = 22,
 					[112] = 23,
 					[827] = 24,
-					[51] = 26,
+					[1142] = 27,
 					[305] = 26,
 					[331] = 25,
 					[866] = 25,
 					[994] = 52,
 					[1732] = 30,
-					[1132] = 21,
+					[411] = 23,
 					[867] = 27,
-					[1634] = 26,
+					[651] = 25,
 					[76] = 22,
 					[92] = 24,
 					[1735] = 29,
 					[996] = 22,
 					[153] = 20,
-					[1819] = 28,
+					[1784] = 30,
 					[1737] = 31,
 					[249] = 20,
 					[307] = 23,
-					[936] = 25,
+					[269] = 21,
 					[1739] = 30,
 					[499] = 22,
-					[314] = 22,
-					[473] = 24,
+					[649] = 23,
+					[936] = 25,
 					[871] = 25,
-					[203] = 21,
+					[1579] = 24,
 					[1742] = 29,
-					[651] = 25,
+					[560] = 24,
 					[872] = 18,
 					[1000] = 25,
 					[1744] = 28,
-					[258] = 20,
-					[1631] = 25,
+					[203] = 21,
+					[1119] = 20,
 					[1001] = 45,
 					[1746] = 31,
-					[1055] = 23,
+					[1884] = 27,
 					[1747] = 26,
 					[1002] = 21,
 					[1748] = 28,
-					[687] = 53,
+					[1568] = 31,
 					[1238] = 23,
 					[62] = 26,
 					[1750] = 28,
-					[540] = 20,
+					[525] = 22,
 					[1751] = 31,
-					[1057] = 24,
-					[1579] = 24,
-					[1088] = 23,
+					[1801] = 26,
+					[98] = 25,
+					[1067] = 26,
 					[1753] = 30,
 					[251] = 21,
 					[1754] = 29,
-					[253] = 22,
-					[98] = 25,
-					[1255] = 27,
-					[1064] = 24,
+					[80] = 23,
+					[394] = 25,
+					[819] = 21,
+					[1055] = 23,
 					[1501] = 31,
 					[879] = 25,
-					[1067] = 26,
+					[1255] = 27,
 					[1758] = 39,
 					[1503] = 33,
 					[1759] = 34,
-					[1036] = 23,
+					[633] = 25,
 					[1249] = 24,
-					[269] = 21,
+					[393] = 23,
 					[1761] = 35,
-					[1801] = 26,
+					[258] = 20,
 					[1762] = 30,
 					[538] = 20,
 					[882] = 27,
 					[1010] = 25,
 					[1253] = 28,
-					[1273] = 24,
-					[1032] = 23,
+					[795] = 24,
+					[67] = 24,
 					[1011] = 24,
 					[1766] = 30,
 					[378] = 24,
 					[1767] = 26,
-					[466] = 28,
+					[387] = 22,
 				},
 			},
 			[7] = {
@@ -7129,14 +7462,14 @@ DPSMateDamageDone = {
 					[841] = 8,
 					[522] = 8,
 					[1040] = 8,
-					[616] = 8,
+					[1742] = 8,
 					[1232] = 8,
 					[872] = 8,
 					[1000] = 8,
 					[1075] = 8,
 					[745] = 8,
 					[1745] = 8,
-					[1742] = 8,
+					[616] = 8,
 					[261] = 8,
 					[36] = 8,
 					[874] = 8,
@@ -7174,8 +7507,8 @@ DPSMateDamageDone = {
 					[86] = 8,
 					[1787] = 8,
 					[1764] = 8,
-					[797] = 8,
 					[1794] = 8,
+					[797] = 8,
 					[26] = 8,
 					[628] = 8,
 					[94] = 8,
@@ -7211,8 +7544,8 @@ DPSMateDamageDone = {
 					[366] = 6,
 					[488] = 6,
 					[490] = 6,
-					[357] = 6,
 					[492] = 18,
+					[357] = 6,
 					[498] = 6,
 					[359] = 6,
 					[494] = 12,
@@ -7331,9 +7664,9 @@ DPSMateDamageDone = {
 					[816] = 13,
 					[1592] = 13,
 					[220] = 13,
-					[1054] = 13,
-					[975] = 13,
 					[1118] = 13,
+					[975] = 13,
+					[1054] = 13,
 					[107] = 13,
 					[37] = 13,
 					[378] = 13,
@@ -7348,35 +7681,35 @@ DPSMateDamageDone = {
 					[1770] = 13,
 					[688] = 13,
 					[202] = 13,
-					[1056] = 13,
-					[1596] = 13,
+					[1818] = 13,
 					[77] = 13,
+					[1596] = 13,
 					[1739] = 13,
 					[945] = 13,
 					[1136] = 13,
-					[516] = 13,
-					[327] = 13,
+					[1787] = 13,
+					[524] = 13,
 					[1184] = 13,
 					[264] = 13,
 					[89] = 13,
 					[937] = 13,
 					[1248] = 13,
-					[882] = 26,
+					[1884] = 13,
 					[580] = 13,
 					[1169] = 13,
-					[1884] = 13,
+					[882] = 26,
 					[895] = 13,
 					[928] = 13,
 					[1084] = 13,
-					[1757] = 13,
 					[1009] = 13,
+					[1757] = 13,
 					[1154] = 13,
 					[1805] = 13,
 					[99] = 13,
-					[524] = 13,
+					[327] = 13,
 					[1726] = 13,
-					[1787] = 13,
-					[1818] = 13,
+					[516] = 13,
+					[1056] = 13,
 					[573] = 13,
 					[901] = 13,
 					[1568] = 13,
@@ -7446,6 +7779,36 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
+				},
+			},
+		},
+		[1570] = {
+			["i"] = 737,
+			[3] = {
+				[1] = 0,
+				[2] = 0,
+				[3] = 0,
+				[4] = 0,
+				[5] = 1,
+				[6] = 737,
+				[7] = 737,
+				[8] = 737,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 737,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1918] = 737,
 				},
 			},
 		},
@@ -9034,12 +9397,12 @@ DPSMateDamageDone = {
 					[1299] = 7,
 					[1303] = 7,
 					[1307] = 14,
-					[1300] = 28,
 					[1315] = 7,
-					[1304] = 14,
+					[1300] = 28,
+					[1319] = 14,
 					[1308] = 21,
 					[1318] = 7,
-					[1319] = 14,
+					[1304] = 14,
 				},
 			},
 			[195] = {
@@ -9313,10 +9676,10 @@ DPSMateDamageDone = {
 					[141] = 16,
 					[164] = 9,
 					[157] = 7,
-					[166] = 5,
-					[173] = 4,
 					[151] = 9,
 					[143] = 5,
+					[166] = 5,
+					[173] = 4,
 					[175] = 9,
 				},
 			},
@@ -9465,12 +9828,12 @@ DPSMateDamageDone = {
 					[470] = 57,
 					[456] = 56,
 					[443] = 116,
-					[468] = 52,
+					[453] = 78,
 					[434] = 59,
 					[435] = 54,
 					[436] = 106,
 					[452] = 52,
-					[453] = 78,
+					[468] = 52,
 					[451] = 56,
 				},
 			},
@@ -9512,9 +9875,9 @@ DPSMateDamageDone = {
 					[467] = 8,
 					[479] = 8,
 					[452] = 8,
-					[476] = 8,
-					[437] = 16,
 					[445] = 16,
+					[437] = 16,
+					[476] = 8,
 					[453] = 8,
 					[473] = 8,
 					[438] = 16,
@@ -9829,10 +10192,10 @@ DPSMateDamageDone = {
 					[777] = 56,
 					[794] = 122,
 					[779] = 60,
-					[829] = 58,
+					[798] = 56,
 					[828] = 52,
 					[772] = 62,
-					[798] = 56,
+					[829] = 58,
 					[814] = 48,
 					[768] = 60,
 					[815] = 59,
@@ -9871,11 +10234,95 @@ DPSMateDamageDone = {
 				},
 			},
 		},
-		[522] = {
-			[182] = {
+		[1164] = {
+			["i"] = 337,
+			[14] = {
+				[1] = 1,
+				[2] = 63,
+				[3] = 63,
+				[4] = 63,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 63,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1908] = 63,
+				},
+			},
+			[3] = {
 				[1] = 3,
-				[2] = 3,
-				[3] = 3,
+				[2] = 45,
+				[3] = 51,
+				[4] = 143,
+				[5] = 1,
+				[6] = 102,
+				[7] = 102,
+				[8] = 102,
+				[9] = 0,
+				[10] = 0,
+				[11] = 1,
+				[12] = 0,
+				[13] = 245,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1908] = 245,
+				},
+			},
+			[87] = {
+				[1] = 1,
+				[2] = 29,
+				[3] = 29,
+				[4] = 29,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 29,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1908] = 29,
+				},
+			},
+		},
+		[657] = {
+			[26] = {
+				[1] = 1,
+				[2] = 9,
+				[3] = 9,
 				[4] = 9,
 				[5] = 0,
 				[6] = 0,
@@ -9896,235 +10343,9 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[48] = 3,
-					[4] = 3,
-					[34] = 3,
+					[1455] = 9,
 				},
 			},
-			[6] = {
-				[1] = 14,
-				[2] = 26,
-				[3] = 34,
-				[4] = 416,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 435,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 1,
-				[19] = 19,
-				[20] = 19,
-				[21] = 19,
-				[22] = 0,
-				["i"] = {
-					[2] = 31,
-					[45] = 29,
-					[24] = 33,
-					[0] = 30,
-					[38] = 28,
-					[29] = 33,
-					[15] = 34,
-					[8] = 26,
-					[17] = 29,
-					[30] = 19,
-					[26] = 26,
-					[39] = 28,
-					[41] = 28,
-					[42] = 28,
-					[44] = 33,
-				},
-			},
-			[13] = {
-				[1] = 11,
-				[2] = 16,
-				[3] = 16,
-				[4] = 176,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 176,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1] = 16,
-					[4] = 16,
-					[13] = 16,
-					[27] = 16,
-					[7] = 16,
-					[30] = 16,
-					[16] = 16,
-					[33] = 16,
-					[9] = 16,
-					[19] = 16,
-					[36] = 16,
-				},
-			},
-			[3] = {
-				[1] = 2,
-				[2] = 46,
-				[3] = 52,
-				[4] = 98,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 98,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[21] = 46,
-					[8] = 52,
-				},
-			},
-			[7] = {
-				[1] = 3,
-				[2] = 62,
-				[3] = 67,
-				[4] = 193,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 1,
-				[13] = 193,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[3] = 64,
-					[33] = 62,
-					[18] = 67,
-				},
-			},
-			["i"] = 1080,
-			[50] = {
-				[1] = 0,
-				[2] = 0,
-				[3] = 0,
-				[4] = 0,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 1,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 0,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-				},
-			},
-			[37] = {
-				[1] = 6,
-				[2] = 21,
-				[3] = 21,
-				[4] = 126,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 126,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[26] = 21,
-					[14] = 21,
-					[45] = 21,
-					[39] = 21,
-					[8] = 21,
-					[37] = 21,
-				},
-			},
-			[218] = {
-				[1] = 1,
-				[2] = 43,
-				[3] = 43,
-				[4] = 43,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 43,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[28] = 43,
-				},
-			},
-		},
-		[657] = {
-			["i"] = 145,
 			[44] = {
 				[1] = 7,
 				[2] = 3,
@@ -10157,33 +10378,7 @@ DPSMateDamageDone = {
 					[1445] = 3,
 				},
 			},
-			[26] = {
-				[1] = 1,
-				[2] = 9,
-				[3] = 9,
-				[4] = 9,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 9,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1455] = 9,
-				},
-			},
+			["i"] = 145,
 			[3] = {
 				[1] = 6,
 				[2] = 6,
@@ -12056,54 +12251,54 @@ DPSMateDamageDone = {
 					[1373] = 9,
 					[1118] = 7,
 					[943] = 11,
-					[402] = 8,
+					[886] = 11,
 					[688] = 8,
 					[1120] = 7,
 					[1376] = 9,
 					[561] = 7,
-					[949] = 10,
+					[1327] = 12,
 					[817] = 8,
 					[1378] = 7,
 					[1123] = 10,
 					[690] = 9,
 					[1124] = 10,
 					[882] = 11,
-					[1131] = 10,
+					[566] = 8,
 					[691] = 11,
 					[1126] = 10,
 					[1382] = 6,
-					[1327] = 12,
+					[1265] = 9,
 					[410] = 8,
 					[1128] = 9,
 					[1384] = 7,
 					[1129] = 7,
 					[693] = 8,
 					[821] = 10,
-					[1386] = 6,
-					[566] = 8,
+					[949] = 10,
+					[1131] = 10,
 					[881] = 10,
-					[886] = 11,
+					[1356] = 6,
 					[1388] = 12,
 					[567] = 10,
 					[625] = 10,
 					[1134] = 11,
 					[1390] = 9,
-					[1356] = 6,
-					[658] = 8,
+					[918] = 11,
+					[929] = 7,
 					[824] = 10,
 					[1392] = 6,
 					[1137] = 11,
-					[929] = 7,
+					[658] = 8,
 					[312] = 5,
 					[953] = 10,
-					[642] = 10,
-					[1395] = 6,
+					[794] = 7,
+					[698] = 11,
 					[826] = 10,
 					[954] = 8,
 					[571] = 7,
 					[1397] = 4,
-					[794] = 7,
-					[666] = 9,
+					[642] = 10,
+					[661] = 10,
 					[572] = 11,
 					[1399] = 6,
 					[414] = 7,
@@ -12111,7 +12306,7 @@ DPSMateDamageDone = {
 					[1145] = 7,
 					[701] = 9,
 					[829] = 11,
-					[661] = 10,
+					[666] = 9,
 					[574] = 11,
 					[1403] = 19,
 					[830] = 11,
@@ -12151,15 +12346,15 @@ DPSMateDamageDone = {
 					[1318] = 11,
 					[1088] = 11,
 					[839] = 22,
-					[1426] = 9,
+					[969] = 7,
 					[584] = 9,
 					[712] = 11,
-					[420] = 10,
+					[1168] = 10,
 					[1424] = 19,
 					[585] = 11,
 					[1425] = 11,
 					[841] = 9,
-					[969] = 7,
+					[1426] = 9,
 					[1171] = 7,
 					[357] = 9,
 					[842] = 8,
@@ -12183,10 +12378,10 @@ DPSMateDamageDone = {
 					[591] = 11,
 					[1437] = 12,
 					[847] = 9,
-					[720] = 8,
-					[1440] = 16,
 					[1439] = 11,
-					[848] = 10,
+					[1440] = 16,
+					[720] = 8,
+					[1184] = 8,
 					[976] = 8,
 					[593] = 10,
 					[1394] = 6,
@@ -12201,14 +12396,14 @@ DPSMateDamageDone = {
 					[851] = 10,
 					[1446] = 18,
 					[596] = 20,
-					[1448] = 8,
-					[426] = 8,
 					[980] = 7,
+					[426] = 8,
+					[1448] = 8,
 					[1277] = 8,
 					[1449] = 12,
 					[853] = 11,
 					[784] = 10,
-					[598] = 10,
+					[1195] = 8,
 					[363] = 23,
 					[854] = 11,
 					[616] = 11,
@@ -12228,7 +12423,7 @@ DPSMateDamageDone = {
 					[332] = 17,
 					[614] = 10,
 					[986] = 8,
-					[603] = 7,
+					[1205] = 9,
 					[859] = 11,
 					[1206] = 8,
 					[1192] = 7,
@@ -12273,7 +12468,7 @@ DPSMateDamageDone = {
 					[770] = 4,
 					[997] = 5,
 					[307] = 8,
-					[1205] = 9,
+					[603] = 7,
 					[870] = 11,
 					[336] = 11,
 					[400] = 10,
@@ -12281,13 +12476,13 @@ DPSMateDamageDone = {
 					[1364] = 1,
 					[999] = 5,
 					[308] = 8,
-					[1195] = 8,
+					[598] = 10,
 					[872] = 11,
 					[421] = 8,
 					[1233] = 2,
 					[745] = 8,
 					[873] = 11,
-					[1184] = 8,
+					[848] = 10,
 					[1235] = 10,
 					[1052] = 8,
 					[874] = 10,
@@ -12295,7 +12490,7 @@ DPSMateDamageDone = {
 					[1237] = 9,
 					[1313] = 8,
 					[1238] = 10,
-					[1168] = 10,
+					[420] = 10,
 					[310] = 8,
 					[1272] = 10,
 					[1240] = 8,
@@ -12311,13 +12506,13 @@ DPSMateDamageDone = {
 					[940] = 11,
 					[1297] = 4,
 					[879] = 7,
-					[698] = 11,
+					[1395] = 6,
 					[1247] = 8,
 					[1348] = 11,
-					[918] = 11,
+					[1072] = 9,
 					[1008] = 8,
 					[1249] = 2,
-					[1265] = 9,
+					[1386] = 6,
 					[1250] = 9,
 					[948] = 7,
 					[313] = 8,
@@ -12325,7 +12520,7 @@ DPSMateDamageDone = {
 					[1252] = 7,
 					[534] = 10,
 					[627] = 11,
-					[1072] = 9,
+					[402] = 8,
 					[887] = 7,
 					[675] = 8,
 					[1255] = 8,
@@ -13586,20 +13781,20 @@ DPSMateDamageDone = {
 					[1752] = 4,
 					[1716] = 10,
 					[1859] = 9,
-					[1621] = 8,
+					[1748] = 8,
 					[1764] = 9,
 					[1780] = 8,
 					[1633] = 7,
 					[1812] = 5,
-					[1751] = 16,
+					[1732] = 8,
 					[1717] = 12,
 					[1733] = 8,
 					[1622] = 9,
 					[1765] = 9,
 					[1781] = 11,
-					[1732] = 8,
+					[1751] = 16,
 					[1686] = 5,
-					[1824] = 15,
+					[1887] = 6,
 					[1718] = 14,
 					[1861] = 10,
 					[1750] = 8,
@@ -13607,36 +13802,36 @@ DPSMateDamageDone = {
 					[1782] = 11,
 					[1798] = 11,
 					[1814] = 5,
-					[1640] = 4,
+					[1610] = 11,
 					[1680] = 6,
 					[1735] = 9,
 					[1878] = 8,
 					[1767] = 8,
 					[1783] = 8,
 					[1799] = 8,
-					[1737] = 9,
-					[1864] = 9,
-					[1860] = 9,
-					[1736] = 11,
+					[1640] = 4,
+					[1753] = 9,
+					[1624] = 8,
+					[1609] = 8,
 					[1879] = 7,
 					[1895] = 10,
-					[1753] = 9,
+					[1860] = 9,
 					[1800] = 8,
 					[1689] = 10,
-					[1887] = 6,
-					[1628] = 6,
-					[1610] = 11,
+					[1737] = 9,
+					[1824] = 15,
+					[1864] = 9,
 					[1626] = 4,
 					[1695] = 12,
 					[1865] = 12,
-					[1674] = 8,
+					[1801] = 11,
 					[1817] = 6,
 					[1706] = 8,
-					[1676] = 10,
+					[1803] = 6,
 					[1738] = 9,
 					[1881] = 14,
 					[1770] = 9,
-					[1630] = 6,
+					[1757] = 12,
 					[1675] = 8,
 					[1691] = 5,
 					[1758] = 12,
@@ -13645,7 +13840,7 @@ DPSMateDamageDone = {
 					[1882] = 8,
 					[1771] = 9,
 					[1787] = 11,
-					[1803] = 6,
+					[1676] = 10,
 					[1692] = 5,
 					[1708] = 8,
 					[1597] = 9,
@@ -13653,10 +13848,10 @@ DPSMateDamageDone = {
 					[1629] = 4,
 					[1742] = 8,
 					[1741] = 11,
-					[1677] = 14,
+					[1804] = 7,
 					[1820] = 5,
 					[1709] = 8,
-					[1757] = 12,
+					[1630] = 6,
 					[1868] = 10,
 					[1884] = 8,
 					[1773] = 8,
@@ -13667,20 +13862,20 @@ DPSMateDamageDone = {
 					[1599] = 9,
 					[1615] = 8,
 					[1631] = 7,
-					[1804] = 7,
-					[1755] = 7,
+					[1677] = 14,
+					[1628] = 6,
 					[1806] = 7,
 					[1822] = 14,
 					[1711] = 8,
 					[1600] = 10,
-					[1801] = 11,
+					[1674] = 8,
 					[1886] = 8,
 					[1775] = 8,
-					[1609] = 8,
+					[1736] = 11,
 					[1807] = 16,
-					[1624] = 8,
 					[1605] = 8,
-					[1748] = 8,
+					[1621] = 8,
+					[1755] = 7,
 					[1617] = 11,
 					[1760] = 11,
 					[1681] = 1,
@@ -13755,11 +13950,11 @@ DPSMateDamageDone = {
 					[198] = 8,
 					[135] = 8,
 					[144] = 8,
-					[160] = 8,
-					[99] = 8,
-					[70] = 4,
 					[66] = 8,
 					[68] = 8,
+					[70] = 4,
+					[160] = 8,
+					[99] = 8,
 					[199] = 16,
 					[141] = 8,
 					[105] = 8,
@@ -13823,8 +14018,8 @@ DPSMateDamageDone = {
 					[132] = 23,
 					[158] = 23,
 					[60] = 23,
-					[68] = 12,
 					[96] = 6,
+					[68] = 12,
 					[197] = 23,
 				},
 			},
@@ -13879,8 +14074,8 @@ DPSMateDamageDone = {
 					[69] = 3,
 					[85] = 11,
 					[101] = 3,
+					[169] = 7,
 					[200] = 10,
-					[138] = 3,
 					[142] = 3,
 					[140] = 3,
 					[59] = 3,
@@ -13891,7 +14086,7 @@ DPSMateDamageDone = {
 					[161] = 3,
 					[165] = 3,
 					[144] = 7,
-					[169] = 7,
+					[138] = 3,
 					[73] = 3,
 					[89] = 11,
 					[136] = 3,
@@ -13973,11 +14168,11 @@ DPSMateDamageDone = {
 					[102] = 10,
 					[97] = 10,
 					[99] = 10,
-					[133] = 10,
-					[160] = 10,
 					[68] = 10,
-					[199] = 10,
+					[160] = 10,
+					[133] = 10,
 					[70] = 10,
+					[199] = 10,
 					[176] = 20,
 					[76] = 8,
 					[198] = 20,
@@ -14078,13 +14273,13 @@ DPSMateDamageDone = {
 				},
 			},
 		},
-		[1430] = {
-			["i"] = 309,
-			[3] = {
+		[678] = {
+			["i"] = 470,
+			[44] = {
 				[1] = 4,
-				[2] = 70,
-				[3] = 82,
-				[4] = 309,
+				[2] = 6,
+				[3] = 6,
+				[4] = 24,
 				[5] = 0,
 				[6] = 0,
 				[7] = 0,
@@ -14093,7 +14288,7 @@ DPSMateDamageDone = {
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 309,
+				[13] = 24,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -14104,8 +14299,119 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[1917] = 227,
-					[1918] = 82,
+					[1898] = 18,
+					[1899] = 6,
+				},
+			},
+			[26] = {
+				[1] = 1,
+				[2] = 10,
+				[3] = 10,
+				[4] = 10,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 10,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1897] = 10,
+				},
+			},
+			[3] = {
+				[1] = 7,
+				[2] = 21,
+				[3] = 42,
+				[4] = 234,
+				[5] = 1,
+				[6] = 60,
+				[7] = 60,
+				[8] = 60,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 294,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1897] = 42,
+					[1898] = 68,
+					[1899] = 69,
+					[1900] = 115,
+				},
+			},
+			[15] = {
+				[1] = 0,
+				[2] = 0,
+				[3] = 0,
+				[4] = 0,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 1,
+				[13] = 0,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+				},
+			},
+			[101] = {
+				[1] = 3,
+				[2] = 46,
+				[3] = 50,
+				[4] = 142,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 142,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1898] = 46,
+					[1899] = 96,
 				},
 			},
 		},
@@ -14223,94 +14529,8 @@ DPSMateDamageDone = {
 				},
 			},
 		},
-		[678] = {
-			[26] = {
-				[1] = 1,
-				[2] = 10,
-				[3] = 10,
-				[4] = 10,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 10,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1897] = 10,
-				},
-			},
-			[44] = {
-				[1] = 4,
-				[2] = 6,
-				[3] = 6,
-				[4] = 24,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 24,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1898] = 18,
-					[1899] = 6,
-				},
-			},
-			["i"] = 470,
-			[3] = {
-				[1] = 7,
-				[2] = 21,
-				[3] = 42,
-				[4] = 234,
-				[5] = 1,
-				[6] = 60,
-				[7] = 60,
-				[8] = 60,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 294,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1897] = 42,
-					[1898] = 68,
-					[1899] = 69,
-					[1900] = 115,
-				},
-			},
-			[15] = {
+		[552] = {
+			[2] = {
 				[1] = 0,
 				[2] = 0,
 				[3] = 0,
@@ -14336,70 +14556,11 @@ DPSMateDamageDone = {
 				["i"] = {
 				},
 			},
-			[101] = {
-				[1] = 3,
-				[2] = 46,
-				[3] = 50,
-				[4] = 142,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 142,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1898] = 46,
-					[1899] = 96,
-				},
-			},
-		},
-		[1286] = {
-			["i"] = 239,
-			[11] = {
-				[1] = 4,
-				[2] = 8,
-				[3] = 8,
-				[4] = 32,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 32,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1913] = 8,
-					[1914] = 24,
-				},
-			},
 			[3] = {
-				[1] = 8,
+				[1] = 1,
 				[2] = 24,
-				[3] = 28,
-				[4] = 207,
+				[3] = 24,
+				[4] = 24,
 				[5] = 0,
 				[6] = 0,
 				[7] = 0,
@@ -14408,7 +14569,7 @@ DPSMateDamageDone = {
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 207,
+				[13] = 24,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -14419,8 +14580,39 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[1913] = 101,
-					[1914] = 106,
+					[323] = 24,
+				},
+			},
+			["i"] = 24,
+		},
+		[1430] = {
+			["i"] = 309,
+			[3] = {
+				[1] = 4,
+				[2] = 70,
+				[3] = 82,
+				[4] = 309,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 309,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1917] = 227,
+					[1918] = 82,
 				},
 			},
 		},
@@ -14454,6 +14646,65 @@ DPSMateDamageDone = {
 				},
 			},
 		},
+		[1205] = {
+			["i"] = 260,
+			[3] = {
+				[1] = 4,
+				[2] = 8,
+				[3] = 30,
+				[4] = 73,
+				[5] = 1,
+				[6] = 52,
+				[7] = 52,
+				[8] = 52,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 125,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1910] = 38,
+					[1911] = 87,
+				},
+			},
+			[68] = {
+				[1] = 3,
+				[2] = 42,
+				[3] = 49,
+				[4] = 135,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 135,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1910] = 86,
+					[1911] = 49,
+				},
+			},
+		},
 		[896] = {
 			["i"] = 144,
 			[3] = {
@@ -14481,63 +14732,6 @@ DPSMateDamageDone = {
 				[22] = 0,
 				["i"] = {
 					[1905] = 144,
-				},
-			},
-		},
-		[766] = {
-			["i"] = 381,
-			[3] = {
-				[1] = 1,
-				[2] = 93,
-				[3] = 93,
-				[4] = 93,
-				[5] = 1,
-				[6] = 186,
-				[7] = 186,
-				[8] = 186,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 279,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1907] = 279,
-				},
-			},
-			[87] = {
-				[1] = 2,
-				[2] = 51,
-				[3] = 51,
-				[4] = 102,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 102,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1907] = 102,
 				},
 			},
 		},
@@ -14614,6 +14808,33 @@ DPSMateDamageDone = {
 					[1017] = 61,
 				},
 			},
+			[125] = {
+				[1] = 1,
+				[2] = 21,
+				[3] = 21,
+				[4] = 21,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 21,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1017] = 21,
+				},
+			},
 			[31] = {
 				[1] = 12,
 				[2] = 15,
@@ -14646,33 +14867,6 @@ DPSMateDamageDone = {
 					[1017] = 23,
 					[1019] = 15,
 					[1024] = 24,
-				},
-			},
-			[125] = {
-				[1] = 1,
-				[2] = 21,
-				[3] = 21,
-				[4] = 21,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 21,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1017] = 21,
 				},
 			},
 			["i"] = 462,
@@ -14708,12 +14902,12 @@ DPSMateDamageDone = {
 				},
 			},
 		},
-		[680] = {
-			[26] = {
-				[1] = 2,
-				[2] = 17,
-				[3] = 17,
-				[4] = 34,
+		[522] = {
+			[182] = {
+				[1] = 3,
+				[2] = 3,
+				[3] = 3,
+				[4] = 9,
 				[5] = 0,
 				[6] = 0,
 				[7] = 0,
@@ -14722,7 +14916,7 @@ DPSMateDamageDone = {
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 34,
+				[13] = 9,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -14733,10 +14927,235 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[1897] = 17,
-					[1900] = 17,
+					[48] = 3,
+					[4] = 3,
+					[34] = 3,
 				},
 			},
+			[6] = {
+				[1] = 14,
+				[2] = 26,
+				[3] = 34,
+				[4] = 416,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 435,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 1,
+				[19] = 19,
+				[20] = 19,
+				[21] = 19,
+				[22] = 0,
+				["i"] = {
+					[2] = 31,
+					[45] = 29,
+					[24] = 33,
+					[0] = 30,
+					[38] = 28,
+					[29] = 33,
+					[15] = 34,
+					[8] = 26,
+					[17] = 29,
+					[30] = 19,
+					[26] = 26,
+					[39] = 28,
+					[41] = 28,
+					[42] = 28,
+					[44] = 33,
+				},
+			},
+			[13] = {
+				[1] = 11,
+				[2] = 16,
+				[3] = 16,
+				[4] = 176,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 176,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1] = 16,
+					[4] = 16,
+					[13] = 16,
+					[27] = 16,
+					[7] = 16,
+					[30] = 16,
+					[16] = 16,
+					[33] = 16,
+					[9] = 16,
+					[19] = 16,
+					[36] = 16,
+				},
+			},
+			[3] = {
+				[1] = 2,
+				[2] = 46,
+				[3] = 52,
+				[4] = 98,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 98,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[21] = 46,
+					[8] = 52,
+				},
+			},
+			[7] = {
+				[1] = 3,
+				[2] = 62,
+				[3] = 67,
+				[4] = 193,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 1,
+				[13] = 193,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[3] = 64,
+					[33] = 62,
+					[18] = 67,
+				},
+			},
+			["i"] = 1080,
+			[50] = {
+				[1] = 0,
+				[2] = 0,
+				[3] = 0,
+				[4] = 0,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 1,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 0,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+				},
+			},
+			[37] = {
+				[1] = 6,
+				[2] = 21,
+				[3] = 21,
+				[4] = 126,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 126,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[26] = 21,
+					[14] = 21,
+					[45] = 21,
+					[39] = 21,
+					[8] = 21,
+					[37] = 21,
+				},
+			},
+			[218] = {
+				[1] = 1,
+				[2] = 43,
+				[3] = 43,
+				[4] = 43,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 43,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[28] = 43,
+				},
+			},
+		},
+		[680] = {
+			["i"] = 476,
 			[44] = {
 				[1] = 8,
 				[2] = 3,
@@ -14767,6 +15186,61 @@ DPSMateDamageDone = {
 					[1900] = 9,
 				},
 			},
+			[101] = {
+				[1] = 1,
+				[2] = 49,
+				[3] = 49,
+				[4] = 49,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 1,
+				[10] = 0,
+				[11] = 1,
+				[12] = 0,
+				[13] = 49,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1899] = 49,
+				},
+			},
+			[26] = {
+				[1] = 2,
+				[2] = 17,
+				[3] = 17,
+				[4] = 34,
+				[5] = 0,
+				[6] = 0,
+				[7] = 0,
+				[8] = 0,
+				[9] = 0,
+				[10] = 0,
+				[11] = 0,
+				[12] = 0,
+				[13] = 34,
+				[14] = 0,
+				[15] = 0,
+				[16] = 0,
+				[17] = 0,
+				[18] = 0,
+				[19] = 0,
+				[20] = 0,
+				[21] = 0,
+				[22] = 0,
+				["i"] = {
+					[1897] = 17,
+					[1900] = 17,
+				},
+			},
 			[3] = {
 				[1] = 8,
 				[2] = 29,
@@ -14795,93 +15269,6 @@ DPSMateDamageDone = {
 					[1898] = 144,
 					[1899] = 37,
 					[1900] = 137,
-				},
-			},
-			["i"] = 476,
-			[101] = {
-				[1] = 1,
-				[2] = 49,
-				[3] = 49,
-				[4] = 49,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 1,
-				[10] = 0,
-				[11] = 1,
-				[12] = 0,
-				[13] = 49,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1899] = 49,
-				},
-			},
-		},
-		[1205] = {
-			["i"] = 260,
-			[3] = {
-				[1] = 4,
-				[2] = 8,
-				[3] = 30,
-				[4] = 73,
-				[5] = 1,
-				[6] = 52,
-				[7] = 52,
-				[8] = 52,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 125,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1910] = 38,
-					[1911] = 87,
-				},
-			},
-			[68] = {
-				[1] = 3,
-				[2] = 42,
-				[3] = 49,
-				[4] = 135,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
-				[9] = 0,
-				[10] = 0,
-				[11] = 0,
-				[12] = 0,
-				[13] = 135,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1910] = 86,
-					[1911] = 49,
 				},
 			},
 		},
@@ -15009,21 +15396,22 @@ DPSMateDamageDone = {
 				},
 			},
 		},
-		[552] = {
-			[2] = {
-				[1] = 0,
-				[2] = 0,
-				[3] = 0,
-				[4] = 0,
-				[5] = 0,
-				[6] = 0,
-				[7] = 0,
-				[8] = 0,
+		[766] = {
+			["i"] = 381,
+			[3] = {
+				[1] = 1,
+				[2] = 93,
+				[3] = 93,
+				[4] = 93,
+				[5] = 1,
+				[6] = 186,
+				[7] = 186,
+				[8] = 186,
 				[9] = 0,
 				[10] = 0,
 				[11] = 0,
-				[12] = 1,
-				[13] = 0,
+				[12] = 0,
+				[13] = 279,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -15034,13 +15422,14 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
+					[1907] = 279,
 				},
 			},
-			[3] = {
-				[1] = 1,
-				[2] = 24,
-				[3] = 24,
-				[4] = 24,
+			[87] = {
+				[1] = 2,
+				[2] = 51,
+				[3] = 51,
+				[4] = 102,
 				[5] = 0,
 				[6] = 0,
 				[7] = 0,
@@ -15049,7 +15438,7 @@ DPSMateDamageDone = {
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 24,
+				[13] = 102,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -15060,10 +15449,9 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[323] = 24,
+					[1907] = 102,
 				},
 			},
-			["i"] = 24,
 		},
 		[685] = {
 			["i"] = 81,
@@ -15206,13 +15594,13 @@ DPSMateDamageDone = {
 				},
 			},
 		},
-		[1164] = {
-			["i"] = 337,
-			[14] = {
-				[1] = 1,
-				[2] = 63,
-				[3] = 63,
-				[4] = 63,
+		[1286] = {
+			["i"] = 239,
+			[11] = {
+				[1] = 4,
+				[2] = 8,
+				[3] = 8,
+				[4] = 32,
 				[5] = 0,
 				[6] = 0,
 				[7] = 0,
@@ -15221,7 +15609,7 @@ DPSMateDamageDone = {
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 63,
+				[13] = 32,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -15232,41 +15620,15 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[1908] = 63,
+					[1913] = 8,
+					[1914] = 24,
 				},
 			},
 			[3] = {
-				[1] = 3,
-				[2] = 45,
-				[3] = 51,
-				[4] = 143,
-				[5] = 1,
-				[6] = 102,
-				[7] = 102,
-				[8] = 102,
-				[9] = 0,
-				[10] = 0,
-				[11] = 1,
-				[12] = 0,
-				[13] = 245,
-				[14] = 0,
-				[15] = 0,
-				[16] = 0,
-				[17] = 0,
-				[18] = 0,
-				[19] = 0,
-				[20] = 0,
-				[21] = 0,
-				[22] = 0,
-				["i"] = {
-					[1908] = 245,
-				},
-			},
-			[87] = {
-				[1] = 1,
-				[2] = 29,
-				[3] = 29,
-				[4] = 29,
+				[1] = 8,
+				[2] = 24,
+				[3] = 28,
+				[4] = 207,
 				[5] = 0,
 				[6] = 0,
 				[7] = 0,
@@ -15275,7 +15637,7 @@ DPSMateDamageDone = {
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 29,
+				[13] = 207,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -15286,28 +15648,29 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[1908] = 29,
+					[1913] = 101,
+					[1914] = 106,
 				},
 			},
 		},
 	},
 	[2] = {
-		[1495] = {
-			["i"] = 172,
+		[1570] = {
+			["i"] = 737,
 			[3] = {
 				[1] = 0,
 				[2] = 0,
 				[3] = 0,
 				[4] = 0,
 				[5] = 1,
-				[6] = 172,
-				[7] = 172,
-				[8] = 172,
+				[6] = 737,
+				[7] = 737,
+				[8] = 737,
 				[9] = 0,
 				[10] = 0,
 				[11] = 0,
 				[12] = 0,
-				[13] = 172,
+				[13] = 737,
 				[14] = 0,
 				[15] = 0,
 				[16] = 0,
@@ -15318,7 +15681,7 @@ DPSMateDamageDone = {
 				[21] = 0,
 				[22] = 0,
 				["i"] = {
-					[0] = 172,
+					[0] = 737,
 				},
 			},
 		},
@@ -15870,7 +16233,7 @@ DPSMateEDT = {
 						[1173] = 8,
 						[1243] = 8,
 						[1182] = 8,
-						[929] = 8,
+						[1176] = 8,
 						[1146] = 8,
 						[1240] = 8,
 						[1179] = 8,
@@ -15881,19 +16244,19 @@ DPSMateEDT = {
 						[1122] = 8,
 						[1185] = 8,
 						[1170] = 8,
-						[1223] = 8,
-						[935] = 8,
+						[1130] = 8,
+						[1188] = 8,
 						[1127] = 8,
 						[1226] = 8,
 						[1191] = 8,
-						[1130] = 8,
+						[1223] = 8,
 						[1220] = 8,
 						[1194] = 8,
 						[1133] = 8,
-						[1188] = 8,
+						[935] = 8,
 						[1197] = 8,
 						[1229] = 8,
-						[1176] = 8,
+						[929] = 8,
 					},
 				},
 				[7] = {
@@ -16234,20 +16597,20 @@ DPSMateEDT = {
 						[1240] = 8,
 						[1118] = 7,
 						[1129] = 7,
-						[1189] = 7,
+						[1126] = 10,
 						[1237] = 9,
 						[1197] = 7,
 						[1124] = 10,
-						[1272] = 10,
 						[1146] = 9,
+						[927] = 7,
 						[929] = 7,
 						[1217] = 10,
 						[935] = 10,
 						[1225] = 7,
-						[927] = 7,
+						[1272] = 10,
 						[1233] = 2,
 						[1174] = 9,
-						[1126] = 10,
+						[1189] = 7,
 						[1182] = 7,
 						[1123] = 10,
 						[1219] = 9,
@@ -16282,13 +16645,13 @@ DPSMateEDT = {
 						[1151] = 13,
 						[1218] = 14,
 						[1222] = 12,
-						[1129] = 14,
+						[1192] = 6,
 						[1191] = 14,
 						[1195] = 12,
 						[1186] = 11,
 						[1182] = 13,
 						[1133] = 11,
-						[1148] = 14,
+						[928] = 13,
 						[930] = 24,
 						[1237] = 12,
 						[934] = 13,
@@ -16299,7 +16662,7 @@ DPSMateEDT = {
 						[1243] = 14,
 						[1184] = 14,
 						[1172] = 14,
-						[1192] = 6,
+						[1129] = 14,
 						[1196] = 14,
 						[1173] = 14,
 						[1221] = 14,
@@ -16309,25 +16672,25 @@ DPSMateEDT = {
 						[1220] = 14,
 						[1224] = 13,
 						[1146] = 11,
-						[1126] = 14,
+						[1189] = 28,
 						[1236] = 14,
 						[1240] = 14,
 						[1118] = 13,
 						[1122] = 14,
-						[1189] = 28,
-						[1193] = 14,
+						[1126] = 14,
+						[1130] = 12,
 						[1134] = 28,
 						[1185] = 13,
-						[1130] = 12,
+						[1193] = 14,
 						[1272] = 14,
 						[1150] = 13,
 						[931] = 10,
 						[933] = 13,
 						[1225] = 5,
-						[928] = 13,
+						[1176] = 5,
 						[1170] = 14,
 						[1174] = 11,
-						[1176] = 5,
+						[1148] = 14,
 						[1119] = 22,
 						[1123] = 12,
 						[1121] = 13,
@@ -16557,12 +16920,12 @@ DPSMateEDT = {
 						[1599] = 9,
 						[1633] = 7,
 						[1629] = 4,
-						[1626] = 4,
+						[1596] = 7,
 						[1630] = 6,
 						[1634] = 4,
 						[1600] = 10,
 						[1597] = 9,
-						[1596] = 7,
+						[1626] = 4,
 					},
 				},
 			},
@@ -16610,7 +16973,7 @@ DPSMateEDT = {
 						[1443] = 8,
 						[1321] = 19,
 						[1392] = 6,
-						[1412] = 6,
+						[1286] = 12,
 						[1353] = 12,
 						[1357] = 9,
 						[1424] = 19,
@@ -16645,7 +17008,7 @@ DPSMateEDT = {
 						[1329] = 9,
 						[1434] = 5,
 						[1448] = 8,
-						[1286] = 12,
+						[1412] = 6,
 					},
 				},
 				[3] = {
@@ -18083,22 +18446,22 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[1495] = {
-				["i"] = 294,
-				[51] = {
-					[1] = 2,
-					[2] = 17,
-					[3] = 20,
-					[4] = 37,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+			[1570] = {
+				["i"] = 737,
+				[3] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 1,
+					[6] = 737,
+					[7] = 737,
+					[8] = 737,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 37,
+					[13] = 737,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18109,43 +18472,73 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1918] = 37,
+						[1918] = 737,
+					},
+				},
+			},
+			[1011] = {
+				["i"] = 236,
+				[118] = {
+					[1] = 2,
+					[2] = 22,
+					[3] = 22,
+					[4] = 44,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 44,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1911] = 22,
+						[1912] = 22,
+					},
+				},
+				[308] = {
+					[1] = 6,
+					[2] = 25,
+					[3] = 25,
+					[4] = 150,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 150,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1911] = 50,
+						[1912] = 100,
 					},
 				},
 				[3] = {
 					[1] = 1,
-					[2] = 85,
-					[3] = 85,
-					[4] = 85,
-					[5] = 1,
-					[6] = 172,
-					[7] = 172,
-					[8] = 172,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 257,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1918] = 257,
-					},
-				},
-			},
-			[1315] = {
-				[316] = {
-					[1] = 1,
-					[2] = 297,
-					[3] = 297,
-					[4] = 297,
+					[2] = 42,
+					[3] = 42,
+					[4] = 42,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18154,7 +18547,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 297,
+					[13] = 42,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18165,10 +18558,40 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1914] = 297,
+						[1911] = 42,
 					},
 				},
-				["i"] = 297,
+			},
+			[909] = {
+				["i"] = 55,
+				[3] = {
+					[1] = 2,
+					[2] = 26,
+					[3] = 29,
+					[4] = 55,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 55,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1904] = 29,
+						[1905] = 26,
+					},
+				},
 			},
 			[822] = {
 				["i"] = 313,
@@ -18228,71 +18651,13 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[1429] = {
-				["i"] = 262,
+			[840] = {
+				["i"] = 107,
 				[3] = {
-					[1] = 7,
-					[2] = 4,
-					[3] = 18,
-					[4] = 83,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 6,
-					[10] = 1,
-					[11] = 1,
-					[12] = 0,
-					[13] = 83,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1916] = 18,
-						[1917] = 30,
-						[1915] = 35,
-					},
-				},
-				[68] = {
-					[1] = 5,
-					[2] = 24,
-					[3] = 30,
-					[4] = 133,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 133,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1916] = 24,
-						[1917] = 28,
-						[1915] = 81,
-					},
-				},
-				[96] = {
 					[1] = 1,
-					[2] = 46,
-					[3] = 46,
-					[4] = 46,
+					[2] = 107,
+					[3] = 107,
+					[4] = 107,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18301,7 +18666,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 46,
+					[13] = 107,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18312,7 +18677,7 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1916] = 46,
+						[1904] = 107,
 					},
 				},
 			},
@@ -18405,13 +18770,13 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[909] = {
-				["i"] = 55,
-				[3] = {
-					[1] = 2,
-					[2] = 26,
-					[3] = 29,
-					[4] = 55,
+			[1282] = {
+				["i"] = 91,
+				[137] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18420,7 +18785,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 55,
+					[13] = 10,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18431,8 +18796,35 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1904] = 29,
-						[1905] = 26,
+						[1912] = 10,
+					},
+				},
+				[3] = {
+					[1] = 3,
+					[2] = 25,
+					[3] = 30,
+					[4] = 81,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 81,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1913] = 26,
+						[1912] = 55,
 					},
 				},
 			},
@@ -18494,13 +18886,13 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[1011] = {
-				["i"] = 236,
-				[118] = {
+			[1495] = {
+				["i"] = 294,
+				[51] = {
 					[1] = 2,
-					[2] = 22,
-					[3] = 22,
-					[4] = 44,
+					[2] = 17,
+					[3] = 20,
+					[4] = 37,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18509,7 +18901,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 44,
+					[13] = 37,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18520,52 +18912,23 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1911] = 22,
-						[1912] = 22,
-					},
-				},
-				[308] = {
-					[1] = 6,
-					[2] = 25,
-					[3] = 25,
-					[4] = 150,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 150,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1911] = 50,
-						[1912] = 100,
+						[1918] = 37,
 					},
 				},
 				[3] = {
 					[1] = 1,
-					[2] = 42,
-					[3] = 42,
-					[4] = 42,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+					[2] = 85,
+					[3] = 85,
+					[4] = 85,
+					[5] = 1,
+					[6] = 172,
+					[7] = 172,
+					[8] = 172,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 42,
+					[13] = 257,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18576,7 +18939,7 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1911] = 42,
+						[1918] = 257,
 					},
 				},
 			},
@@ -18640,13 +19003,13 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[840] = {
-				["i"] = 107,
-				[3] = {
+			[1164] = {
+				["i"] = 337,
+				[14] = {
 					[1] = 1,
-					[2] = 107,
-					[3] = 107,
-					[4] = 107,
+					[2] = 63,
+					[3] = 63,
+					[4] = 63,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18655,7 +19018,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 107,
+					[13] = 63,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18666,7 +19029,61 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1904] = 107,
+						[1908] = 63,
+					},
+				},
+				[3] = {
+					[1] = 3,
+					[2] = 45,
+					[3] = 51,
+					[4] = 143,
+					[5] = 1,
+					[6] = 102,
+					[7] = 102,
+					[8] = 102,
+					[9] = 0,
+					[10] = 0,
+					[11] = 1,
+					[12] = 0,
+					[13] = 245,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1908] = 245,
+					},
+				},
+				[87] = {
+					[1] = 1,
+					[2] = 29,
+					[3] = 29,
+					[4] = 29,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 29,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1908] = 29,
 					},
 				},
 			},
@@ -18781,13 +19198,13 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[1282] = {
-				["i"] = 91,
-				[137] = {
+			[951] = {
+				["i"] = 430,
+				[279] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 61,
+					[3] = 61,
+					[4] = 61,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18796,7 +19213,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
+					[13] = 61,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18807,23 +19224,23 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1912] = 10,
+						[1906] = 61,
 					},
 				},
 				[3] = {
-					[1] = 3,
-					[2] = 25,
-					[3] = 30,
-					[4] = 81,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+					[1] = 2,
+					[2] = 84,
+					[3] = 89,
+					[4] = 173,
+					[5] = 1,
+					[6] = 196,
+					[7] = 196,
+					[8] = 196,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 81,
+					[13] = 369,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18834,45 +19251,16 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1913] = 26,
-						[1912] = 55,
+						[1906] = 369,
 					},
 				},
 			},
-			[832] = {
-				["i"] = 338,
-				[3] = {
-					[1] = 2,
-					[2] = 105,
-					[3] = 108,
-					[4] = 213,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 213,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1904] = 213,
-					},
-				},
-				[266] = {
+			[1315] = {
+				[316] = {
 					[1] = 1,
-					[2] = 125,
-					[3] = 125,
-					[4] = 125,
+					[2] = 297,
+					[3] = 297,
+					[4] = 297,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -18881,7 +19269,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 125,
+					[13] = 297,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -18892,9 +19280,10 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1904] = 125,
+						[1914] = 297,
 					},
 				},
+				["i"] = 297,
 			},
 			[766] = {
 				["i"] = 381,
@@ -18953,67 +19342,13 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[1164] = {
-				["i"] = 337,
-				[14] = {
-					[1] = 1,
-					[2] = 63,
-					[3] = 63,
-					[4] = 63,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 63,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1908] = 63,
-					},
-				},
+			[832] = {
+				["i"] = 338,
 				[3] = {
-					[1] = 3,
-					[2] = 45,
-					[3] = 51,
-					[4] = 143,
-					[5] = 1,
-					[6] = 102,
-					[7] = 102,
-					[8] = 102,
-					[9] = 0,
-					[10] = 0,
-					[11] = 1,
-					[12] = 0,
-					[13] = 245,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1908] = 245,
-					},
-				},
-				[87] = {
-					[1] = 1,
-					[2] = 29,
-					[3] = 29,
-					[4] = 29,
+					[1] = 2,
+					[2] = 105,
+					[3] = 108,
+					[4] = 213,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -19022,7 +19357,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 29,
+					[13] = 213,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -19033,7 +19368,34 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1908] = 29,
+						[1904] = 213,
+					},
+				},
+				[266] = {
+					[1] = 1,
+					[2] = 125,
+					[3] = 125,
+					[4] = 125,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 125,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1904] = 125,
 					},
 				},
 			},
@@ -19357,13 +19719,42 @@ DPSMateEDT = {
 					},
 				},
 			},
-			[951] = {
-				["i"] = 430,
-				[279] = {
-					[1] = 1,
-					[2] = 61,
-					[3] = 61,
-					[4] = 61,
+			[1429] = {
+				["i"] = 262,
+				[3] = {
+					[1] = 7,
+					[2] = 4,
+					[3] = 18,
+					[4] = 83,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 6,
+					[10] = 1,
+					[11] = 1,
+					[12] = 0,
+					[13] = 83,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1916] = 18,
+						[1917] = 30,
+						[1915] = 35,
+					},
+				},
+				[68] = {
+					[1] = 5,
+					[2] = 24,
+					[3] = 30,
+					[4] = 133,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -19372,7 +19763,7 @@ DPSMateEDT = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 61,
+					[13] = 133,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -19383,23 +19774,25 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1906] = 61,
+						[1916] = 24,
+						[1917] = 28,
+						[1915] = 81,
 					},
 				},
-				[3] = {
-					[1] = 2,
-					[2] = 84,
-					[3] = 89,
-					[4] = 173,
-					[5] = 1,
-					[6] = 196,
-					[7] = 196,
-					[8] = 196,
+				[96] = {
+					[1] = 1,
+					[2] = 46,
+					[3] = 46,
+					[4] = 46,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 369,
+					[13] = 46,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -19410,7 +19803,7 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1906] = 369,
+						[1916] = 46,
 					},
 				},
 			},
@@ -19785,19 +20178,19 @@ DPSMateEDT = {
 						[334] = 8,
 						[311] = 8,
 						[319] = 6,
-						[229] = 9,
-						[51] = 11,
-						[312] = 14,
-						[313] = 3,
+						[327] = 12,
 						[230] = 10,
-						[336] = 8,
+						[312] = 14,
 						[222] = 10,
+						[51] = 11,
+						[305] = 4,
+						[66] = 5,
 						[50] = 6,
 						[329] = 13,
 						[52] = 6,
-						[66] = 5,
-						[305] = 4,
-						[327] = 12,
+						[313] = 3,
+						[336] = 8,
+						[229] = 9,
 						[307] = 5,
 						[63] = 5,
 					},
@@ -20608,33 +21001,7 @@ DPSMateEDT = {
 		},
 		[680] = {
 			[678] = {
-				[26] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1897] = 10,
-					},
-				},
+				["i"] = 470,
 				[44] = {
 					[1] = 4,
 					[2] = 6,
@@ -20663,7 +21030,33 @@ DPSMateEDT = {
 						[1899] = 6,
 					},
 				},
-				["i"] = 470,
+				[26] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1897] = 10,
+					},
+				},
 				[3] = {
 					[1] = 7,
 					[2] = 21,
@@ -21003,9 +21396,9 @@ DPSMateEDT = {
 						[1316] = 13,
 						[1306] = 13,
 						[1303] = 26,
-						[1305] = 13,
 						[1312] = 13,
 						[1319] = 13,
+						[1305] = 13,
 					},
 				},
 				[103] = {
@@ -21384,8 +21777,8 @@ DPSMateEDT = {
 						[475] = 8,
 						[803] = 8,
 						[478] = 8,
-						[809] = 8,
 						[794] = 8,
+						[809] = 8,
 						[481] = 8,
 						[806] = 8,
 						[785] = 8,
@@ -21504,9 +21897,9 @@ DPSMateEDT = {
 					["i"] = {
 						[802] = 10,
 						[774] = 7,
-						[806] = 9,
+						[776] = 8,
 						[784] = 10,
-						[471] = 6,
+						[806] = 9,
 						[779] = 7,
 						[790] = 7,
 						[792] = 9,
@@ -21514,7 +21907,7 @@ DPSMateEDT = {
 						[794] = 7,
 						[798] = 9,
 						[800] = 7,
-						[776] = 8,
+						[471] = 6,
 					},
 				},
 				[3] = {
@@ -22281,14 +22674,14 @@ DPSMateEDT = {
 						[715] = 25,
 						[902] = 26,
 						[847] = 28,
-						[912] = 24,
+						[1053] = 24,
 						[914] = 22,
-						[916] = 22,
+						[664] = 27,
 						[666] = 28,
+						[916] = 22,
 						[900] = 22,
 						[636] = 26,
-						[664] = 27,
-						[849] = 25,
+						[662] = 26,
 						[876] = 26,
 						[867] = 27,
 						[869] = 27,
@@ -22303,15 +22696,15 @@ DPSMateEDT = {
 						[572] = 25,
 						[574] = 28,
 						[576] = 24,
-						[910] = 26,
-						[909] = 24,
+						[849] = 25,
+						[720] = 25,
 						[966] = 23,
 						[710] = 22,
-						[846] = 22,
+						[909] = 24,
 						[903] = 25,
 						[905] = 24,
 						[844] = 26,
-						[720] = 25,
+						[846] = 22,
 						[1051] = 26,
 						[907] = 25,
 						[886] = 25,
@@ -22323,15 +22716,15 @@ DPSMateEDT = {
 						[864] = 26,
 						[866] = 25,
 						[679] = 25,
-						[662] = 26,
+						[910] = 26,
 						[683] = 22,
 						[874] = 26,
 						[687] = 25,
 						[1048] = 26,
-						[1049] = 25,
+						[912] = 24,
 						[882] = 27,
 						[884] = 23,
-						[1053] = 24,
+						[1049] = 25,
 					},
 				},
 				[37] = {
@@ -22429,17 +22822,17 @@ DPSMateEDT = {
 						[865] = 8,
 						[881] = 8,
 						[959] = 8,
-						[634] = 8,
+						[1051] = 8,
 						[852] = 8,
 						[868] = 8,
 						[574] = 8,
 						[962] = 8,
 						[1048] = 8,
-						[1051] = 8,
+						[634] = 8,
 						[638] = 8,
 						[685] = 8,
 						[577] = 8,
-						[965] = 8,
+						[872] = 8,
 						[902] = 8,
 						[846] = 8,
 						[914] = 8,
@@ -22451,40 +22844,13 @@ DPSMateEDT = {
 						[884] = 8,
 						[877] = 8,
 						[862] = 8,
-						[872] = 8,
+						[965] = 8,
 						[682] = 8,
 					},
 				},
 			},
 			[636] = {
 				["i"] = 266,
-				[125] = {
-					[1] = 1,
-					[2] = 21,
-					[3] = 21,
-					[4] = 21,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 21,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1017] = 21,
-					},
-				},
 				[31] = {
 					[1] = 7,
 					[2] = 15,
@@ -22515,6 +22881,33 @@ DPSMateEDT = {
 						[1022] = 21,
 						[1017] = 23,
 						[1024] = 24,
+					},
+				},
+				[125] = {
+					[1] = 1,
+					[2] = 21,
+					[3] = 21,
+					[4] = 21,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 21,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1017] = 21,
 					},
 				},
 				[126] = {
@@ -22798,15 +23191,15 @@ DPSMateEDT = {
 						[634] = 8,
 						[879] = 7,
 						[709] = 7,
-						[1047] = 10,
+						[720] = 8,
 						[712] = 11,
 						[903] = 10,
 						[716] = 8,
 						[907] = 9,
-						[720] = 8,
+						[1047] = 10,
 						[848] = 10,
 						[661] = 10,
-						[915] = 7,
+						[663] = 11,
 						[685] = 2,
 						[667] = 7,
 						[911] = 7,
@@ -22818,7 +23211,7 @@ DPSMateEDT = {
 						[870] = 11,
 						[872] = 11,
 						[874] = 10,
-						[663] = 11,
+						[915] = 7,
 						[878] = 15,
 						[1052] = 8,
 						[882] = 11,
@@ -23229,7 +23622,7 @@ DPSMateEDT = {
 						[518] = 7,
 						[772] = 13,
 						[522] = 9,
-						[182] = 11,
+						[526] = 24,
 						[183] = 9,
 						[186] = 12,
 						[187] = 5,
@@ -23253,7 +23646,7 @@ DPSMateEDT = {
 						[771] = 11,
 						[762] = 11,
 						[189] = 7,
-						[526] = 24,
+						[182] = 11,
 						[516] = 11,
 					},
 				},
@@ -23640,8 +24033,8 @@ DPSMateEDT = {
 					["i"] = {
 						[19] = 16,
 						[16] = 16,
-						[33] = 16,
 						[13] = 16,
+						[33] = 16,
 						[36] = 16,
 					},
 				},
@@ -24383,10 +24776,10 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1757] = 11,
+						[1694] = 11,
 						[1803] = 7,
 						[1787] = 11,
-						[1694] = 11,
+						[1757] = 11,
 						[1715] = 11,
 						[1822] = 10,
 					},
@@ -24683,7 +25076,7 @@ DPSMateEDT = {
 						[1001] = 45,
 						[94] = 25,
 						[1017] = 22,
-						[1064] = 24,
+						[1068] = 23,
 						[98] = 25,
 						[1059] = 24,
 						[100] = 25,
@@ -24692,13 +25085,13 @@ DPSMateEDT = {
 						[819] = 21,
 						[827] = 24,
 						[105] = 20,
-						[1068] = 23,
+						[1064] = 24,
 						[1060] = 22,
-						[1018] = 22,
+						[112] = 23,
 						[994] = 52,
 						[1002] = 21,
 						[1010] = 25,
-						[112] = 23,
+						[1018] = 22,
 						[92] = 24,
 						[78] = 20,
 						[75] = 25,
@@ -24742,7 +25135,7 @@ DPSMateEDT = {
 						[953] = 8,
 						[973] = 8,
 						[1060] = 8,
-						[77] = 8,
+						[1057] = 8,
 						[979] = 8,
 						[109] = 8,
 						[1069] = 8,
@@ -24755,7 +25148,7 @@ DPSMateEDT = {
 						[1034] = 8,
 						[1101] = 8,
 						[80] = 8,
-						[1057] = 8,
+						[77] = 8,
 						[112] = 8,
 						[1006] = 8,
 						[820] = 8,
@@ -24766,7 +25159,7 @@ DPSMateEDT = {
 						[1078] = 8,
 						[1021] = 8,
 						[1040] = 8,
-						[1027] = 8,
+						[83] = 8,
 						[970] = 8,
 						[1098] = 8,
 						[1095] = 8,
@@ -24774,11 +25167,11 @@ DPSMateEDT = {
 						[100] = 8,
 						[168] = 8,
 						[976] = 8,
-						[1075] = 8,
+						[171] = 8,
 						[1063] = 8,
 						[982] = 8,
+						[1075] = 8,
 						[86] = 8,
-						[171] = 8,
 						[1015] = 8,
 						[1012] = 8,
 						[1024] = 8,
@@ -24786,10 +25179,10 @@ DPSMateEDT = {
 						[103] = 8,
 						[174] = 8,
 						[1000] = 8,
-						[83] = 8,
-						[823] = 8,
-						[817] = 8,
+						[1027] = 8,
 						[947] = 8,
+						[817] = 8,
+						[823] = 8,
 						[89] = 8,
 						[997] = 8,
 					},
@@ -25211,13 +25604,13 @@ DPSMateEDT = {
 						[126] = 13,
 						[160] = 13,
 						[195] = 17,
-						[199] = 14,
-						[145] = 15,
+						[168] = 34,
 						[176] = 49,
+						[145] = 15,
 						[193] = 13,
 						[197] = 14,
 						[198] = 45,
-						[168] = 34,
+						[199] = 14,
 					},
 				},
 				[220] = {
@@ -25922,8 +26315,8 @@ DPSMateEDT = {
 						[160] = 10,
 						[133] = 10,
 						[158] = 10,
-						[136] = 10,
 						[166] = 10,
+						[136] = 10,
 						[139] = 10,
 					},
 				},
@@ -25954,8 +26347,8 @@ DPSMateEDT = {
 						[176] = 52,
 						[162] = 59,
 						[131] = 52,
-						[198] = 58,
 						[177] = 110,
+						[198] = 58,
 					},
 				},
 			},
@@ -26031,10 +26424,10 @@ DPSMateEDT = {
 						[777] = 56,
 						[794] = 122,
 						[779] = 60,
-						[829] = 58,
+						[798] = 56,
 						[828] = 52,
 						[772] = 62,
-						[798] = 56,
+						[829] = 58,
 						[814] = 48,
 						[768] = 60,
 						[815] = 59,
@@ -26105,10 +26498,10 @@ DPSMateEDT = {
 						[141] = 16,
 						[164] = 9,
 						[157] = 7,
-						[166] = 5,
-						[173] = 4,
 						[151] = 9,
 						[143] = 5,
+						[166] = 5,
+						[173] = 4,
 						[175] = 9,
 					},
 				},
@@ -26216,8 +26609,8 @@ DPSMateEDT = {
 						[989] = 8,
 						[1024] = 10,
 						[1028] = 8,
-						[996] = 8,
 						[1032] = 7,
+						[996] = 8,
 						[1062] = 7,
 						[1002] = 7,
 						[823] = 8,
@@ -26258,14 +26651,14 @@ DPSMateEDT = {
 						[1031] = 14,
 						[131] = 6,
 						[1063] = 11,
-						[948] = 9,
+						[956] = 14,
 						[1095] = 16,
-						[989] = 5,
+						[948] = 9,
 						[143] = 7,
 						[145] = 3,
 						[1032] = 11,
-						[956] = 14,
-						[980] = 11,
+						[989] = 5,
+						[1064] = 14,
 						[1077] = 16,
 						[996] = 4,
 						[125] = 5,
@@ -26288,7 +26681,7 @@ DPSMateEDT = {
 						[1028] = 6,
 						[1071] = 11,
 						[1035] = 13,
-						[1024] = 26,
+						[73] = 5,
 						[1067] = 13,
 						[1107] = 13,
 						[1091] = 28,
@@ -26299,12 +26692,12 @@ DPSMateEDT = {
 						[974] = 14,
 						[1068] = 12,
 						[990] = 8,
-						[1040] = 15,
+						[74] = 10,
 						[1006] = 7,
 						[1059] = 13,
 						[1043] = 10,
 						[1027] = 14,
-						[984] = 11,
+						[152] = 3,
 						[1009] = 9,
 						[154] = 3,
 						[1090] = 15,
@@ -26314,7 +26707,7 @@ DPSMateEDT = {
 						[1042] = 16,
 						[1054] = 10,
 						[983] = 12,
-						[1025] = 11,
+						[81] = 10,
 						[999] = 5,
 						[1007] = 6,
 						[953] = 11,
@@ -26323,40 +26716,40 @@ DPSMateEDT = {
 						[134] = 6,
 						[136] = 3,
 						[138] = 3,
-						[140] = 3,
-						[142] = 5,
+						[70] = 1,
+						[817] = 11,
 						[952] = 13,
-						[73] = 5,
-						[74] = 10,
+						[1024] = 26,
+						[1040] = 15,
 						[1056] = 13,
-						[152] = 3,
+						[76] = 10,
 						[992] = 5,
 						[1000] = 8,
 						[79] = 7,
 						[1016] = 8,
-						[81] = 10,
+						[1025] = 11,
 						[87] = 5,
-						[1057] = 12,
+						[83] = 5,
 						[84] = 1,
 						[85] = 10,
 						[976] = 14,
 						[945] = 13,
 						[826] = 11,
-						[83] = 5,
+						[1057] = 12,
 						[90] = 5,
 						[91] = 6,
 						[985] = 15,
 						[993] = 5,
 						[1106] = 11,
 						[95] = 7,
-						[76] = 10,
+						[984] = 11,
 						[97] = 7,
 						[98] = 8,
 						[99] = 7,
-						[817] = 11,
+						[142] = 5,
 						[101] = 8,
 						[102] = 5,
-						[70] = 1,
+						[140] = 3,
 						[827] = 13,
 						[105] = 5,
 						[106] = 5,
@@ -26373,7 +26766,7 @@ DPSMateEDT = {
 						[987] = 12,
 						[118] = 3,
 						[820] = 11,
-						[1064] = 14,
+						[980] = 11,
 					},
 				},
 			},
@@ -26416,7 +26809,7 @@ DPSMateEDT = {
 						[678] = 28,
 						[940] = 28,
 						[702] = 28,
-						[420] = 25,
+						[583] = 23,
 						[591] = 25,
 						[428] = 25,
 						[1112] = 25,
@@ -26472,18 +26865,18 @@ DPSMateEDT = {
 						[358] = 25,
 						[593] = 27,
 						[922] = 24,
-						[835] = 21,
+						[581] = 24,
 						[938] = 27,
 						[692] = 25,
 						[843] = 25,
-						[581] = 24,
-						[423] = 26,
+						[835] = 21,
+						[589] = 54,
 						[422] = 27,
 						[859] = 28,
-						[589] = 54,
+						[423] = 26,
 						[1108] = 27,
 						[712] = 28,
-						[583] = 23,
+						[420] = 25,
 						[703] = 25,
 						[653] = 28,
 						[661] = 24,
@@ -26604,15 +26997,15 @@ DPSMateEDT = {
 						[698] = 8,
 						[706] = 8,
 						[582] = 8,
-						[659] = 8,
+						[709] = 8,
 						[712] = 8,
 						[588] = 8,
-						[709] = 8,
+						[856] = 8,
 						[718] = 8,
 						[594] = 8,
 						[1114] = 8,
-						[856] = 8,
-						[835] = 8,
+						[841] = 8,
+						[425] = 8,
 						[1111] = 8,
 						[919] = 8,
 						[858] = 8,
@@ -26628,8 +27021,8 @@ DPSMateEDT = {
 						[941] = 8,
 						[628] = 8,
 						[693] = 8,
-						[425] = 8,
-						[841] = 8,
+						[835] = 8,
+						[659] = 8,
 					},
 				},
 			},
@@ -26842,15 +27235,15 @@ DPSMateEDT = {
 						[677] = 11,
 						[923] = 12,
 						[626] = 14,
-						[1112] = 13,
+						[358] = 24,
 						[642] = 14,
 						[650] = 11,
 						[658] = 28,
-						[358] = 24,
-						[674] = 11,
 						[362] = 11,
-						[944] = 13,
+						[674] = 11,
 						[422] = 9,
+						[944] = 13,
+						[1112] = 13,
 						[706] = 30,
 						[587] = 13,
 						[595] = 13,
@@ -26867,7 +27260,7 @@ DPSMateEDT = {
 						[937] = 12,
 						[355] = 13,
 						[699] = 15,
-						[580] = 14,
+						[834] = 13,
 						[359] = 11,
 						[857] = 15,
 						[858] = 15,
@@ -26887,7 +27280,7 @@ DPSMateEDT = {
 						[843] = 15,
 						[427] = 11,
 						[859] = 12,
-						[834] = 13,
+						[580] = 14,
 						[621] = 13,
 						[420] = 11,
 						[361] = 26,
@@ -27393,7 +27786,7 @@ DPSMateEDT = {
 						[1248] = 12,
 						[1156] = 12,
 						[1250] = 15,
-						[1158] = 14,
+						[1251] = 15,
 						[1159] = 15,
 						[1161] = 14,
 						[1254] = 14,
@@ -27402,8 +27795,8 @@ DPSMateEDT = {
 						[1247] = 6,
 						[1134] = 30,
 						[1135] = 15,
+						[1158] = 14,
 						[1155] = 15,
-						[1251] = 15,
 					},
 				},
 			},
@@ -27608,34 +28001,7 @@ DPSMateEDT = {
 		},
 		[678] = {
 			[680] = {
-				[26] = {
-					[1] = 2,
-					[2] = 17,
-					[3] = 17,
-					[4] = 34,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 34,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1897] = 17,
-						[1900] = 17,
-					},
-				},
+				["i"] = 476,
 				[44] = {
 					[1] = 8,
 					[2] = 3,
@@ -27666,6 +28032,61 @@ DPSMateEDT = {
 						[1900] = 9,
 					},
 				},
+				[101] = {
+					[1] = 1,
+					[2] = 49,
+					[3] = 49,
+					[4] = 49,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 1,
+					[12] = 0,
+					[13] = 49,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1899] = 49,
+					},
+				},
+				[26] = {
+					[1] = 2,
+					[2] = 17,
+					[3] = 17,
+					[4] = 34,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 34,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1897] = 17,
+						[1900] = 17,
+					},
+				},
 				[3] = {
 					[1] = 8,
 					[2] = 29,
@@ -27694,34 +28115,6 @@ DPSMateEDT = {
 						[1898] = 144,
 						[1899] = 37,
 						[1900] = 137,
-					},
-				},
-				["i"] = 476,
-				[101] = {
-					[1] = 1,
-					[2] = 49,
-					[3] = 49,
-					[4] = 49,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 1,
-					[10] = 0,
-					[11] = 1,
-					[12] = 0,
-					[13] = 49,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1899] = 49,
 					},
 				},
 			},
@@ -27843,9 +28236,9 @@ DPSMateEDT = {
 						[205] = 25,
 						[559] = 21,
 						[238] = 23,
-						[567] = 24,
-						[239] = 25,
 						[208] = 25,
+						[239] = 25,
+						[567] = 24,
 						[569] = 21,
 						[566] = 25,
 					},
@@ -27912,14 +28305,14 @@ DPSMateEDT = {
 						[247] = 8,
 						[541] = 8,
 						[255] = 8,
-						[264] = 8,
-						[570] = 8,
+						[244] = 4,
+						[544] = 8,
 						[252] = 8,
 						[561] = 8,
-						[544] = 8,
-						[244] = 4,
+						[264] = 8,
+						[570] = 8,
 						[237] = 8,
-						[241] = 8,
+						[258] = 8,
 						[235] = 8,
 						[564] = 8,
 						[547] = 8,
@@ -27929,8 +28322,8 @@ DPSMateEDT = {
 						[207] = 8,
 						[567] = 8,
 						[213] = 8,
-						[258] = 8,
 						[216] = 8,
+						[241] = 8,
 					},
 				},
 				[7] = {
@@ -28671,49 +29064,21 @@ DPSMateEDT = {
 				},
 			},
 			[628] = {
-				[63] = {
-					[1] = 4,
-					[2] = 7,
-					[3] = 7,
-					[4] = 28,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 28,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[452] = 14,
-						[453] = 7,
-						[454] = 7,
-					},
-				},
-				[31] = {
-					[1] = 3,
-					[2] = 22,
-					[3] = 35,
+				["i"] = 392,
+				[76] = {
+					[1] = 1,
+					[2] = 90,
+					[3] = 90,
 					[4] = 90,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+					[5] = 1,
+					[6] = 130,
+					[7] = 130,
+					[8] = 130,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 90,
+					[13] = 220,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -28724,8 +29089,8 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[451] = 35,
-						[450] = 55,
+						[454] = 130,
+						[453] = 90,
 					},
 				},
 				[64] = {
@@ -28757,20 +29122,20 @@ DPSMateEDT = {
 						[454] = 18,
 					},
 				},
-				[76] = {
-					[1] = 1,
-					[2] = 90,
-					[3] = 90,
+				[31] = {
+					[1] = 3,
+					[2] = 22,
+					[3] = 35,
 					[4] = 90,
-					[5] = 1,
-					[6] = 130,
-					[7] = 130,
-					[8] = 130,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 220,
+					[13] = 90,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -28781,11 +29146,39 @@ DPSMateEDT = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[454] = 130,
-						[453] = 90,
+						[451] = 35,
+						[450] = 55,
 					},
 				},
-				["i"] = 392,
+				[63] = {
+					[1] = 4,
+					[2] = 7,
+					[3] = 7,
+					[4] = 28,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 28,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[452] = 14,
+						[453] = 7,
+						[454] = 7,
+					},
+				},
 			},
 			[625] = {
 				[76] = {
@@ -29847,7 +30240,33 @@ DPSMateEDT = {
 				},
 			},
 			[657] = {
-				["i"] = 145,
+				[26] = {
+					[1] = 1,
+					[2] = 9,
+					[3] = 9,
+					[4] = 9,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 9,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1455] = 9,
+					},
+				},
 				[44] = {
 					[1] = 7,
 					[2] = 3,
@@ -29880,33 +30299,7 @@ DPSMateEDT = {
 						[1445] = 3,
 					},
 				},
-				[26] = {
-					[1] = 1,
-					[2] = 9,
-					[3] = 9,
-					[4] = 9,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 9,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1455] = 9,
-					},
-				},
+				["i"] = 145,
 				[3] = {
 					[1] = 6,
 					[2] = 6,
@@ -30160,8 +30553,8 @@ DPSMateEDT = {
 						[1389] = 11,
 						[1390] = 20,
 						[1376] = 11,
-						[1344] = 18,
-						[1562] = 9,
+						[1375] = 11,
+						[1314] = 14,
 						[1377] = 10,
 						[1336] = 14,
 						[1316] = 14,
@@ -30169,19 +30562,19 @@ DPSMateEDT = {
 						[1339] = 14,
 						[1340] = 14,
 						[1341] = 15,
-						[1311] = 18,
-						[1343] = 28,
-						[1375] = 11,
-						[1314] = 14,
+						[1559] = 9,
+						[1560] = 8,
+						[1313] = 16,
+						[1562] = 9,
 						[1563] = 11,
 						[1564] = 9,
 						[1379] = 33,
 						[1566] = 8,
 						[1567] = 11,
 						[1382] = 9,
-						[1313] = 16,
-						[1560] = 8,
-						[1559] = 9,
+						[1344] = 18,
+						[1343] = 28,
+						[1311] = 18,
 					},
 				},
 			},
@@ -30959,14 +31352,14 @@ DPSMateEDD = {
 				["i"] = 139,
 			},
 		},
-		[825] = {
-			[824] = {
-				["i"] = 1237,
-				[64] = {
-					[1] = 4,
-					[2] = 166,
-					[3] = 166,
-					[4] = 664,
+		[241] = {
+			[1] = {
+				["i"] = 12,
+				[3] = {
+					[1] = 1,
+					[2] = 12,
+					[3] = 12,
+					[4] = 12,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -30975,7 +31368,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 664,
+					[13] = 12,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -30986,36 +31379,7 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1904] = 166,
-						[1903] = 498,
-					},
-				},
-				[63] = {
-					[1] = 7,
-					[2] = 30,
-					[3] = 121,
-					[4] = 573,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 573,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1904] = 242,
-						[1903] = 331,
+						[1573] = 12,
 					},
 				},
 			},
@@ -31264,36 +31628,6 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[5] = {
-				[13] = {
-					[1] = 1,
-					[2] = 8,
-					[3] = 8,
-					[4] = 8,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 8,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1918] = 8,
-					},
-				},
-				["i"] = 8,
-			},
 			[543] = {
 				["i"] = 90,
 				[6] = {
@@ -31351,13 +31685,12 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[633] = {
-				["i"] = 13,
-				[3] = {
+			[5] = {
+				[13] = {
 					[1] = 1,
-					[2] = 13,
-					[3] = 13,
-					[4] = 13,
+					[2] = 8,
+					[3] = 8,
+					[4] = 8,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -31366,7 +31699,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 13,
+					[13] = 8,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -31377,7 +31710,38 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[828] = 13,
+						[1918] = 8,
+					},
+				},
+				["i"] = 8,
+			},
+			[151] = {
+				["i"] = 12,
+				[3] = {
+					[1] = 1,
+					[2] = 12,
+					[3] = 12,
+					[4] = 12,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 12,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1245] = 12,
 					},
 				},
 			},
@@ -31411,13 +31775,13 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[151] = {
-				["i"] = 12,
+			[633] = {
+				["i"] = 13,
 				[3] = {
 					[1] = 1,
-					[2] = 12,
-					[3] = 12,
-					[4] = 12,
+					[2] = 13,
+					[3] = 13,
+					[4] = 13,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -31426,7 +31790,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 12,
+					[13] = 13,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -31437,64 +31801,28 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1245] = 12,
+						[828] = 13,
 					},
 				},
 			},
 		},
-		[151] = {
-			[1] = {
-				["i"] = 118,
-				[3] = {
-					[1] = 6,
-					[2] = 14,
-					[3] = 18,
-					[4] = 90,
-					[5] = 1,
-					[6] = 28,
-					[7] = 28,
-					[8] = 28,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 118,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[517] = 28,
-						[519] = 14,
-						[524] = 15,
-						[526] = 15,
-						[513] = 18,
-						[515] = 14,
-						[528] = 14,
-					},
-				},
-			},
-			[648] = {
-				["i"] = 96,
-				[3] = {
-					[1] = 4,
-					[2] = 15,
-					[3] = 18,
-					[4] = 66,
-					[5] = 1,
-					[6] = 30,
-					[7] = 30,
-					[8] = 30,
+		[591] = {
+			[591] = {
+				["i"] = 1120,
+				[318] = {
+					[1] = 5,
+					[2] = 224,
+					[3] = 224,
+					[4] = 1120,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 96,
+					[13] = 1120,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -31505,8 +31833,7 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1268] = 78,
-						[1272] = 18,
+						[1914] = 1120,
 					},
 				},
 			},
@@ -31682,23 +32009,23 @@ DPSMateEDD = {
 				},
 			},
 		},
-		[664] = {
+		[538] = {
 			[1] = {
-				["i"] = 203,
+				["i"] = 136,
 				[3] = {
-					[1] = 11,
-					[2] = 17,
-					[3] = 21,
-					[4] = 203,
+					[1] = 8,
+					[2] = 15,
+					[3] = 19,
+					[4] = 136,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 1,
-					[10] = 1,
+					[9] = 0,
+					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 203,
+					[13] = 136,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -31709,17 +32036,46 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1661] = 21,
-						[1643] = 19,
-						[1662] = 18,
-						[1651] = 20,
-						[1644] = 18,
-						[1648] = 17,
-						[1656] = 17,
-						[1649] = 19,
-						[1653] = 17,
-						[1657] = 17,
-						[1659] = 20,
+						[547] = 16,
+						[548] = 17,
+						[550] = 16,
+						[552] = 33,
+						[554] = 19,
+						[556] = 17,
+						[549] = 18,
+					},
+				},
+			},
+			[539] = {
+				["i"] = 37,
+				[3] = {
+					[1] = 3,
+					[2] = 12,
+					[3] = 12,
+					[4] = 36,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 1,
+					[12] = 0,
+					[13] = 37,
+					[14] = 1,
+					[15] = 1,
+					[16] = 1,
+					[17] = 1,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1] = 1,
+						[3] = 12,
+						[5] = 12,
+						[7] = 12,
 					},
 				},
 			},
@@ -31945,22 +32301,22 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[1011] = {
-				["i"] = 50,
+			[1495] = {
+				["i"] = 0,
 				[3] = {
-					[1] = 4,
-					[2] = 12,
-					[3] = 13,
-					[4] = 50,
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 0,
+					[9] = 1,
 					[10] = 0,
-					[11] = 1,
+					[11] = 0,
 					[12] = 0,
-					[13] = 50,
+					[13] = 0,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -31971,8 +32327,6 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1911] = 37,
-						[1912] = 13,
 					},
 				},
 			},
@@ -32037,22 +32391,22 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[1495] = {
-				["i"] = 0,
+			[1011] = {
+				["i"] = 50,
 				[3] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
+					[1] = 4,
+					[2] = 12,
+					[3] = 13,
+					[4] = 50,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 1,
+					[9] = 0,
 					[10] = 0,
-					[11] = 0,
+					[11] = 1,
 					[12] = 0,
-					[13] = 0,
+					[13] = 50,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -32063,6 +32417,8 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
+						[1911] = 37,
+						[1912] = 13,
 					},
 				},
 			},
@@ -32096,33 +32452,34 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[1164] = {
-				["i"] = 57,
+			[892] = {
+				["i"] = 197,
 				[3] = {
 					[1] = 5,
-					[2] = 10,
-					[3] = 13,
-					[4] = 57,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+					[2] = 15,
+					[3] = 16,
+					[4] = 76,
+					[5] = 2,
+					[6] = 32,
+					[7] = 38,
+					[8] = 70,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 57,
+					[13] = 197,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
+					[18] = 2,
+					[19] = 24,
+					[20] = 27,
+					[21] = 51,
 					[22] = 0,
 					["i"] = {
-						[1908] = 57,
+						[1905] = 119,
+						[1906] = 78,
 					},
 				},
 			},
@@ -32157,22 +32514,22 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[1194] = {
-				["i"] = 147,
+			[783] = {
+				["i"] = 65,
 				[3] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 20,
-					[4] = 147,
+					[1] = 11,
+					[2] = 5,
+					[3] = 7,
+					[4] = 65,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
+					[9] = 8,
+					[10] = 3,
+					[11] = 2,
 					[12] = 0,
-					[13] = 147,
+					[13] = 65,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -32183,39 +32540,37 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1910] = 94,
-						[1909] = 53,
+						[1910] = 65,
 					},
 				},
 			},
-			[892] = {
-				["i"] = 197,
+			[1164] = {
+				["i"] = 57,
 				[3] = {
 					[1] = 5,
-					[2] = 15,
-					[3] = 16,
-					[4] = 76,
-					[5] = 2,
-					[6] = 32,
-					[7] = 38,
-					[8] = 70,
+					[2] = 10,
+					[3] = 13,
+					[4] = 57,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
 					[9] = 0,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 197,
+					[13] = 57,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
-					[18] = 2,
-					[19] = 24,
-					[20] = 27,
-					[21] = 51,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1905] = 119,
-						[1906] = 78,
+						[1908] = 57,
 					},
 				},
 			},
@@ -32309,22 +32664,22 @@ DPSMateEDD = {
 					},
 				},
 			},
-			[783] = {
-				["i"] = 65,
+			[1194] = {
+				["i"] = 147,
 				[3] = {
-					[1] = 11,
-					[2] = 5,
-					[3] = 7,
-					[4] = 65,
+					[1] = 8,
+					[2] = 16,
+					[3] = 20,
+					[4] = 147,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 8,
-					[10] = 3,
-					[11] = 2,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
 					[12] = 0,
-					[13] = 65,
+					[13] = 147,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -32335,7 +32690,8 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1910] = 65,
+						[1910] = 94,
+						[1909] = 53,
 					},
 				},
 			},
@@ -32749,51 +33105,23 @@ DPSMateEDD = {
 				},
 			},
 		},
-		[66] = {
-			[1] = {
-				["i"] = 112,
-				[32] = {
-					[1] = 2,
-					[2] = 23,
-					[3] = 25,
-					[4] = 48,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 48,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1871] = 25,
-						[1892] = 23,
-					},
-				},
+		[637] = {
+			[543] = {
+				["i"] = 19,
 				[3] = {
-					[1] = 7,
+					[1] = 2,
 					[2] = 7,
-					[3] = 10,
-					[4] = 64,
+					[3] = 12,
+					[4] = 19,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 1,
+					[9] = 2,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 64,
+					[13] = 19,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -32804,13 +33132,8 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1871] = 10,
-						[1875] = 9,
-						[1894] = 10,
-						[1891] = 10,
-						[1869] = 8,
-						[1892] = 10,
-						[1877] = 7,
+						[994] = 12,
+						[992] = 7,
 					},
 				},
 			},
@@ -32993,13 +33316,14 @@ DPSMateEDD = {
 				},
 			},
 		},
-		[1482] = {
-			[1481] = {
-				[13] = {
-					[1] = 1,
-					[2] = 8,
-					[3] = 8,
-					[4] = 8,
+		[825] = {
+			[824] = {
+				["i"] = 1237,
+				[64] = {
+					[1] = 4,
+					[2] = 166,
+					[3] = 166,
+					[4] = 664,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -33008,7 +33332,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 8,
+					[13] = 664,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33019,20 +33343,15 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1918] = 8,
+						[1904] = 166,
+						[1903] = 498,
 					},
 				},
-				["i"] = 8,
-			},
-		},
-		[241] = {
-			[1] = {
-				["i"] = 12,
-				[3] = {
-					[1] = 1,
-					[2] = 12,
-					[3] = 12,
-					[4] = 12,
+				[63] = {
+					[1] = 7,
+					[2] = 30,
+					[3] = 121,
+					[4] = 573,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -33041,7 +33360,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 12,
+					[13] = 573,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33052,7 +33371,77 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1573] = 12,
+						[1904] = 242,
+						[1903] = 331,
+					},
+				},
+			},
+		},
+		[151] = {
+			[1] = {
+				["i"] = 118,
+				[3] = {
+					[1] = 6,
+					[2] = 14,
+					[3] = 18,
+					[4] = 90,
+					[5] = 1,
+					[6] = 28,
+					[7] = 28,
+					[8] = 28,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 118,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[517] = 28,
+						[519] = 14,
+						[524] = 15,
+						[526] = 15,
+						[513] = 18,
+						[515] = 14,
+						[528] = 14,
+					},
+				},
+			},
+			[648] = {
+				["i"] = 96,
+				[3] = {
+					[1] = 4,
+					[2] = 15,
+					[3] = 18,
+					[4] = 66,
+					[5] = 1,
+					[6] = 30,
+					[7] = 30,
+					[8] = 30,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 96,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1268] = 78,
+						[1272] = 18,
 					},
 				},
 			},
@@ -33211,145 +33600,14 @@ DPSMateEDD = {
 				},
 			},
 		},
-		[591] = {
-			[591] = {
-				["i"] = 1120,
-				[318] = {
-					[1] = 5,
-					[2] = 224,
-					[3] = 224,
-					[4] = 1120,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 1120,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1914] = 1120,
-					},
-				},
-			},
-		},
-		[637] = {
-			[543] = {
-				["i"] = 19,
-				[3] = {
-					[1] = 2,
-					[2] = 7,
-					[3] = 12,
-					[4] = 19,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 2,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 19,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[994] = 12,
-						[992] = 7,
-					},
-				},
-			},
-		},
-		[533] = {
+		[66] = {
 			[1] = {
-				["i"] = 216,
-				[3] = {
-					[1] = 8,
-					[2] = 17,
-					[3] = 21,
-					[4] = 144,
-					[5] = 2,
-					[6] = 36,
-					[7] = 36,
-					[8] = 72,
-					[9] = 0,
-					[10] = 1,
-					[11] = 0,
-					[12] = 0,
-					[13] = 216,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[492] = 34,
-						[494] = 35,
-						[496] = 57,
-						[180] = 17,
-						[498] = 53,
-						[516] = 20,
-					},
-				},
-			},
-			[540] = {
-				["i"] = 86,
-				[3] = {
-					[1] = 3,
-					[2] = 6,
-					[3] = 21,
-					[4] = 46,
-					[5] = 1,
-					[6] = 40,
-					[7] = 40,
-					[8] = 40,
-					[9] = 2,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 86,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[21] = 21,
-						[11] = 65,
-					},
-				},
-			},
-			[542] = {
-				["i"] = 165,
-				[64] = {
-					[1] = 4,
-					[2] = 10,
-					[3] = 10,
-					[4] = 40,
+				["i"] = 112,
+				[32] = {
+					[1] = 2,
+					[2] = 23,
+					[3] = 25,
+					[4] = 48,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -33358,7 +33616,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 40,
+					[13] = 48,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33369,26 +33627,24 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[112] = 10,
-						[109] = 10,
-						[118] = 10,
-						[115] = 10,
+						[1871] = 25,
+						[1892] = 23,
 					},
 				},
 				[3] = {
 					[1] = 7,
-					[2] = 12,
-					[3] = 16,
-					[4] = 97,
-					[5] = 1,
-					[6] = 28,
-					[7] = 28,
-					[8] = 28,
+					[2] = 7,
+					[3] = 10,
+					[4] = 64,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
 					[9] = 1,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 125,
+					[13] = 64,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33399,21 +33655,67 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[98] = 16,
-						[100] = 14,
-						[102] = 28,
-						[96] = 54,
-						[103] = 13,
+						[1871] = 10,
+						[1875] = 9,
+						[1894] = 10,
+						[1891] = 10,
+						[1869] = 8,
+						[1892] = 10,
+						[1877] = 7,
 					},
 				},
 			},
-			[541] = {
-				["i"] = 20,
+		},
+		[664] = {
+			[1] = {
+				["i"] = 203,
 				[3] = {
-					[1] = 1,
-					[2] = 20,
-					[3] = 20,
-					[4] = 20,
+					[1] = 11,
+					[2] = 17,
+					[3] = 21,
+					[4] = 203,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 1,
+					[11] = 0,
+					[12] = 0,
+					[13] = 203,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1661] = 21,
+						[1643] = 19,
+						[1662] = 18,
+						[1651] = 20,
+						[1644] = 18,
+						[1648] = 17,
+						[1656] = 17,
+						[1649] = 19,
+						[1653] = 17,
+						[1657] = 17,
+						[1659] = 20,
+					},
+				},
+			},
+		},
+		[168] = {
+			[685] = {
+				["i"] = 27,
+				[3] = {
+					[1] = 2,
+					[2] = 12,
+					[3] = 15,
+					[4] = 27,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -33422,7 +33724,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 20,
+					[13] = 27,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33433,7 +33735,101 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[95] = 20,
+						[1901] = 27,
+					},
+				},
+			},
+			[617] = {
+				["i"] = 37,
+				[3] = {
+					[1] = 3,
+					[2] = 3,
+					[3] = 17,
+					[4] = 37,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 37,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[325] = 20,
+						[326] = 17,
+					},
+				},
+			},
+			[679] = {
+				["i"] = 57,
+				[3] = {
+					[1] = 5,
+					[2] = 11,
+					[3] = 12,
+					[4] = 57,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 2,
+					[12] = 0,
+					[13] = 57,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[1897] = 23,
+						[1898] = 12,
+						[1896] = 22,
+					},
+				},
+			},
+			[615] = {
+				["i"] = 152,
+				[3] = {
+					[1] = 9,
+					[2] = 15,
+					[3] = 20,
+					[4] = 152,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 152,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[325] = 17,
+						[324] = 135,
 					},
 				},
 			},
@@ -33625,23 +34021,23 @@ DPSMateEDD = {
 				},
 			},
 		},
-		[168] = {
-			[685] = {
-				["i"] = 27,
+		[533] = {
+			[1] = {
+				["i"] = 216,
 				[3] = {
-					[1] = 2,
-					[2] = 12,
-					[3] = 15,
-					[4] = 27,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+					[1] = 8,
+					[2] = 17,
+					[3] = 21,
+					[4] = 144,
+					[5] = 2,
+					[6] = 36,
+					[7] = 36,
+					[8] = 72,
 					[9] = 0,
-					[10] = 0,
+					[10] = 1,
 					[11] = 0,
 					[12] = 0,
-					[13] = 27,
+					[13] = 216,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33652,17 +34048,53 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[1901] = 27,
+						[492] = 34,
+						[494] = 35,
+						[496] = 57,
+						[180] = 17,
+						[498] = 53,
+						[516] = 20,
 					},
 				},
 			},
-			[617] = {
-				["i"] = 37,
+			[540] = {
+				["i"] = 86,
 				[3] = {
 					[1] = 3,
-					[2] = 3,
-					[3] = 17,
-					[4] = 37,
+					[2] = 6,
+					[3] = 21,
+					[4] = 46,
+					[5] = 1,
+					[6] = 40,
+					[7] = 40,
+					[8] = 40,
+					[9] = 2,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 86,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[21] = 21,
+						[11] = 65,
+					},
+				},
+			},
+			[542] = {
+				["i"] = 165,
+				[64] = {
+					[1] = 4,
+					[2] = 10,
+					[3] = 10,
+					[4] = 40,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -33671,7 +34103,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 37,
+					[13] = 40,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33682,59 +34114,26 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[325] = 20,
-						[326] = 17,
+						[112] = 10,
+						[109] = 10,
+						[118] = 10,
+						[115] = 10,
 					},
 				},
-			},
-			[679] = {
-				["i"] = 57,
 				[3] = {
-					[1] = 5,
-					[2] = 11,
-					[3] = 12,
-					[4] = 57,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 1,
-					[10] = 0,
-					[11] = 2,
-					[12] = 0,
-					[13] = 57,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1897] = 23,
-						[1898] = 12,
-						[1896] = 22,
-					},
-				},
-			},
-			[615] = {
-				["i"] = 152,
-				[3] = {
-					[1] = 9,
-					[2] = 15,
-					[3] = 20,
-					[4] = 152,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
+					[1] = 7,
+					[2] = 12,
+					[3] = 16,
+					[4] = 97,
+					[5] = 1,
+					[6] = 28,
+					[7] = 28,
+					[8] = 28,
 					[9] = 1,
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 152,
+					[13] = 125,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -33745,8 +34144,41 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[325] = 17,
-						[324] = 135,
+						[98] = 16,
+						[100] = 14,
+						[102] = 28,
+						[96] = 54,
+						[103] = 13,
+					},
+				},
+			},
+			[541] = {
+				["i"] = 20,
+				[3] = {
+					[1] = 1,
+					[2] = 20,
+					[3] = 20,
+					[4] = 20,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 20,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					["i"] = {
+						[95] = 20,
 					},
 				},
 			},
@@ -33974,12 +34406,12 @@ DPSMateEDD = {
 						[145] = 17,
 						[126] = 17,
 						[160] = 17,
-						[195] = 7,
+						[164] = 16,
 						[199] = 31,
 						[141] = 17,
 						[176] = 63,
 						[149] = 17,
-						[164] = 16,
+						[195] = 7,
 						[197] = 34,
 						[139] = 16,
 					},
@@ -34780,9 +35212,9 @@ DPSMateEDD = {
 						[443] = 63,
 						[451] = 46,
 						[459] = 23,
-						[483] = 21,
-						[444] = 41,
 						[452] = 65,
+						[444] = 41,
+						[483] = 21,
 						[475] = 24,
 						[477] = 23,
 						[445] = 21,
@@ -34919,33 +35351,32 @@ DPSMateEDD = {
 						[1480] = 19,
 						[1547] = 17,
 						[1555] = 19,
-						[1465] = 11,
-						[1469] = 14,
-						[1520] = 19,
-						[1524] = 24,
 						[1528] = 12,
 						[1532] = 11,
+						[1520] = 19,
+						[1524] = 24,
+						[1465] = 11,
+						[1469] = 14,
 						[1533] = 10,
 						[1477] = 17,
 						[1481] = 19,
-						[1485] = 11,
-						[1489] = 11,
-						[1544] = 11,
-						[1552] = 16,
 						[1548] = 15,
+						[1552] = 16,
+						[1544] = 11,
+						[1489] = 11,
+						[1485] = 11,
 						[1549] = 16,
 					},
 				},
 			},
 		},
-		[538] = {
-			[1] = {
-				["i"] = 136,
-				[3] = {
-					[1] = 8,
-					[2] = 15,
-					[3] = 19,
-					[4] = 136,
+		[1482] = {
+			[1481] = {
+				[13] = {
+					[1] = 1,
+					[2] = 8,
+					[3] = 8,
+					[4] = 8,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -34954,7 +35385,7 @@ DPSMateEDD = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 136,
+					[13] = 8,
 					[14] = 0,
 					[15] = 0,
 					[16] = 0,
@@ -34965,48 +35396,10 @@ DPSMateEDD = {
 					[21] = 0,
 					[22] = 0,
 					["i"] = {
-						[547] = 16,
-						[548] = 17,
-						[550] = 16,
-						[552] = 33,
-						[554] = 19,
-						[556] = 17,
-						[549] = 18,
+						[1918] = 8,
 					},
 				},
-			},
-			[539] = {
-				["i"] = 37,
-				[3] = {
-					[1] = 3,
-					[2] = 12,
-					[3] = 12,
-					[4] = 36,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 1,
-					[12] = 0,
-					[13] = 37,
-					[14] = 1,
-					[15] = 1,
-					[16] = 1,
-					[17] = 1,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					["i"] = {
-						[1] = 1,
-						[3] = 12,
-						[5] = 12,
-						[7] = 12,
-					},
-				},
+				["i"] = 8,
 			},
 		},
 		[239] = {
@@ -35270,10 +35663,10 @@ DPSMateEDD = {
 						[624] = 40,
 						[840] = 30,
 						[707] = 33,
-						[711] = 42,
+						[921] = 33,
 						[593] = 41,
 						[674] = 33,
-						[921] = 33,
+						[711] = 42,
 						[650] = 30,
 						[584] = 34,
 					},
@@ -36004,138 +36397,6 @@ DPSMateDamageTaken = {
 					},
 				},
 			},
-			[534] = {
-				[3] = {
-					[1] = 3,
-					[2] = 22,
-					[3] = 26,
-					[4] = 71,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 71,
-					[14] = 20.75,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[556] = 23,
-						[548] = 22,
-						[552] = 26,
-					},
-				},
-			},
-			[533] = {
-				[3] = {
-					[1] = 8,
-					[2] = 17,
-					[3] = 21,
-					[4] = 144,
-					[5] = 2,
-					[6] = 36,
-					[7] = 36,
-					[8] = 72,
-					[9] = 0,
-					[10] = 1,
-					[11] = 0,
-					[12] = 0,
-					[13] = 216,
-					[14] = 21.7177734375,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[492] = 34,
-						[494] = 35,
-						[496] = 57,
-						[180] = 17,
-						[498] = 53,
-						[516] = 20,
-					},
-				},
-			},
-			[66] = {
-				[32] = {
-					[1] = 2,
-					[2] = 23,
-					[3] = 25,
-					[4] = 48,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 48,
-					[14] = 17.75,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1871] = 25,
-						[1892] = 23,
-					},
-				},
-				[3] = {
-					[1] = 7,
-					[2] = 7,
-					[3] = 10,
-					[4] = 64,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 64,
-					[14] = 9.6875,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1871] = 10,
-						[1875] = 9,
-						[1894] = 10,
-						[1891] = 10,
-						[1869] = 8,
-						[1892] = 10,
-						[1877] = 7,
-					},
-				},
-			},
 			[658] = {
 				[171] = {
 					[1] = 8,
@@ -36227,21 +36488,154 @@ DPSMateDamageTaken = {
 						[1480] = 19,
 						[1547] = 17,
 						[1555] = 19,
-						[1465] = 11,
-						[1469] = 14,
-						[1520] = 19,
-						[1524] = 24,
 						[1528] = 12,
 						[1532] = 11,
+						[1520] = 19,
+						[1524] = 24,
+						[1465] = 11,
+						[1469] = 14,
 						[1533] = 10,
 						[1477] = 17,
 						[1481] = 19,
-						[1485] = 11,
-						[1489] = 11,
-						[1544] = 11,
-						[1552] = 16,
 						[1548] = 15,
+						[1552] = 16,
+						[1544] = 11,
+						[1489] = 11,
+						[1485] = 11,
 						[1549] = 16,
+					},
+				},
+			},
+			[64] = {
+				[3] = {
+					[1] = 7,
+					[2] = 6,
+					[3] = 9,
+					[4] = 54,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 2,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 54,
+					[14] = 7.0625,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1830] = 8,
+						[1834] = 8,
+						[1838] = 7,
+						[1842] = 6,
+						[1832] = 8,
+						[1825] = 8,
+						[1840] = 9,
+					},
+				},
+			},
+			[66] = {
+				[32] = {
+					[1] = 2,
+					[2] = 23,
+					[3] = 25,
+					[4] = 48,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 48,
+					[14] = 17.75,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1871] = 25,
+						[1892] = 23,
+					},
+				},
+				[3] = {
+					[1] = 7,
+					[2] = 7,
+					[3] = 10,
+					[4] = 64,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 64,
+					[14] = 9.6875,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1871] = 10,
+						[1875] = 9,
+						[1894] = 10,
+						[1891] = 10,
+						[1869] = 8,
+						[1892] = 10,
+						[1877] = 7,
+					},
+				},
+			},
+			[534] = {
+				[3] = {
+					[1] = 3,
+					[2] = 22,
+					[3] = 26,
+					[4] = 71,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 71,
+					[14] = 20.75,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[556] = 23,
+						[548] = 22,
+						[552] = 26,
 					},
 				},
 			},
@@ -36275,10 +36669,10 @@ DPSMateDamageTaken = {
 						[624] = 40,
 						[840] = 30,
 						[707] = 33,
-						[711] = 42,
+						[921] = 33,
 						[593] = 41,
 						[674] = 33,
-						[921] = 33,
+						[711] = 42,
 						[650] = 30,
 						[584] = 34,
 					},
@@ -36419,22 +36813,22 @@ DPSMateDamageTaken = {
 					},
 				},
 			},
-			[64] = {
+			[533] = {
 				[3] = {
-					[1] = 7,
-					[2] = 6,
-					[3] = 9,
-					[4] = 54,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 2,
-					[10] = 0,
+					[1] = 8,
+					[2] = 17,
+					[3] = 21,
+					[4] = 144,
+					[5] = 2,
+					[6] = 36,
+					[7] = 36,
+					[8] = 72,
+					[9] = 0,
+					[10] = 1,
 					[11] = 0,
 					[12] = 0,
-					[13] = 54,
-					[14] = 7.0625,
+					[13] = 216,
+					[14] = 21.7177734375,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -36445,13 +36839,12 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1830] = 8,
-						[1834] = 8,
-						[1838] = 7,
-						[1842] = 6,
-						[1832] = 8,
-						[1825] = 8,
-						[1840] = 9,
+						[492] = 34,
+						[494] = 35,
+						[496] = 57,
+						[180] = 17,
+						[498] = 53,
+						[516] = 20,
 					},
 				},
 			},
@@ -36560,13 +36953,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[126] = {
-			[5] = {
-				[126] = {
+		[1512] = {
+			["i"] = 19,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 32,
-					[3] = 32,
-					[4] = 32,
+					[2] = 19,
+					[3] = 19,
+					[4] = 19,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -36575,8 +36969,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 32,
-					[14] = 16,
+					[13] = 19,
+					[14] = 9.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -36587,69 +36981,10 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[921] = 32,
+						[1918] = 19,
 					},
 				},
 			},
-			[636] = {
-				[31] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
-					[5] = 1,
-					[6] = 37,
-					[7] = 37,
-					[8] = 37,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 37,
-					[14] = 18.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[926] = 37,
-					},
-				},
-				[125] = {
-					[1] = 1,
-					[2] = 42,
-					[3] = 42,
-					[4] = 42,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 42,
-					[14] = 21,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[923] = 42,
-					},
-				},
-			},
-			["i"] = 111,
 		},
 		[629] = {
 			["i"] = 96,
@@ -36720,7 +37055,7 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[758] = {
+		[1514] = {
 			["i"] = 10,
 			[8] = {
 				[8] = {
@@ -36748,7 +37083,68 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 10,
+						[1918] = 10,
+					},
+				},
+			},
+		},
+		[1515] = {
+			["i"] = 98,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 88,
+					[3] = 88,
+					[4] = 88,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 88,
+					[14] = 44,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 88,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
 					},
 				},
 			},
@@ -36810,6 +37206,72 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1911] = 670,
+					},
+				},
+			},
+		},
+		[1516] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
+					},
+				},
+			},
+		},
+		[1517] = {
+			["i"] = 410,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 410,
+					[3] = 410,
+					[4] = 410,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 410,
+					[14] = 205,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 410,
 					},
 				},
 			},
@@ -36880,103 +37342,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[5] = {
-			["i"] = 574,
-			[137] = {
-				[92] = {
-					[1] = 1,
-					[2] = 30,
-					[3] = 30,
-					[4] = 30,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 30,
-					[14] = 15,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[432] = 30,
-					},
-				},
-			},
-			[141] = {
-				[3] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 1,
-					[11] = 0,
-					[12] = 0,
-					[13] = 0,
-					[14] = 0,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-					},
-				},
-			},
-			[5] = {
-				[13] = {
-					[1] = 1,
-					[2] = 8,
-					[3] = 8,
-					[4] = 8,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 8,
-					[14] = 4,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1918] = 8,
-					},
-				},
-			},
+		[1519] = {
+			["i"] = 151,
 			[8] = {
 				[8] = {
-					[1] = 3,
+					[1] = 1,
 					[2] = 10,
 					[3] = 10,
-					[4] = 30,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -36985,8 +37358,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 30,
-					[14] = 8.75,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -36998,15 +37371,13 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1918] = 10,
-						[1906] = 10,
-						[1914] = 10,
 					},
 				},
 				[16] = {
-					[1] = 3,
-					[2] = 89,
-					[3] = 204,
-					[4] = 494,
+					[1] = 1,
+					[2] = 141,
+					[3] = 141,
+					[4] = 141,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -37015,8 +37386,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 494,
-					[14] = 163.375,
+					[13] = 141,
+					[14] = 70.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -37027,16 +37398,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 494,
+						[1918] = 141,
 					},
 				},
 			},
-			[607] = {
-				[3] = {
-					[1] = 2,
-					[2] = 6,
-					[3] = 6,
-					[4] = 12,
+		},
+		[1520] = {
+			["i"] = 1039,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 1039,
+					[3] = 1039,
+					[4] = 1039,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -37045,8 +37419,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 12,
-					[14] = 4.5,
+					[13] = 1039,
+					[14] = 519.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -37057,8 +37431,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 6,
-						[1906] = 6,
+						[1918] = 1039,
 					},
 				},
 			},
@@ -37314,6 +37687,40 @@ DPSMateDamageTaken = {
 						[976] = 19,
 						[978] = 19,
 						[813] = 19,
+					},
+				},
+			},
+		},
+		[1525] = {
+			["i"] = 2615,
+			[8] = {
+				[16] = {
+					[1] = 3,
+					[2] = 168,
+					[3] = 1835,
+					[4] = 2615,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 2615,
+					[14] = 1091.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 1835,
+						[1918] = 780,
 					},
 				},
 			},
@@ -37801,6 +38208,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1536] = {
+			["i"] = 75,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 75,
+					[3] = 75,
+					[4] = 75,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 75,
+					[14] = 37.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 75,
+					},
+				},
+			},
+		},
 		[641] = {
 			["i"] = 77,
 			[8] = {
@@ -37834,6 +38274,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1537] = {
+			["i"] = 56,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 56,
+					[3] = 56,
+					[4] = 56,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 56,
+					[14] = 28,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 56,
+					},
+				},
+			},
+		},
 		[1282] = {
 			["i"] = 13,
 			[607] = {
@@ -37863,6 +38336,72 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1912] = 13,
+					},
+				},
+			},
+		},
+		[1538] = {
+			["i"] = 192,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 192,
+					[3] = 192,
+					[4] = 192,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 192,
+					[14] = 96,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 192,
+					},
+				},
+			},
+		},
+		[1539] = {
+			["i"] = 324,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 324,
+					[3] = 324,
+					[4] = 324,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 324,
+					[14] = 162,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 324,
 					},
 				},
 			},
@@ -37925,6 +38464,72 @@ DPSMateDamageTaken = {
 					["i"] = {
 						[1904] = 119,
 						[1905] = 82,
+					},
+				},
+			},
+		},
+		[1540] = {
+			["i"] = 93,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 93,
+					[3] = 93,
+					[4] = 93,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 93,
+					[14] = 46.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 93,
+					},
+				},
+			},
+		},
+		[1541] = {
+			["i"] = 539,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 539,
+					[3] = 539,
+					[4] = 539,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 539,
+					[14] = 269.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 539,
 					},
 				},
 			},
@@ -38059,14 +38664,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[129] = {
-			["i"] = 346,
+		[1544] = {
+			["i"] = 56,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 346,
-					[3] = 346,
-					[4] = 346,
+					[2] = 56,
+					[3] = 56,
+					[4] = 56,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -38075,8 +38680,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 346,
-					[14] = 173,
+					[13] = 56,
+					[14] = 28,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -38087,7 +38692,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 346,
+						[1918] = 56,
 					},
 				},
 			},
@@ -38476,14 +39081,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[522] = {
-			["i"] = 165,
-			[535] = {
-				[109] = {
+		[1554] = {
+			["i"] = 351,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 40,
-					[3] = 40,
-					[4] = 40,
+					[2] = 351,
+					[3] = 351,
+					[4] = 351,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -38492,8 +39097,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 40,
-					[14] = 20,
+					[13] = 351,
+					[14] = 175.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -38504,68 +39109,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[20] = 40,
-					},
-				},
-				[3] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
-					[5] = 1,
-					[6] = 44,
-					[7] = 44,
-					[8] = 44,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 44,
-					[14] = 22,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[17] = 44,
-					},
-				},
-			},
-			[534] = {
-				[3] = {
-					[1] = 4,
-					[2] = 19,
-					[3] = 23,
-					[4] = 81,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 81,
-					[14] = 18.8125,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[2] = 19,
-						[4] = 23,
-						[7] = 19,
-						[47] = 20,
+						[1918] = 351,
 					},
 				},
 			},
@@ -38636,14 +39180,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1045] = {
-			["i"] = 298,
+		[1556] = {
+			["i"] = 1322,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 298,
-					[3] = 298,
-					[4] = 298,
+					[2] = 1322,
+					[3] = 1322,
+					[4] = 1322,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -38652,8 +39196,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 298,
-					[14] = 149,
+					[13] = 1322,
+					[14] = 661,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -38664,7 +39208,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 298,
+						[1918] = 1322,
 					},
 				},
 			},
@@ -38895,13 +39439,14 @@ DPSMateDamageTaken = {
 			},
 			["i"] = 14,
 		},
-		[131] = {
-			[543] = {
-				[3] = {
-					[1] = 8,
-					[2] = 15,
-					[3] = 19,
-					[4] = 132,
+		[1560] = {
+			["i"] = 121,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 121,
+					[3] = 121,
+					[4] = 121,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -38910,41 +39455,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 142,
-					[14] = 15.89453125,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 1,
-					[21] = 10,
-					[22] = 10,
-					[23] = 10,
-					["i"] = {
-						[811] = 46,
-						[813] = 16,
-						[810] = 64,
-						[812] = 16,
-					},
-				},
-			},
-			[135] = {
-				[39] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 0,
-					[14] = 0,
+					[13] = 121,
+					[14] = 60.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -38955,38 +39467,10 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-					},
-				},
-				[3] = {
-					[1] = 2,
-					[2] = 12,
-					[3] = 13,
-					[4] = 25,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 1,
-					[11] = 0,
-					[12] = 0,
-					[13] = 25,
-					[14] = 9.25,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[827] = 25,
+						[1918] = 121,
 					},
 				},
 			},
-			["i"] = 167,
 		},
 		[653] = {
 			["i"] = 10,
@@ -39086,6 +39570,39 @@ DPSMateDamageTaken = {
 				},
 			},
 			["i"] = 11,
+		},
+		[1562] = {
+			["i"] = 32,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 32,
+					[3] = 32,
+					[4] = 32,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 32,
+					[14] = 16,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 32,
+					},
+				},
+			},
 		},
 		[654] = {
 			["i"] = 101,
@@ -39746,6 +40263,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1572] = {
+			["i"] = 312,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 312,
+					[3] = 312,
+					[4] = 312,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 312,
+					[14] = 156,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 312,
+					},
+				},
+			},
+		},
 		[1317] = {
 			["i"] = 437,
 			[8] = {
@@ -39878,6 +40428,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1576] = {
+			["i"] = 151,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 151,
+					[3] = 151,
+					[4] = 151,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 151,
+					[14] = 75.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 151,
+					},
+				},
+			},
+		},
 		[1321] = {
 			["i"] = 10,
 			[8] = {
@@ -39940,6 +40523,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1902] = 433,
+					},
+				},
+			},
+		},
+		[1580] = {
+			["i"] = 399,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 399,
+					[3] = 399,
+					[4] = 399,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 399,
+					[14] = 199.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 399,
 					},
 				},
 			},
@@ -40132,6 +40748,133 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1593] = {
+			["i"] = 144,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 10,
+					},
+				},
+				[16] = {
+					[1] = 2,
+					[2] = 11,
+					[3] = 123,
+					[4] = 134,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 134,
+					[14] = 36.25,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 134,
+					},
+				},
+			},
+		},
+		[1584] = {
+			["i"] = 119,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 119,
+					[3] = 119,
+					[4] = 119,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 119,
+					[14] = 59.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 119,
+					},
+				},
+			},
+		},
+		[1390] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 10,
+					},
+				},
+			},
+		},
 		[793] = {
 			["i"] = 10,
 			[8] = {
@@ -40161,6 +40904,72 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1904] = 10,
+					},
+				},
+			},
+		},
+		[1565] = {
+			["i"] = 221,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 221,
+					[3] = 221,
+					[4] = 221,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 221,
+					[14] = 110.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 221,
+					},
+				},
+			},
+		},
+		[1586] = {
+			["i"] = 1613,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 1613,
+					[3] = 1613,
+					[4] = 1613,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 1613,
+					[14] = 806.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 1613,
 					},
 				},
 			},
@@ -40227,6 +41036,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1908] = 552,
+					},
+				},
+			},
+		},
+		[1585] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 10,
 					},
 				},
 			},
@@ -40498,6 +41340,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1571] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1919] = 10,
+					},
+				},
+			},
+		},
 		[1080] = {
 			["i"] = 237,
 			[8] = {
@@ -40527,6 +41402,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1914] = 237,
+					},
+				},
+			},
+		},
+		[1569] = {
+			["i"] = 175,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 175,
+					[3] = 175,
+					[4] = 175,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 175,
+					[14] = 87.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 175,
 					},
 				},
 			},
@@ -40663,235 +41571,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[542] = {
-			[345] = {
-				[3] = {
-					[1] = 4,
-					[2] = 16,
-					[3] = 18,
-					[4] = 68,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 1,
-					[11] = 1,
-					[12] = 0,
-					[13] = 85,
-					[14] = 13.890625,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 2,
-					[21] = 8,
-					[22] = 9,
-					[23] = 17,
-					["i"] = {
-						[63] = 17,
-						[65] = 17,
-						[67] = 8,
-						[61] = 18,
-						[68] = 16,
-						[57] = 9,
-					},
-				},
-			},
-			[533] = {
-				[64] = {
-					[1] = 4,
-					[2] = 10,
-					[3] = 10,
-					[4] = 40,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 40,
-					[14] = 9.375,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[112] = 10,
-						[109] = 10,
-						[118] = 10,
-						[115] = 10,
-					},
-				},
-				[3] = {
-					[1] = 7,
-					[2] = 12,
-					[3] = 16,
-					[4] = 97,
-					[5] = 1,
-					[6] = 28,
-					[7] = 28,
-					[8] = 28,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 125,
-					[14] = 17.0703125,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[98] = 16,
-						[100] = 14,
-						[102] = 28,
-						[96] = 54,
-						[103] = 13,
-					},
-				},
-			},
-			[535] = {
-				[109] = {
-					[1] = 2,
-					[2] = 34,
-					[3] = 34,
-					[4] = 68,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 68,
-					[14] = 25.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[82] = 34,
-						[71] = 34,
-					},
-				},
-				[3] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 49,
-					[4] = 169,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 176,
-					[14] = 17.056640625,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 1,
-					[21] = 7,
-					[22] = 7,
-					[23] = 7,
-					["i"] = {
-						[80] = 18,
-						[69] = 17,
-						[73] = 7,
-						[78] = 18,
-						[86] = 17,
-						[75] = 17,
-						[68] = 65,
-						[84] = 17,
-					},
-				},
-			},
-			["i"] = 1115,
-			[543] = {
-				[3] = {
-					[1] = 30,
-					[2] = 14,
-					[3] = 18,
-					[4] = 484,
-					[5] = 3,
-					[6] = 32,
-					[7] = 36,
-					[8] = 102,
-					[9] = 2,
-					[10] = 0,
-					[11] = 1,
-					[12] = 0,
-					[13] = 603,
-					[14] = 17.04164563132508,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 3,
-					[21] = 5,
-					[22] = 7,
-					[23] = 17,
-					["i"] = {
-						[130] = 18,
-						[200] = 48,
-						[177] = 46,
-						[158] = 33,
-						[162] = 14,
-						[135] = 17,
-						[201] = 30,
-						[147] = 5,
-						[151] = 15,
-						[128] = 36,
-						[166] = 15,
-						[198] = 22,
-						[170] = 17,
-						[137] = 18,
-						[168] = 17,
-						[145] = 17,
-						[126] = 17,
-						[160] = 17,
-						[195] = 7,
-						[199] = 31,
-						[141] = 17,
-						[176] = 63,
-						[149] = 17,
-						[164] = 16,
-						[197] = 34,
-						[139] = 16,
-					},
-				},
-			},
-			[5] = {
-				[3] = {
+		[271] = {
+			["i"] = 537,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 18,
-					[3] = 18,
-					[4] = 18,
+					[2] = 537,
+					[3] = 537,
+					[4] = 537,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -40900,8 +41587,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 18,
-					[14] = 9,
+					[13] = 537,
+					[14] = 268.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -40912,7 +41599,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[219] = 18,
+						[1914] = 537,
 					},
 				},
 			},
@@ -40946,6 +41633,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1914] = 80,
+					},
+				},
+			},
+		},
+		[1567] = {
+			["i"] = 58,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 58,
+					[3] = 58,
+					[4] = 58,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 58,
+					[14] = 29,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 58,
 					},
 				},
 			},
@@ -40984,6 +41704,151 @@ DPSMateDamageTaken = {
 			},
 		},
 		[543] = {
+			[5] = {
+				[6] = {
+					[1] = 1,
+					[2] = 36,
+					[3] = 36,
+					[4] = 36,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 36,
+					[14] = 18,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[810] = 36,
+					},
+				},
+				[3] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 1,
+					[6] = 54,
+					[7] = 54,
+					[8] = 54,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 54,
+					[14] = 27,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[810] = 54,
+					},
+				},
+			},
+			["i"] = 519,
+			[131] = {
+				[6] = {
+					[1] = 3,
+					[2] = 38,
+					[3] = 40,
+					[4] = 118,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 118,
+					[14] = 34,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[810] = 118,
+					},
+				},
+				[137] = {
+					[1] = 1,
+					[2] = 15,
+					[3] = 15,
+					[4] = 15,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 15,
+					[14] = 7.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[810] = 15,
+					},
+				},
+				[3] = {
+					[1] = 4,
+					[2] = 15,
+					[3] = 19,
+					[4] = 68,
+					[5] = 2,
+					[6] = 32,
+					[7] = 38,
+					[8] = 70,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 138,
+					[14] = 18.90625,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[810] = 138,
+					},
+				},
+			},
 			[634] = {
 				[76] = {
 					[1] = 2,
@@ -41075,151 +41940,6 @@ DPSMateDamageTaken = {
 					},
 				},
 			},
-			[131] = {
-				[6] = {
-					[1] = 3,
-					[2] = 38,
-					[3] = 40,
-					[4] = 118,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 118,
-					[14] = 34,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[810] = 118,
-					},
-				},
-				[137] = {
-					[1] = 1,
-					[2] = 15,
-					[3] = 15,
-					[4] = 15,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 15,
-					[14] = 7.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[810] = 15,
-					},
-				},
-				[3] = {
-					[1] = 4,
-					[2] = 15,
-					[3] = 19,
-					[4] = 68,
-					[5] = 2,
-					[6] = 32,
-					[7] = 38,
-					[8] = 70,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 138,
-					[14] = 18.90625,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[810] = 138,
-					},
-				},
-			},
-			["i"] = 519,
-			[5] = {
-				[6] = {
-					[1] = 1,
-					[2] = 36,
-					[3] = 36,
-					[4] = 36,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 36,
-					[14] = 18,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[810] = 36,
-					},
-				},
-				[3] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
-					[5] = 1,
-					[6] = 54,
-					[7] = 54,
-					[8] = 54,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 54,
-					[14] = 27,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[810] = 54,
-					},
-				},
-			},
 		},
 		[671] = {
 			["i"] = 41,
@@ -41250,6 +41970,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1825] = 41,
+					},
+				},
+			},
+		},
+		[1564] = {
+			["i"] = 335,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 335,
+					[3] = 335,
+					[4] = 335,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 335,
+					[14] = 167.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 335,
 					},
 				},
 			},
@@ -41326,6 +42079,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1563] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
+					},
+				},
+			},
+		},
 		[1088] = {
 			["i"] = 10,
 			[8] = {
@@ -41392,6 +42178,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[579] = {
+			["i"] = 29,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 29,
+					[3] = 29,
+					[4] = 29,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 29,
+					[14] = 14.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[323] = 29,
+					},
+				},
+			},
+		},
 		[1345] = {
 			["i"] = 1347,
 			[8] = {
@@ -41421,6 +42240,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1914] = 1347,
+					},
+				},
+			},
+		},
+		[290] = {
+			["i"] = 229,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 229,
+					[3] = 229,
+					[4] = 229,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 229,
+					[14] = 114.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1908] = 229,
 					},
 				},
 			},
@@ -41494,6 +42346,77 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[704] = {
+			["i"] = 90,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 90,
+					[3] = 90,
+					[4] = 90,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 90,
+					[14] = 45,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1902] = 90,
+					},
+				},
+			},
+		},
+		[628] = {
+			["i"] = 123,
+			[630] = {
+				[3] = {
+					[1] = 6,
+					[2] = 18,
+					[3] = 24,
+					[4] = 123,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 2,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 123,
+					[14] = 19.484375,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[464] = 22,
+						[472] = 18,
+						[474] = 21,
+						[468] = 24,
+						[462] = 19,
+						[476] = 19,
+					},
+				},
+			},
+		},
 		[930] = {
 			["i"] = 653,
 			[8] = {
@@ -41562,6 +42485,40 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1011] = {
+			["i"] = 50,
+			[607] = {
+				[3] = {
+					[1] = 4,
+					[2] = 12,
+					[3] = 13,
+					[4] = 50,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 1,
+					[12] = 0,
+					[13] = 50,
+					[14] = 11.8125,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1911] = 37,
+						[1912] = 13,
+					},
+				},
+			},
+		},
 		[803] = {
 			["i"] = 10,
 			[8] = {
@@ -41595,6 +42552,39 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1254] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1911] = 10,
+					},
+				},
+			},
+		},
 		[1095] = {
 			["i"] = 345,
 			[8] = {
@@ -41624,6 +42614,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1908] = 345,
+					},
+				},
+			},
+		},
+		[941] = {
+			["i"] = 383,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 383,
+					[3] = 383,
+					[4] = 383,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 383,
+					[14] = 191.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1906] = 383,
 					},
 				},
 			},
@@ -41723,6 +42746,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[322] = 38,
+					},
+				},
+			},
+		},
+		[1527] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
 					},
 				},
 			},
@@ -41858,6 +42914,70 @@ DPSMateDamageTaken = {
 						[1898] = 24,
 						[1899] = 8,
 						[1900] = 32,
+					},
+				},
+			},
+		},
+		[540] = {
+			["i"] = 113,
+			[533] = {
+				[3] = {
+					[1] = 3,
+					[2] = 6,
+					[3] = 21,
+					[4] = 46,
+					[5] = 1,
+					[6] = 40,
+					[7] = 40,
+					[8] = 40,
+					[9] = 2,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 86,
+					[14] = 20.625,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[21] = 21,
+						[11] = 65,
+					},
+				},
+			},
+			[126] = {
+				[3] = {
+					[1] = 2,
+					[2] = 7,
+					[3] = 20,
+					[4] = 27,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 27,
+					[14] = 11.75,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[21] = 27,
 					},
 				},
 			},
@@ -42027,6 +43147,67 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1252] = {
+			["i"] = 285,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 275,
+					[3] = 275,
+					[4] = 275,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 275,
+					[14] = 137.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1911] = 275,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1911] = 10,
+					},
+				},
+			},
+		},
 		[1359] = {
 			["i"] = 492,
 			[8] = {
@@ -42056,6 +43237,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1914] = 492,
+					},
+				},
+			},
+		},
+		[1265] = {
+			["i"] = 155,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 155,
+					[3] = 155,
+					[4] = 155,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 155,
+					[14] = 77.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 155,
 					},
 				},
 			},
@@ -42223,14 +43437,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1362] = {
-			["i"] = 342,
+		[234] = {
+			["i"] = 1704,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 332,
-					[3] = 332,
-					[4] = 332,
+					[2] = 1704,
+					[3] = 1704,
+					[4] = 1704,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -42239,8 +43453,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 332,
-					[14] = 166,
+					[13] = 1704,
+					[14] = 852,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -42251,35 +43465,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 332,
-					},
-				},
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 10,
+						[1907] = 1704,
 					},
 				},
 			},
@@ -42313,6 +43499,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1908] = 446,
+					},
+				},
+			},
+		},
+		[886] = {
+			["i"] = 118,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 118,
+					[3] = 118,
+					[4] = 118,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 118,
+					[14] = 59,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1904] = 118,
 					},
 				},
 			},
@@ -42440,6 +43659,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[323] = 10,
+					},
+				},
+			},
+		},
+		[956] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1906] = 10,
 					},
 				},
 			},
@@ -42708,14 +43960,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[941] = {
-			["i"] = 383,
+		[934] = {
+			["i"] = 312,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 383,
-					[3] = 383,
-					[4] = 383,
+					[2] = 312,
+					[3] = 312,
+					[4] = 312,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -42724,8 +43976,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 383,
-					[14] = 191.5,
+					[13] = 312,
+					[14] = 156,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -42736,7 +43988,40 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 383,
+						[1906] = 312,
+					},
+				},
+			},
+		},
+		[1370] = {
+			["i"] = 307,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 307,
+					[3] = 307,
+					[4] = 307,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 307,
+					[14] = 153.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 307,
 					},
 				},
 			},
@@ -42809,6 +44094,67 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[1380] = {
+			["i"] = 766,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 756,
+					[3] = 756,
+					[4] = 756,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 756,
+					[14] = 378,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 756,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 10,
+					},
+				},
+			},
+		},
 		[1372] = {
 			["i"] = 1607,
 			[8] = {
@@ -42838,6 +44184,39 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1914] = 1607,
+					},
+				},
+			},
+		},
+		[1249] = {
+			["i"] = 34,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 34,
+					[3] = 34,
+					[4] = 34,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 34,
+					[14] = 17,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1911] = 34,
 					},
 				},
 			},
@@ -42941,6 +44320,71 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
+		[892] = {
+			["i"] = 227,
+			[607] = {
+				[3] = {
+					[1] = 5,
+					[2] = 15,
+					[3] = 16,
+					[4] = 76,
+					[5] = 2,
+					[6] = 32,
+					[7] = 38,
+					[8] = 70,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 197,
+					[14] = 17.994140625,
+					[15] = 2,
+					[16] = 24,
+					[17] = 27,
+					[18] = 51,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1905] = 119,
+						[1906] = 78,
+					},
+				},
+			},
+			[8] = {
+				[8] = {
+					[1] = 3,
+					[2] = 10,
+					[3] = 10,
+					[4] = 30,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 30,
+					[14] = 8.75,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1905] = 10,
+						[1906] = 20,
+					},
+				},
+			},
+		},
 		[1375] = {
 			["i"] = 118,
 			[8] = {
@@ -43007,14 +44451,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[904] = {
-			["i"] = 423,
+		[717] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 423,
-					[3] = 423,
-					[4] = 423,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43023,8 +44467,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 423,
-					[14] = 211.5,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43035,7 +44479,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 423,
+						[1902] = 10,
 					},
 				},
 			},
@@ -43073,14 +44517,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[517] = {
-			["i"] = 520,
+		[590] = {
+			["i"] = 327,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 520,
-					[3] = 520,
-					[4] = 520,
+					[2] = 327,
+					[3] = 327,
+					[4] = 327,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43089,8 +44533,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 520,
-					[14] = 260,
+					[13] = 327,
+					[14] = 163.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43101,19 +44545,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 520,
+						[323] = 327,
 					},
 				},
 			},
 		},
-		[1185] = {
-			["i"] = 241,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 241,
-					[3] = 241,
-					[4] = 241,
+		[624] = {
+			["i"] = 341,
+			[137] = {
+				[10] = {
+					[1] = 2,
+					[2] = 36,
+					[3] = 40,
+					[4] = 76,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43122,8 +44566,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 241,
-					[14] = 120.5,
+					[13] = 76,
+					[14] = 29,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43134,19 +44578,142 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 241,
+						[432] = 76,
+					},
+				},
+				[92] = {
+					[1] = 1,
+					[2] = 29,
+					[3] = 29,
+					[4] = 29,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 29,
+					[14] = 14.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[431] = 29,
+					},
+				},
+			},
+			[135] = {
+				[3] = {
+					[1] = 3,
+					[2] = 10,
+					[3] = 12,
+					[4] = 34,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 34,
+					[14] = 9.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[432] = 34,
+					},
+				},
+			},
+			[543] = {
+				[3] = {
+					[1] = 10,
+					[2] = 15,
+					[3] = 19,
+					[4] = 172,
+					[5] = 1,
+					[6] = 30,
+					[7] = 30,
+					[8] = 30,
+					[9] = 0,
+					[10] = 0,
+					[11] = 1,
+					[12] = 0,
+					[13] = 202,
+					[14] = 16.146484375,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[431] = 67,
+						[432] = 51,
+						[430] = 84,
 					},
 				},
 			},
 		},
-		[1492] = {
+		[1371] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 10,
+					},
+				},
+			},
+		},
+		[1112] = {
 			["i"] = 139,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 139,
-					[3] = 139,
-					[4] = 139,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43155,8 +44722,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 139,
-					[14] = 69.5,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43167,19 +44734,14 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 139,
+						[1918] = 10,
 					},
 				},
-			},
-		},
-		[1159] = {
-			["i"] = 550,
-			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 550,
-					[3] = 550,
-					[4] = 550,
+					[2] = 129,
+					[3] = 129,
+					[4] = 129,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43188,8 +44750,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 550,
-					[14] = 275,
+					[13] = 129,
+					[14] = 64.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43200,7 +44762,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 550,
+						[1918] = 129,
 					},
 				},
 			},
@@ -43370,14 +44932,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[485] = {
-			["i"] = 984,
+		[78] = {
+			["i"] = 1483,
 			[8] = {
 				[16] = {
-					[1] = 1,
-					[2] = 984,
-					[3] = 984,
-					[4] = 984,
+					[1] = 2,
+					[2] = 626,
+					[3] = 847,
+					[4] = 1473,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43386,8 +44948,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 984,
-					[14] = 492,
+					[13] = 1473,
+					[14] = 580,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43398,19 +44960,48 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 984,
+						[1914] = 626,
+						[1918] = 847,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
 					},
 				},
 			},
 		},
-		[579] = {
-			["i"] = 29,
+		[1245] = {
+			["i"] = 354,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 29,
-					[3] = 29,
-					[4] = 29,
+					[2] = 354,
+					[3] = 354,
+					[4] = 354,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43419,8 +45010,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 29,
-					[14] = 14.5,
+					[13] = 354,
+					[14] = 177,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43431,7 +45022,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[323] = 29,
+						[1911] = 354,
 					},
 				},
 			},
@@ -43469,14 +45060,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1468] = {
-			["i"] = 88,
+		[1535] = {
+			["i"] = 1305,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 88,
-					[3] = 88,
-					[4] = 88,
+					[2] = 1305,
+					[3] = 1305,
+					[4] = 1305,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43485,8 +45076,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 88,
-					[14] = 44,
+					[13] = 1305,
+					[14] = 652.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43497,7 +45088,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 88,
+						[1918] = 1305,
 					},
 				},
 			},
@@ -43568,14 +45159,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1483] = {
-			["i"] = 10,
+		[709] = {
+			["i"] = 47,
 			[8] = {
-				[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 47,
+					[3] = 47,
+					[4] = 47,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43584,8 +45175,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 47,
+					[14] = 23.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43596,7 +45187,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 10,
+						[1902] = 47,
 					},
 				},
 			},
@@ -43634,14 +45225,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1481] = {
-			["i"] = 8,
-			[1482] = {
-				[13] = {
+		[1374] = {
+			["i"] = 661,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 8,
-					[3] = 8,
-					[4] = 8,
+					[2] = 661,
+					[3] = 661,
+					[4] = 661,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43650,8 +45241,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 8,
-					[14] = 4,
+					[13] = 661,
+					[14] = 330.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43662,19 +45253,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 8,
+						[1914] = 661,
 					},
 				},
 			},
 		},
-		[949] = {
-			["i"] = 139,
+		[1386] = {
+			["i"] = 357,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 139,
-					[3] = 139,
-					[4] = 139,
+					[2] = 357,
+					[3] = 357,
+					[4] = 357,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43683,8 +45274,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 139,
-					[14] = 69.5,
+					[13] = 357,
+					[14] = 178.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43695,7 +45286,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 139,
+						[1914] = 357,
 					},
 				},
 			},
@@ -43800,14 +45391,14 @@ DPSMateDamageTaken = {
 			},
 			["i"] = 32,
 		},
-		[1179] = {
-			["i"] = 94,
+		[950] = {
+			["i"] = 789,
 			[8] = {
 				[16] = {
-					[1] = 3,
-					[2] = 17,
-					[3] = 52,
-					[4] = 94,
+					[1] = 1,
+					[2] = 789,
+					[3] = 789,
+					[4] = 789,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43816,8 +45407,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 94,
-					[14] = 23.25,
+					[13] = 789,
+					[14] = 394.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43828,19 +45419,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 94,
+						[1919] = 789,
 					},
 				},
 			},
 		},
-		[1479] = {
-			["i"] = 205,
+		[1005] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 205,
-					[3] = 205,
-					[4] = 205,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43849,8 +45440,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 205,
-					[14] = 102.5,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43861,7 +45452,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 205,
+						[1911] = 10,
 					},
 				},
 			},
@@ -43899,7 +45490,7 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[611] = {
+		[1352] = {
 			["i"] = 10,
 			[8] = {
 				[8] = {
@@ -43965,14 +45556,13 @@ DPSMateDamageTaken = {
 			},
 			["i"] = 25,
 		},
-		[866] = {
-			["i"] = 1346,
-			[8] = {
-				[16] = {
+		[964] = {
+			[607] = {
+				[3] = {
 					[1] = 1,
-					[2] = 1336,
-					[3] = 1336,
-					[4] = 1336,
+					[2] = 5,
+					[3] = 5,
+					[4] = 5,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -43981,8 +45571,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 1336,
-					[14] = 668,
+					[13] = 5,
+					[14] = 2.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -43993,9 +45583,15 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 1336,
+						[1907] = 5,
 					},
 				},
+			},
+			["i"] = 5,
+		},
+		[181] = {
+			["i"] = 10,
+			[8] = {
 				[8] = {
 					[1] = 1,
 					[2] = 10,
@@ -44022,67 +45618,6 @@ DPSMateDamageTaken = {
 					[23] = 0,
 					["i"] = {
 						[1914] = 10,
-					},
-				},
-			},
-		},
-		[1200] = {
-			["i"] = 304,
-			[8] = {
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1910] = 10,
-					},
-				},
-				[16] = {
-					[1] = 1,
-					[2] = 294,
-					[3] = 294,
-					[4] = 294,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 294,
-					[14] = 147,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 294,
 					},
 				},
 			},
@@ -44249,14 +45784,13 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1467] = {
-			["i"] = 1374,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 1374,
-					[3] = 1374,
-					[4] = 1374,
+		[131] = {
+			[543] = {
+				[3] = {
+					[1] = 8,
+					[2] = 15,
+					[3] = 19,
+					[4] = 132,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44265,8 +45799,41 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 1374,
-					[14] = 687,
+					[13] = 142,
+					[14] = 15.89453125,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 1,
+					[21] = 10,
+					[22] = 10,
+					[23] = 10,
+					["i"] = {
+						[811] = 46,
+						[813] = 16,
+						[810] = 64,
+						[812] = 16,
+					},
+				},
+			},
+			[135] = {
+				[39] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 0,
+					[14] = 0,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44277,19 +45844,114 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 1374,
+					},
+				},
+				[3] = {
+					[1] = 2,
+					[2] = 12,
+					[3] = 13,
+					[4] = 25,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 1,
+					[11] = 0,
+					[12] = 0,
+					[13] = 25,
+					[14] = 9.25,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[827] = 25,
+					},
+				},
+			},
+			["i"] = 167,
+		},
+		[727] = {
+			["i"] = 186,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 186,
+					[3] = 186,
+					[4] = 186,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 186,
+					[14] = 93,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1902] = 186,
 					},
 				},
 			},
 		},
-		[457] = {
-			["i"] = 10,
-			[8] = {
-				[8] = {
-					[1] = 1,
+		[542] = {
+			[345] = {
+				[3] = {
+					[1] = 4,
+					[2] = 16,
+					[3] = 18,
+					[4] = 68,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 1,
+					[11] = 1,
+					[12] = 0,
+					[13] = 85,
+					[14] = 13.890625,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 2,
+					[21] = 8,
+					[22] = 9,
+					[23] = 17,
+					["i"] = {
+						[63] = 17,
+						[65] = 17,
+						[67] = 8,
+						[61] = 18,
+						[68] = 16,
+						[57] = 9,
+					},
+				},
+			},
+			[533] = {
+				[64] = {
+					[1] = 4,
 					[2] = 10,
 					[3] = 10,
-					[4] = 10,
+					[4] = 40,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44298,8 +45960,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 40,
+					[14] = 9.375,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44310,19 +45972,51 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 10,
+						[112] = 10,
+						[109] = 10,
+						[118] = 10,
+						[115] = 10,
+					},
+				},
+				[3] = {
+					[1] = 7,
+					[2] = 12,
+					[3] = 16,
+					[4] = 97,
+					[5] = 1,
+					[6] = 28,
+					[7] = 28,
+					[8] = 28,
+					[9] = 1,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 125,
+					[14] = 17.0703125,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[98] = 16,
+						[100] = 14,
+						[102] = 28,
+						[96] = 54,
+						[103] = 13,
 					},
 				},
 			},
-		},
-		[1465] = {
-			["i"] = 95,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 95,
-					[3] = 95,
-					[4] = 95,
+			[535] = {
+				[109] = {
+					[1] = 2,
+					[2] = 34,
+					[3] = 34,
+					[4] = 68,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44331,8 +46025,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 95,
-					[14] = 47.5,
+					[13] = 68,
+					[14] = 25.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44343,7 +46037,129 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 95,
+						[82] = 34,
+						[71] = 34,
+					},
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 49,
+					[4] = 169,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 176,
+					[14] = 17.056640625,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 1,
+					[21] = 7,
+					[22] = 7,
+					[23] = 7,
+					["i"] = {
+						[80] = 18,
+						[69] = 17,
+						[73] = 7,
+						[78] = 18,
+						[86] = 17,
+						[75] = 17,
+						[68] = 65,
+						[84] = 17,
+					},
+				},
+			},
+			["i"] = 1115,
+			[543] = {
+				[3] = {
+					[1] = 30,
+					[2] = 14,
+					[3] = 18,
+					[4] = 484,
+					[5] = 3,
+					[6] = 32,
+					[7] = 36,
+					[8] = 102,
+					[9] = 2,
+					[10] = 0,
+					[11] = 1,
+					[12] = 0,
+					[13] = 603,
+					[14] = 17.04164563132508,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 3,
+					[21] = 5,
+					[22] = 7,
+					[23] = 17,
+					["i"] = {
+						[130] = 18,
+						[200] = 48,
+						[177] = 46,
+						[158] = 33,
+						[162] = 14,
+						[135] = 17,
+						[201] = 30,
+						[147] = 5,
+						[151] = 15,
+						[128] = 36,
+						[166] = 15,
+						[198] = 22,
+						[170] = 17,
+						[137] = 18,
+						[168] = 17,
+						[145] = 17,
+						[126] = 17,
+						[160] = 17,
+						[164] = 16,
+						[199] = 31,
+						[141] = 17,
+						[176] = 63,
+						[149] = 17,
+						[195] = 7,
+						[197] = 34,
+						[139] = 16,
+					},
+				},
+			},
+			[5] = {
+				[3] = {
+					[1] = 1,
+					[2] = 18,
+					[3] = 18,
+					[4] = 18,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 18,
+					[14] = 9,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[219] = 18,
 					},
 				},
 			},
@@ -44514,14 +46330,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1312] = {
-			["i"] = 175,
-			[8] = {
-				[16] = {
+		[522] = {
+			["i"] = 165,
+			[535] = {
+				[109] = {
 					[1] = 1,
-					[2] = 175,
-					[3] = 175,
-					[4] = 175,
+					[2] = 40,
+					[3] = 40,
+					[4] = 40,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44530,8 +46346,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 175,
-					[14] = 87.5,
+					[13] = 40,
+					[14] = 20,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44542,7 +46358,68 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 175,
+						[20] = 40,
+					},
+				},
+				[3] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 1,
+					[6] = 44,
+					[7] = 44,
+					[8] = 44,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 44,
+					[14] = 22,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[17] = 44,
+					},
+				},
+			},
+			[534] = {
+				[3] = {
+					[1] = 4,
+					[2] = 19,
+					[3] = 23,
+					[4] = 81,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 81,
+					[14] = 18.8125,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[2] = 19,
+						[4] = 23,
+						[7] = 19,
+						[47] = 20,
 					},
 				},
 			},
@@ -44580,14 +46457,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1433] = {
-			["i"] = 30,
+		[1355] = {
+			["i"] = 252,
 			[8] = {
 				[8] = {
-					[1] = 3,
+					[1] = 1,
 					[2] = 10,
 					[3] = 10,
-					[4] = 30,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44596,8 +46473,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 30,
-					[14] = 8.75,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44608,7 +46485,35 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 30,
+						[1914] = 10,
+					},
+				},
+				[16] = {
+					[1] = 1,
+					[2] = 242,
+					[3] = 242,
+					[4] = 242,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 242,
+					[14] = 121,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 242,
 					},
 				},
 			},
@@ -44646,14 +46551,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1172] = {
-			["i"] = 876,
+		[939] = {
+			["i"] = 477,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 876,
-					[3] = 876,
-					[4] = 876,
+					[2] = 477,
+					[3] = 477,
+					[4] = 477,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44662,8 +46567,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 876,
-					[14] = 438,
+					[13] = 477,
+					[14] = 238.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44674,7 +46579,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 876,
+						[1911] = 477,
 					},
 				},
 			},
@@ -44712,14 +46617,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1265] = {
-			["i"] = 155,
+		[1362] = {
+			["i"] = 342,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 155,
-					[3] = 155,
-					[4] = 155,
+					[2] = 332,
+					[3] = 332,
+					[4] = 332,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44728,8 +46633,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 155,
-					[14] = 77.5,
+					[13] = 332,
+					[14] = 166,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44740,19 +46645,47 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 155,
+						[1914] = 332,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 10,
 					},
 				},
 			},
 		},
-		[1460] = {
-			["i"] = 724,
+		[1548] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 724,
-					[3] = 724,
-					[4] = 724,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44761,8 +46694,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 724,
-					[14] = 362,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44773,7 +46706,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 724,
+						[1918] = 10,
 					},
 				},
 			},
@@ -44811,14 +46744,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[886] = {
-			["i"] = 118,
+		[1492] = {
+			["i"] = 139,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 118,
-					[3] = 118,
-					[4] = 118,
+					[2] = 139,
+					[3] = 139,
+					[4] = 139,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44827,8 +46760,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 118,
-					[14] = 59,
+					[13] = 139,
+					[14] = 69.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -44839,7 +46772,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1904] = 118,
+						[1918] = 139,
 					},
 				},
 			},
@@ -44976,14 +46909,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1370] = {
-			["i"] = 307,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 307,
-					[3] = 307,
-					[4] = 307,
+		[680] = {
+			["i"] = 12,
+			[678] = {
+				[25] = {
+					[1] = 3,
+					[2] = 4,
+					[3] = 4,
+					[4] = 12,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -44992,8 +46925,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 307,
-					[14] = 153.5,
+					[13] = 12,
+					[14] = 3.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -45004,7 +46937,8 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 307,
+						[1898] = 8,
+						[1897] = 4,
 					},
 				},
 			},
@@ -45301,14 +47235,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1453] = {
-			["i"] = 78,
+		[936] = {
+			["i"] = 175,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 78,
-					[3] = 78,
-					[4] = 78,
+					[2] = 175,
+					[3] = 175,
+					[4] = 175,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -45317,8 +47251,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 78,
-					[14] = 39,
+					[13] = 175,
+					[14] = 87.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -45329,19 +47263,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 78,
+						[1906] = 175,
 					},
 				},
 			},
 		},
-		[234] = {
-			["i"] = 1704,
+		[986] = {
+			["i"] = 485,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 1704,
-					[3] = 1704,
-					[4] = 1704,
+					[2] = 485,
+					[3] = 485,
+					[4] = 485,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -45350,8 +47284,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 1704,
-					[14] = 852,
+					[13] = 485,
+					[14] = 242.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -45362,7 +47296,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1907] = 1704,
+						[1907] = 485,
 					},
 				},
 			},
@@ -45566,14 +47500,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[934] = {
-			["i"] = 312,
+		[1174] = {
+			["i"] = 257,
 			[8] = {
 				[16] = {
-					[1] = 1,
-					[2] = 312,
-					[3] = 312,
-					[4] = 312,
+					[1] = 2,
+					[2] = 28,
+					[3] = 229,
+					[4] = 257,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -45582,8 +47516,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 312,
-					[14] = 156,
+					[13] = 257,
+					[14] = 71.25,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -45594,19 +47528,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 312,
+						[1909] = 257,
 					},
 				},
 			},
 		},
-		[1449] = {
-			["i"] = 26,
+		[1344] = {
+			["i"] = 307,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 26,
-					[3] = 26,
-					[4] = 26,
+					[2] = 307,
+					[3] = 307,
+					[4] = 307,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -45615,8 +47549,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 26,
-					[14] = 13,
+					[13] = 307,
+					[14] = 153.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -45627,7 +47561,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 26,
+						[1914] = 307,
 					},
 				},
 			},
@@ -45665,14 +47599,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[290] = {
-			["i"] = 229,
+		[1159] = {
+			["i"] = 550,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 229,
-					[3] = 229,
-					[4] = 229,
+					[2] = 550,
+					[3] = 550,
+					[4] = 550,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -45681,8 +47615,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 229,
-					[14] = 114.5,
+					[13] = 550,
+					[14] = 275,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -45693,7 +47627,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 229,
+						[1908] = 550,
 					},
 				},
 			},
@@ -46179,14 +48113,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1386] = {
+		[733] = {
 			["i"] = 357,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 357,
-					[3] = 357,
-					[4] = 357,
+					[2] = 347,
+					[3] = 347,
+					[4] = 347,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -46195,8 +48129,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 357,
-					[14] = 178.5,
+					[13] = 347,
+					[14] = 173.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -46207,7 +48141,35 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 357,
+						[1902] = 347,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
 					},
 				},
 			},
@@ -46377,14 +48339,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1446] = {
-			["i"] = 367,
+		[1233] = {
+			["i"] = 120,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 367,
-					[3] = 367,
-					[4] = 367,
+					[2] = 120,
+					[3] = 120,
+					[4] = 120,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -46393,8 +48355,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 367,
-					[14] = 183.5,
+					[13] = 120,
+					[14] = 60,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -46405,47 +48367,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 367,
+						[1911] = 120,
 					},
 				},
 			},
 		},
-		[1442] = {
-			["i"] = 448,
+		[1354] = {
+			["i"] = 727,
 			[8] = {
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1918] = 10,
-					},
-				},
 				[16] = {
-					[1] = 1,
-					[2] = 438,
-					[3] = 438,
-					[4] = 438,
+					[1] = 2,
+					[2] = 36,
+					[3] = 691,
+					[4] = 727,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -46454,8 +48388,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 438,
-					[14] = 219,
+					[13] = 727,
+					[14] = 190.75,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -46466,19 +48400,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1918] = 438,
+						[1914] = 727,
 					},
 				},
 			},
 		},
-		[1439] = {
-			["i"] = 215,
+		[1304] = {
+			["i"] = 457,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 215,
-					[3] = 215,
-					[4] = 215,
+					[2] = 457,
+					[3] = 457,
+					[4] = 457,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -46487,8 +48421,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 215,
-					[14] = 107.5,
+					[13] = 457,
+					[14] = 228.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -46499,7 +48433,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1917] = 215,
+						[1914] = 457,
 					},
 				},
 			},
@@ -46829,14 +48763,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1174] = {
-			["i"] = 257,
+		[843] = {
+			["i"] = 379,
 			[8] = {
 				[16] = {
-					[1] = 2,
-					[2] = 28,
-					[3] = 229,
-					[4] = 257,
+					[1] = 1,
+					[2] = 379,
+					[3] = 379,
+					[4] = 379,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -46845,8 +48779,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 257,
-					[14] = 71.25,
+					[13] = 379,
+					[14] = 189.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -46857,7 +48791,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 257,
+						[1904] = 379,
 					},
 				},
 			},
@@ -46896,14 +48830,14 @@ DPSMateDamageTaken = {
 			},
 			["i"] = 53,
 		},
-		[1380] = {
-			["i"] = 766,
+		[367] = {
+			["i"] = 73,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 756,
-					[3] = 756,
-					[4] = 756,
+					[2] = 73,
+					[3] = 73,
+					[4] = 73,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -46912,8 +48846,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 756,
-					[14] = 378,
+					[13] = 73,
+					[14] = 36.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -46924,35 +48858,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 756,
-					},
-				},
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 10,
+						[1907] = 73,
 					},
 				},
 			},
@@ -46990,14 +48896,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[960] = {
-			["i"] = 329,
+		[1184] = {
+			["i"] = 221,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 329,
-					[3] = 329,
-					[4] = 329,
+					[2] = 221,
+					[3] = 221,
+					[4] = 221,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47006,8 +48912,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 329,
-					[14] = 164.5,
+					[13] = 221,
+					[14] = 110.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47018,50 +48924,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 329,
+						[1909] = 221,
 					},
 				},
 			},
 		},
-		[892] = {
-			["i"] = 227,
-			[607] = {
-				[3] = {
-					[1] = 5,
-					[2] = 15,
-					[3] = 16,
-					[4] = 76,
-					[5] = 2,
-					[6] = 32,
-					[7] = 38,
-					[8] = 70,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 197,
-					[14] = 17.994140625,
-					[15] = 2,
-					[16] = 24,
-					[17] = 27,
-					[18] = 51,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1905] = 119,
-						[1906] = 78,
-					},
-				},
-			},
+		[318] = {
+			["i"] = 10,
 			[8] = {
 				[8] = {
-					[1] = 3,
+					[1] = 1,
 					[2] = 10,
 					[3] = 10,
-					[4] = 30,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47070,8 +48945,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 30,
-					[14] = 8.75,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47082,8 +48957,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1905] = 10,
-						[1906] = 20,
+						[1911] = 10,
 					},
 				},
 			},
@@ -47121,14 +48995,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[717] = {
-			["i"] = 10,
+		[1433] = {
+			["i"] = 30,
 			[8] = {
 				[8] = {
-					[1] = 1,
+					[1] = 3,
 					[2] = 10,
 					[3] = 10,
-					[4] = 10,
+					[4] = 30,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47137,8 +49011,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 30,
+					[14] = 8.75,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47149,7 +49023,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 10,
+						[1918] = 30,
 					},
 				},
 			},
@@ -47248,14 +49122,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[590] = {
-			["i"] = 327,
+		[1179] = {
+			["i"] = 94,
 			[8] = {
 				[16] = {
-					[1] = 1,
-					[2] = 327,
-					[3] = 327,
-					[4] = 327,
+					[1] = 3,
+					[2] = 17,
+					[3] = 52,
+					[4] = 94,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47264,8 +49138,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 327,
-					[14] = 163.5,
+					[13] = 94,
+					[14] = 23.25,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47276,7 +49150,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[323] = 327,
+						[1909] = 94,
 					},
 				},
 			},
@@ -47471,46 +49345,8 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[628] = {
-			["i"] = 123,
-			[630] = {
-				[3] = {
-					[1] = 6,
-					[2] = 18,
-					[3] = 24,
-					[4] = 123,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 2,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 123,
-					[14] = 19.484375,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[464] = 22,
-						[472] = 18,
-						[474] = 21,
-						[468] = 24,
-						[462] = 19,
-						[476] = 19,
-					},
-				},
-			},
-		},
-		[1371] = {
-			["i"] = 10,
+		[1442] = {
+			["i"] = 448,
 			[8] = {
 				[8] = {
 					[1] = 1,
@@ -47537,7 +49373,68 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 10,
+						[1918] = 10,
+					},
+				},
+				[16] = {
+					[1] = 1,
+					[2] = 438,
+					[3] = 438,
+					[4] = 438,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 438,
+					[14] = 219,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 438,
+					},
+				},
+			},
+		},
+		[1311] = {
+			["i"] = 144,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 144,
+					[3] = 144,
+					[4] = 144,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 144,
+					[14] = 72,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 144,
 					},
 				},
 			},
@@ -47576,14 +49473,13 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1254] = {
-			["i"] = 10,
-			[8] = {
-				[8] = {
+		[541] = {
+			[345] = {
+				[3] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 25,
+					[3] = 25,
+					[4] = 25,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47592,8 +49488,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 25,
+					[14] = 12.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47604,7 +49500,100 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 10,
+						[53] = 25,
+					},
+				},
+			},
+			[533] = {
+				[3] = {
+					[1] = 1,
+					[2] = 20,
+					[3] = 20,
+					[4] = 20,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 20,
+					[14] = 10,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[95] = 20,
+					},
+				},
+			},
+			[535] = {
+				[3] = {
+					[1] = 1,
+					[2] = 25,
+					[3] = 25,
+					[4] = 25,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 25,
+					[14] = 12.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[88] = 25,
+					},
+				},
+			},
+			["i"] = 135,
+			[543] = {
+				[3] = {
+					[1] = 3,
+					[2] = 20,
+					[3] = 23,
+					[4] = 65,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 65,
+					[14] = 19.25,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[188] = 20,
+						[190] = 23,
+						[192] = 22,
 					},
 				},
 			},
@@ -47675,14 +49664,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1406] = {
-			["i"] = 187,
+		[1128] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 187,
-					[3] = 187,
-					[4] = 187,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47691,8 +49680,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 187,
-					[14] = 93.5,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47703,7 +49692,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 187,
+						[1908] = 10,
 					},
 				},
 			},
@@ -47802,14 +49791,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[709] = {
-			["i"] = 47,
+		[512] = {
+			["i"] = 107,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 47,
-					[3] = 47,
-					[4] = 47,
+					[2] = 107,
+					[3] = 107,
+					[4] = 107,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -47818,8 +49807,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 47,
-					[14] = 23.5,
+					[13] = 107,
+					[14] = 53.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -47830,7 +49819,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 47,
+						[326] = 107,
 					},
 				},
 			},
@@ -47868,7 +49857,7 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1390] = {
+		[1483] = {
 			["i"] = 10,
 			[8] = {
 				[8] = {
@@ -47896,7 +49885,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 10,
+						[1918] = 10,
 					},
 				},
 			},
@@ -48089,14 +50078,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1252] = {
-			["i"] = 285,
+		[1171] = {
+			["i"] = 282,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 275,
-					[3] = 275,
-					[4] = 275,
+					[2] = 282,
+					[3] = 282,
+					[4] = 282,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48105,8 +50094,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 275,
-					[14] = 137.5,
+					[13] = 282,
+					[14] = 141,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48117,35 +50106,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 275,
-					},
-				},
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1911] = 10,
+						[1909] = 282,
 					},
 				},
 			},
@@ -48348,13 +50309,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[964] = {
-			[607] = {
-				[3] = {
+		[1132] = {
+			["i"] = 828,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 5,
-					[3] = 5,
-					[4] = 5,
+					[2] = 828,
+					[3] = 828,
+					[4] = 828,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48363,8 +50325,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 5,
-					[14] = 2.5,
+					[13] = 828,
+					[14] = 414,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48375,20 +50337,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1907] = 5,
+						[1908] = 828,
 					},
 				},
 			},
-			["i"] = 5,
 		},
-		[181] = {
-			["i"] = 10,
+		[1449] = {
+			["i"] = 26,
 			[8] = {
-				[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 26,
+					[3] = 26,
+					[4] = 26,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48397,8 +50358,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 26,
+					[14] = 13,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48409,7 +50370,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 10,
+						[1918] = 26,
 					},
 				},
 			},
@@ -48542,14 +50503,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[680] = {
-			["i"] = 12,
-			[678] = {
-				[25] = {
-					[1] = 3,
-					[2] = 4,
-					[3] = 4,
-					[4] = 12,
+		[1307] = {
+			["i"] = 102,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 102,
+					[3] = 102,
+					[4] = 102,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48558,8 +50519,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 12,
-					[14] = 3.5,
+					[13] = 102,
+					[14] = 51,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48570,8 +50531,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1898] = 8,
-						[1897] = 4,
+						[1914] = 102,
 					},
 				},
 			},
@@ -48675,14 +50635,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[727] = {
-			["i"] = 186,
+		[1453] = {
+			["i"] = 78,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 186,
-					[3] = 186,
-					[4] = 186,
+					[2] = 78,
+					[3] = 78,
+					[4] = 78,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48691,8 +50651,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 186,
-					[14] = 93,
+					[13] = 78,
+					[14] = 39,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48703,19 +50663,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 186,
+						[1918] = 78,
 					},
 				},
 			},
 		},
-		[1249] = {
-			["i"] = 34,
-			[8] = {
-				[16] = {
+		[1481] = {
+			["i"] = 8,
+			[1482] = {
+				[13] = {
 					[1] = 1,
-					[2] = 34,
-					[3] = 34,
-					[4] = 34,
+					[2] = 8,
+					[3] = 8,
+					[4] = 8,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48724,8 +50684,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 34,
-					[14] = 17,
+					[13] = 8,
+					[14] = 4,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48736,19 +50696,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 34,
+						[1918] = 8,
 					},
 				},
 			},
 		},
-		[1307] = {
-			["i"] = 102,
+		[1200] = {
+			["i"] = 304,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 102,
-					[3] = 102,
-					[4] = 102,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48757,8 +50717,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 102,
-					[14] = 51,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48769,29 +50729,56 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 102,
+						[1910] = 10,
+					},
+				},
+				[16] = {
+					[1] = 1,
+					[2] = 294,
+					[3] = 294,
+					[4] = 294,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 294,
+					[14] = 147,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 294,
 					},
 				},
 			},
 		},
-		[1354] = {
-			["i"] = 727,
-			[8] = {
-				[16] = {
-					[1] = 2,
-					[2] = 36,
-					[3] = 691,
-					[4] = 727,
+		[783] = {
+			[607] = {
+				[3] = {
+					[1] = 11,
+					[2] = 5,
+					[3] = 7,
+					[4] = 65,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
+					[9] = 8,
+					[10] = 3,
+					[11] = 2,
 					[12] = 0,
-					[13] = 727,
-					[14] = 190.75,
+					[13] = 65,
+					[14] = 6.37939453125,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48802,19 +50789,20 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 727,
+						[1910] = 65,
 					},
 				},
 			},
+			["i"] = 65,
 		},
-		[939] = {
-			["i"] = 477,
+		[1094] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 477,
-					[3] = 477,
-					[4] = 477,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48823,8 +50811,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 477,
-					[14] = 238.5,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48835,7 +50823,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 477,
+						[1908] = 10,
 					},
 				},
 			},
@@ -48906,42 +50894,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[624] = {
-			["i"] = 341,
-			[137] = {
-				[10] = {
-					[1] = 2,
-					[2] = 36,
-					[3] = 40,
-					[4] = 76,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 76,
-					[14] = 29,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[432] = 76,
-					},
-				},
-				[92] = {
+		[1479] = {
+			["i"] = 205,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 29,
-					[3] = 29,
-					[4] = 29,
+					[2] = 205,
+					[3] = 205,
+					[4] = 205,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -48950,8 +50910,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 29,
-					[14] = 14.5,
+					[13] = 205,
+					[14] = 102.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -48962,81 +50922,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[431] = 29,
-					},
-				},
-			},
-			[135] = {
-				[3] = {
-					[1] = 3,
-					[2] = 10,
-					[3] = 12,
-					[4] = 34,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 1,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 34,
-					[14] = 9.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[432] = 34,
-					},
-				},
-			},
-			[543] = {
-				[3] = {
-					[1] = 10,
-					[2] = 15,
-					[3] = 19,
-					[4] = 172,
-					[5] = 1,
-					[6] = 30,
-					[7] = 30,
-					[8] = 30,
-					[9] = 0,
-					[10] = 0,
-					[11] = 1,
-					[12] = 0,
-					[13] = 202,
-					[14] = 16.146484375,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[431] = 67,
-						[432] = 51,
-						[430] = 84,
+						[1918] = 205,
 					},
 				},
 			},
 		},
-		[1311] = {
-			["i"] = 144,
+		[1166] = {
+			["i"] = 87,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 144,
-					[3] = 144,
-					[4] = 144,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49045,8 +50943,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 144,
-					[14] = 72,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49057,7 +50955,35 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 144,
+						[1909] = 10,
+					},
+				},
+				[16] = {
+					[1] = 1,
+					[2] = 77,
+					[3] = 77,
+					[4] = 77,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 77,
+					[14] = 38.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1909] = 77,
 					},
 				},
 			},
@@ -49194,14 +51120,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[936] = {
-			["i"] = 175,
+		[818] = {
+			["i"] = 152,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 175,
-					[3] = 175,
-					[4] = 175,
+					[2] = 152,
+					[3] = 152,
+					[4] = 152,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49210,8 +51136,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 175,
-					[14] = 87.5,
+					[13] = 152,
+					[14] = 76,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49222,19 +51148,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 175,
+						[1902] = 152,
 					},
 				},
 			},
 		},
-		[986] = {
-			["i"] = 485,
+		[1460] = {
+			["i"] = 724,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 485,
-					[3] = 485,
-					[4] = 485,
+					[2] = 724,
+					[3] = 724,
+					[4] = 724,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49243,8 +51169,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 485,
-					[14] = 242.5,
+					[13] = 724,
+					[14] = 362,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49255,7 +51181,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1907] = 485,
+						[1918] = 724,
 					},
 				},
 			},
@@ -49326,14 +51252,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1245] = {
-			["i"] = 354,
+		[1313] = {
+			["i"] = 2526,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 354,
-					[3] = 354,
-					[4] = 354,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49342,8 +51268,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 354,
-					[14] = 177,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49354,7 +51280,36 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 354,
+						[1914] = 10,
+					},
+				},
+				[16] = {
+					[1] = 2,
+					[2] = 355,
+					[3] = 2161,
+					[4] = 2516,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 2516,
+					[14] = 1169.25,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 355,
+						[1918] = 2161,
 					},
 				},
 			},
@@ -49420,14 +51375,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1271] = {
-			["i"] = 316,
+		[1038] = {
+			["i"] = 35,
 			[8] = {
 				[16] = {
-					[1] = 2,
-					[2] = 141,
-					[3] = 175,
-					[4] = 316,
+					[1] = 1,
+					[2] = 35,
+					[3] = 35,
+					[4] = 35,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49436,8 +51391,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 316,
-					[14] = 114.25,
+					[13] = 35,
+					[14] = 17.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49448,19 +51403,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1912] = 316,
+						[1908] = 35,
 					},
 				},
 			},
 		},
-		[732] = {
-			["i"] = 432,
+		[91] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 432,
-					[3] = 432,
-					[4] = 432,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49469,8 +51424,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 432,
-					[14] = 216,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49481,7 +51436,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 432,
+						[1907] = 10,
 					},
 				},
 			},
@@ -49702,14 +51657,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[733] = {
-			["i"] = 347,
+		[1465] = {
+			["i"] = 95,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 347,
-					[3] = 347,
-					[4] = 347,
+					[2] = 95,
+					[3] = 95,
+					[4] = 95,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49718,8 +51673,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 347,
-					[14] = 173.5,
+					[13] = 95,
+					[14] = 47.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49730,7 +51685,40 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 347,
+						[1918] = 95,
+					},
+				},
+			},
+		},
+		[611] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 10,
 					},
 				},
 			},
@@ -49768,47 +51756,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1085] = {
-			["i"] = 204,
-			[8] = {
-				[16] = {
-					[1] = 2,
-					[2] = 23,
-					[3] = 181,
-					[4] = 204,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 204,
-					[14] = 56.75,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1908] = 204,
-					},
-				},
-			},
-		},
-		[1304] = {
-			["i"] = 457,
+		[866] = {
+			["i"] = 1346,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 457,
-					[3] = 457,
-					[4] = 457,
+					[2] = 1336,
+					[3] = 1336,
+					[4] = 1336,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -49817,8 +51772,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 457,
-					[14] = 228.5,
+					[13] = 1336,
+					[14] = 668,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -49829,113 +51784,9 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 457,
+						[1914] = 1336,
 					},
 				},
-			},
-		},
-		[367] = {
-			["i"] = 73,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 73,
-					[3] = 73,
-					[4] = 73,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 73,
-					[14] = 36.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1907] = 73,
-					},
-				},
-			},
-		},
-		[1184] = {
-			["i"] = 221,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 221,
-					[3] = 221,
-					[4] = 221,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 221,
-					[14] = 110.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1909] = 221,
-					},
-				},
-			},
-		},
-		[495] = {
-			["i"] = 520,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 520,
-					[3] = 520,
-					[4] = 520,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 520,
-					[14] = 260,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1911] = 520,
-					},
-				},
-			},
-		},
-		[896] = {
-			["i"] = 10,
-			[8] = {
 				[8] = {
 					[1] = 1,
 					[2] = 10,
@@ -49961,7 +51812,139 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1904] = 10,
+						[1914] = 10,
+					},
+				},
+			},
+		},
+		[1467] = {
+			["i"] = 1374,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 1374,
+					[3] = 1374,
+					[4] = 1374,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 1374,
+					[14] = 687,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 1374,
+					},
+				},
+			},
+		},
+		[1468] = {
+			["i"] = 88,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 88,
+					[3] = 88,
+					[4] = 88,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 88,
+					[14] = 44,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 88,
+					},
+				},
+			},
+		},
+		[990] = {
+			["i"] = 10,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1907] = 10,
+					},
+				},
+			},
+		},
+		[36] = {
+			["i"] = 12,
+			[5] = {
+				[3] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 12,
+					[14] = 6,
+					[15] = 1,
+					[16] = 12,
+					[17] = 12,
+					[18] = 12,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1355] = 12,
 					},
 				},
 			},
@@ -50093,14 +52076,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1038] = {
-			["i"] = 35,
+		[1098] = {
+			["i"] = 162,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 35,
-					[3] = 35,
-					[4] = 35,
+					[2] = 152,
+					[3] = 152,
+					[4] = 152,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50109,8 +52092,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 35,
-					[14] = 17.5,
+					[13] = 152,
+					[14] = 76,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50121,7 +52104,35 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 35,
+						[1908] = 152,
+					},
+				},
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1908] = 10,
 					},
 				},
 			},
@@ -50192,14 +52203,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1202] = {
-			["i"] = 122,
+		[1085] = {
+			["i"] = 204,
 			[8] = {
 				[16] = {
-					[1] = 1,
-					[2] = 122,
-					[3] = 122,
-					[4] = 122,
+					[1] = 2,
+					[2] = 23,
+					[3] = 181,
+					[4] = 204,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50208,8 +52219,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 122,
-					[14] = 61,
+					[13] = 204,
+					[14] = 56.75,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50220,7 +52231,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1910] = 122,
+						[1908] = 204,
 					},
 				},
 			},
@@ -50258,14 +52269,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1128] = {
-			["i"] = 10,
+		[1202] = {
+			["i"] = 122,
 			[8] = {
-				[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 122,
+					[3] = 122,
+					[4] = 122,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50274,8 +52285,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 122,
+					[14] = 61,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50286,19 +52297,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 10,
+						[1910] = 122,
 					},
 				},
 			},
 		},
-		[512] = {
-			["i"] = 107,
+		[1181] = {
+			["i"] = 235,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 107,
-					[3] = 107,
-					[4] = 107,
+					[2] = 235,
+					[3] = 235,
+					[4] = 235,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50307,8 +52318,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 107,
-					[14] = 53.5,
+					[13] = 235,
+					[14] = 117.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50319,7 +52330,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[326] = 107,
+						[1909] = 235,
 					},
 				},
 			},
@@ -50357,14 +52368,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1171] = {
-			["i"] = 282,
+		[1406] = {
+			["i"] = 187,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 282,
-					[3] = 282,
-					[4] = 282,
+					[2] = 187,
+					[3] = 187,
+					[4] = 187,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50373,8 +52384,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 282,
-					[14] = 141,
+					[13] = 187,
+					[14] = 93.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50385,7 +52396,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 282,
+						[1914] = 187,
 					},
 				},
 			},
@@ -50555,14 +52566,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[36] = {
-			["i"] = 12,
-			[5] = {
-				[3] = {
-					[1] = 0,
-					[2] = 0,
-					[3] = 0,
-					[4] = 0,
+		[732] = {
+			["i"] = 432,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 432,
+					[3] = 432,
+					[4] = 432,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50571,25 +52582,25 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 12,
-					[14] = 6,
-					[15] = 1,
-					[16] = 12,
-					[17] = 12,
-					[18] = 12,
+					[13] = 432,
+					[14] = 216,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
 					[19] = 0,
 					[20] = 0,
 					[21] = 0,
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1355] = 12,
+						[1911] = 432,
 					},
 				},
 			},
 		},
-		[1313] = {
-			["i"] = 365,
+		[896] = {
+			["i"] = 10,
 			[8] = {
 				[8] = {
 					[1] = 1,
@@ -50616,47 +52627,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 10,
-					},
-				},
-				[16] = {
-					[1] = 1,
-					[2] = 355,
-					[3] = 355,
-					[4] = 355,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 355,
-					[14] = 177.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 355,
+						[1904] = 10,
 					},
 				},
 			},
 		},
-		[818] = {
-			["i"] = 152,
+		[495] = {
+			["i"] = 520,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 152,
-					[3] = 152,
-					[4] = 152,
+					[2] = 520,
+					[3] = 520,
+					[4] = 520,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50665,8 +52648,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 152,
-					[14] = 76,
+					[13] = 520,
+					[14] = 260,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50677,7 +52660,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 152,
+						[1911] = 520,
 					},
 				},
 			},
@@ -50941,14 +52924,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1098] = {
-			["i"] = 162,
+		[1271] = {
+			["i"] = 316,
 			[8] = {
 				[16] = {
-					[1] = 1,
-					[2] = 152,
-					[3] = 152,
-					[4] = 152,
+					[1] = 2,
+					[2] = 141,
+					[3] = 175,
+					[4] = 316,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -50957,8 +52940,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 152,
-					[14] = 76,
+					[13] = 316,
+					[14] = 114.25,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -50969,35 +52952,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 152,
-					},
-				},
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1908] = 10,
+						[1912] = 316,
 					},
 				},
 			},
@@ -51035,14 +52990,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1181] = {
-			["i"] = 235,
+		[566] = {
+			["i"] = 10,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 235,
-					[3] = 235,
-					[4] = 235,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -51051,8 +53006,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 235,
-					[14] = 117.5,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51063,19 +53018,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 235,
+						[323] = 10,
 					},
 				},
 			},
 		},
-		[1233] = {
-			["i"] = 120,
+		[1446] = {
+			["i"] = 367,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 120,
-					[3] = 120,
-					[4] = 120,
+					[2] = 367,
+					[3] = 367,
+					[4] = 367,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -51084,8 +53039,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 120,
-					[14] = 60,
+					[13] = 367,
+					[14] = 183.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51096,7 +53051,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 120,
+						[1918] = 367,
 					},
 				},
 			},
@@ -51263,42 +53218,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1166] = {
-			["i"] = 87,
+		[1185] = {
+			["i"] = 241,
 			[8] = {
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1909] = 10,
-					},
-				},
 				[16] = {
 					[1] = 1,
-					[2] = 77,
-					[3] = 77,
-					[4] = 77,
+					[2] = 241,
+					[3] = 241,
+					[4] = 241,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -51307,8 +53234,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 77,
-					[14] = 38.5,
+					[13] = 241,
+					[14] = 120.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51319,12 +53246,12 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1909] = 77,
+						[1909] = 241,
 					},
 				},
 			},
 		},
-		[1094] = {
+		[457] = {
 			["i"] = 10,
 			[8] = {
 				[8] = {
@@ -51352,28 +53279,29 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 10,
+						[1918] = 10,
 					},
 				},
 			},
 		},
-		[783] = {
-			[607] = {
-				[3] = {
-					[1] = 11,
-					[2] = 5,
-					[3] = 7,
-					[4] = 65,
+		[1439] = {
+			["i"] = 215,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 215,
+					[3] = 215,
+					[4] = 215,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 8,
-					[10] = 3,
-					[11] = 2,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
 					[12] = 0,
-					[13] = 65,
-					[14] = 6.37939453125,
+					[13] = 215,
+					[14] = 107.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51384,11 +53312,10 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1910] = 65,
+						[1917] = 215,
 					},
 				},
 			},
-			["i"] = 65,
 		},
 		[1488] = {
 			["i"] = 131,
@@ -51485,14 +53412,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1132] = {
-			["i"] = 828,
+		[960] = {
+			["i"] = 329,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 828,
-					[3] = 828,
-					[4] = 828,
+					[2] = 329,
+					[3] = 329,
+					[4] = 329,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -51501,8 +53428,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 828,
-					[14] = 414,
+					[13] = 329,
+					[14] = 164.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51513,7 +53440,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1908] = 828,
+						[1906] = 329,
 					},
 				},
 			},
@@ -51584,14 +53511,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[566] = {
-			["i"] = 10,
+		[485] = {
+			["i"] = 984,
 			[8] = {
-				[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 984,
+					[3] = 984,
+					[4] = 984,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -51600,8 +53527,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 984,
+					[14] = 492,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51612,18 +53539,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[323] = 10,
+						[1918] = 984,
 					},
 				},
 			},
 		},
-		[541] = {
-			[345] = {
-				[3] = {
+		[1172] = {
+			["i"] = 876,
+			[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 25,
-					[3] = 25,
-					[4] = 25,
+					[2] = 876,
+					[3] = 876,
+					[4] = 876,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -51632,8 +53560,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 25,
-					[14] = 12.5,
+					[13] = 876,
+					[14] = 438,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51644,100 +53572,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[53] = 25,
-					},
-				},
-			},
-			[533] = {
-				[3] = {
-					[1] = 1,
-					[2] = 20,
-					[3] = 20,
-					[4] = 20,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 20,
-					[14] = 10,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[95] = 20,
-					},
-				},
-			},
-			[535] = {
-				[3] = {
-					[1] = 1,
-					[2] = 25,
-					[3] = 25,
-					[4] = 25,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 25,
-					[14] = 12.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[88] = 25,
-					},
-				},
-			},
-			["i"] = 135,
-			[543] = {
-				[3] = {
-					[1] = 3,
-					[2] = 20,
-					[3] = 23,
-					[4] = 65,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 65,
-					[14] = 19.25,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[188] = 20,
-						[190] = 23,
-						[192] = 22,
+						[1909] = 876,
 					},
 				},
 			},
@@ -51902,24 +53737,24 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[91] = {
-			["i"] = 10,
-			[8] = {
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+		[679] = {
+			["i"] = 57,
+			[168] = {
+				[3] = {
+					[1] = 5,
+					[2] = 11,
+					[3] = 12,
+					[4] = 57,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 0,
+					[9] = 1,
 					[10] = 0,
-					[11] = 0,
+					[11] = 2,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 57,
+					[14] = 11.40625,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -51930,7 +53765,9 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1907] = 10,
+						[1897] = 23,
+						[1898] = 12,
+						[1896] = 22,
 					},
 				},
 			},
@@ -52094,14 +53931,14 @@ DPSMateDamageTaken = {
 			},
 			["i"] = 0,
 		},
-		[1344] = {
-			["i"] = 307,
+		[904] = {
+			["i"] = 423,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 307,
-					[3] = 307,
-					[4] = 307,
+					[2] = 423,
+					[3] = 423,
+					[4] = 423,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52110,8 +53947,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 307,
-					[14] = 153.5,
+					[13] = 423,
+					[14] = 211.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52122,7 +53959,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 307,
+						[1906] = 423,
 					},
 				},
 			},
@@ -52189,14 +54026,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[318] = {
-			["i"] = 10,
+		[1045] = {
+			["i"] = 298,
 			[8] = {
-				[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 298,
+					[3] = 298,
+					[4] = 298,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52205,8 +54042,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 298,
+					[14] = 149,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52217,19 +54054,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 10,
+						[1908] = 298,
 					},
 				},
 			},
 		},
-		[990] = {
-			["i"] = 10,
+		[1348] = {
+			["i"] = 22,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 2,
+					[3] = 2,
+					[4] = 2,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52238,8 +54075,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 2,
+					[14] = 1,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52250,7 +54087,35 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1907] = 10,
+						[1914] = 2,
+					},
+				},
+				[8] = {
+					[1] = 2,
+					[2] = 10,
+					[3] = 10,
+					[4] = 20,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 20,
+					[14] = 7.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1914] = 20,
 					},
 				},
 			},
@@ -52288,14 +54153,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1005] = {
-			["i"] = 10,
+		[1498] = {
+			["i"] = 94,
 			[8] = {
-				[8] = {
+				[16] = {
 					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
+					[2] = 94,
+					[3] = 94,
+					[4] = 94,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52304,8 +54169,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 10,
-					[14] = 5,
+					[13] = 94,
+					[14] = 47,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52316,47 +54181,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 10,
+						[1918] = 94,
 					},
 				},
 			},
 		},
-		[1355] = {
-			["i"] = 252,
+		[129] = {
+			["i"] = 346,
 			[8] = {
-				[8] = {
-					[1] = 1,
-					[2] = 10,
-					[3] = 10,
-					[4] = 10,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 10,
-					[14] = 5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 10,
-					},
-				},
 				[16] = {
 					[1] = 1,
-					[2] = 242,
-					[3] = 242,
-					[4] = 242,
+					[2] = 346,
+					[3] = 346,
+					[4] = 346,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52365,8 +54202,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 242,
-					[14] = 121,
+					[13] = 346,
+					[14] = 173,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52377,7 +54214,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 242,
+						[1902] = 346,
 					},
 				},
 			},
@@ -52415,14 +54252,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[271] = {
-			["i"] = 537,
+		[1312] = {
+			["i"] = 175,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 537,
-					[3] = 537,
-					[4] = 537,
+					[2] = 175,
+					[3] = 175,
+					[4] = 175,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52431,8 +54268,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 537,
-					[14] = 268.5,
+					[13] = 175,
+					[14] = 87.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52443,19 +54280,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 537,
+						[1914] = 175,
 					},
 				},
 			},
 		},
-		[843] = {
-			["i"] = 379,
+		[1500] = {
+			["i"] = 20,
 			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 379,
-					[3] = 379,
-					[4] = 379,
+				[8] = {
+					[1] = 2,
+					[2] = 10,
+					[3] = 10,
+					[4] = 20,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52464,8 +54301,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 379,
-					[14] = 189.5,
+					[13] = 20,
+					[14] = 7.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52476,7 +54313,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1904] = 379,
+						[1918] = 20,
 					},
 				},
 			},
@@ -52612,14 +54449,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1374] = {
-			["i"] = 661,
-			[8] = {
-				[16] = {
+		[5] = {
+			["i"] = 812,
+			[137] = {
+				[92] = {
 					[1] = 1,
-					[2] = 661,
-					[3] = 661,
-					[4] = 661,
+					[2] = 30,
+					[3] = 30,
+					[4] = 30,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52628,8 +54465,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 661,
-					[14] = 330.5,
+					[13] = 30,
+					[14] = 15,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52640,7 +54477,158 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 661,
+						[432] = 30,
+					},
+				},
+			},
+			[141] = {
+				[3] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 1,
+					[11] = 0,
+					[12] = 0,
+					[13] = 0,
+					[14] = 0,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+					},
+				},
+			},
+			[5] = {
+				[13] = {
+					[1] = 1,
+					[2] = 8,
+					[3] = 8,
+					[4] = 8,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 8,
+					[14] = 4,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 8,
+					},
+				},
+			},
+			[8] = {
+				[8] = {
+					[1] = 3,
+					[2] = 10,
+					[3] = 10,
+					[4] = 30,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 30,
+					[14] = 8.75,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 10,
+						[1906] = 10,
+						[1914] = 10,
+					},
+				},
+				[16] = {
+					[1] = 5,
+					[2] = 29,
+					[3] = 209,
+					[4] = 732,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 732,
+					[14] = 152.59375,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1902] = 494,
+						[1918] = 238,
+					},
+				},
+			},
+			[607] = {
+				[3] = {
+					[1] = 2,
+					[2] = 6,
+					[3] = 6,
+					[4] = 12,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 12,
+					[14] = 4.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 6,
+						[1906] = 6,
 					},
 				},
 			},
@@ -52706,45 +54694,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[540] = {
-			["i"] = 113,
-			[533] = {
-				[3] = {
-					[1] = 3,
-					[2] = 6,
-					[3] = 21,
-					[4] = 46,
-					[5] = 1,
-					[6] = 40,
-					[7] = 40,
-					[8] = 40,
-					[9] = 2,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 86,
-					[14] = 20.625,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[21] = 21,
-						[11] = 65,
-					},
-				},
-			},
-			[126] = {
-				[3] = {
-					[1] = 2,
-					[2] = 7,
-					[3] = 20,
-					[4] = 27,
+		[1091] = {
+			["i"] = 195,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 195,
+					[3] = 195,
+					[4] = 195,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -52753,8 +54710,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 27,
-					[14] = 11.75,
+					[13] = 195,
+					[14] = 97.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -52765,12 +54722,103 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[21] = 27,
+						[1914] = 195,
 					},
 				},
 			},
 		},
-		[1352] = {
+		[126] = {
+			[5] = {
+				[126] = {
+					[1] = 1,
+					[2] = 32,
+					[3] = 32,
+					[4] = 32,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 32,
+					[14] = 16,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[921] = 32,
+					},
+				},
+			},
+			[636] = {
+				[31] = {
+					[1] = 0,
+					[2] = 0,
+					[3] = 0,
+					[4] = 0,
+					[5] = 1,
+					[6] = 37,
+					[7] = 37,
+					[8] = 37,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 37,
+					[14] = 18.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[926] = 37,
+					},
+				},
+				[125] = {
+					[1] = 1,
+					[2] = 42,
+					[3] = 42,
+					[4] = 42,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 42,
+					[14] = 21,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[923] = 42,
+					},
+				},
+			},
+			["i"] = 111,
+		},
+		[758] = {
 			["i"] = 10,
 			[8] = {
 				[8] = {
@@ -52798,68 +54846,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 10,
-					},
-				},
-			},
-		},
-		[1348] = {
-			["i"] = 22,
-			[8] = {
-				[16] = {
-					[1] = 1,
-					[2] = 2,
-					[3] = 2,
-					[4] = 2,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 2,
-					[14] = 1,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 2,
-					},
-				},
-				[8] = {
-					[1] = 2,
-					[2] = 10,
-					[3] = 10,
-					[4] = 20,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 0,
-					[12] = 0,
-					[13] = 20,
-					[14] = 7.5,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1914] = 20,
+						[1902] = 10,
 					},
 				},
 			},
@@ -52986,14 +54973,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1091] = {
-			["i"] = 195,
+		[517] = {
+			["i"] = 520,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 195,
-					[3] = 195,
-					[4] = 195,
+					[2] = 520,
+					[3] = 520,
+					[4] = 520,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -53002,8 +54989,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 195,
-					[14] = 97.5,
+					[13] = 520,
+					[14] = 260,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -53014,19 +55001,19 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 195,
+						[1908] = 520,
 					},
 				},
 			},
 		},
-		[704] = {
-			["i"] = 90,
+		[1534] = {
+			["i"] = 37,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 90,
-					[3] = 90,
-					[4] = 90,
+					[2] = 37,
+					[3] = 37,
+					[4] = 37,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -53035,8 +55022,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 90,
-					[14] = 45,
+					[13] = 37,
+					[14] = 18.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -53047,7 +55034,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1902] = 90,
+						[1918] = 37,
 					},
 				},
 			},
@@ -53129,9 +55116,9 @@ DPSMateDamageTaken = {
 						[443] = 63,
 						[451] = 46,
 						[459] = 23,
-						[483] = 21,
-						[444] = 41,
 						[452] = 65,
+						[444] = 41,
+						[483] = 21,
 						[475] = 24,
 						[477] = 23,
 						[445] = 21,
@@ -53270,24 +55257,24 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[679] = {
-			["i"] = 57,
-			[168] = {
-				[3] = {
-					[1] = 5,
-					[2] = 11,
-					[3] = 12,
-					[4] = 57,
+		[949] = {
+			["i"] = 139,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 139,
+					[3] = 139,
+					[4] = 139,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
 					[8] = 0,
-					[9] = 1,
+					[9] = 0,
 					[10] = 0,
-					[11] = 2,
+					[11] = 0,
 					[12] = 0,
-					[13] = 57,
-					[14] = 11.40625,
+					[13] = 139,
+					[14] = 69.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -53298,9 +55285,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1897] = 23,
-						[1898] = 12,
-						[1896] = 22,
+						[1906] = 139,
 					},
 				},
 			},
@@ -53404,14 +55389,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1255] = {
-			["i"] = 1201,
+		[1531] = {
+			["i"] = 159,
 			[8] = {
 				[16] = {
 					[1] = 1,
-					[2] = 1201,
-					[3] = 1201,
-					[4] = 1201,
+					[2] = 159,
+					[3] = 159,
+					[4] = 159,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -53420,8 +55405,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 1201,
-					[14] = 600.5,
+					[13] = 159,
+					[14] = 79.5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -53432,7 +55417,7 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1911] = 1201,
+						[1918] = 159,
 					},
 				},
 			},
@@ -53470,48 +55455,14 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[1011] = {
-			["i"] = 50,
-			[607] = {
-				[3] = {
-					[1] = 4,
-					[2] = 12,
-					[3] = 13,
-					[4] = 50,
-					[5] = 0,
-					[6] = 0,
-					[7] = 0,
-					[8] = 0,
-					[9] = 0,
-					[10] = 0,
-					[11] = 1,
-					[12] = 0,
-					[13] = 50,
-					[14] = 11.8125,
-					[15] = 0,
-					[16] = 0,
-					[17] = 0,
-					[18] = 0,
-					[19] = 0,
-					[20] = 0,
-					[21] = 0,
-					[22] = 0,
-					[23] = 0,
-					["i"] = {
-						[1911] = 37,
-						[1912] = 13,
-					},
-				},
-			},
-		},
-		[78] = {
-			["i"] = 626,
+		[1510] = {
+			["i"] = 352,
 			[8] = {
-				[16] = {
+				[8] = {
 					[1] = 1,
-					[2] = 626,
-					[3] = 626,
-					[4] = 626,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
 					[5] = 0,
 					[6] = 0,
 					[7] = 0,
@@ -53520,8 +55471,8 @@ DPSMateDamageTaken = {
 					[10] = 0,
 					[11] = 0,
 					[12] = 0,
-					[13] = 626,
-					[14] = 313,
+					[13] = 10,
+					[14] = 5,
 					[15] = 0,
 					[16] = 0,
 					[17] = 0,
@@ -53532,7 +55483,68 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1914] = 626,
+						[1918] = 10,
+					},
+				},
+				[16] = {
+					[1] = 1,
+					[2] = 342,
+					[3] = 342,
+					[4] = 342,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 342,
+					[14] = 171,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 342,
+					},
+				},
+			},
+		},
+		[1255] = {
+			["i"] = 1201,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 1201,
+					[3] = 1201,
+					[4] = 1201,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 1201,
+					[14] = 600.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1911] = 1201,
 					},
 				},
 			},
@@ -53603,7 +55615,42 @@ DPSMateDamageTaken = {
 				},
 			},
 		},
-		[956] = {
+		[1543] = {
+			["i"] = 160,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 160,
+					[3] = 160,
+					[4] = 160,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 160,
+					[14] = 80,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[1918] = 160,
+					},
+				},
+			},
+		},
+	},
+	[2] = {
+		[1571] = {
 			["i"] = 10,
 			[8] = {
 				[8] = {
@@ -53631,13 +55678,369 @@ DPSMateDamageTaken = {
 					[22] = 0,
 					[23] = 0,
 					["i"] = {
-						[1906] = 10,
+						[0] = 10,
 					},
 				},
 			},
 		},
-	},
-	[2] = {
+		[1572] = {
+			["i"] = 312,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 312,
+					[3] = 312,
+					[4] = 312,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 312,
+					[14] = 156,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 312,
+					},
+				},
+			},
+		},
+		[1576] = {
+			["i"] = 151,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 151,
+					[3] = 151,
+					[4] = 151,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 151,
+					[14] = 75.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 151,
+					},
+				},
+			},
+		},
+		[1580] = {
+			["i"] = 399,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 399,
+					[3] = 399,
+					[4] = 399,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 399,
+					[14] = 199.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 399,
+					},
+				},
+			},
+		},
+		[1584] = {
+			["i"] = 119,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 119,
+					[3] = 119,
+					[4] = 119,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 119,
+					[14] = 59.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 119,
+					},
+				},
+			},
+		},
+		[1565] = {
+			["i"] = 221,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 221,
+					[3] = 221,
+					[4] = 221,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 221,
+					[14] = 110.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 221,
+					},
+				},
+			},
+		},
+		[1585] = {
+			["i"] = 10,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 10,
+					},
+				},
+			},
+		},
+		[1525] = {
+			["i"] = 1835,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 1835,
+					[3] = 1835,
+					[4] = 1835,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 1835,
+					[14] = 917.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 1835,
+					},
+				},
+			},
+		},
+		[1593] = {
+			["i"] = 144,
+			[8] = {
+				[8] = {
+					[1] = 1,
+					[2] = 10,
+					[3] = 10,
+					[4] = 10,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 10,
+					[14] = 5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 10,
+					},
+				},
+				[16] = {
+					[1] = 2,
+					[2] = 11,
+					[3] = 123,
+					[4] = 134,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 134,
+					[14] = 36.25,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 134,
+					},
+				},
+			},
+		},
+		[950] = {
+			["i"] = 789,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 789,
+					[3] = 789,
+					[4] = 789,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 789,
+					[14] = 394.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 789,
+					},
+				},
+			},
+		},
+		[1586] = {
+			["i"] = 1613,
+			[8] = {
+				[16] = {
+					[1] = 1,
+					[2] = 1613,
+					[3] = 1613,
+					[4] = 1613,
+					[5] = 0,
+					[6] = 0,
+					[7] = 0,
+					[8] = 0,
+					[9] = 0,
+					[10] = 0,
+					[11] = 0,
+					[12] = 0,
+					[13] = 1613,
+					[14] = 806.5,
+					[15] = 0,
+					[16] = 0,
+					[17] = 0,
+					[18] = 0,
+					[19] = 0,
+					[20] = 0,
+					[21] = 0,
+					[22] = 0,
+					[23] = 0,
+					["i"] = {
+						[0] = 1613,
+					},
+				},
+			},
+		},
 	},
 }
 DPSMateDispels = {
@@ -54232,34 +56635,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[126] = {
+		[1512] = {
 			[1] = {
 				[1] = {
-					[1] = 636,
-					[2] = 31,
-					[3] = 37,
-					[4] = 1,
-					[5] = 0,
-					[6] = 926.596141392535,
-					[7] = "7:55 AM",
-				},
-				[2] = {
-					[1] = 636,
-					[2] = 125,
-					[3] = 42,
+					[1] = 8,
+					[2] = 16,
+					[3] = 19,
 					[4] = 0,
 					[5] = 0,
-					[6] = 923.7981412673205,
-					[7] = "7:55 AM",
-				},
-				[3] = {
-					[1] = 5,
-					[2] = 126,
-					[3] = 32,
-					[4] = 0,
-					[5] = 0,
-					[6] = 921.7981411779135,
-					[7] = "7:55 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:55 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -54346,7 +56731,7 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[758] = {
+		[1514] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -54354,8 +56739,8 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "0:59 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:59 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -54363,25 +56748,76 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1260] = {
+		[1515] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 670,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:39 AM",
-				},
-				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:39 AM",
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 88,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:56 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[886] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 118,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1904.763185069135,
+					[7] = "0:44 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1516] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1517] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 410,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:56 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -54423,107 +56859,29 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[5] = {
+		[1519] = {
 			[1] = {
 				[1] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 6,
+					[1] = 8,
+					[2] = 16,
+					[3] = 141,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:51 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
 				},
 				[2] = {
-					[1] = 5,
-					[2] = 13,
-					[3] = 8,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:49 PM",
-				},
-				[3] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:46 PM",
-				},
-				[4] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
 				},
 				["i"] = {
 					[1] = 0,
 					[2] = "",
-				},
-			},
-			[2] = {
-				[1] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 6,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1906.638185149229,
-					[7] = "6:07 AM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1906.513185143641,
-					[7] = "6:06 AM",
-				},
-				[3] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 204,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "6:05 PM",
-				},
-				[4] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 201,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "4:08 PM",
-				},
-				[5] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 89,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:32 PM",
-				},
-				[6] = {
-					[1] = 137,
-					[2] = 92,
-					[3] = 30,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.7991193162113,
-					[7] = "7:31 AM",
-				},
-				["i"] = {
-					[1] = 1,
-					[2] = "10:52 AM",
 				},
 			},
 		},
@@ -54546,6 +56904,23 @@ DPSMateDeaths = {
 					[5] = 1,
 					[6] = 1912.716185426511,
 					[7] = "8:42 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1520] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 1039,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55006,6 +57381,58 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1525] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 1835,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 612,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 168,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1526] = {
+			[1] = {
+				[1] = {
+					[1] = 1526,
+					[2] = 86,
+					[3] = 856,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1271] = {
 			[1] = {
 				[1] = {
@@ -55032,7 +57459,7 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[764] = {
+		[1527] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -55040,8 +57467,8 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "1:00 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55213,16 +57640,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1023] = {
+		[1534] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 314,
+					[3] = 37,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.013185210696,
-					[7] = "10:52 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55230,43 +57657,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1024] = {
+		[1535] = {
 			[1] = {
 				[1] = {
-					[1] = 1024,
-					[2] = 116,
-					[3] = 9,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1908.013185210696,
-					[7] = "10:52 AM",
-				},
-				[2] = {
-					[1] = 1024,
-					[2] = 116,
-					[3] = 9,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1908.013185210696,
-					[7] = "10:52 AM",
-				},
-				[3] = {
-					[1] = 1024,
-					[2] = 116,
-					[3] = 9,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1908.013185210696,
-					[7] = "10:52 AM",
-				},
-				[4] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 78,
+					[3] = 1305,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.013185210696,
-					[7] = "10:52 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55291,6 +57691,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1536] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 75,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[641] = {
 			[1] = {
 				[1] = {
@@ -55308,6 +57725,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1537] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 56,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1282] = {
 			[1] = {
 				[1] = {
@@ -55318,6 +57752,40 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1912.841185432098,
 					[7] = "8:47 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1538] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 192,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1539] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 324,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55353,6 +57821,40 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1904.763185069135,
 					[7] = "5:45 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1540] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 93,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1541] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 539,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55484,16 +57986,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[772] = {
+		[1543] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 15,
+					[3] = 160,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "4:08 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:59 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55501,16 +58003,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[129] = {
+		[1544] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 346,
+					[3] = 56,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:34 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:59 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55665,6 +58167,41 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1593] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:10 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 11,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:10 PM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 123,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:10 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[648] = {
 			[1] = {
 				[1] = {
@@ -55745,6 +58282,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[129] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 346,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:34 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1296] = {
 			[1] = {
 				[1] = {
@@ -55755,6 +58309,67 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1914.857185522265,
 					[7] = "10:06 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1585] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1024] = {
+			[1] = {
+				[1] = {
+					[1] = 1024,
+					[2] = 116,
+					[3] = 9,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1908.013185210696,
+					[7] = "10:52 AM",
+				},
+				[2] = {
+					[1] = 1024,
+					[2] = 116,
+					[3] = 9,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1908.013185210696,
+					[7] = "10:52 AM",
+				},
+				[3] = {
+					[1] = 1024,
+					[2] = 116,
+					[3] = 9,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1908.013185210696,
+					[7] = "10:52 AM",
+				},
+				[4] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 78,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.013185210696,
+					[7] = "10:52 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55781,6 +58396,41 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1902.763184979728,
 					[7] = "4:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[636] = {
+			[1] = {
+				[1] = {
+					[1] = 135,
+					[2] = 31,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1021.503145650199,
+					[7] = "7:58 AM",
+				},
+				[2] = {
+					[1] = 135,
+					[2] = 31,
+					[3] = 4,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1018.128145499325,
+					[7] = "7:58 AM",
+				},
+				[3] = {
+					[1] = 126,
+					[2] = 3,
+					[3] = 15,
+					[4] = 0,
+					[5] = 0,
+					[6] = 926.3461413813591,
+					[7] = "7:55 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55850,6 +58500,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1554] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 351,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[778] = {
 			[1] = {
 				[1] = {
@@ -55893,16 +58560,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1045] = {
+		[1556] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 298,
+					[3] = 1322,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.013185210696,
-					[7] = "8:47 AM",
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -55961,6 +58628,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1564] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 335,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[652] = {
 			[1] = {
 				[1] = {
@@ -55978,16 +58662,97 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[780] = {
+		[1559] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 213,
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2829,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "4:09 PM",
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:10 PM",
+				},
+				[2] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2755,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:06 PM",
+				},
+				[3] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2819,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:06 PM",
+				},
+				[4] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2696,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				[5] = {
+					[1] = 1559,
+					[2] = 169,
+					[3] = 1365,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				[6] = {
+					[1] = 1559,
+					[2] = 169,
+					[3] = 1372,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:04 PM",
+				},
+				[7] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 3038,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:04 PM",
+				},
+				[8] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2815,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:04 PM",
+				},
+				[9] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 3039,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
+				},
+				[10] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2779,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -56170,6 +58935,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1562] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 32,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:04 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[654] = {
 			[1] = {
 				[1] = {
@@ -56327,6 +59109,23 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1914.857185522265,
 					[7] = "0:06 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1571] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:06 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -56565,9 +59364,35 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1569] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 175,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1313] = {
 			[1] = {
 				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 2161,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:59 PM",
+				},
+				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
@@ -56576,7 +59401,7 @@ DPSMateDeaths = {
 					[6] = 1914.982185527853,
 					[7] = "0:08 AM",
 				},
-				[2] = {
+				[3] = {
 					[1] = 8,
 					[2] = 16,
 					[3] = 355,
@@ -56625,6 +59450,121 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1565] = {
+			[1] = {
+				[1] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 433,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:10 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 221,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
+				},
+				[3] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 433,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:08 PM",
+				},
+				[4] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 419,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:08 PM",
+				},
+				[5] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 403,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:08 PM",
+				},
+				[6] = {
+					[1] = 1565,
+					[2] = 29,
+					[3] = 279,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:07 PM",
+				},
+				[7] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 426,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				[8] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 405,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				[9] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 618,
+					[4] = 1,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				[10] = {
+					[1] = 1565,
+					[2] = 49,
+					[3] = 1861,
+					[4] = 1,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1567] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 58,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:05 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[786] = {
 			[1] = {
 				[1] = {
@@ -56642,52 +59582,33 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1316] = {
+		[457] = {
 			[1] = {
 				[1] = {
-					[1] = 1299,
-					[2] = 116,
-					[3] = 49,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:07 AM",
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:47 PM",
 				},
-				[2] = {
-					[1] = 1299,
-					[2] = 116,
-					[3] = 49,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:07 AM",
+				["i"] = {
+					[1] = 0,
+					[2] = "",
 				},
-				[3] = {
-					[1] = 1299,
-					[2] = 116,
-					[3] = 49,
+			},
+		},
+		[1572] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 312,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:07 AM",
-				},
-				[4] = {
-					[1] = 1299,
-					[2] = 116,
-					[3] = 49,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:07 AM",
-				},
-				[5] = {
-					[1] = 1299,
-					[2] = 116,
-					[3] = 49,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:07 AM",
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:06 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -56712,6 +59633,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1563] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "5:04 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1318] = {
 			[1] = {
 				[1] = {
@@ -56722,6 +59660,40 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1914.982185527853,
 					[7] = "3:47 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[704] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 90,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:29 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[517] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 520,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.013185210696,
+					[7] = "8:36 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -56763,6 +59735,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1576] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 151,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:06 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1321] = {
 			[1] = {
 				[1] = {
@@ -56780,6 +59769,173 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[78] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 847,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				[3] = {
+					[1] = 78,
+					[2] = 27,
+					[3] = 642,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "0:10 AM",
+				},
+				[4] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 626,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "0:09 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1011] = {
+			[1] = {
+				[1] = {
+					[1] = 1011,
+					[2] = 116,
+					[3] = 35,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1912.716185426511,
+					[7] = "8:41 AM",
+				},
+				[2] = {
+					[1] = 1011,
+					[2] = 116,
+					[3] = 35,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1912.716185426511,
+					[7] = "8:41 AM",
+				},
+				[3] = {
+					[1] = 1011,
+					[2] = 116,
+					[3] = 35,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1912.716185426511,
+					[7] = "8:41 AM",
+				},
+				[4] = {
+					[1] = 1011,
+					[2] = 116,
+					[3] = 35,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1912.716185426511,
+					[7] = "8:41 AM",
+				},
+				[5] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 13,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1912.201185403563,
+					[7] = "8:41 AM",
+				},
+				[6] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 12,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.951185392387,
+					[7] = "8:41 AM",
+				},
+				[7] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 12,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.701185381211,
+					[7] = "8:41 AM",
+				},
+				[8] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 13,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "8:41 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1254] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "4:51 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[822] = {
+			[1] = {
+				[1] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 16,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1903.013184990904,
+					[7] = "6:10 PM",
+				},
+				[2] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 16,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "6:10 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[790] = {
 			[1] = {
 				[1] = {
@@ -56790,6 +59946,40 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1902.763184979728,
 					[7] = "6:06 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[764] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "1:00 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1580] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 399,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:08 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -56832,6 +60022,32 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1252] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 275,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "4:51 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "4:51 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[919] = {
 			[1] = {
 				[1] = {
@@ -56842,6 +60058,23 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1905.513185098937,
 					[7] = "5:49 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[914] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 525,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1905.513185098937,
+					[7] = "5:48 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -56963,6 +60196,40 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[1584] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 119,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1265] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 155,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:46 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[793] = {
 			[1] = {
 				[1] = {
@@ -56973,6 +60240,40 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1904.388185052371,
 					[7] = "6:12 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1091] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 195,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:03 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1586] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 1613,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -57007,6 +60308,23 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1908.013185210696,
 					[7] = "5:18 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1249] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 34,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "4:51 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -57252,6 +60570,23 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[960] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 329,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1906.513185143641,
+					[7] = "6:06 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[1080] = {
 			[1] = {
 				[1] = {
@@ -57262,6 +60597,23 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1914.982185527853,
 					[7] = "3:40 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1360] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 189,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:02 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -57409,187 +60761,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[542] = {
+		[271] = {
 			[1] = {
 				[1] = {
-					[1] = 5,
-					[2] = 3,
-					[3] = 18,
+					[1] = 8,
+					[2] = 16,
+					[3] = 537,
 					[4] = 0,
 					[5] = 0,
-					[6] = 219.4841098004788,
-					[7] = "6:19 AM",
-				},
-				[2] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 14,
-					[4] = 0,
-					[5] = 0,
-					[6] = 201.3281089888722,
-					[7] = "6:19 AM",
-				},
-				[3] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 16,
-					[4] = 0,
-					[5] = 0,
-					[6] = 201.2031089832842,
-					[7] = "6:19 AM",
-				},
-				[4] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 34,
-					[4] = 1,
-					[5] = 0,
-					[6] = 200.8281089665204,
-					[7] = "6:19 AM",
-				},
-				[5] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 14,
-					[4] = 0,
-					[5] = 0,
-					[6] = 200.3121089434087,
-					[7] = "6:19 AM",
-				},
-				[6] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 14,
-					[4] = 0,
-					[5] = 0,
-					[6] = 199.6871089154691,
-					[7] = "6:19 AM",
-				},
-				[7] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 199.0621088875294,
-					[7] = "6:19 AM",
-				},
-				[8] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 198.4371088595897,
-					[7] = "6:19 AM",
-				},
-				[9] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 5,
-					[4] = 0,
-					[5] = 0,
-					[6] = 198.0621088428259,
-					[7] = "6:19 AM",
-				},
-				[10] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 197.81210883165,
-					[7] = "6:19 AM",
-				},
-				[11] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 197.1551088077784,
-					[7] = "6:19 AM",
-				},
-				[12] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 7,
-					[4] = 0,
-					[5] = 0,
-					[6] = 195.0301087127835,
-					[7] = "6:19 AM",
-				},
-				[13] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 16,
-					[4] = 0,
-					[5] = 0,
-					[6] = 177.8581079376698,
-					[7] = "6:18 AM",
-				},
-				[14] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 16,
-					[4] = 0,
-					[5] = 0,
-					[6] = 177.2331079097301,
-					[7] = "6:18 AM",
-				},
-				[15] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 14,
-					[4] = 0,
-					[5] = 0,
-					[6] = 177.1081079041421,
-					[7] = "6:18 AM",
-				},
-				[16] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 176.8581078929663,
-					[7] = "6:18 AM",
-				},
-				[17] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 32,
-					[4] = 1,
-					[5] = 0,
-					[6] = 176.4831078762025,
-					[7] = "6:18 AM",
-				},
-				[18] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 14,
-					[4] = 0,
-					[5] = 0,
-					[6] = 176.3581078706145,
-					[7] = "6:18 AM",
-				},
-				[19] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 170.4831076098442,
-					[7] = "6:18 AM",
-				},
-				[20] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 168.3581075148493,
-					[7] = "6:18 AM",
+					[6] = 1914.982185527853,
+					[7] = "3:38 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -57614,16 +60795,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1159] = {
+		[946] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 550,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "0:32 AM",
+					[6] = 1906.138185126877,
+					[7] = "5:58 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -57835,20 +61016,164 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[886] = {
+		[624] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 118,
+					[1] = 543,
+					[2] = 3,
+					[3] = 15,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1904.763185069135,
-					[7] = "0:44 AM",
+					[6] = 432.7991193162113,
+					[7] = "7:29 AM",
+				},
+				[2] = {
+					[1] = 135,
+					[2] = 3,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.6741193106234,
+					[7] = "7:29 AM",
+				},
+				[3] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.5331193042755,
+					[7] = "7:29 AM",
+				},
+				[4] = {
+					[1] = 135,
+					[2] = 3,
+					[3] = 12,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.4081192986876,
+					[7] = "7:29 AM",
+				},
+				[5] = {
+					[1] = 137,
+					[2] = 10,
+					[3] = 40,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.4081192986876,
+					[7] = "7:29 AM",
+				},
+				[6] = {
+					[1] = 135,
+					[2] = 3,
+					[3] = 12,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.2831192930996,
+					[7] = "7:29 AM",
+				},
+				[7] = {
+					[1] = 137,
+					[2] = 10,
+					[3] = 36,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.2831192930996,
+					[7] = "7:29 AM",
+				},
+				[8] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 19,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.0331192819238,
+					[7] = "7:29 AM",
+				},
+				[9] = {
+					[1] = 137,
+					[2] = 92,
+					[3] = 29,
+					[4] = 0,
+					[5] = 0,
+					[6] = 431.9081192763358,
+					[7] = "7:29 AM",
+				},
+				[10] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 15,
+					[4] = 0,
+					[5] = 0,
+					[6] = 431.7831192707479,
+					[7] = "7:29 AM",
+				},
+				[11] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 431.6581192651599,
+					[7] = "7:29 AM",
+				},
+				[12] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 18,
+					[4] = 0,
+					[5] = 0,
+					[6] = 431.4081192539841,
+					[7] = "7:29 AM",
+				},
+				[13] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 431.1581192428082,
+					[7] = "7:29 AM",
+				},
+				[14] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 19,
+					[4] = 0,
+					[5] = 0,
+					[6] = 430.9081192316323,
+					[7] = "7:29 AM",
+				},
+				[15] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 16,
+					[4] = 0,
+					[5] = 0,
+					[6] = 430.6581192204565,
+					[7] = "7:29 AM",
+				},
+				[16] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 19,
+					[4] = 0,
+					[5] = 0,
+					[6] = 430.3931192086845,
+					[7] = "7:29 AM",
+				},
+				[17] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 30,
+					[4] = 1,
+					[5] = 0,
+					[6] = 430.2681192030966,
+					[7] = "7:29 AM",
 				},
 				["i"] = {
-					[1] = 0,
-					[2] = "",
+					[1] = 1,
+					[2] = "7:29 AM",
 				},
 			},
 		},
@@ -57949,16 +61274,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1492] = {
+		[1481] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 139,
+					[1] = 1482,
+					[2] = 13,
+					[3] = 8,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1918.170185670427,
-					[7] = "8:51 PM",
+					[7] = "8:49 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58000,16 +61325,34 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1220] = {
+		[126] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 25,
+					[1] = 636,
+					[2] = 31,
+					[3] = 37,
+					[4] = 1,
+					[5] = 0,
+					[6] = 926.596141392535,
+					[7] = "7:55 AM",
+				},
+				[2] = {
+					[1] = 636,
+					[2] = 125,
+					[3] = 42,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:34 AM",
+					[6] = 923.7981412673205,
+					[7] = "7:55 AM",
+				},
+				[3] = {
+					[1] = 5,
+					[2] = 126,
+					[3] = 32,
+					[4] = 0,
+					[5] = 0,
+					[6] = 921.7981411779135,
+					[7] = "7:55 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58043,16 +61386,34 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[485] = {
+		[1348] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 984,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:50 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:03 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:01 PM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 2,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:01 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58166,16 +61527,34 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1132] = {
+		[1245] = {
 			[1] = {
 				[1] = {
+					[1] = 1245,
+					[2] = 29,
+					[3] = 29,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1911.576185375623,
+					[7] = "6:59 PM",
+				},
+				[2] = {
+					[1] = 1245,
+					[2] = 29,
+					[3] = 29,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1911.576185375623,
+					[7] = "6:59 PM",
+				},
+				[3] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 828,
+					[3] = 354,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:33 PM",
+					[6] = 1911.576185375623,
+					[7] = "6:59 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58183,16 +61562,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1468] = {
+		[1344] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 88,
+					[3] = 307,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:49 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58333,16 +61712,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1483] = {
+		[1406] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 187,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:49 PM",
+					[6] = 1914.982185527853,
+					[7] = "3:41 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58482,16 +61861,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1481] = {
+		[1311] = {
 			[1] = {
 				[1] = {
-					[1] = 1482,
-					[2] = 13,
-					[3] = 8,
+					[1] = 8,
+					[2] = 16,
+					[3] = 144,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:49 PM",
+					[6] = 1914.857185522265,
+					[7] = "0:06 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58550,61 +61929,52 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[741] = {
+		[715] = {
 			[1] = {
 				[1] = {
-					[1] = 741,
-					[2] = 116,
-					[3] = 49,
+					[1] = 715,
+					[2] = 252,
+					[3] = 189,
 					[4] = 0,
 					[5] = 1,
 					[6] = 1902.763184979728,
-					[7] = "0:56 AM",
+					[7] = "3:31 PM",
 				},
 				[2] = {
-					[1] = 741,
-					[2] = 116,
-					[3] = 49,
+					[1] = 715,
+					[2] = 252,
+					[3] = 201,
 					[4] = 0,
 					[5] = 1,
 					[6] = 1902.763184979728,
-					[7] = "0:56 AM",
+					[7] = "3:31 PM",
 				},
 				[3] = {
-					[1] = 741,
-					[2] = 116,
-					[3] = 49,
+					[1] = 715,
+					[2] = 252,
+					[3] = 207,
 					[4] = 0,
 					[5] = 1,
 					[6] = 1902.763184979728,
-					[7] = "0:56 AM",
+					[7] = "3:31 PM",
 				},
 				[4] = {
-					[1] = 741,
-					[2] = 116,
-					[3] = 49,
+					[1] = 715,
+					[2] = 252,
+					[3] = 189,
 					[4] = 0,
 					[5] = 1,
 					[6] = 1902.763184979728,
-					[7] = "0:56 AM",
+					[7] = "3:31 PM",
 				},
 				[5] = {
-					[1] = 741,
-					[2] = 116,
-					[3] = 49,
+					[1] = 715,
+					[2] = 252,
+					[3] = 200,
 					[4] = 0,
 					[5] = 1,
 					[6] = 1902.763184979728,
-					[7] = "0:56 AM",
-				},
-				[6] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 366,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "0:56 AM",
+					[7] = "3:31 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58860,16 +62230,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1479] = {
+		[1005] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 205,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:49 PM",
+					[6] = 1911.576185375623,
+					[7] = "8:38 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -58877,16 +62247,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[934] = {
+		[1356] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 312,
+					[3] = 88,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.013185121289,
-					[7] = "5:54 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:02 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59077,16 +62447,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[788] = {
+		[1374] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 661,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "4:11 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:05 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59094,16 +62464,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1360] = {
+		[936] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 189,
+					[3] = 175,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:02 PM",
+					[6] = 1906.138185126877,
+					[7] = "5:54 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59223,16 +62593,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[495] = {
+		[1384] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 520,
+					[3] = 233,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "6:58 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:06 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59412,16 +62782,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[812] = {
+		[1112] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 383,
+					[3] = 129,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "6:08 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:55 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:55 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59489,7 +62868,7 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1094] = {
+		[717] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -59497,8 +62876,8 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:29 PM",
+					[6] = 1902.763184979728,
+					[7] = "3:31 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59506,61 +62885,61 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[941] = {
+		[1370] = {
 			[1] = {
 				[1] = {
-					[1] = 941,
+					[1] = 1370,
 					[2] = 116,
-					[3] = 49,
+					[3] = 40,
 					[4] = 0,
 					[5] = 1,
-					[6] = 1906.888185160405,
-					[7] = "6:13 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:44 PM",
 				},
 				[2] = {
-					[1] = 941,
+					[1] = 1370,
 					[2] = 116,
-					[3] = 49,
+					[3] = 40,
 					[4] = 0,
 					[5] = 1,
-					[6] = 1906.138185126877,
-					[7] = "5:56 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:44 PM",
 				},
 				[3] = {
-					[1] = 941,
+					[1] = 1370,
 					[2] = 116,
-					[3] = 49,
+					[3] = 40,
 					[4] = 0,
 					[5] = 1,
-					[6] = 1906.138185126877,
-					[7] = "5:56 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:44 PM",
 				},
 				[4] = {
-					[1] = 941,
+					[1] = 1370,
 					[2] = 116,
-					[3] = 49,
+					[3] = 40,
 					[4] = 0,
 					[5] = 1,
-					[6] = 1906.138185126877,
-					[7] = "5:56 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:44 PM",
 				},
 				[5] = {
-					[1] = 941,
+					[1] = 1370,
 					[2] = 116,
-					[3] = 49,
+					[3] = 40,
 					[4] = 0,
 					[5] = 1,
-					[6] = 1906.138185126877,
-					[7] = "5:56 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:44 PM",
 				},
 				[6] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 383,
+					[3] = 307,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.138185126877,
-					[7] = "5:56 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:43 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59663,16 +63042,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1467] = {
+		[938] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 1374,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:47 PM",
+					[6] = 1911.576185375623,
+					[7] = "6:57 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 476,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1906.138185126877,
+					[7] = "5:55 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59731,16 +63119,61 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[457] = {
+		[941] = {
 			[1] = {
 				[1] = {
+					[1] = 941,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.888185160405,
+					[7] = "6:13 AM",
+				},
+				[2] = {
+					[1] = 941,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.138185126877,
+					[7] = "5:56 AM",
+				},
+				[3] = {
+					[1] = 941,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.138185126877,
+					[7] = "5:56 AM",
+				},
+				[4] = {
+					[1] = 941,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.138185126877,
+					[7] = "5:56 AM",
+				},
+				[5] = {
+					[1] = 941,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.138185126877,
+					[7] = "5:56 AM",
+				},
+				[6] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 383,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:47 PM",
+					[6] = 1906.138185126877,
+					[7] = "5:56 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59782,16 +63215,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1465] = {
+		[1560] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 95,
+					[3] = 121,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:47 PM",
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59851,16 +63284,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[517] = {
+		[812] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 520,
+					[3] = 383,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.013185210696,
-					[7] = "8:36 AM",
+					[6] = 1902.763184979728,
+					[7] = "6:08 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59868,34 +63301,187 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1433] = {
+		[680] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:47 PM",
+					[5] = 1,
+					[6] = 1901.372184917501,
+					[7] = "9:29 AM",
 				},
 				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:47 PM",
+					[5] = 1,
+					[6] = 1901.372184917501,
+					[7] = "9:29 AM",
 				},
 				[3] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1901.372184917501,
+					[7] = "9:29 AM",
+				},
+				[4] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1901.372184917501,
+					[7] = "9:29 AM",
+				},
+				[5] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1901.372184917501,
+					[7] = "9:29 AM",
+				},
+				[6] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1901.247184911913,
+					[7] = "9:29 AM",
+				},
+				[7] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1901.247184911913,
+					[7] = "9:29 AM",
+				},
+				[8] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.872184895149,
+					[7] = "9:29 AM",
+				},
+				[9] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.872184895149,
+					[7] = "9:29 AM",
+				},
+				[10] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.747184889561,
+					[7] = "9:29 AM",
+				},
+				[11] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.747184889561,
+					[7] = "9:29 AM",
+				},
+				[12] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.481184877625,
+					[7] = "9:29 AM",
+				},
+				[13] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.356184872037,
+					[7] = "9:29 AM",
+				},
+				[14] = {
+					[1] = 680,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.356184872037,
+					[7] = "9:28 AM",
+				},
+				[15] = {
+					[1] = 680,
+					[2] = 49,
+					[3] = 91,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1900.168184867299,
+					[7] = "9:28 AM",
+				},
+				[16] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1898.997184815055,
+					[7] = "9:28 AM",
+				},
+				[17] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1898.872184809467,
+					[7] = "9:28 AM",
+				},
+				[18] = {
+					[1] = 678,
+					[2] = 25,
+					[3] = 4,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:47 PM",
+					[6] = 1898.872184809467,
+					[7] = "9:28 AM",
+				},
+				[19] = {
+					[1] = 680,
+					[2] = 29,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1898.607184797696,
+					[7] = "9:28 AM",
+				},
+				[20] = {
+					[1] = 678,
+					[2] = 25,
+					[3] = 4,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1898.607184797696,
+					[7] = "9:28 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59903,25 +63489,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1166] = {
+		[951] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 77,
+					[1] = 607,
+					[2] = 3,
+					[3] = 13,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:34 AM",
+					[6] = 1906.388185138053,
+					[7] = "5:59 AM",
 				},
 				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 607,
+					[2] = 3,
+					[3] = 12,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:34 AM",
+					[6] = 1906.263185132465,
+					[7] = "5:59 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -59963,7 +63549,7 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[946] = {
+		[1380] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -59971,8 +63557,17 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.138185126877,
-					[7] = "5:58 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:05 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 756,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:05 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60014,16 +63609,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1265] = {
+		[1366] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 155,
+					[3] = 779,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:46 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:03 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60031,16 +63626,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1460] = {
+		[1492] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 724,
+					[3] = 139,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1918.170185670427,
-					[7] = "8:45 PM",
+					[7] = "8:51 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60067,174 +63662,6 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1908.138185216284,
 					[7] = "6:32 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[540] = {
-			[1] = {
-				[1] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 21.87510096857548,
-					[7] = "6:13 AM",
-				},
-				[2] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 21.87510096857548,
-					[7] = "6:13 AM",
-				},
-				[3] = {
-					[1] = 126,
-					[2] = 3,
-					[3] = 20,
-					[4] = 0,
-					[5] = 0,
-					[6] = 21.87510096857548,
-					[7] = "6:13 AM",
-				},
-				[4] = {
-					[1] = 533,
-					[2] = 3,
-					[3] = 21,
-					[4] = 0,
-					[5] = 0,
-					[6] = 21.87510096857548,
-					[7] = "6:13 AM",
-				},
-				[5] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 21.87510096857548,
-					[7] = "6:13 AM",
-				},
-				[6] = {
-					[1] = 126,
-					[2] = 3,
-					[3] = 7,
-					[4] = 0,
-					[5] = 0,
-					[6] = 21.87510096857548,
-					[7] = "6:13 AM",
-				},
-				[7] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 19.5001008624047,
-					[7] = "6:13 AM",
-				},
-				[8] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 16.48410072753429,
-					[7] = "6:13 AM",
-				},
-				[9] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 12.67210055718422,
-					[7] = "6:13 AM",
-				},
-				[10] = {
-					[1] = 533,
-					[2] = 3,
-					[3] = 19,
-					[4] = 0,
-					[5] = 0,
-					[6] = 11.79710051806867,
-					[7] = "6:13 AM",
-				},
-				[11] = {
-					[1] = 533,
-					[2] = 3,
-					[3] = 40,
-					[4] = 1,
-					[5] = 0,
-					[6] = 11.79710051806867,
-					[7] = "6:13 AM",
-				},
-				[12] = {
-					[1] = 540,
-					[2] = 116,
-					[3] = 20,
-					[4] = 0,
-					[5] = 1,
-					[6] = 11.79710051806867,
-					[7] = "6:13 AM",
-				},
-				[13] = {
-					[1] = 533,
-					[2] = 3,
-					[3] = 6,
-					[4] = 0,
-					[5] = 0,
-					[6] = 11.79710051806867,
-					[7] = "6:13 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[820] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 90,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "6:10 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[948] = {
-			[1] = {
-				[1] = {
-					[1] = 948,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1906.513185143641,
-					[7] = "6:00 AM",
-				},
-				[2] = {
-					[1] = 948,
-					[2] = 49,
-					[3] = 141,
-					[4] = 1,
-					[5] = 1,
-					[6] = 1906.513185143641,
-					[7] = "6:00 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60349,6 +63776,102 @@ DPSMateDeaths = {
 				},
 			},
 		},
+		[820] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 90,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "6:10 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[948] = {
+			[1] = {
+				[1] = {
+					[1] = 948,
+					[2] = 48,
+					[3] = 14,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.513185143641,
+					[7] = "6:00 AM",
+				},
+				[2] = {
+					[1] = 948,
+					[2] = 49,
+					[3] = 141,
+					[4] = 1,
+					[5] = 1,
+					[6] = 1906.513185143641,
+					[7] = "6:00 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[979] = {
+			[1] = {
+				[1] = {
+					[1] = 979,
+					[2] = 116,
+					[3] = 21,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.888185160405,
+					[7] = "6:13 AM",
+				},
+				[2] = {
+					[1] = 979,
+					[2] = 116,
+					[3] = 21,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.888185160405,
+					[7] = "6:13 AM",
+				},
+				[3] = {
+					[1] = 979,
+					[2] = 116,
+					[3] = 21,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.888185160405,
+					[7] = "6:13 AM",
+				},
+				[4] = {
+					[1] = 979,
+					[2] = 116,
+					[3] = 21,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1906.888185160405,
+					[7] = "6:13 AM",
+				},
+				[5] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 142,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1906.888185160405,
+					[7] = "6:13 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 		[693] = {
 			[1] = {
 				[1] = {
@@ -60375,61 +63898,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1370] = {
+		[1345] = {
 			[1] = {
 				[1] = {
-					[1] = 1370,
-					[2] = 116,
-					[3] = 40,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1918.170185670427,
-					[7] = "8:44 PM",
-				},
-				[2] = {
-					[1] = 1370,
-					[2] = 116,
-					[3] = 40,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1918.170185670427,
-					[7] = "8:44 PM",
-				},
-				[3] = {
-					[1] = 1370,
-					[2] = 116,
-					[3] = 40,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1918.170185670427,
-					[7] = "8:44 PM",
-				},
-				[4] = {
-					[1] = 1370,
-					[2] = 116,
-					[3] = 40,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1918.170185670427,
-					[7] = "8:44 PM",
-				},
-				[5] = {
-					[1] = 1370,
-					[2] = 116,
-					[3] = 40,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1918.170185670427,
-					[7] = "8:44 PM",
-				},
-				[6] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 307,
+					[3] = 1347,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:43 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60437,16 +63915,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[949] = {
+		[1386] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 139,
+					[3] = 357,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.513185143641,
-					[7] = "5:59 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:06 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60488,25 +63966,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[822] = {
+		[1132] = {
 			[1] = {
 				[1] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 16,
+					[1] = 8,
+					[2] = 16,
+					[3] = 828,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1903.013184990904,
-					[7] = "6:10 PM",
-				},
-				[2] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 16,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "6:10 PM",
+					[6] = 1908.138185216284,
+					[7] = "6:33 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60519,13 +63988,31 @@ DPSMateDeaths = {
 				[1] = {
 					[1] = 950,
 					[2] = 277,
+					[3] = 800,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 789,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1919.060185710139,
+					[7] = "5:09 PM",
+				},
+				[3] = {
+					[1] = 950,
+					[2] = 277,
 					[3] = 830,
 					[4] = 0,
 					[5] = 1,
 					[6] = 1906.513185143641,
 					[7] = "6:04 AM",
 				},
-				[2] = {
+				[4] = {
 					[1] = 950,
 					[2] = 277,
 					[3] = 877,
@@ -60534,7 +64021,7 @@ DPSMateDeaths = {
 					[6] = 1906.513185143641,
 					[7] = "6:04 AM",
 				},
-				[3] = {
+				[5] = {
 					[1] = 950,
 					[2] = 278,
 					[3] = 1556,
@@ -60543,7 +64030,7 @@ DPSMateDeaths = {
 					[6] = 1906.138185126877,
 					[7] = "5:59 AM",
 				},
-				[4] = {
+				[6] = {
 					[1] = 950,
 					[2] = 169,
 					[3] = 954,
@@ -60552,7 +64039,7 @@ DPSMateDeaths = {
 					[6] = 1906.138185126877,
 					[7] = "5:59 AM",
 				},
-				[5] = {
+				[7] = {
 					[1] = 950,
 					[2] = 278,
 					[3] = 1441,
@@ -60561,7 +64048,7 @@ DPSMateDeaths = {
 					[6] = 1906.138185126877,
 					[7] = "5:59 AM",
 				},
-				[6] = {
+				[8] = {
 					[1] = 950,
 					[2] = 277,
 					[3] = 883,
@@ -60570,7 +64057,7 @@ DPSMateDeaths = {
 					[6] = 1906.138185126877,
 					[7] = "5:58 AM",
 				},
-				[7] = {
+				[9] = {
 					[1] = 950,
 					[2] = 277,
 					[3] = 800,
@@ -60636,59 +64123,221 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[951] = {
+		[1390] = {
 			[1] = {
 				[1] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 13,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.388185138053,
-					[7] = "5:59 AM",
+					[6] = 1914.982185527853,
+					[7] = "3:41 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1307] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 102,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.857185522265,
+					[7] = "0:05 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[542] = {
+			[1] = {
+				[1] = {
+					[1] = 5,
+					[2] = 3,
+					[3] = 18,
+					[4] = 0,
+					[5] = 0,
+					[6] = 219.4841098004788,
+					[7] = "6:19 AM",
 				},
 				[2] = {
-					[1] = 607,
+					[1] = 543,
 					[2] = 3,
-					[3] = 12,
+					[3] = 14,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.263185132465,
-					[7] = "5:59 AM",
+					[6] = 201.3281089888722,
+					[7] = "6:19 AM",
 				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1453] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 78,
+				[3] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 16,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:43 PM",
+					[6] = 201.2031089832842,
+					[7] = "6:19 AM",
 				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
+				[4] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 34,
+					[4] = 1,
+					[5] = 0,
+					[6] = 200.8281089665204,
+					[7] = "6:19 AM",
 				},
-			},
-		},
-		[1452] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 127,
+				[5] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 14,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:43 PM",
+					[6] = 200.3121089434087,
+					[7] = "6:19 AM",
+				},
+				[6] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 14,
+					[4] = 0,
+					[5] = 0,
+					[6] = 199.6871089154691,
+					[7] = "6:19 AM",
+				},
+				[7] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 199.0621088875294,
+					[7] = "6:19 AM",
+				},
+				[8] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 198.4371088595897,
+					[7] = "6:19 AM",
+				},
+				[9] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 5,
+					[4] = 0,
+					[5] = 0,
+					[6] = 198.0621088428259,
+					[7] = "6:19 AM",
+				},
+				[10] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 197.81210883165,
+					[7] = "6:19 AM",
+				},
+				[11] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 197.1551088077784,
+					[7] = "6:19 AM",
+				},
+				[12] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 7,
+					[4] = 0,
+					[5] = 0,
+					[6] = 195.0301087127835,
+					[7] = "6:19 AM",
+				},
+				[13] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 16,
+					[4] = 0,
+					[5] = 0,
+					[6] = 177.8581079376698,
+					[7] = "6:18 AM",
+				},
+				[14] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 16,
+					[4] = 0,
+					[5] = 0,
+					[6] = 177.2331079097301,
+					[7] = "6:18 AM",
+				},
+				[15] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 14,
+					[4] = 0,
+					[5] = 0,
+					[6] = 177.1081079041421,
+					[7] = "6:18 AM",
+				},
+				[16] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 176.8581078929663,
+					[7] = "6:18 AM",
+				},
+				[17] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 32,
+					[4] = 1,
+					[5] = 0,
+					[6] = 176.4831078762025,
+					[7] = "6:18 AM",
+				},
+				[18] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 14,
+					[4] = 0,
+					[5] = 0,
+					[6] = 176.3581078706145,
+					[7] = "6:18 AM",
+				},
+				[19] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 170.4831076098442,
+					[7] = "6:18 AM",
+				},
+				[20] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 168.3581075148493,
+					[7] = "6:18 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60871,16 +64520,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1449] = {
+		[982] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 26,
+					[1] = 982,
+					[2] = 277,
+					[3] = 401,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:43 PM",
+					[5] = 1,
+					[6] = 1907.388185182756,
+					[7] = "6:15 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -60888,16 +64537,34 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1311] = {
+		[617] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 144,
+					[1] = 168,
+					[2] = 3,
+					[3] = 17,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.857185522265,
-					[7] = "0:06 AM",
+					[6] = 326.1571145580917,
+					[7] = "7:22 AM",
+				},
+				[2] = {
+					[1] = 168,
+					[2] = 3,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 325.9071145469159,
+					[7] = "7:22 AM",
+				},
+				[3] = {
+					[1] = 168,
+					[2] = 3,
+					[3] = 3,
+					[4] = 0,
+					[5] = 0,
+					[6] = 325.7821145413279,
+					[7] = "7:22 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61008,16 +64675,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1446] = {
+		[1362] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 367,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:42 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:05 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 332,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:02 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61042,25 +64718,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1442] = {
+		[1312] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:42 PM",
-				},
-				[2] = {
-					[1] = 8,
 					[2] = 16,
-					[3] = 438,
+					[3] = 175,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:42 PM",
+					[6] = 1914.857185522265,
+					[7] = "0:06 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61085,16 +64752,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1091] = {
+		[1257] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 195,
+					[1] = 1257,
+					[2] = 249,
+					[3] = 1001,
 					[4] = 0,
-					[5] = 0,
+					[5] = 1,
 					[6] = 1914.982185527853,
-					[7] = "2:03 PM",
+					[7] = "0:09 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61119,16 +64786,115 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1439] = {
+		[657] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 215,
+					[1] = 657,
+					[2] = 29,
+					[3] = 8,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1456.576165065339,
+					[7] = "8:49 AM",
+				},
+				[2] = {
+					[1] = 657,
+					[2] = 29,
+					[3] = 8,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1456.576165065339,
+					[7] = "8:49 AM",
+				},
+				[3] = {
+					[1] = 657,
+					[2] = 29,
+					[3] = 8,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1456.576165065339,
+					[7] = "8:49 AM",
+				},
+				[4] = {
+					[1] = 657,
+					[2] = 29,
+					[3] = 8,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1456.576165065339,
+					[7] = "8:49 AM",
+				},
+				[5] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1917.670185648076,
-					[7] = "8:41 PM",
+					[6] = 1456.076165042988,
+					[7] = "8:49 AM",
+				},
+				[6] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 11,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1455.9511650374,
+					[7] = "8:49 AM",
+				},
+				[7] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 9,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1455.701165026224,
+					[7] = "8:49 AM",
+				},
+				[8] = {
+					[1] = 657,
+					[2] = 27,
+					[3] = 92,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1455.076164998284,
+					[7] = "8:49 AM",
+				},
+				[9] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1453.701164936817,
+					[7] = "8:49 AM",
+				},
+				[10] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 9,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1451.70116484741,
+					[7] = "8:49 AM",
+				},
+				[11] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 9,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1447.576164663008,
+					[7] = "8:48 AM",
+				},
+				[12] = {
+					[1] = 239,
+					[2] = 3,
+					[3] = 11,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1445.560164572841,
+					[7] = "8:48 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61136,16 +64902,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[936] = {
+		[1166] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 175,
+					[3] = 77,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.138185126877,
-					[7] = "5:54 AM",
+					[6] = 1909.045185255057,
+					[7] = "0:34 AM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:34 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61170,79 +64945,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1429] = {
+		[290] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 229,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:51 PM",
-				},
-				[2] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 18,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1917.295185631312,
-					[7] = "8:41 PM",
-				},
-				[3] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1917.029185619376,
-					[7] = "8:41 PM",
-				},
-				[4] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 14,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1916.7791856082,
-					[7] = "8:41 PM",
-				},
-				[5] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1916.404185591436,
-					[7] = "8:41 PM",
-				},
-				[6] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 15,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1916.013185573913,
-					[7] = "8:41 PM",
-				},
-				[7] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 16,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1915.763185562737,
-					[7] = "8:41 PM",
-				},
-				[8] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 30,
-					[4] = 1,
-					[5] = 0,
-					[6] = 1915.357185544617,
-					[7] = "8:41 PM",
+					[6] = 1908.013185210696,
+					[7] = "10:52 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61318,16 +65030,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[704] = {
+		[1352] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 90,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:29 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:01 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61498,16 +65210,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[960] = {
+		[485] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 329,
+					[3] = 984,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.513185143641,
-					[7] = "6:06 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:50 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61715,25 +65427,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1380] = {
+		[1301] = {
 			[1] = {
 				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 1549,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.857185522265,
+					[7] = "0:04 AM",
+				},
+				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:05 PM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 756,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:05 PM",
+					[6] = 1914.857185522265,
+					[7] = "0:04 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61741,16 +65453,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[914] = {
+		[733] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 525,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1905.513185098937,
-					[7] = "5:48 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:55 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 347,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "0:54 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61775,16 +65496,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[290] = {
+		[1159] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 229,
+					[3] = 550,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.013185210696,
-					[7] = "10:52 AM",
+					[6] = 1908.138185216284,
+					[7] = "0:32 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -61835,25 +65556,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1416] = {
+		[964] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 118,
+					[1] = 607,
+					[2] = 3,
+					[3] = 5,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "3:47 PM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "3:47 PM",
+					[6] = 1907.013185165993,
+					[7] = "6:15 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62068,25 +65780,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[78] = {
+		[1483] = {
 			[1] = {
 				[1] = {
-					[1] = 78,
-					[2] = 27,
-					[3] = 642,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:10 AM",
-				},
-				[2] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 626,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "0:09 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:49 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62179,33 +65882,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[709] = {
+		[1200] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 47,
+					[3] = 294,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:29 PM",
+					[6] = 1914.982185527853,
+					[7] = "2:01 PM",
 				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1254] = {
-			[1] = {
-				[1] = {
+				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "4:51 PM",
+					[6] = 1910.685185341335,
+					[7] = "0:43 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62213,16 +65908,33 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1406] = {
+		[1157] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 187,
+					[3] = 353,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "3:41 PM",
+					[6] = 1908.138185216284,
+					[7] = "0:32 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1439] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 215,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1917.670185648076,
+					[7] = "8:41 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62484,52 +66196,79 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[715] = {
+		[1429] = {
 			[1] = {
 				[1] = {
-					[1] = 715,
-					[2] = 252,
-					[3] = 189,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1902.763184979728,
-					[7] = "3:31 PM",
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:51 PM",
 				},
 				[2] = {
-					[1] = 715,
-					[2] = 252,
-					[3] = 201,
+					[1] = 607,
+					[2] = 3,
+					[3] = 18,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1902.763184979728,
-					[7] = "3:31 PM",
+					[5] = 0,
+					[6] = 1917.295185631312,
+					[7] = "8:41 PM",
 				},
 				[3] = {
-					[1] = 715,
-					[2] = 252,
-					[3] = 207,
+					[1] = 607,
+					[2] = 3,
+					[3] = 17,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1902.763184979728,
-					[7] = "3:31 PM",
+					[5] = 0,
+					[6] = 1917.029185619376,
+					[7] = "8:41 PM",
 				},
 				[4] = {
-					[1] = 715,
-					[2] = 252,
-					[3] = 189,
+					[1] = 607,
+					[2] = 3,
+					[3] = 14,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1902.763184979728,
-					[7] = "3:31 PM",
+					[5] = 0,
+					[6] = 1916.7791856082,
+					[7] = "8:41 PM",
 				},
 				[5] = {
-					[1] = 715,
-					[2] = 252,
-					[3] = 200,
+					[1] = 607,
+					[2] = 3,
+					[3] = 17,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1902.763184979728,
-					[7] = "3:31 PM",
+					[5] = 0,
+					[6] = 1916.404185591436,
+					[7] = "8:41 PM",
+				},
+				[6] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 15,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1916.013185573913,
+					[7] = "8:41 PM",
+				},
+				[7] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 16,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1915.763185562737,
+					[7] = "8:41 PM",
+				},
+				[8] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 30,
+					[4] = 1,
+					[5] = 0,
+					[6] = 1915.357185544617,
+					[7] = "8:41 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62598,25 +66337,61 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1252] = {
+		[741] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 275,
+					[1] = 741,
+					[2] = 116,
+					[3] = 49,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "4:51 PM",
+					[5] = 1,
+					[6] = 1902.763184979728,
+					[7] = "0:56 AM",
 				},
 				[2] = {
+					[1] = 741,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1902.763184979728,
+					[7] = "0:56 AM",
+				},
+				[3] = {
+					[1] = 741,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1902.763184979728,
+					[7] = "0:56 AM",
+				},
+				[4] = {
+					[1] = 741,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1902.763184979728,
+					[7] = "0:56 AM",
+				},
+				[5] = {
+					[1] = 741,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1902.763184979728,
+					[7] = "0:56 AM",
+				},
+				[6] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 366,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "4:51 PM",
+					[6] = 1902.763184979728,
+					[7] = "0:56 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62641,16 +66416,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[271] = {
+		[1038] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 537,
+					[3] = 35,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "3:38 PM",
+					[6] = 1908.013185210696,
+					[7] = "8:37 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62658,16 +66433,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1384] = {
+		[1442] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 233,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:06 PM",
+					[6] = 1918.170185670427,
+					[7] = "8:42 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 438,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:42 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62692,7 +66476,7 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[717] = {
+		[1433] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -62700,8 +66484,26 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:31 PM",
+					[6] = 1918.170185670427,
+					[7] = "8:47 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:47 PM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:47 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62891,16 +66693,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1307] = {
+		[1304] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 102,
+					[3] = 457,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1914.857185522265,
-					[7] = "0:05 AM",
+					[7] = "0:04 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62908,25 +66710,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[938] = {
+		[1479] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "6:57 PM",
-				},
-				[2] = {
-					[1] = 8,
 					[2] = 16,
-					[3] = 476,
+					[3] = 205,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.138185126877,
-					[7] = "5:55 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:49 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -62969,16 +66762,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1249] = {
+		[1185] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 34,
+					[3] = 241,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "4:51 PM",
+					[6] = 1909.045185255057,
+					[7] = "0:38 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -63003,16 +66796,458 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[848] = {
+		[1184] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 411,
+					[3] = 221,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:38 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1085] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 23,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.138185216284,
+					[7] = "5:19 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 181,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.138185216284,
+					[7] = "5:19 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[593] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 199,
+					[4] = 0,
+					[5] = 0,
+					[6] = 323.4531144408345,
+					[7] = "7:18 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[721] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 390,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:32 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:32 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[541] = {
+			[1] = {
+				[1] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 200.3121089434087,
+					[7] = "6:19 AM",
+				},
+				[2] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 200.0621089322329,
+					[7] = "6:19 AM",
+				},
+				[3] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 199.6871089154691,
+					[7] = "6:19 AM",
+				},
+				[4] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 199.3121088987053,
+					[7] = "6:19 AM",
+				},
+				[5] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 199.0621088875294,
+					[7] = "6:19 AM",
+				},
+				[6] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 22,
+					[4] = 0,
+					[5] = 0,
+					[6] = 192.9051086177886,
+					[7] = "6:18 AM",
+				},
+				[7] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 23,
+					[4] = 0,
+					[5] = 0,
+					[6] = 190.7961085291416,
+					[7] = "6:18 AM",
+				},
+				[8] = {
+					[1] = 543,
+					[2] = 3,
+					[3] = 20,
+					[4] = 0,
+					[5] = 0,
+					[6] = 188.7651084383786,
+					[7] = "6:18 AM",
+				},
+				[9] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 177.9831079432577,
+					[7] = "6:18 AM",
+				},
+				[10] = {
+					[1] = 541,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 97.73410436528027,
+					[7] = "6:16 AM",
+				},
+				[11] = {
+					[1] = 533,
+					[2] = 3,
+					[3] = 20,
+					[4] = 0,
+					[5] = 0,
+					[6] = 95.96910428645313,
+					[7] = "6:16 AM",
+				},
+				[12] = {
+					[1] = 535,
+					[2] = 3,
+					[3] = 25,
+					[4] = 0,
+					[5] = 0,
+					[6] = 88.26610394397974,
+					[7] = "6:16 AM",
+				},
+				[13] = {
+					[1] = 345,
+					[2] = 3,
+					[3] = 25,
+					[4] = 0,
+					[5] = 0,
+					[6] = 53.609102398327,
+					[7] = "6:15 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[977] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 84,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1906.888185160405,
+					[7] = "6:12 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1172] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 876,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:35 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[722] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 326,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "4:09 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:33 PM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 290,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:33 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[850] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1904.763185069135,
 					[7] = "0:39 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[978] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1906.888185160405,
+					[7] = "6:12 AM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 123,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1906.888185160405,
+					[7] = "6:12 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[595] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 81,
+					[4] = 0,
+					[5] = 0,
+					[6] = 323.4531144408345,
+					[7] = "7:16 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1221] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 109,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "8:34 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[851] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 295,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1904.763185069135,
+					[7] = "0:39 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1446] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 367,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:42 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[596] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 249,
+					[4] = 0,
+					[5] = 0,
+					[6] = 323.4531144408345,
+					[7] = "7:17 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[724] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 123,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:33 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[852] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 114,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1904.763185069135,
+					[7] = "0:39 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1448] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 199,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:42 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -63138,682 +67373,6 @@ DPSMateDeaths = {
 					[5] = 0,
 					[6] = 1905.513185098937,
 					[7] = "5:53 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[593] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 199,
-					[4] = 0,
-					[5] = 0,
-					[6] = 323.4531144408345,
-					[7] = "7:18 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[721] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 390,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:32 PM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:32 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[680] = {
-			[1] = {
-				[1] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.372184917501,
-					[7] = "9:29 AM",
-				},
-				[2] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.372184917501,
-					[7] = "9:29 AM",
-				},
-				[3] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.372184917501,
-					[7] = "9:29 AM",
-				},
-				[4] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.372184917501,
-					[7] = "9:29 AM",
-				},
-				[5] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.372184917501,
-					[7] = "9:29 AM",
-				},
-				[6] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.247184911913,
-					[7] = "9:29 AM",
-				},
-				[7] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1901.247184911913,
-					[7] = "9:29 AM",
-				},
-				[8] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.872184895149,
-					[7] = "9:29 AM",
-				},
-				[9] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.872184895149,
-					[7] = "9:29 AM",
-				},
-				[10] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.747184889561,
-					[7] = "9:29 AM",
-				},
-				[11] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.747184889561,
-					[7] = "9:29 AM",
-				},
-				[12] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.481184877625,
-					[7] = "9:29 AM",
-				},
-				[13] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.356184872037,
-					[7] = "9:29 AM",
-				},
-				[14] = {
-					[1] = 680,
-					[2] = 48,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.356184872037,
-					[7] = "9:28 AM",
-				},
-				[15] = {
-					[1] = 680,
-					[2] = 49,
-					[3] = 91,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1900.168184867299,
-					[7] = "9:28 AM",
-				},
-				[16] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1898.997184815055,
-					[7] = "9:28 AM",
-				},
-				[17] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1898.872184809467,
-					[7] = "9:28 AM",
-				},
-				[18] = {
-					[1] = 678,
-					[2] = 25,
-					[3] = 4,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1898.872184809467,
-					[7] = "9:28 AM",
-				},
-				[19] = {
-					[1] = 680,
-					[2] = 29,
-					[3] = 14,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1898.607184797696,
-					[7] = "9:28 AM",
-				},
-				[20] = {
-					[1] = 678,
-					[2] = 25,
-					[3] = 4,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1898.607184797696,
-					[7] = "9:28 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[977] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 84,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1906.888185160405,
-					[7] = "6:12 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1357] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:02 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[722] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 326,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "4:09 PM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:33 PM",
-				},
-				[3] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 290,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:33 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[850] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1904.763185069135,
-					[7] = "0:39 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[978] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1906.888185160405,
-					[7] = "6:12 AM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 123,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1906.888185160405,
-					[7] = "6:12 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[595] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 81,
-					[4] = 0,
-					[5] = 0,
-					[6] = 323.4531144408345,
-					[7] = "7:16 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[624] = {
-			[1] = {
-				[1] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 15,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.7991193162113,
-					[7] = "7:29 AM",
-				},
-				[2] = {
-					[1] = 135,
-					[2] = 3,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.6741193106234,
-					[7] = "7:29 AM",
-				},
-				[3] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.5331193042755,
-					[7] = "7:29 AM",
-				},
-				[4] = {
-					[1] = 135,
-					[2] = 3,
-					[3] = 12,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.4081192986876,
-					[7] = "7:29 AM",
-				},
-				[5] = {
-					[1] = 137,
-					[2] = 10,
-					[3] = 40,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.4081192986876,
-					[7] = "7:29 AM",
-				},
-				[6] = {
-					[1] = 135,
-					[2] = 3,
-					[3] = 12,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.2831192930996,
-					[7] = "7:29 AM",
-				},
-				[7] = {
-					[1] = 137,
-					[2] = 10,
-					[3] = 36,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.2831192930996,
-					[7] = "7:29 AM",
-				},
-				[8] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 19,
-					[4] = 0,
-					[5] = 0,
-					[6] = 432.0331192819238,
-					[7] = "7:29 AM",
-				},
-				[9] = {
-					[1] = 137,
-					[2] = 92,
-					[3] = 29,
-					[4] = 0,
-					[5] = 0,
-					[6] = 431.9081192763358,
-					[7] = "7:29 AM",
-				},
-				[10] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 15,
-					[4] = 0,
-					[5] = 0,
-					[6] = 431.7831192707479,
-					[7] = "7:29 AM",
-				},
-				[11] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 431.6581192651599,
-					[7] = "7:29 AM",
-				},
-				[12] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 18,
-					[4] = 0,
-					[5] = 0,
-					[6] = 431.4081192539841,
-					[7] = "7:29 AM",
-				},
-				[13] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 431.1581192428082,
-					[7] = "7:29 AM",
-				},
-				[14] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 19,
-					[4] = 0,
-					[5] = 0,
-					[6] = 430.9081192316323,
-					[7] = "7:29 AM",
-				},
-				[15] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 16,
-					[4] = 0,
-					[5] = 0,
-					[6] = 430.6581192204565,
-					[7] = "7:29 AM",
-				},
-				[16] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 19,
-					[4] = 0,
-					[5] = 0,
-					[6] = 430.3931192086845,
-					[7] = "7:29 AM",
-				},
-				[17] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 30,
-					[4] = 1,
-					[5] = 0,
-					[6] = 430.2681192030966,
-					[7] = "7:29 AM",
-				},
-				["i"] = {
-					[1] = 1,
-					[2] = "7:29 AM",
-				},
-			},
-		},
-		[851] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 295,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1904.763185069135,
-					[7] = "0:39 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[979] = {
-			[1] = {
-				[1] = {
-					[1] = 979,
-					[2] = 116,
-					[3] = 21,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1906.888185160405,
-					[7] = "6:13 AM",
-				},
-				[2] = {
-					[1] = 979,
-					[2] = 116,
-					[3] = 21,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1906.888185160405,
-					[7] = "6:13 AM",
-				},
-				[3] = {
-					[1] = 979,
-					[2] = 116,
-					[3] = 21,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1906.888185160405,
-					[7] = "6:13 AM",
-				},
-				[4] = {
-					[1] = 979,
-					[2] = 116,
-					[3] = 21,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1906.888185160405,
-					[7] = "6:13 AM",
-				},
-				[5] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 142,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1906.888185160405,
-					[7] = "6:13 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[596] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 249,
-					[4] = 0,
-					[5] = 0,
-					[6] = 323.4531144408345,
-					[7] = "7:17 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[724] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 123,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:33 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[852] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 114,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1904.763185069135,
-					[7] = "0:39 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1448] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 199,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1918.170185670427,
-					[7] = "8:42 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1345] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 1347,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -63961,34 +67520,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1245] = {
+		[1220] = {
 			[1] = {
 				[1] = {
-					[1] = 1245,
-					[2] = 29,
-					[3] = 29,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1911.576185375623,
-					[7] = "6:59 PM",
-				},
-				[2] = {
-					[1] = 1245,
-					[2] = 29,
-					[3] = 29,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1911.576185375623,
-					[7] = "6:59 PM",
-				},
-				[3] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 354,
+					[3] = 25,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1911.576185375623,
-					[7] = "6:59 PM",
+					[7] = "8:34 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64013,16 +67554,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[982] = {
+		[1452] = {
 			[1] = {
 				[1] = {
-					[1] = 982,
-					[2] = 277,
-					[3] = 401,
+					[1] = 8,
+					[2] = 16,
+					[3] = 127,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1907.388185182756,
-					[7] = "6:15 AM",
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:43 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64047,16 +67588,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[727] = {
+		[1453] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 186,
+					[3] = 78,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "3:34 PM",
+					[6] = 1918.170185670427,
+					[7] = "8:43 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64064,16 +67605,106 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[512] = {
+		[628] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 107,
+					[1] = 628,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 477.0181212911218,
+					[7] = "7:36 AM",
+				},
+				[2] = {
+					[1] = 630,
+					[2] = 3,
+					[3] = 19,
 					[4] = 0,
 					[5] = 0,
-					[6] = 326.2821145636797,
-					[7] = "7:23 AM",
+					[6] = 476.8931212855339,
+					[7] = "7:36 AM",
+				},
+				[3] = {
+					[1] = 628,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 476.0181212464183,
+					[7] = "7:36 AM",
+				},
+				[4] = {
+					[1] = 628,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 475.0181212017149,
+					[7] = "7:36 AM",
+				},
+				[5] = {
+					[1] = 630,
+					[2] = 3,
+					[3] = 21,
+					[4] = 0,
+					[5] = 0,
+					[6] = 474.8931211961269,
+					[7] = "7:36 AM",
+				},
+				[6] = {
+					[1] = 628,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 474.0181211570114,
+					[7] = "7:36 AM",
+				},
+				[7] = {
+					[1] = 628,
+					[2] = 62,
+					[3] = 10,
+					[4] = 0,
+					[5] = 1,
+					[6] = 473.0031211117118,
+					[7] = "7:36 AM",
+				},
+				[8] = {
+					[1] = 630,
+					[2] = 3,
+					[3] = 18,
+					[4] = 0,
+					[5] = 0,
+					[6] = 472.753121100536,
+					[7] = "7:36 AM",
+				},
+				[9] = {
+					[1] = 630,
+					[2] = 3,
+					[3] = 24,
+					[4] = 0,
+					[5] = 0,
+					[6] = 468.753120921722,
+					[7] = "7:36 AM",
+				},
+				[10] = {
+					[1] = 630,
+					[2] = 3,
+					[3] = 22,
+					[4] = 0,
+					[5] = 0,
+					[6] = 464.878120748496,
+					[7] = "7:36 AM",
+				},
+				[11] = {
+					[1] = 630,
+					[2] = 3,
+					[3] = 19,
+					[4] = 0,
+					[5] = 0,
+					[6] = 462.8781206590891,
+					[7] = "7:36 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64098,16 +67729,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1312] = {
+		[1128] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 175,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.857185522265,
-					[7] = "0:06 AM",
+					[6] = 1908.138185216284,
+					[7] = "6:32 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64115,16 +67746,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1257] = {
+		[1174] = {
 			[1] = {
 				[1] = {
-					[1] = 1257,
-					[2] = 249,
-					[3] = 1001,
+					[1] = 8,
+					[2] = 16,
+					[3] = 28,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "0:09 AM",
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:37 AM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 229,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:35 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64166,132 +67806,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[657] = {
-			[1] = {
-				[1] = {
-					[1] = 657,
-					[2] = 29,
-					[3] = 8,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1456.576165065339,
-					[7] = "8:49 AM",
-				},
-				[2] = {
-					[1] = 657,
-					[2] = 29,
-					[3] = 8,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1456.576165065339,
-					[7] = "8:49 AM",
-				},
-				[3] = {
-					[1] = 657,
-					[2] = 29,
-					[3] = 8,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1456.576165065339,
-					[7] = "8:49 AM",
-				},
-				[4] = {
-					[1] = 657,
-					[2] = 29,
-					[3] = 8,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1456.576165065339,
-					[7] = "8:49 AM",
-				},
-				[5] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1456.076165042988,
-					[7] = "8:49 AM",
-				},
-				[6] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 11,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1455.9511650374,
-					[7] = "8:49 AM",
-				},
-				[7] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 9,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1455.701165026224,
-					[7] = "8:49 AM",
-				},
-				[8] = {
-					[1] = 657,
-					[2] = 27,
-					[3] = 92,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1455.076164998284,
-					[7] = "8:49 AM",
-				},
-				[9] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1453.701164936817,
-					[7] = "8:49 AM",
-				},
-				[10] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 9,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1451.70116484741,
-					[7] = "8:49 AM",
-				},
-				[11] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 9,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1447.576164663008,
-					[7] = "8:48 AM",
-				},
-				[12] = {
-					[1] = 239,
-					[2] = 3,
-					[3] = 11,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1445.560164572841,
-					[7] = "8:48 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1304] = {
+		[727] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 457,
+					[3] = 186,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.857185522265,
-					[7] = "0:04 AM",
+					[6] = 1902.763184979728,
+					[7] = "3:34 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64299,16 +67823,51 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[857] = {
+		[1179] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 25,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1904.763185069135,
-					[7] = "0:43 AM",
+					[6] = 1909.045185255057,
+					[7] = "0:36 AM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 17,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:36 AM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 52,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1909.045185255057,
+					[7] = "0:36 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1202] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 122,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1910.685185341335,
+					[7] = "7:49 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64367,16 +67926,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[896] = {
+		[732] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 432,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1904.763185069135,
-					[7] = "5:46 AM",
+					[6] = 1911.576185375623,
+					[7] = "4:50 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64435,7 +67994,7 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[318] = {
+		[1098] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -64443,8 +68002,17 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:38 AM",
+					[6] = 1908.138185216284,
+					[7] = "6:29 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 152,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.138185216284,
+					[7] = "6:29 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64478,25 +68046,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1301] = {
+		[990] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 1549,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.857185522265,
-					[7] = "0:04 AM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.857185522265,
-					[7] = "0:04 AM",
+					[6] = 1907.388185182756,
+					[7] = "9:37 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64504,16 +68063,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[732] = {
+		[91] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 432,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "4:50 PM",
+					[6] = 1907.76318519952,
+					[7] = "9:45 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64644,16 +68203,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[733] = {
+		[1465] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 347,
+					[3] = 95,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1902.763184979728,
-					[7] = "0:54 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:47 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64661,25 +68220,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1200] = {
+		[896] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 294,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:01 PM",
-				},
-				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1910.685185341335,
-					[7] = "0:43 AM",
+					[6] = 1904.763185069135,
+					[7] = "5:46 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64687,106 +68237,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[628] = {
+		[1467] = {
 			[1] = {
 				[1] = {
-					[1] = 628,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 477.0181212911218,
-					[7] = "7:36 AM",
-				},
-				[2] = {
-					[1] = 630,
-					[2] = 3,
-					[3] = 19,
+					[1] = 8,
+					[2] = 16,
+					[3] = 1374,
 					[4] = 0,
 					[5] = 0,
-					[6] = 476.8931212855339,
-					[7] = "7:36 AM",
-				},
-				[3] = {
-					[1] = 628,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 476.0181212464183,
-					[7] = "7:36 AM",
-				},
-				[4] = {
-					[1] = 628,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 475.0181212017149,
-					[7] = "7:36 AM",
-				},
-				[5] = {
-					[1] = 630,
-					[2] = 3,
-					[3] = 21,
-					[4] = 0,
-					[5] = 0,
-					[6] = 474.8931211961269,
-					[7] = "7:36 AM",
-				},
-				[6] = {
-					[1] = 628,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 474.0181211570114,
-					[7] = "7:36 AM",
-				},
-				[7] = {
-					[1] = 628,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 473.0031211117118,
-					[7] = "7:36 AM",
-				},
-				[8] = {
-					[1] = 630,
-					[2] = 3,
-					[3] = 18,
-					[4] = 0,
-					[5] = 0,
-					[6] = 472.753121100536,
-					[7] = "7:36 AM",
-				},
-				[9] = {
-					[1] = 630,
-					[2] = 3,
-					[3] = 24,
-					[4] = 0,
-					[5] = 0,
-					[6] = 468.753120921722,
-					[7] = "7:36 AM",
-				},
-				[10] = {
-					[1] = 630,
-					[2] = 3,
-					[3] = 22,
-					[4] = 0,
-					[5] = 0,
-					[6] = 464.878120748496,
-					[7] = "7:36 AM",
-				},
-				[11] = {
-					[1] = 630,
-					[2] = 3,
-					[3] = 19,
-					[4] = 0,
-					[5] = 0,
-					[6] = 462.8781206590891,
-					[7] = "7:36 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:47 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64794,21 +68254,12 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1174] = {
+		[1173] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 28,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:37 AM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 229,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1909.045185255057,
@@ -64837,16 +68288,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1181] = {
+		[1468] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 235,
+					[3] = 88,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:37 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:49 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -64854,33 +68305,33 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[990] = {
+		[495] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
+					[3] = 520,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "6:58 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1371] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1907.388185182756,
-					[7] = "9:37 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1185] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 241,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:38 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:05 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65026,25 +68477,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1085] = {
+		[1181] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 23,
+					[3] = 235,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "5:19 PM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 181,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "5:19 PM",
+					[6] = 1909.045185255057,
+					[7] = "0:37 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65069,124 +68511,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[541] = {
+		[848] = {
 			[1] = {
 				[1] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 200.3121089434087,
-					[7] = "6:19 AM",
-				},
-				[2] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 200.0621089322329,
-					[7] = "6:19 AM",
-				},
-				[3] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 199.6871089154691,
-					[7] = "6:19 AM",
-				},
-				[4] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 199.3121088987053,
-					[7] = "6:19 AM",
-				},
-				[5] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 199.0621088875294,
-					[7] = "6:19 AM",
-				},
-				[6] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 22,
+					[1] = 8,
+					[2] = 16,
+					[3] = 411,
 					[4] = 0,
 					[5] = 0,
-					[6] = 192.9051086177886,
-					[7] = "6:18 AM",
-				},
-				[7] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 23,
-					[4] = 0,
-					[5] = 0,
-					[6] = 190.7961085291416,
-					[7] = "6:18 AM",
-				},
-				[8] = {
-					[1] = 543,
-					[2] = 3,
-					[3] = 20,
-					[4] = 0,
-					[5] = 0,
-					[6] = 188.7651084383786,
-					[7] = "6:18 AM",
-				},
-				[9] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 177.9831079432577,
-					[7] = "6:18 AM",
-				},
-				[10] = {
-					[1] = 541,
-					[2] = 62,
-					[3] = 10,
-					[4] = 0,
-					[5] = 1,
-					[6] = 97.73410436528027,
-					[7] = "6:16 AM",
-				},
-				[11] = {
-					[1] = 533,
-					[2] = 3,
-					[3] = 20,
-					[4] = 0,
-					[5] = 0,
-					[6] = 95.96910428645313,
-					[7] = "6:16 AM",
-				},
-				[12] = {
-					[1] = 535,
-					[2] = 3,
-					[3] = 25,
-					[4] = 0,
-					[5] = 0,
-					[6] = 88.26610394397974,
-					[7] = "6:16 AM",
-				},
-				[13] = {
-					[1] = 345,
-					[2] = 3,
-					[3] = 25,
-					[4] = 0,
-					[5] = 0,
-					[6] = 53.609102398327,
-					[7] = "6:15 AM",
+					[6] = 1904.763185069135,
+					[7] = "0:39 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65194,34 +68528,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1179] = {
+		[1460] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 25,
+					[3] = 724,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:36 AM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:36 AM",
-				},
-				[3] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 52,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:36 AM",
+					[6] = 1918.170185670427,
+					[7] = "8:45 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65255,34 +68571,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[617] = {
+		[857] = {
 			[1] = {
 				[1] = {
-					[1] = 168,
-					[2] = 3,
-					[3] = 17,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 326.1571145580917,
-					[7] = "7:22 AM",
-				},
-				[2] = {
-					[1] = 168,
-					[2] = 3,
-					[3] = 17,
-					[4] = 0,
-					[5] = 0,
-					[6] = 325.9071145469159,
-					[7] = "7:22 AM",
-				},
-				[3] = {
-					[1] = 168,
-					[2] = 3,
-					[3] = 3,
-					[4] = 0,
-					[5] = 0,
-					[6] = 325.7821145413279,
-					[7] = "7:22 AM",
+					[6] = 1904.763185069135,
+					[7] = "0:43 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65359,16 +68657,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1221] = {
+		[611] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 109,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:34 AM",
+					[6] = 1914.857185522265,
+					[7] = "9:10 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65393,59 +68691,50 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1098] = {
+		[1171] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:29 PM",
-				},
-				[2] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 152,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:29 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1371] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:05 PM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1173] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[3] = 282,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1909.045185255057,
 					[7] = "0:35 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[318] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "8:38 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1449] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 26,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:43 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65626,16 +68915,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1128] = {
+		[512] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 107,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:32 PM",
+					[6] = 326.2821145636797,
+					[7] = "7:23 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65660,16 +68949,79 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1172] = {
+		[1341] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 876,
+					[1] = 1134,
+					[2] = 48,
+					[3] = 59,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:35 AM",
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[2] = {
+					[1] = 1134,
+					[2] = 49,
+					[3] = 315,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[3] = {
+					[1] = 1134,
+					[2] = 48,
+					[3] = 59,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[4] = {
+					[1] = 1134,
+					[2] = 48,
+					[3] = 59,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[5] = {
+					[1] = 1134,
+					[2] = 48,
+					[3] = 59,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[6] = {
+					[1] = 1134,
+					[2] = 48,
+					[3] = 59,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[7] = {
+					[1] = 1134,
+					[2] = 48,
+					[3] = 59,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
+				},
+				[8] = {
+					[1] = 1134,
+					[2] = 49,
+					[3] = 302,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "2:00 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65677,16 +69029,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1171] = {
+		[709] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 282,
+					[3] = 47,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:35 AM",
+					[6] = 1902.763184979728,
+					[7] = "3:29 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65834,7 +69186,50 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[611] = {
+		[1045] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 298,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.013185210696,
+					[7] = "8:47 AM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1416] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 118,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "3:47 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "3:47 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1357] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
@@ -65842,42 +69237,8 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.857185522265,
-					[7] = "9:10 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1038] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 35,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1908.013185210696,
-					[7] = "8:37 AM",
-				},
-				["i"] = {
-					[1] = 0,
-					[2] = "",
-				},
-			},
-		},
-		[1157] = {
-			[1] = {
-				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 353,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "0:32 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:02 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -65937,79 +69298,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1341] = {
+		[934] = {
 			[1] = {
 				[1] = {
-					[1] = 1134,
-					[2] = 48,
-					[3] = 59,
+					[1] = 8,
+					[2] = 16,
+					[3] = 312,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[2] = {
-					[1] = 1134,
-					[2] = 49,
-					[3] = 315,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[3] = {
-					[1] = 1134,
-					[2] = 48,
-					[3] = 59,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[4] = {
-					[1] = 1134,
-					[2] = 48,
-					[3] = 59,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[5] = {
-					[1] = 1134,
-					[2] = 48,
-					[3] = 59,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[6] = {
-					[1] = 1134,
-					[2] = 48,
-					[3] = 59,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[7] = {
-					[1] = 1134,
-					[2] = 48,
-					[3] = 59,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
-				},
-				[8] = {
-					[1] = 1134,
-					[2] = 49,
-					[3] = 302,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
+					[5] = 0,
+					[6] = 1906.013185121289,
+					[7] = "5:54 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66051,16 +69349,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1202] = {
+		[1354] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 122,
+					[3] = 36,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1910.685185341335,
-					[7] = "7:49 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:01 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 691,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:01 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66068,16 +69375,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1352] = {
+		[904] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 423,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:01 PM",
+					[6] = 1906.513185143641,
+					[7] = "6:01 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66162,25 +69469,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1362] = {
+		[780] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:05 PM",
-				},
-				[2] = {
-					[1] = 8,
 					[2] = 16,
-					[3] = 332,
+					[3] = 213,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:02 PM",
+					[6] = 1902.763184979728,
+					[7] = "4:09 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66294,16 +69592,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[91] = {
+		[1355] = {
 			[1] = {
 				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 242,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1914.982185527853,
+					[7] = "2:02 PM",
+				},
+				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1907.76318519952,
-					[7] = "9:45 AM",
+					[6] = 1914.982185527853,
+					[7] = "2:02 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66311,16 +69618,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[904] = {
+		[1131] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 423,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.513185143641,
-					[7] = "6:01 AM",
+					[6] = 1908.138185216284,
+					[7] = "6:33 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1908.138185216284,
+					[7] = "6:32 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66408,16 +69724,52 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1184] = {
+		[1316] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 221,
+					[1] = 1299,
+					[2] = 116,
+					[3] = 49,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1909.045185255057,
-					[7] = "0:38 AM",
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "0:07 AM",
+				},
+				[2] = {
+					[1] = 1299,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "0:07 AM",
+				},
+				[3] = {
+					[1] = 1299,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "0:07 AM",
+				},
+				[4] = {
+					[1] = 1299,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "0:07 AM",
+				},
+				[5] = {
+					[1] = 1299,
+					[2] = 116,
+					[3] = 49,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1914.982185527853,
+					[7] = "0:07 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66425,34 +69777,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[636] = {
+		[1094] = {
 			[1] = {
 				[1] = {
-					[1] = 135,
-					[2] = 31,
-					[3] = 17,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1021.503145650199,
-					[7] = "7:58 AM",
-				},
-				[2] = {
-					[1] = 135,
-					[2] = 31,
-					[3] = 4,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1018.128145499325,
-					[7] = "7:58 AM",
-				},
-				[3] = {
-					[1] = 126,
-					[2] = 3,
-					[3] = 15,
-					[4] = 0,
-					[5] = 0,
-					[6] = 926.3461413813591,
-					[7] = "7:55 AM",
+					[6] = 1908.138185216284,
+					[7] = "6:29 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66486,16 +69820,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1005] = {
+		[1498] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 94,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:38 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:54 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66503,16 +69837,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1366] = {
+		[758] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 779,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:03 PM",
+					[6] = 1902.763184979728,
+					[7] = "0:59 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66537,42 +69871,76 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1355] = {
+		[5] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 242,
+					[3] = 209,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:02 PM",
+					[6] = 1918.935185704551,
+					[7] = "5:01 PM",
 				},
 				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 29,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:55 PM",
+				},
+				[3] = {
+					[1] = 607,
+					[2] = 3,
+					[3] = 6,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:51 PM",
+				},
+				[4] = {
+					[1] = 5,
+					[2] = 13,
+					[3] = 8,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:49 PM",
+				},
+				[5] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.170185670427,
+					[7] = "8:46 PM",
+				},
+				[6] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
 					[6] = 1914.982185527853,
-					[7] = "2:02 PM",
+					[7] = "2:00 PM",
 				},
 				["i"] = {
 					[1] = 0,
 					[2] = "",
 				},
 			},
-		},
-		[1131] = {
-			[1] = {
+			[2] = {
 				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 607,
+					[2] = 3,
+					[3] = 6,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:33 PM",
+					[6] = 1906.638185149229,
+					[7] = "6:07 AM",
 				},
 				[2] = {
 					[1] = 8,
@@ -66580,8 +69948,70 @@ DPSMateDeaths = {
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1908.138185216284,
-					[7] = "6:32 PM",
+					[6] = 1906.513185143641,
+					[7] = "6:06 AM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 204,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "6:05 PM",
+				},
+				[4] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 201,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "4:08 PM",
+				},
+				[5] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 89,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1902.763184979728,
+					[7] = "3:32 PM",
+				},
+				[6] = {
+					[1] = 137,
+					[2] = 92,
+					[3] = 30,
+					[4] = 0,
+					[5] = 0,
+					[6] = 432.7991193162113,
+					[7] = "7:31 AM",
+				},
+				["i"] = {
+					[1] = 1,
+					[2] = "10:52 AM",
+				},
+			},
+		},
+		[1500] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:57 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:55 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66739,16 +70169,124 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1344] = {
+		[540] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 307,
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 21.87510096857548,
+					[7] = "6:13 AM",
+				},
+				[2] = {
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 21.87510096857548,
+					[7] = "6:13 AM",
+				},
+				[3] = {
+					[1] = 126,
+					[2] = 3,
+					[3] = 20,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:00 PM",
+					[6] = 21.87510096857548,
+					[7] = "6:13 AM",
+				},
+				[4] = {
+					[1] = 533,
+					[2] = 3,
+					[3] = 21,
+					[4] = 0,
+					[5] = 0,
+					[6] = 21.87510096857548,
+					[7] = "6:13 AM",
+				},
+				[5] = {
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 21.87510096857548,
+					[7] = "6:13 AM",
+				},
+				[6] = {
+					[1] = 126,
+					[2] = 3,
+					[3] = 7,
+					[4] = 0,
+					[5] = 0,
+					[6] = 21.87510096857548,
+					[7] = "6:13 AM",
+				},
+				[7] = {
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 19.5001008624047,
+					[7] = "6:13 AM",
+				},
+				[8] = {
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 16.48410072753429,
+					[7] = "6:13 AM",
+				},
+				[9] = {
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 12.67210055718422,
+					[7] = "6:13 AM",
+				},
+				[10] = {
+					[1] = 533,
+					[2] = 3,
+					[3] = 19,
+					[4] = 0,
+					[5] = 0,
+					[6] = 11.79710051806867,
+					[7] = "6:13 AM",
+				},
+				[11] = {
+					[1] = 533,
+					[2] = 3,
+					[3] = 40,
+					[4] = 1,
+					[5] = 0,
+					[6] = 11.79710051806867,
+					[7] = "6:13 AM",
+				},
+				[12] = {
+					[1] = 540,
+					[2] = 116,
+					[3] = 20,
+					[4] = 0,
+					[5] = 1,
+					[6] = 11.79710051806867,
+					[7] = "6:13 AM",
+				},
+				[13] = {
+					[1] = 533,
+					[2] = 3,
+					[3] = 6,
+					[4] = 0,
+					[5] = 0,
+					[6] = 11.79710051806867,
+					[7] = "6:13 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66782,34 +70320,61 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1348] = {
+		[1531] = {
 			[1] = {
 				[1] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 1531,
+					[2] = 116,
+					[3] = 9,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:03 PM",
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				[2] = {
-					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[1] = 1531,
+					[2] = 116,
+					[3] = 9,
 					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:01 PM",
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				[3] = {
+					[1] = 1531,
+					[2] = 116,
+					[3] = 9,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				[4] = {
+					[1] = 1531,
+					[2] = 116,
+					[3] = 9,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				[5] = {
+					[1] = 1531,
+					[2] = 116,
+					[3] = 9,
+					[4] = 0,
+					[5] = 1,
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
+				},
+				[6] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 2,
+					[3] = 159,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:01 PM",
+					[6] = 1918.935185704551,
+					[7] = "4:58 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66817,16 +70382,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1356] = {
+		[788] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 88,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:02 PM",
+					[6] = 1902.763184979728,
+					[7] = "4:11 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66834,25 +70399,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1354] = {
+		[949] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 36,
+					[3] = 139,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:01 PM",
-				},
-				[2] = {
-					[1] = 8,
-					[2] = 16,
-					[3] = 691,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:01 PM",
+					[6] = 1906.513185143641,
+					[7] = "5:59 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66922,16 +70478,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1390] = {
+		[1260] = {
 			[1] = {
 				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 670,
+					[4] = 0,
+					[5] = 0,
+					[6] = 1911.576185375623,
+					[7] = "8:39 AM",
+				},
+				[2] = {
 					[1] = 8,
 					[2] = 8,
 					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "3:41 PM",
+					[6] = 1911.576185375623,
+					[7] = "8:39 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -66939,16 +70504,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1374] = {
+		[1548] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 16,
-					[3] = 661,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:05 PM",
+					[6] = 1918.935185704551,
+					[7] = "5:00 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -67161,16 +70726,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1386] = {
+		[1023] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
 					[2] = 16,
-					[3] = 357,
+					[3] = 314,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1914.982185527853,
-					[7] = "2:06 PM",
+					[6] = 1908.013185210696,
+					[7] = "10:52 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -67238,16 +70803,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[964] = {
+		[956] = {
 			[1] = {
 				[1] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 5,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1907.013185165993,
-					[7] = "6:15 AM",
+					[6] = 1906.513185143641,
+					[7] = "6:03 AM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -67272,79 +70837,25 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[1011] = {
+		[1510] = {
 			[1] = {
 				[1] = {
-					[1] = 1011,
-					[2] = 116,
-					[3] = 35,
+					[1] = 8,
+					[2] = 16,
+					[3] = 342,
 					[4] = 0,
-					[5] = 1,
-					[6] = 1912.716185426511,
-					[7] = "8:41 AM",
+					[5] = 0,
+					[6] = 1918.935185704551,
+					[7] = "4:56 PM",
 				},
 				[2] = {
-					[1] = 1011,
-					[2] = 116,
-					[3] = 35,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1912.716185426511,
-					[7] = "8:41 AM",
-				},
-				[3] = {
-					[1] = 1011,
-					[2] = 116,
-					[3] = 35,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1912.716185426511,
-					[7] = "8:41 AM",
-				},
-				[4] = {
-					[1] = 1011,
-					[2] = 116,
-					[3] = 35,
-					[4] = 0,
-					[5] = 1,
-					[6] = 1912.716185426511,
-					[7] = "8:41 AM",
-				},
-				[5] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 13,
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1912.201185403563,
-					[7] = "8:41 AM",
-				},
-				[6] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 12,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1911.951185392387,
-					[7] = "8:41 AM",
-				},
-				[7] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 12,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1911.701185381211,
-					[7] = "8:41 AM",
-				},
-				[8] = {
-					[1] = 607,
-					[2] = 3,
-					[3] = 13,
-					[4] = 0,
-					[5] = 0,
-					[6] = 1911.576185375623,
-					[7] = "8:41 AM",
+					[6] = 1918.935185704551,
+					[7] = "4:56 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -67403,16 +70914,16 @@ DPSMateDeaths = {
 				},
 			},
 		},
-		[956] = {
+		[772] = {
 			[1] = {
 				[1] = {
 					[1] = 8,
-					[2] = 8,
-					[3] = 10,
+					[2] = 16,
+					[3] = 15,
 					[4] = 0,
 					[5] = 0,
-					[6] = 1906.513185143641,
-					[7] = "6:03 AM",
+					[6] = 1902.763184979728,
+					[7] = "4:08 PM",
 				},
 				["i"] = {
 					[1] = 0,
@@ -67422,6 +70933,300 @@ DPSMateDeaths = {
 		},
 	},
 	[2] = {
+		[1571] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:06 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1572] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 312,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:06 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1576] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 151,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:06 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1565] = {
+			[1] = {
+				[1] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 433,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:10 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 221,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				[3] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 433,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:08 PM",
+				},
+				[4] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 419,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:08 PM",
+				},
+				[5] = {
+					[1] = 1565,
+					[2] = 27,
+					[3] = 403,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:08 PM",
+				},
+				[6] = {
+					[1] = 1565,
+					[2] = 29,
+					[3] = 279,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:07 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1584] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 119,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1586] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 1613,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1525] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 1835,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1585] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1559] = {
+			[1] = {
+				[1] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2829,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:10 PM",
+				},
+				[2] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2755,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:06 PM",
+				},
+				[3] = {
+					[1] = 1559,
+					[2] = 278,
+					[3] = 2819,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:06 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1593] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 8,
+					[3] = 10,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:10 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 11,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:10 PM",
+				},
+				[3] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 123,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:10 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[950] = {
+			[1] = {
+				[1] = {
+					[1] = 950,
+					[2] = 277,
+					[3] = 800,
+					[4] = 0,
+					[5] = 1,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				[2] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 789,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:09 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
+		[1580] = {
+			[1] = {
+				[1] = {
+					[1] = 8,
+					[2] = 16,
+					[3] = 399,
+					[4] = 0,
+					[5] = 0,
+					[6] = 0.1251000055879354,
+					[7] = "5:08 PM",
+				},
+				["i"] = {
+					[1] = 0,
+					[2] = "",
+				},
+			},
+		},
 	},
 }
 DPSMateEHealing = {
@@ -67557,12 +71362,12 @@ DPSMateEHealing = {
 					[446] = 24,
 					[478] = 12,
 					[448] = 12,
-					[449] = 12,
+					[479] = 12,
 					[480] = 12,
 					[481] = 12,
 					[482] = 12,
 					[483] = 12,
-					[479] = 12,
+					[449] = 12,
 				},
 			},
 		},
@@ -67703,12 +71508,12 @@ DPSMateTHealing = {
 					[446] = 24,
 					[478] = 12,
 					[448] = 12,
-					[449] = 12,
+					[479] = 12,
 					[480] = 12,
 					[481] = 12,
 					[482] = 12,
 					[483] = 12,
-					[479] = 12,
+					[449] = 12,
 				},
 			},
 		},
@@ -67797,12 +71602,12 @@ DPSMateHealingTaken = {
 						[446] = 24,
 						[478] = 12,
 						[448] = 12,
-						[449] = 12,
+						[479] = 12,
 						[480] = 12,
 						[481] = 12,
 						[482] = 12,
 						[483] = 12,
-						[479] = 12,
+						[449] = 12,
 					},
 				},
 			},
@@ -67957,12 +71762,12 @@ DPSMateEHealingTaken = {
 						[446] = 24,
 						[478] = 12,
 						[448] = 12,
-						[449] = 12,
+						[479] = 12,
 						[480] = 12,
 						[481] = 12,
 						[482] = 12,
 						[483] = 12,
-						[479] = 12,
+						[449] = 12,
 					},
 				},
 			},
@@ -68102,55 +71907,21 @@ DPSMateAbsorbs = {
 				},
 			},
 		},
-		[617] = {
+		[1513] = {
 			[5] = {
 				["i"] = {
-					[1] = {
-						[1] = 325.0321145078003,
-						[2] = 168,
-						[3] = 3,
-						[4] = 0,
-						[5] = 124,
-					},
-					[2] = {
-						[1] = 325.1571145133883,
-						[2] = 168,
-						[3] = 3,
-						[4] = 0,
-						[5] = 124,
-					},
-					[3] = {
-						[1] = 325.4071145245641,
-						[2] = 168,
-						[3] = 3,
-						[4] = 0,
-						[5] = 124,
-					},
-					[4] = {
-						[1] = 325.65711453574,
-						[2] = 168,
-						[3] = 3,
-						[4] = 0,
-						[5] = 124,
-					},
-					[5] = {
-						[1] = 325.7821145413279,
-						[2] = 168,
-						[3] = 3,
-						[4] = 16,
-						[5] = 124,
-					},
 				},
-				[124] = {
+				[131] = {
 					[1] = {
 						["i"] = {
-							[1] = 1,
-							[2] = 16,
-							[3] = 3,
-							[4] = 168,
 						},
-						[168] = {
-							[3] = 4,
+					},
+					[2] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
 						},
 					},
 				},
@@ -68415,6 +72186,60 @@ DPSMateAbsorbs = {
 				},
 			},
 		},
+		[1559] = {
+			[5] = {
+				["i"] = {
+				},
+				[273] = {
+					[1] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+				[124] = {
+					[1] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+					[2] = {
+						["i"] = {
+						},
+					},
+					[3] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+			},
+		},
+		[1588] = {
+			[5] = {
+				["i"] = {
+				},
+				[124] = {
+					[1] = {
+						["i"] = {
+							[1] = 2,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+			},
+		},
 		[982] = {
 			[5] = {
 				["i"] = {
@@ -68428,6 +72253,34 @@ DPSMateAbsorbs = {
 							[4] = 0,
 						},
 					},
+				},
+			},
+		},
+		[1581] = {
+			[5] = {
+				[131] = {
+					[1] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+				["i"] = {
+				},
+			},
+		},
+		[1069] = {
+			[5] = {
+				[131] = {
+					[1] = {
+						["i"] = {
+						},
+					},
+				},
+				["i"] = {
 				},
 			},
 		},
@@ -68504,18 +72357,6 @@ DPSMateAbsorbs = {
 							[4] = 0,
 						},
 					},
-				},
-			},
-		},
-		[1069] = {
-			[5] = {
-				[131] = {
-					[1] = {
-						["i"] = {
-						},
-					},
-				},
-				["i"] = {
 				},
 			},
 		},
@@ -68599,8 +72440,120 @@ DPSMateAbsorbs = {
 				},
 			},
 		},
+		[617] = {
+			[5] = {
+				["i"] = {
+					[1] = {
+						[1] = 325.0321145078003,
+						[2] = 168,
+						[3] = 3,
+						[4] = 0,
+						[5] = 124,
+					},
+					[2] = {
+						[1] = 325.1571145133883,
+						[2] = 168,
+						[3] = 3,
+						[4] = 0,
+						[5] = 124,
+					},
+					[3] = {
+						[1] = 325.4071145245641,
+						[2] = 168,
+						[3] = 3,
+						[4] = 0,
+						[5] = 124,
+					},
+					[4] = {
+						[1] = 325.65711453574,
+						[2] = 168,
+						[3] = 3,
+						[4] = 0,
+						[5] = 124,
+					},
+					[5] = {
+						[1] = 325.7821145413279,
+						[2] = 168,
+						[3] = 3,
+						[4] = 16,
+						[5] = 124,
+					},
+				},
+				[124] = {
+					[1] = {
+						["i"] = {
+							[1] = 1,
+							[2] = 16,
+							[3] = 3,
+							[4] = 168,
+						},
+						[168] = {
+							[3] = 4,
+						},
+					},
+				},
+			},
+		},
 	},
 	[2] = {
+		[1559] = {
+			[5] = {
+				["i"] = {
+				},
+				[273] = {
+					[1] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+				[124] = {
+					[1] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+			},
+		},
+		[1588] = {
+			[5] = {
+				["i"] = {
+				},
+				[124] = {
+					[1] = {
+						["i"] = {
+							[1] = 2,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+			},
+		},
+		[1581] = {
+			[5] = {
+				[131] = {
+					[1] = {
+						["i"] = {
+							[1] = 0,
+							[2] = 0,
+							[3] = 0,
+							[4] = 0,
+						},
+					},
+				},
+				["i"] = {
+				},
+			},
+		},
 	},
 }
 DPSMateThreat = {
@@ -69720,6 +73673,30 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 0,
 			},
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[122] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
 			[273] = {
 				[1] = {
 					[1] = 1908.013185210696,
@@ -70287,15 +74264,17 @@ DPSMateAurasGained = {
 			[143] = {
 				[1] = {
 					[1] = 1914.982185527853,
+					[2] = 1918.935185704551,
 				},
 				[2] = {
+					[1] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 1,
+					[5] = 2,
 				},
 				[4] = false,
-				[5] = 1,
-				[6] = 0,
+				[5] = 2,
+				[6] = 1,
 			},
 		},
 		[1086] = {
@@ -70632,18 +74611,6 @@ DPSMateAurasGained = {
 			},
 		},
 		[1105] = {
-			[149] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
 			[251] = {
 				[1] = {
 					[1] = 1908.138185216284,
@@ -70655,6 +74622,31 @@ DPSMateAurasGained = {
 					[5] = 1,
 				},
 				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[330] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[149] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
 				[5] = 1,
 				[6] = 1,
 			},
@@ -70755,6 +74747,19 @@ DPSMateAurasGained = {
 				},
 				[5] = 1,
 				[6] = 1,
+			},
+			[88] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
 			},
 		},
 		[278] = {
@@ -71158,31 +75163,6 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 0,
 			},
-			[271] = {
-				[1] = {
-					[1] = 1909.045185255057,
-				},
-				[2] = {
-					[1] = 1909.045185255057,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[300] = {
-				[1] = {
-					[1] = 1909.045185255057,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
 			[299] = {
 				[1] = {
 					[1] = 1909.045185255057,
@@ -71197,6 +75177,31 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 			[176] = {
+				[1] = {
+					[1] = 1909.045185255057,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[271] = {
+				[1] = {
+					[1] = 1909.045185255057,
+				},
+				[2] = {
+					[1] = 1909.045185255057,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[300] = {
 				[1] = {
 					[1] = 1909.045185255057,
 				},
@@ -72215,6 +76220,21 @@ DPSMateAurasGained = {
 			},
 		},
 		[1188] = {
+			[144] = {
+				[1] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
 			[132] = {
 				[1] = {
 					[1] = 1909.045185255057,
@@ -72870,6 +76890,30 @@ DPSMateAurasGained = {
 					[5] = 1,
 				},
 				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[131] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[36] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
 				[5] = 1,
 				[6] = 1,
 			},
@@ -74255,6 +78299,24 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 1,
 			},
+			[124] = {
+				[1] = {
+					[1] = 926.3461413813591,
+					[2] = 944.1901421921164,
+					[3] = 1017.237145459449,
+					[4] = 1025.549145830965,
+				},
+				[2] = {
+					[1] = 926.3461413813591,
+					[2] = 969.315143317154,
+					[3] = 1018.128145499325,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[5] = 4,
+				[6] = 3,
+			},
 			[55] = {
 				[1] = {
 					[1] = 925.9551413638353,
@@ -74274,26 +78336,20 @@ DPSMateAurasGained = {
 				[5] = 4,
 				[6] = 4,
 			},
-			[124] = {
-				[1] = {
-					[1] = 926.3461413813591,
-					[2] = 944.1901421921164,
-					[3] = 1017.237145459449,
-					[4] = 1025.549145830965,
-				},
-				[2] = {
-					[1] = 926.3461413813591,
-					[2] = 969.315143317154,
-					[3] = 1018.128145499325,
-				},
-				[3] = {
-					[5] = 3,
-				},
-				[5] = 4,
-				[6] = 3,
-			},
 		},
 		[1273] = {
+			[87] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
 			[260] = {
 				[1] = {
 					[1] = 1912.716185426511,
@@ -75475,6 +79531,18 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 1,
 			},
+			[255] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
 			[321] = {
 				[1] = {
 					[1] = 1914.982185527853,
@@ -75544,16 +79612,18 @@ DPSMateAurasGained = {
 				[1] = {
 					[1] = 1914.982185527853,
 					[2] = 1914.982185527853,
+					[3] = 1918.935185704551,
 				},
 				[2] = {
 					[1] = 1914.982185527853,
 					[2] = 1914.982185527853,
+					[3] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 1,
+					[5] = 2,
 				},
-				[5] = 2,
-				[6] = 2,
+				[5] = 3,
+				[6] = 3,
 			},
 		},
 		[675] = {
@@ -76317,16 +80387,19 @@ DPSMateAurasGained = {
 				[1] = {
 					[1] = 1914.982185527853,
 					[2] = 1914.982185527853,
+					[3] = 1918.935185704551,
+					[4] = 1918.935185704551,
 				},
 				[2] = {
 					[1] = 1914.982185527853,
 					[2] = 1914.982185527853,
+					[3] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 1,
+					[5] = 2,
 				},
-				[5] = 2,
-				[6] = 2,
+				[5] = 4,
+				[6] = 3,
 			},
 		},
 		[1388] = {
@@ -78060,6 +82133,40 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1499] = {
+			[123] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1501] = {
+			[105] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+		},
 		[751] = {
 			[105] = {
 				[1] = {
@@ -78072,6 +82179,20 @@ DPSMateAurasGained = {
 					[5] = 1,
 				},
 				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1503] = {
+			[274] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
 				[5] = 1,
 				[6] = 1,
 			},
@@ -78103,6 +82224,48 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+		},
+		[1505] = {
+			[56] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[332] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[5] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[753] = {
@@ -78155,6 +82318,33 @@ DPSMateAurasGained = {
 				},
 				[5] = 1,
 				[6] = 1,
+			},
+		},
+		[1507] = {
+			[87] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
 			},
 		},
 		[754] = {
@@ -78213,6 +82403,21 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1509] = {
+			[57] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
 		[755] = {
 			[144] = {
 				[1] = {
@@ -78231,6 +82436,20 @@ DPSMateAurasGained = {
 				[6] = 2,
 			},
 		},
+		[1511] = {
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[756] = {
 			[142] = {
 				[1] = {
@@ -78244,6 +82463,37 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+		},
+		[1513] = {
+			[131] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+			[38] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[757] = {
@@ -78278,6 +82528,47 @@ DPSMateAurasGained = {
 				[6] = 3,
 			},
 		},
+		[1516] = {
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1517] = {
+			[149] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[12] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[759] = {
 			[256] = {
 				[1] = {
@@ -78304,6 +82595,41 @@ DPSMateAurasGained = {
 				},
 				[5] = 1,
 				[6] = 1,
+			},
+		},
+		[1521] = {
+			[36] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[38] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
+					[4] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
+					[4] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 4,
+				},
+				[4] = false,
+				[5] = 4,
+				[6] = 4,
 			},
 		},
 		[761] = {
@@ -78333,6 +82659,59 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+		},
+		[1523] = {
+			[250] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
+					[4] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
+					[4] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[5] = 4,
+				[6] = 4,
+			},
+		},
+		[1524] = {
+			[331] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1525] = {
+			[122] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
 			},
 		},
 		[763] = {
@@ -78366,9 +82745,71 @@ DPSMateAurasGained = {
 			},
 		},
 		[5] = {
-			[284] = {
+			[146] = {
 				[1] = {
-					[1] = 1906.888185160405,
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[53] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[5] = {
+				[1] = {
+					[1] = 1902.763184979728,
+					[2] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+					[2] = 1906.888185160405,
+				},
+				[3] = {
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+			[150] = {
+				[1] = {
+					[1] = 1902.763184979728,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[245] = {
+				[1] = {
+					[1] = 454.7221202945173,
+				},
+				[2] = {
+					[1] = 454.7221202945173,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[92] = {
+				[1] = {
+					[1] = 432.7991193162113,
 				},
 				[2] = {
 				},
@@ -78379,85 +82820,68 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 0,
 			},
-			[196] = {
+			[124] = {
 				[1] = {
-					[1] = 1905.513185098937,
-					[2] = 1914.982185527853,
+					[1] = 1913.466185460038,
 				},
 				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-			[142] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
+					[1] = 1913.466185460038,
 				},
 				[3] = {
 				},
 				[5] = 1,
 				[6] = 1,
 			},
-			[285] = {
+			[23] = {
 				[1] = {
-					[1] = 1907.388185182756,
+					[1] = 1914.982185527853,
 				},
 				[2] = {
-					[1] = 1907.388185182756,
+					[1] = 1914.982185527853,
 				},
 				[3] = {
 				},
 				[5] = 1,
 				[6] = 1,
 			},
-			[123] = {
+			[250] = {
 				[1] = {
-					[1] = 1902.763184979728,
-					[2] = 1905.513185098937,
-					[3] = 1906.888185160405,
-					[4] = 1906.888185160405,
-					[5] = 1914.982185527853,
-					[6] = 1914.982185527853,
-					[7] = 1918.170185670427,
+					[1] = 1902.013184946201,
+					[2] = 1902.763184979728,
+					[3] = 1902.763184979728,
+					[4] = 1905.513185098937,
+					[5] = 1906.888185160405,
+					[6] = 1908.013185210696,
+					[7] = 1908.138185216284,
+					[8] = 1912.716185426511,
+					[9] = 1914.982185527853,
+					[10] = 1914.982185527853,
+					[11] = 1914.982185527853,
+					[12] = 1918.935185704551,
+					[13] = 1918.935185704551,
+					[14] = 1919.060185710139,
 				},
 				[2] = {
-					[1] = 1902.763184979728,
-					[2] = 1905.513185098937,
-					[3] = 1906.888185160405,
-					[4] = 1906.888185160405,
-					[5] = 1914.982185527853,
-					[6] = 1914.982185527853,
+					[1] = 1902.013184946201,
+					[2] = 1902.763184979728,
+					[3] = 1902.763184979728,
+					[4] = 1905.513185098937,
+					[5] = 1906.888185160405,
+					[6] = 1908.013185210696,
+					[7] = 1908.138185216284,
+					[8] = 1912.716185426511,
+					[9] = 1914.982185527853,
+					[10] = 1914.982185527853,
+					[11] = 1914.982185527853,
+					[12] = 1918.935185704551,
+					[13] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 7,
+					[5] = 14,
 				},
 				[4] = false,
-				[5] = 7,
-				[6] = 6,
-			},
-			[270] = {
-				[1] = {
-					[1] = 1904.763185069135,
-					[2] = 1909.045185255057,
-					[3] = 1917.670185648076,
-				},
-				[2] = {
-					[1] = 1904.763185069135,
-					[2] = 1909.045185255057,
-				},
-				[3] = {
-					[5] = 3,
-				},
-				[4] = false,
-				[5] = 3,
-				[6] = 2,
+				[5] = 14,
+				[6] = 13,
 			},
 			[309] = {
 				[1] = {
@@ -78479,44 +82903,23 @@ DPSMateAurasGained = {
 				[5] = 5,
 				[6] = 5,
 			},
-			[271] = {
+			[95] = {
 				[1] = {
-					[1] = 1904.763185069135,
-					[2] = 1906.138185126877,
-					[3] = 1911.576185375623,
-					[4] = 1914.982185527853,
-					[5] = 1914.982185527853,
-					[6] = 1914.982185527853,
+					[1] = 323.4531144408345,
+					[2] = 1908.013185210696,
+					[3] = 1908.138185216284,
+					[4] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1904.763185069135,
-					[2] = 1906.138185126877,
-					[3] = 1911.576185375623,
-					[4] = 1914.982185527853,
-					[5] = 1914.982185527853,
-					[6] = 1914.982185527853,
+					[1] = 323.4531144408345,
+					[2] = 1908.013185210696,
+					[3] = 1908.138185216284,
+					[4] = 1918.935185704551,
 				},
 				[3] = {
 				},
-				[5] = 6,
-				[6] = 6,
-			},
-			[304] = {
-				[1] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-					[3] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-					[3] = 1913.466185460038,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[5] = 3,
-				[6] = 3,
+				[5] = 4,
+				[6] = 4,
 			},
 			[323] = {
 				[1] = {
@@ -78530,197 +82933,6 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
-			},
-			[182] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[124] = {
-				[1] = {
-					[1] = 1913.466185460038,
-				},
-				[2] = {
-					[1] = 1913.466185460038,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[280] = {
-				[1] = {
-					[1] = 1909.045185255057,
-				},
-				[2] = {
-					[1] = 1909.045185255057,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[288] = {
-				[1] = {
-					[1] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 1908.013185210696,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[229] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 323.4531144408345,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[5] = {
-				[1] = {
-					[1] = 1902.763184979728,
-					[2] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-					[2] = 1906.888185160405,
-				},
-				[3] = {
-				},
-				[5] = 2,
-				[6] = 2,
-			},
-			[281] = {
-				[1] = {
-					[1] = 1909.045185255057,
-					[2] = 1909.045185255057,
-				},
-				[2] = {
-					[1] = 1909.045185255057,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-			[23] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[245] = {
-				[1] = {
-					[1] = 454.7221202945173,
-				},
-				[2] = {
-					[1] = 454.7221202945173,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[95] = {
-				[1] = {
-					[1] = 323.4531144408345,
-					[2] = 1908.013185210696,
-					[3] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 323.4531144408345,
-					[2] = 1908.013185210696,
-					[3] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 3,
-				[6] = 3,
-			},
-			[12] = {
-				[1] = {
-					[1] = 325.4071145245641,
-					[2] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 325.4071145245641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-			[146] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[150] = {
-				[1] = {
-					[1] = 1902.763184979728,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[275] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[53] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
 			},
 			[132] = {
 				[1] = {
@@ -78765,6 +82977,32 @@ DPSMateAurasGained = {
 				[5] = 16,
 				[6] = 16,
 			},
+			[196] = {
+				[1] = {
+					[1] = 1905.513185098937,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[229] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
 			[268] = {
 				[1] = {
 					[1] = 1904.638185063547,
@@ -78779,42 +83017,52 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 1,
 			},
-			[250] = {
+			[12] = {
 				[1] = {
-					[1] = 1902.013184946201,
-					[2] = 1902.763184979728,
-					[3] = 1902.763184979728,
-					[4] = 1905.513185098937,
-					[5] = 1906.888185160405,
-					[6] = 1908.013185210696,
-					[7] = 1908.138185216284,
-					[8] = 1912.716185426511,
-					[9] = 1914.982185527853,
-					[10] = 1914.982185527853,
-					[11] = 1914.982185527853,
+					[1] = 325.4071145245641,
+					[2] = 1908.013185210696,
 				},
 				[2] = {
-					[1] = 1902.013184946201,
-					[2] = 1902.763184979728,
-					[3] = 1902.763184979728,
-					[4] = 1905.513185098937,
-					[5] = 1906.888185160405,
-					[6] = 1908.013185210696,
-					[7] = 1908.138185216284,
-					[8] = 1912.716185426511,
-					[9] = 1914.982185527853,
-					[10] = 1914.982185527853,
+					[1] = 325.4071145245641,
 				},
 				[3] = {
-					[5] = 11,
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[270] = {
+				[1] = {
+					[1] = 1904.763185069135,
+					[2] = 1909.045185255057,
+					[3] = 1917.670185648076,
+				},
+				[2] = {
+					[1] = 1904.763185069135,
+					[2] = 1909.045185255057,
+				},
+				[3] = {
+					[5] = 3,
 				},
 				[4] = false,
-				[5] = 11,
-				[6] = 10,
+				[5] = 3,
+				[6] = 2,
 			},
-			[92] = {
+			[334] = {
 				[1] = {
-					[1] = 432.7991193162113,
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[275] = {
+				[1] = {
+					[1] = 1905.513185098937,
 				},
 				[2] = {
 				},
@@ -78824,6 +83072,185 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+			[339] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[340] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[280] = {
+				[1] = {
+					[1] = 1909.045185255057,
+				},
+				[2] = {
+					[1] = 1909.045185255057,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[281] = {
+				[1] = {
+					[1] = 1909.045185255057,
+					[2] = 1909.045185255057,
+				},
+				[2] = {
+					[1] = 1909.045185255057,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[123] = {
+				[1] = {
+					[1] = 1902.763184979728,
+					[2] = 1905.513185098937,
+					[3] = 1906.888185160405,
+					[4] = 1906.888185160405,
+					[5] = 1914.982185527853,
+					[6] = 1914.982185527853,
+					[7] = 1918.170185670427,
+					[8] = 1918.935185704551,
+					[9] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+					[2] = 1905.513185098937,
+					[3] = 1906.888185160405,
+					[4] = 1906.888185160405,
+					[5] = 1914.982185527853,
+					[6] = 1914.982185527853,
+					[7] = 1918.935185704551,
+					[8] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 9,
+				},
+				[4] = false,
+				[5] = 9,
+				[6] = 8,
+			},
+			[142] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[284] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[285] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[271] = {
+				[1] = {
+					[1] = 1904.763185069135,
+					[2] = 1906.138185126877,
+					[3] = 1911.576185375623,
+					[4] = 1914.982185527853,
+					[5] = 1914.982185527853,
+					[6] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1904.763185069135,
+					[2] = 1906.138185126877,
+					[3] = 1911.576185375623,
+					[4] = 1914.982185527853,
+					[5] = 1914.982185527853,
+					[6] = 1914.982185527853,
+				},
+				[3] = {
+				},
+				[5] = 6,
+				[6] = 6,
+			},
+			[182] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.170185670427,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[288] = {
+				[1] = {
+					[1] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1908.013185210696,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[304] = {
+				[1] = {
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+					[3] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+					[3] = 1913.466185460038,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[5] = 3,
+				[6] = 3,
 			},
 		},
 		[764] = {
@@ -78948,6 +83375,35 @@ DPSMateAurasGained = {
 				[6] = 3,
 			},
 		},
+		[1531] = {
+			[115] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[223] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
 		[766] = {
 			[105] = {
 				[1] = {
@@ -79055,6 +83511,23 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1541] = {
+			[105] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
 		[771] = {
 			[28] = {
 				[1] = {
@@ -79069,6 +83542,37 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1544] = {
+			[105] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1545] = {
+			[115] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[773] = {
 			[88] = {
 				[1] = {
@@ -79076,6 +83580,60 @@ DPSMateAurasGained = {
 				},
 				[2] = {
 					[1] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1547] = {
+			[88] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[186] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[185] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1549] = {
+			[38] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
 				},
 				[3] = {
 					[5] = 1,
@@ -79098,6 +83656,36 @@ DPSMateAurasGained = {
 					[5] = 1,
 				},
 				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1551] = {
+			[123] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[312] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
 				[6] = 1,
 			},
 		},
@@ -79133,6 +83721,20 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1555] = {
+			[12] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[778] = {
 			[201] = {
 				[1] = {
@@ -79145,6 +83747,22 @@ DPSMateAurasGained = {
 					[778] = 1,
 				},
 				[4] = true,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1557] = {
+			[250] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -79192,6 +83810,124 @@ DPSMateAurasGained = {
 				[6] = 2,
 			},
 		},
+		[1559] = {
+			[335] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+			[337] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[154] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[55] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 3,
+			},
+			[223] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[124] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+			[273] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1561] = {
+			[105] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[781] = {
 			[5] = {
 				[1] = {
@@ -79213,6 +83949,80 @@ DPSMateAurasGained = {
 				},
 				[2] = {
 					[1] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1565] = {
+			[49] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[12] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[28] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1919.060185710139,
+					[3] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+			[336] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[143] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
 				},
 				[3] = {
 					[5] = 1,
@@ -79351,6 +84161,43 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1570] = {
+			[122] = {
+				[1] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[1573] = {
+			[144] = {
+				[1] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+					[3] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+		},
 		[787] = {
 			[144] = {
 				[1] = {
@@ -79361,6 +84208,39 @@ DPSMateAurasGained = {
 				},
 				[3] = {
 				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1575] = {
+			[88] = {
+				[1] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[1577] = {
+			[38] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -79379,6 +84259,24 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1579] = {
+			[38] = {
+				[1] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
 		[790] = {
 			[258] = {
 				[1] = {
@@ -79386,6 +84284,67 @@ DPSMateAurasGained = {
 				},
 				[2] = {
 					[1] = 1902.763184979728,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1581] = {
+			[131] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[38] = {
+				[1] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+					[3] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+					[2] = 1919.060185710139,
+					[3] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[5] = 3,
+				[6] = 3,
+			},
+		},
+		[1582] = {
+			[122] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1583] = {
+			[122] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
 				},
 				[3] = {
 				},
@@ -79435,6 +84394,20 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1587] = {
+			[23] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[794] = {
 			[105] = {
 				[1] = {
@@ -79458,6 +84431,22 @@ DPSMateAurasGained = {
 				},
 				[2] = {
 					[1] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1591] = {
+			[105] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
 				},
 				[3] = {
 					[5] = 1,
@@ -80174,15 +85163,16 @@ DPSMateAurasGained = {
 				[1] = {
 					[1] = 1902.388184962965,
 					[2] = 1914.982185527853,
+					[3] = 1918.935185704551,
 				},
 				[2] = {
 					[1] = 1902.388184962965,
 					[2] = 1914.982185527853,
 				},
 				[3] = {
-					[5] = 1,
+					[5] = 2,
 				},
-				[5] = 2,
+				[5] = 3,
 				[6] = 2,
 			},
 		},
@@ -80965,6 +85955,21 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
+		[1592] = {
+			[147] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
 		[891] = {
 			[36] = {
 				[1] = {
@@ -80987,6 +85992,36 @@ DPSMateAurasGained = {
 				},
 				[3] = {
 				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1588] = {
+			[124] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[55] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -81017,6 +86052,32 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+		},
+		[1578] = {
+			[260] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[255] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[893] = {
@@ -81065,6 +86126,20 @@ DPSMateAurasGained = {
 				},
 				[2] = {
 					[1] = 1914.982185527853,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1574] = {
+			[338] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
 				},
 				[3] = {
 				},
@@ -81141,6 +86216,32 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1568] = {
+			[42] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[33] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[895] = {
 			[36] = {
 				[1] = {
@@ -81154,6 +86255,28 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+		},
+		[1566] = {
+			[142] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1919.060185710139,
+					[4] = 1919.060185710139,
+					[5] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1919.060185710139,
+					[4] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 4,
+				},
+				[5] = 5,
+				[6] = 4,
 			},
 		},
 		[896] = {
@@ -81187,6 +86310,36 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1520] = {
+			[5] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[56] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[897] = {
 			[38] = {
 				[1] = {
@@ -81205,6 +86358,20 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 3,
 				[6] = 3,
+			},
+		},
+		[1496] = {
+			[23] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[898] = {
@@ -81256,6 +86423,22 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1492] = {
+			[99] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[900] = {
 			[57] = {
 				[1] = {
@@ -81284,6 +86467,74 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1553] = {
+			[57] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[122] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1490] = {
+			[132] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1550] = {
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[234] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[902] = {
 			[229] = {
 				[1] = {
@@ -81298,6 +86549,21 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 1,
+			},
+		},
+		[1484] = {
+			[88] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
 			},
 		},
 		[903] = {
@@ -81342,6 +86608,21 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1474] = {
+			[87] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
 		[904] = {
 			[154] = {
 				[1] = {
@@ -81355,6 +86636,20 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+		},
+		[1478] = {
+			[36] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.170185670427,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[905] = {
@@ -81384,6 +86679,20 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
+		[1472] = {
+			[142] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.170185670427,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
 		[906] = {
 			[36] = {
 				[1] = {
@@ -81411,6 +86720,21 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1532] = {
+			[132] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
 		[907] = {
 			[36] = {
 				[1] = {
@@ -81424,453 +86748,6 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
-			},
-		},
-		[908] = {
-			[12] = {
-				[1] = {
-					[1] = 1906.138185126877,
-				},
-				[2] = {
-					[1] = 1906.138185126877,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[911] = {
-			[123] = {
-				[1] = {
-					[1] = 1905.513185098937,
-					[2] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-		},
-		[912] = {
-			[143] = {
-				[1] = {
-					[1] = 1905.513185098937,
-					[2] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 1,
-			},
-		},
-		[913] = {
-			[88] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[915] = {
-			[88] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1496] = {
-			[23] = {
-				[1] = {
-					[1] = 1918.935185704551,
-				},
-				[2] = {
-					[1] = 1918.935185704551,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[917] = {
-			[223] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[154] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[36] = {
-				[1] = {
-					[1] = 1905.513185098937,
-					[2] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-		},
-		[1492] = {
-			[99] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.935185704551,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[918] = {
-			[23] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[459] = {
-			[123] = {
-				[1] = {
-					[1] = 1903.26318500208,
-					[2] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1904.013185035607,
-					[2] = 1918.170185670427,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[1494] = {
-			[131] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[38] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.420185681603,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1490] = {
-			[132] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[920] = {
-			[87] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[12] = {
-				[1] = {
-					[1] = 1905.638185104525,
-				},
-				[2] = {
-					[1] = 1905.638185104525,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1483] = {
-			[105] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[921] = {
-			[123] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1484] = {
-			[88] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[922] = {
-			[88] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1474] = {
-			[87] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[923] = {
-			[36] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1478] = {
-			[36] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[924] = {
-			[196] = {
-				[1] = {
-					[1] = 1905.513185098937,
-					[2] = 1905.513185098937,
-					[3] = 1905.513185098937,
-					[4] = 1905.513185098937,
-					[5] = 1905.888185115701,
-					[6] = 1906.138185126877,
-					[7] = 1906.138185126877,
-					[8] = 1906.138185126877,
-					[9] = 1906.138185126877,
-					[10] = 1906.138185126877,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-					[2] = 1905.513185098937,
-					[3] = 1905.513185098937,
-					[4] = 1905.638185104525,
-					[5] = 1906.013185121289,
-					[6] = 1906.138185126877,
-					[7] = 1906.138185126877,
-					[8] = 1906.138185126877,
-					[10] = 1906.138185126877,
-				},
-				[3] = {
-					[5] = 9,
-				},
-				[4] = false,
-				[5] = 12,
-				[6] = 11,
-			},
-		},
-		[462] = {
-			[123] = {
-				[1] = {
-					[1] = 326.1571145580917,
-				},
-				[2] = {
-					[1] = 326.1571145580917,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[925] = {
-			[36] = {
-				[1] = {
-					[1] = 1906.013185121289,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1472] = {
-			[142] = {
-				[1] = {
-					[1] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1470] = {
-			[142] = {
-				[1] = {
-					[1] = 1918.170185670427,
-					[2] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-					[2] = 1918.170185670427,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 2,
 			},
 		},
 		[1468] = {
@@ -81890,6 +86767,20 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 3,
 				[6] = 2,
+			},
+		},
+		[908] = {
+			[12] = {
+				[1] = {
+					[1] = 1906.138185126877,
+				},
+				[2] = {
+					[1] = 1906.138185126877,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[1456] = {
@@ -81987,42 +86878,18 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[1440] = {
-			[257] = {
+		[1522] = {
+			[38] = {
 				[1] = {
-					[1] = 1917.795185653664,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1917.795185653664,
+					[1] = 1918.935185704551,
 				},
 				[3] = {
+					[5] = 1,
 				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[929] = {
-			[274] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[226] = {
-				[1] = {
-					[1] = 1905.513185098937,
-				},
-				[2] = {
-					[1] = 1905.513185098937,
-				},
-				[3] = {
-				},
+				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -82055,6 +86922,845 @@ DPSMateAurasGained = {
 				},
 				[5] = 2,
 				[6] = 1,
+			},
+		},
+		[911] = {
+			[123] = {
+				[1] = {
+					[1] = 1905.513185098937,
+					[2] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1514] = {
+			[105] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[912] = {
+			[143] = {
+				[1] = {
+					[1] = 1905.513185098937,
+					[2] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1426] = {
+			[122] = {
+				[1] = {
+					[1] = 1915.107185533441,
+				},
+				[2] = {
+					[1] = 1915.107185533441,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[913] = {
+			[88] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1508] = {
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1410] = {
+			[5] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[56] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1504] = {
+			[88] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[915] = {
+			[88] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[708] = {
+			[106] = {
+				[1] = {
+					[1] = 1902.763184979728,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[707] = {
+			[154] = {
+				[1] = {
+					[1] = 1902.763184979728,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[691] = {
+			[123] = {
+				[1] = {
+					[1] = 1902.013184946201,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[917] = {
+			[223] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.170185670427,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[154] = {
+				[1] = {
+					[1] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.170185670427,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[36] = {
+				[1] = {
+					[1] = 1905.513185098937,
+					[2] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[710] = {
+			[251] = {
+				[1] = {
+					[1] = 1902.763184979728,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[149] = {
+				[1] = {
+					[1] = 1902.763184979728,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[918] = {
+			[23] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[459] = {
+			[123] = {
+				[1] = {
+					[1] = 1903.26318500208,
+					[2] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1904.013185035607,
+					[2] = 1918.170185670427,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[232] = {
+			[38] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[699] = {
+			[105] = {
+				[1] = {
+					[1] = 1902.763184979728,
+					[2] = 1902.763184979728,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+					[2] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[920] = {
+			[87] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[12] = {
+				[1] = {
+					[1] = 1905.638185104525,
+				},
+				[2] = {
+					[1] = 1905.638185104525,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1394] = {
+			[142] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[145] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[1394] = 1,
+				},
+				[4] = true,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[921] = {
+			[123] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1378] = {
+			[144] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[922] = {
+			[88] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1390] = {
+			[105] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[923] = {
+			[36] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[74] = {
+			[148] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[142] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[143] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[3] = {
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[924] = {
+			[196] = {
+				[1] = {
+					[1] = 1905.513185098937,
+					[2] = 1905.513185098937,
+					[3] = 1905.513185098937,
+					[4] = 1905.513185098937,
+					[5] = 1905.888185115701,
+					[6] = 1906.138185126877,
+					[7] = 1906.138185126877,
+					[8] = 1906.138185126877,
+					[9] = 1906.138185126877,
+					[10] = 1906.138185126877,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+					[2] = 1905.513185098937,
+					[3] = 1905.513185098937,
+					[4] = 1905.638185104525,
+					[5] = 1906.013185121289,
+					[6] = 1906.138185126877,
+					[7] = 1906.138185126877,
+					[8] = 1906.138185126877,
+					[10] = 1906.138185126877,
+				},
+				[3] = {
+					[5] = 9,
+				},
+				[4] = false,
+				[5] = 12,
+				[6] = 11,
+			},
+		},
+		[462] = {
+			[123] = {
+				[1] = {
+					[1] = 326.1571145580917,
+				},
+				[2] = {
+					[1] = 326.1571145580917,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[925] = {
+			[36] = {
+				[1] = {
+					[1] = 1906.013185121289,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[589] = {
+			[230] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[36] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1470] = {
+			[142] = {
+				[1] = {
+					[1] = 1918.170185670427,
+					[2] = 1918.170185670427,
+				},
+				[2] = {
+					[1] = 1918.170185670427,
+					[2] = 1918.170185670427,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[1338] = {
+			[38] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 3,
+			},
+		},
+		[1360] = {
+			[105] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1350] = {
+			[132] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+			[276] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[319] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+					[4] = 1914.982185527853,
+					[5] = 1914.982185527853,
+					[6] = 1914.982185527853,
+					[7] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+					[4] = 1914.982185527853,
+					[5] = 1914.982185527853,
+					[6] = 1914.982185527853,
+					[7] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 7,
+				},
+				[4] = false,
+				[5] = 7,
+				[6] = 7,
+			},
+			[49] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1392] = {
+			[148] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[142] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[143] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[571] = {
+			[36] = {
+				[1] = {
+					[1] = 323.4531144408345,
+					[2] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[929] = {
+			[274] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[226] = {
+				[1] = {
+					[1] = 1905.513185098937,
+				},
+				[2] = {
+					[1] = 1905.513185098937,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1336] = {
+			[105] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 3,
+			},
+			[87] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
 			},
 		},
 		[930] = {
@@ -82167,30 +87873,19 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[1428] = {
-			[23] = {
+		[674] = {
+			[87] = {
 				[1] = {
-					[1] = 1918.170185670427,
+					[1] = 1896.482184702701,
 				},
 				[2] = {
-					[1] = 1918.170185670427,
 				},
 				[3] = {
+					[5] = 1,
 				},
+				[4] = false,
 				[5] = 1,
-				[6] = 1,
-			},
-			[143] = {
-				[1] = {
-					[1] = 1915.107185533441,
-				},
-				[2] = {
-					[1] = 1915.107185533441,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
+				[6] = 0,
 			},
 		},
 		[931] = {
@@ -82207,17 +87902,19 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1426] = {
-			[122] = {
+		[580] = {
+			[105] = {
 				[1] = {
-					[1] = 1915.107185533441,
+					[1] = 323.4531144408345,
+					[2] = 323.4531144408345,
 				},
 				[2] = {
-					[1] = 1915.107185533441,
+					[1] = 323.4531144408345,
 				},
 				[3] = {
+					[5] = 1,
 				},
-				[5] = 1,
+				[5] = 2,
 				[6] = 1,
 			},
 		},
@@ -82250,20 +87947,50 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1424] = {
-			[88] = {
+		[658] = {
+			[50] = {
 				[1] = {
-					[1] = 1915.107185533441,
+					[1] = 1460.639165243304,
+					[2] = 1504.624167209661,
+					[3] = 1541.483168857342,
 				},
 				[2] = {
-					[1] = 1915.107185533441,
+					[1] = 1460.639165243304,
+					[2] = 1504.624167209661,
+					[3] = 1541.483168857342,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
+				[5] = 3,
+				[6] = 3,
+			},
+			[15] = {
+				[1] = {
+					[1] = 1492.029166646472,
+				},
+				[2] = {
+					[1] = 1492.029166646472,
+				},
+				[3] = {
+				},
 				[5] = 1,
 				[6] = 1,
+			},
+			[136] = {
+				[1] = {
+					[1] = 1478.170166026971,
+					[2] = 1489.482166532597,
+					[3] = 1524.186168084091,
+				},
+				[2] = {
+					[1] = 1478.170166026971,
+					[2] = 1489.482166532597,
+					[3] = 1524.186168084091,
+				},
+				[3] = {
+				},
+				[5] = 3,
+				[6] = 3,
 			},
 		},
 		[933] = {
@@ -82283,8 +88010,8 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1410] = {
-			[5] = {
+		[1322] = {
+			[106] = {
 				[1] = {
 					[1] = 1914.982185527853,
 				},
@@ -82296,20 +88023,6 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
-			},
-			[56] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
 			},
 		},
 		[233] = {
@@ -82326,8 +88039,8 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1400] = {
-			[88] = {
+		[1340] = {
+			[5] = {
 				[1] = {
 					[1] = 1914.982185527853,
 				},
@@ -82335,9 +88048,7 @@ DPSMateAurasGained = {
 					[1] = 1914.982185527853,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -82356,18 +88067,38 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[708] = {
-			[106] = {
+		[1268] = {
+			[124] = {
 				[1] = {
-					[1] = 1902.763184979728,
+					[1] = 1912.716185426511,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
 				},
 				[2] = {
-					[1] = 1902.763184979728,
+					[1] = 1912.716185426511,
+					[2] = 1914.982185527853,
 				},
 				[3] = {
+					[5] = 2,
 				},
-				[5] = 1,
-				[6] = 1,
+				[5] = 3,
+				[6] = 2,
+			},
+			[55] = {
+				[1] = {
+					[1] = 1912.716185426511,
+					[2] = 1914.982185527853,
+					[3] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1912.716185426511,
+					[2] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[5] = 3,
+				[6] = 2,
 			},
 		},
 		[936] = {
@@ -82385,10 +88116,10 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[707] = {
-			[154] = {
+		[1244] = {
+			[132] = {
 				[1] = {
-					[1] = 1902.763184979728,
+					[1] = 1911.576185375623,
 				},
 				[2] = {
 				},
@@ -82442,19 +88173,18 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[691] = {
-			[123] = {
+		[618] = {
+			[105] = {
 				[1] = {
-					[1] = 1902.013184946201,
+					[1] = 325.5321145301521,
 				},
 				[2] = {
+					[1] = 325.5321145301521,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
-				[6] = 0,
+				[6] = 1,
 			},
 		},
 		[938] = {
@@ -82474,13 +88204,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1224] = {
-			[105] = {
+		[302] = {
+			[38] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1914.857185522265,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
+					[1] = 1914.857185522265,
 				},
 				[3] = {
 					[5] = 1,
@@ -82535,19 +88265,18 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[232] = {
-			[38] = {
+		[1272] = {
+			[105] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1912.716185426511,
 				},
 				[2] = {
+					[1] = 1912.716185426511,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
-				[6] = 0,
+				[6] = 1,
 			},
 		},
 		[940] = {
@@ -82566,10 +88295,10 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1396] = {
-			[23] = {
+		[1304] = {
+			[122] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1914.857185522265,
 				},
 				[2] = {
 				},
@@ -82623,10 +88352,22 @@ DPSMateAurasGained = {
 				[6] = 2,
 			},
 		},
-		[1394] = {
-			[142] = {
+		[1250] = {
+			[36] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[147] = {
+				[1] = {
+					[1] = 1911.576185375623,
 				},
 				[2] = {
 				},
@@ -82637,17 +88378,30 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 0,
 			},
-			[145] = {
+			[130] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1911.576185375623,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
 				},
 				[3] = {
-					[1394] = 1,
+					[5] = 1,
 				},
-				[4] = true,
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[38] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -82668,41 +88422,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1364] = {
-			[312] = {
+		[1084] = {
+			[99] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1908.138185216284,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[123] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[196] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
+					[1] = 1908.138185216284,
 				},
 				[3] = {
 				},
@@ -82738,21 +88464,24 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1390] = {
-			[105] = {
+		[1234] = {
+			[38] = {
 				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+					[3] = 1911.576185375623,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+					[3] = 1911.576185375623,
 				},
 				[3] = {
-					[5] = 1,
+					[5] = 3,
 				},
-				[5] = 2,
-				[6] = 2,
+				[4] = false,
+				[5] = 3,
+				[6] = 3,
 			},
 		},
 		[944] = {
@@ -82796,39 +88525,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[591] = {
-			[251] = {
+		[649] = {
+			[38] = {
 				[1] = {
-					[1] = 1908.013185210696,
+					[1] = 1281.10815724375,
 				},
 				[2] = {
-					[1] = 1908.013185210696,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[23] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[317] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
+					[1] = 1281.10815724375,
 				},
 				[3] = {
 					[5] = 1,
@@ -82867,8 +88570,8 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[589] = {
-			[230] = {
+		[606] = {
+			[95] = {
 				[1] = {
 					[1] = 323.4531144408345,
 				},
@@ -82879,19 +88582,6 @@ DPSMateAurasGained = {
 				},
 				[5] = 1,
 				[6] = 1,
-			},
-			[36] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
 			},
 		},
 		[946] = {
@@ -82961,24 +88651,18 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1338] = {
-			[38] = {
+		[327] = {
+			[154] = {
 				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
+					[1] = 1900.622184883973,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
+					[1] = 1900.622184883973,
 				},
 				[3] = {
-					[5] = 3,
 				},
-				[4] = false,
-				[5] = 3,
-				[6] = 3,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[948] = {
@@ -83027,20 +88711,17 @@ DPSMateAurasGained = {
 				[6] = 3,
 			},
 		},
-		[1360] = {
-			[105] = {
+		[474] = {
+			[123] = {
 				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
+					[1] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 2,
 				},
-				[4] = false,
-				[5] = 2,
+				[5] = 1,
 				[6] = 1,
 			},
 		},
@@ -83070,19 +88751,17 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[593] = {
-			[105] = {
+		[319] = {
+			[36] = {
 				[1] = {
-					[1] = 323.4531144408345,
-					[2] = 323.4531144408345,
+					[1] = 1908.138185216284,
 				},
 				[2] = {
-					[1] = 323.4531144408345,
+					[1] = 1908.138185216284,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[5] = 2,
+				[5] = 1,
 				[6] = 1,
 			},
 		},
@@ -83118,6 +88797,1760 @@ DPSMateAurasGained = {
 				},
 				[2] = {
 					[1] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[233] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1270] = {
+			[253] = {
+				[1] = {
+					[1] = 1912.716185426511,
+				},
+				[2] = {
+					[1] = 1912.716185426511,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[38] = {
+				[1] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[951] = {
+			[105] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[280] = {
+				[1] = {
+					[1] = 1906.388185138053,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[216] = {
+			[36] = {
+				[1] = {
+					[1] = 1908.013185210696,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[23] = {
+				[1] = {
+					[1] = 1902.763184979728,
+					[2] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[952] = {
+			[105] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[663] = {
+			[38] = {
+				[1] = {
+					[1] = 1595.155171243644,
+				},
+				[2] = {
+					[1] = 1595.155171243644,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[953] = {
+			[131] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[38] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1144] = {
+			[105] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1318] = {
+			[154] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1216] = {
+			[88] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[955] = {
+			[284] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[144] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[281] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[149] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[570] = {
+			[105] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[956] = {
+			[87] = {
+				[1] = {
+					[1] = 1906.888185160405,
+					[2] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[105] = {
+				[1] = {
+					[1] = 1906.513185143641,
+					[2] = 1906.513185143641,
+					[3] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+					[2] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[5] = 3,
+				[6] = 2,
+			},
+		},
+		[1068] = {
+			[122] = {
+				[1] = {
+					[1] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1908.013185210696,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[957] = {
+			[36] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[283] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[574] = {
+			[36] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[958] = {
+			[106] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[568] = {
+			[226] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[959] = {
+			[87] = {
+				[1] = {
+					[1] = 1906.888185160405,
+					[2] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[43] = {
+				[1] = {
+					[1] = 1906.513185143641,
+				},
+				[2] = {
+					[1] = 1906.513185143641,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[550] = {
+			[223] = {
+				[1] = {
+					[1] = 322.453114396131,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1198] = {
+			[167] = {
+				[1] = {
+					[1] = 1910.685185341335,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[129] = {
+			[88] = {
+				[1] = {
+					[1] = 1902.763184979728,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[535] = {
+			[70] = {
+				[1] = {
+					[1] = 82.34410367923081,
+				},
+				[2] = {
+					[1] = 82.34410367923081,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[97] = {
+				[1] = {
+					[1] = 76.95310343818963,
+				},
+				[2] = {
+					[1] = 76.95310343818963,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[204] = {
+				[1] = {
+					[1] = 81.09410362335146,
+				},
+				[2] = {
+					[1] = 81.09410362335146,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[108] = {
+				[1] = {
+					[1] = 11.92210052365661,
+					[2] = 30.57810137065351,
+					[3] = 68.48410306329132,
+				},
+				[2] = {
+					[1] = 11.92210052365661,
+					[2] = 30.57810137065351,
+					[3] = 68.48410306329132,
+				},
+				[3] = {
+				},
+				[5] = 3,
+				[6] = 3,
+			},
+		},
+		[1248] = {
+			[144] = {
+				[1] = {
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[585] = {
+			[132] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[144] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[631] = {
+			[21] = {
+				[1] = {
+					[1] = 487.2681217493325,
+					[2] = 797.0481355974287,
+				},
+				[2] = {
+					[1] = 487.2681217493325,
+					[2] = 797.0481355974287,
+				},
+				[3] = {
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[569] = {
+			[36] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1080] = {
+			[12] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[175] = {
+				[1] = {
+					[1] = 1908.013185210696,
+				},
+				[2] = {
+				},
+				[3] = {
+					[1080] = 1,
+				},
+				[4] = true,
+				[5] = 1,
+				[6] = 0,
+			},
+			[322] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[964] = {
+			[268] = {
+				[1] = {
+					[1] = 1907.013185165993,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[482] = {
+			[142] = {
+				[1] = {
+					[1] = 1902.763184979728,
+					[2] = 1902.763184979728,
+				},
+				[2] = {
+					[1] = 1902.763184979728,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[965] = {
+			[87] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[234] = {
+			[38] = {
+				[1] = {
+					[1] = 1907.76318519952,
+					[2] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1907.76318519952,
+					[2] = 1908.013185210696,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+			[147] = {
+				[1] = {
+					[1] = 1907.76318519952,
+				},
+				[2] = {
+					[1] = 1907.76318519952,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[546] = {
+			[87] = {
+				[1] = {
+					[1] = 312.796113969928,
+				},
+				[2] = {
+					[1] = 320.68711431714,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[105] = {
+				[1] = {
+					[1] = 312.1711139419883,
+				},
+				[2] = {
+					[1] = 312.1711139419883,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[135] = {
+			[21] = {
+				[1] = {
+					[1] = 965.53414314816,
+				},
+				[2] = {
+					[1] = 965.53414314816,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1104] = {
+			[23] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1206] = {
+			[99] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[968] = {
+			[105] = {
+				[1] = {
+					[1] = 1906.888185160405,
+					[2] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+					[2] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[1204] = {
+			[105] = {
+				[1] = {
+					[1] = 1910.685185341335,
+				},
+				[2] = {
+					[1] = 1910.685185341335,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[969] = {
+			[144] = {
+				[1] = {
+					[1] = 1906.888185160405,
+					[2] = 1908.013185210696,
+					[3] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+					[2] = 1908.013185210696,
+					[3] = 1908.013185210696,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 3,
+			},
+		},
+		[137] = {
+			[45] = {
+				[1] = {
+					[1] = 715.5331319534987,
+				},
+				[2] = {
+					[1] = 715.5331319534987,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[970] = {
+			[149] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1246] = {
+			[122] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[971] = {
+			[115] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[151] = {
+			[45] = {
+				[1] = {
+					[1] = 1176.735152585602,
+					[2] = 1199.188153587452,
+					[3] = 1226.17315479385,
+				},
+				[2] = {
+					[1] = 1176.735152585602,
+					[2] = 1199.188153587452,
+					[3] = 1226.17315479385,
+				},
+				[3] = {
+				},
+				[5] = 3,
+				[6] = 3,
+			},
+			[21] = {
+				[1] = {
+					[1] = 1197.173153499311,
+					[2] = 1232.57915508019,
+				},
+				[2] = {
+					[1] = 1197.173153499311,
+					[2] = 1232.57915508019,
+				},
+				[3] = {
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+			[15] = {
+				[1] = {
+					[1] = 1270.577156773007,
+				},
+				[2] = {
+					[1] = 1270.577156773007,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[972] = {
+			[123] = {
+				[1] = {
+					[1] = 1906.888185160405,
+					[2] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+					[2] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[581] = {
+			[36] = {
+				[1] = {
+					[1] = 1904.763185069135,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[333] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[228] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[88] = {
+				[1] = {
+					[1] = 1904.763185069135,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1904.763185069135,
+					[2] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[973] = {
+			[105] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1232] = {
+			[304] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[974] = {
+			[150] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[273] = {
+			[105] = {
+				[1] = {
+					[1] = 322.453114396131,
+					[2] = 323.4531144408345,
+					[3] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 322.453114396131,
+					[2] = 323.4531144408345,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+		},
+		[567] = {
+			[87] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[23] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1146] = {
+			[5] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[976] = {
+			[36] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[192] = {
+			[123] = {
+				[1] = {
+					[1] = 1901.372184917501,
+					[2] = 1902.013184946201,
+					[3] = 1907.388185182756,
+					[4] = 1908.138185216284,
+					[5] = 1910.685185341335,
+					[6] = 1911.576185375623,
+					[7] = 1914.982185527853,
+					[8] = 1914.982185527853,
+					[9] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1901.372184917501,
+					[2] = 1906.888185160405,
+					[3] = 1908.138185216284,
+					[4] = 1908.138185216284,
+					[5] = 1910.685185341335,
+					[6] = 1911.576185375623,
+					[7] = 1914.982185527853,
+					[8] = 1914.982185527853,
+					[9] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 7,
+				},
+				[4] = false,
+				[5] = 9,
+				[6] = 9,
+			},
+		},
+		[269] = {
+			[38] = {
+				[1] = {
+					[1] = 1904.638185063547,
+				},
+				[2] = {
+					[1] = 1904.638185063547,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[632] = {
+			[99] = {
+				[1] = {
+					[1] = 558.1591249184519,
+				},
+				[2] = {
+					[1] = 558.1591249184519,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[978] = {
+			[105] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1066] = {
+			[88] = {
+				[1] = {
+					[1] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1908.013185210696,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[979] = {
+			[115] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[299] = {
+			[284] = {
+				[1] = {
+					[1] = 1910.685185341335,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[980] = {
+			[154] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[620] = {
+			[5] = {
+				[1] = {
+					[1] = 340.9381152188241,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[121] = {
+				[1] = {
+					[1] = 339.7981151679367,
+				},
+				[2] = {
+					[1] = 340.0481151791125,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[238] = {
+				[1] = {
+					[1] = 339.9231151735246,
+				},
+				[2] = {
+					[1] = 341.3291152363479,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[235] = {
+				[1] = {
+					[1] = 339.4071151504129,
+					[2] = 339.6731151623487,
+				},
+				[2] = {
+					[1] = 339.4071151504129,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+			[239] = {
+				[1] = {
+					[1] = 340.0481151791125,
+				},
+				[2] = {
+					[1] = 341.3291152363479,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[240] = {
+				[1] = {
+					[1] = 340.0481151791125,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[981] = {
+			[105] = {
+				[1] = {
+					[1] = 1906.888185160405,
+				},
+				[2] = {
+					[1] = 1906.888185160405,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[522] = {
+			[57] = {
+				[1] = {
+					[1] = 0.0001,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[982] = {
+			[124] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[55] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[512] = {
+			[23] = {
+				[1] = {
+					[1] = 339.282115144825,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[983] = {
+			[42] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[536] = {
+			[50] = {
+				[1] = {
+					[1] = 26.76610118726492,
+				},
+				[2] = {
+					[1] = 26.76610118726492,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[984] = {
+			[105] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[554] = {
+			[93] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[224] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[225] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[41] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[985] = {
+			[36] = {
+				[1] = {
+					[1] = 1907.388185182756,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1116] = {
+			[144] = {
+				[1] = {
+					[1] = 1908.138185216284,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1208] = {
+			[291] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[134] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[133] = {
+				[1] = {
+					[1] = 1911.576185375623,
+					[2] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1094] = {
+			[259] = {
+				[1] = {
+					[1] = 1908.138185216284,
+					[2] = 1908.138185216284,
+				},
+				[2] = {
+					[1] = 1908.138185216284,
+					[2] = 1908.138185216284,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[987] = {
+			[144] = {
+				[1] = {
+					[1] = 1907.388185182756,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1238] = {
+			[105] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[306] = {
+				[1] = {
+					[1] = 1911.576185375623,
+				},
+				[2] = {
+					[1] = 1911.576185375623,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[988] = {
+			[143] = {
+				[1] = {
+					[1] = 1907.388185182756,
+					[2] = 1907.388185182756,
+				},
+				[2] = {
+					[1] = 1907.388185182756,
+					[2] = 1907.388185182756,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[598] = {
+			[56] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[5] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.657114446333,
 				},
 				[3] = {
 					[5] = 1,
@@ -83263,38 +90696,8 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[951] = {
+		[593] = {
 			[105] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[280] = {
-				[1] = {
-					[1] = 1906.388185138053,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[571] = {
-			[36] = {
 				[1] = {
 					[1] = 323.4531144408345,
 					[2] = 323.4531144408345,
@@ -83309,1579 +90712,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[952] = {
-			[105] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[663] = {
-			[38] = {
-				[1] = {
-					[1] = 1595.155171243644,
-				},
-				[2] = {
-					[1] = 1595.155171243644,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[953] = {
-			[131] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[38] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[674] = {
+		[1194] = {
 			[87] = {
 				[1] = {
-					[1] = 1896.482184702701,
+					[1] = 1910.310185324571,
 				},
 				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1318] = {
-			[154] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[658] = {
-			[50] = {
-				[1] = {
-					[1] = 1460.639165243304,
-					[2] = 1504.624167209661,
-					[3] = 1541.483168857342,
-				},
-				[2] = {
-					[1] = 1460.639165243304,
-					[2] = 1504.624167209661,
-					[3] = 1541.483168857342,
-				},
-				[3] = {
-				},
-				[5] = 3,
-				[6] = 3,
-			},
-			[15] = {
-				[1] = {
-					[1] = 1492.029166646472,
-				},
-				[2] = {
-					[1] = 1492.029166646472,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[136] = {
-				[1] = {
-					[1] = 1478.170166026971,
-					[2] = 1489.482166532597,
-					[3] = 1524.186168084091,
-				},
-				[2] = {
-					[1] = 1478.170166026971,
-					[2] = 1489.482166532597,
-					[3] = 1524.186168084091,
-				},
-				[3] = {
-				},
-				[5] = 3,
-				[6] = 3,
-			},
-		},
-		[955] = {
-			[284] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[144] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[106] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[281] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[149] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1322] = {
-			[106] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[956] = {
-			[87] = {
-				[1] = {
-					[1] = 1906.888185160405,
-					[2] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-			[105] = {
-				[1] = {
-					[1] = 1906.513185143641,
-					[2] = 1906.513185143641,
-					[3] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-					[2] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[5] = 3,
-				[6] = 2,
-			},
-		},
-		[1340] = {
-			[5] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[957] = {
-			[36] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[283] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[574] = {
-			[36] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[958] = {
-			[106] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1244] = {
-			[132] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[959] = {
-			[87] = {
-				[1] = {
-					[1] = 1906.888185160405,
-					[2] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-			[43] = {
-				[1] = {
-					[1] = 1906.513185143641,
-				},
-				[2] = {
-					[1] = 1906.513185143641,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[550] = {
-			[223] = {
-				[1] = {
-					[1] = 322.453114396131,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[302] = {
-			[38] = {
-				[1] = {
-					[1] = 1914.857185522265,
-				},
-				[2] = {
-					[1] = 1914.857185522265,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1272] = {
-			[105] = {
-				[1] = {
-					[1] = 1912.716185426511,
-				},
-				[2] = {
-					[1] = 1912.716185426511,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1304] = {
-			[122] = {
-				[1] = {
-					[1] = 1914.857185522265,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1250] = {
-			[36] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[147] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[130] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[38] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1084] = {
-			[99] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1234] = {
-			[38] = {
-				[1] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-					[3] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-					[3] = 1911.576185375623,
-				},
-				[3] = {
-					[5] = 3,
-				},
-				[4] = false,
-				[5] = 3,
-				[6] = 3,
-			},
-		},
-		[649] = {
-			[38] = {
-				[1] = {
-					[1] = 1281.10815724375,
-				},
-				[2] = {
-					[1] = 1281.10815724375,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[606] = {
-			[95] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 323.4531144408345,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[964] = {
-			[268] = {
-				[1] = {
-					[1] = 1907.013185165993,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[482] = {
-			[142] = {
-				[1] = {
-					[1] = 1902.763184979728,
-					[2] = 1902.763184979728,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-		},
-		[965] = {
-			[87] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[106] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[299] = {
-			[284] = {
-				[1] = {
-					[1] = 1910.685185341335,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[327] = {
-			[154] = {
-				[1] = {
-					[1] = 1900.622184883973,
-				},
-				[2] = {
-					[1] = 1900.622184883973,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[319] = {
-			[36] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1270] = {
-			[253] = {
-				[1] = {
-					[1] = 1912.716185426511,
-				},
-				[2] = {
-					[1] = 1912.716185426511,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[38] = {
-				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[216] = {
-			[36] = {
-				[1] = {
-					[1] = 1908.013185210696,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[23] = {
-				[1] = {
-					[1] = 1902.763184979728,
-					[2] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 1,
-			},
-		},
-		[968] = {
-			[105] = {
-				[1] = {
-					[1] = 1906.888185160405,
-					[2] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-					[2] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[269] = {
-			[38] = {
-				[1] = {
-					[1] = 1904.638185063547,
-				},
-				[2] = {
-					[1] = 1904.638185063547,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[969] = {
-			[144] = {
-				[1] = {
-					[1] = 1906.888185160405,
-					[2] = 1908.013185210696,
-					[3] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-					[2] = 1908.013185210696,
-					[3] = 1908.013185210696,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 3,
-				[6] = 3,
-			},
-		},
-		[1144] = {
-			[105] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[970] = {
-			[149] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1246] = {
-			[122] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[971] = {
-			[115] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[106] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1216] = {
-			[88] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[972] = {
-			[123] = {
-				[1] = {
-					[1] = 1906.888185160405,
-					[2] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-					[2] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[570] = {
-			[105] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 323.4531144408345,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[973] = {
-			[105] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1068] = {
-			[122] = {
-				[1] = {
-					[1] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 1908.013185210696,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[974] = {
-			[150] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1232] = {
-			[304] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[568] = {
-			[226] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[151] = {
-			[45] = {
-				[1] = {
-					[1] = 1176.735152585602,
-					[2] = 1199.188153587452,
-					[3] = 1226.17315479385,
-				},
-				[2] = {
-					[1] = 1176.735152585602,
-					[2] = 1199.188153587452,
-					[3] = 1226.17315479385,
-				},
-				[3] = {
-				},
-				[5] = 3,
-				[6] = 3,
-			},
-			[21] = {
-				[1] = {
-					[1] = 1197.173153499311,
-					[2] = 1232.57915508019,
-				},
-				[2] = {
-					[1] = 1197.173153499311,
-					[2] = 1232.57915508019,
-				},
-				[3] = {
-				},
-				[5] = 2,
-				[6] = 2,
-			},
-			[15] = {
-				[1] = {
-					[1] = 1270.577156773007,
-				},
-				[2] = {
-					[1] = 1270.577156773007,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[976] = {
-			[36] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1198] = {
-			[167] = {
-				[1] = {
-					[1] = 1910.685185341335,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1204] = {
-			[105] = {
-				[1] = {
-					[1] = 1910.685185341335,
-				},
-				[2] = {
-					[1] = 1910.685185341335,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[535] = {
-			[70] = {
-				[1] = {
-					[1] = 82.34410367923081,
-				},
-				[2] = {
-					[1] = 82.34410367923081,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[97] = {
-				[1] = {
-					[1] = 76.95310343818963,
-				},
-				[2] = {
-					[1] = 76.95310343818963,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[204] = {
-				[1] = {
-					[1] = 81.09410362335146,
-				},
-				[2] = {
-					[1] = 81.09410362335146,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[108] = {
-				[1] = {
-					[1] = 11.92210052365661,
-					[2] = 30.57810137065351,
-					[3] = 68.48410306329132,
-				},
-				[2] = {
-					[1] = 11.92210052365661,
-					[2] = 30.57810137065351,
-					[3] = 68.48410306329132,
-				},
-				[3] = {
-				},
-				[5] = 3,
-				[6] = 3,
-			},
-		},
-		[978] = {
-			[105] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[135] = {
-			[21] = {
-				[1] = {
-					[1] = 965.53414314816,
-				},
-				[2] = {
-					[1] = 965.53414314816,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[979] = {
-			[115] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[585] = {
-			[132] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[144] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[980] = {
-			[154] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[569] = {
-			[36] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[981] = {
-			[105] = {
-				[1] = {
-					[1] = 1906.888185160405,
-				},
-				[2] = {
-					[1] = 1906.888185160405,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[234] = {
-			[38] = {
-				[1] = {
-					[1] = 1907.76318519952,
-					[2] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 1907.76318519952,
-					[2] = 1908.013185210696,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 2,
-			},
-			[147] = {
-				[1] = {
-					[1] = 1907.76318519952,
-				},
-				[2] = {
-					[1] = 1907.76318519952,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[982] = {
-			[124] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[55] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1206] = {
-			[99] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[983] = {
-			[42] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[137] = {
-			[45] = {
-				[1] = {
-					[1] = 715.5331319534987,
-				},
-				[2] = {
-					[1] = 715.5331319534987,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[984] = {
-			[105] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[581] = {
-			[88] = {
-				[1] = {
-					[1] = 1904.763185069135,
-				},
-				[2] = {
-					[1] = 1904.763185069135,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[228] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 323.4531144408345,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[36] = {
-				[1] = {
-					[1] = 1904.763185069135,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[985] = {
-			[36] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[273] = {
-			[105] = {
-				[1] = {
-					[1] = 322.453114396131,
-					[2] = 323.4531144408345,
-					[3] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 322.453114396131,
-					[2] = 323.4531144408345,
-				},
-				[3] = {
-					[5] = 3,
-				},
-				[4] = false,
-				[5] = 3,
-				[6] = 2,
-			},
-		},
-		[567] = {
-			[87] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[23] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 323.4531144408345,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1146] = {
-			[5] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[987] = {
-			[144] = {
-				[1] = {
-					[1] = 1907.388185182756,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[192] = {
-			[123] = {
-				[1] = {
-					[1] = 1901.372184917501,
-					[2] = 1902.013184946201,
-					[3] = 1907.388185182756,
-					[4] = 1908.138185216284,
-					[5] = 1910.685185341335,
-					[6] = 1911.576185375623,
-					[7] = 1914.982185527853,
-					[8] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1901.372184917501,
-					[2] = 1906.888185160405,
-					[3] = 1908.138185216284,
-					[4] = 1908.138185216284,
-					[5] = 1910.685185341335,
-					[6] = 1911.576185375623,
-					[7] = 1914.982185527853,
-					[8] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 7,
-				},
-				[4] = false,
-				[5] = 8,
-				[6] = 8,
-			},
-		},
-		[988] = {
-			[143] = {
-				[1] = {
-					[1] = 1907.388185182756,
-					[2] = 1907.388185182756,
-				},
-				[2] = {
-					[1] = 1907.388185182756,
-					[2] = 1907.388185182756,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[632] = {
-			[99] = {
-				[1] = {
-					[1] = 558.1591249184519,
-				},
-				[2] = {
-					[1] = 558.1591249184519,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1104] = {
-			[23] = {
-				[1] = {
-					[1] = 1908.138185216284,
-				},
-				[2] = {
-					[1] = 1908.138185216284,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1066] = {
-			[88] = {
-				[1] = {
-					[1] = 1908.013185210696,
-				},
-				[2] = {
-					[1] = 1908.013185210696,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[546] = {
-			[87] = {
-				[1] = {
-					[1] = 312.796113969928,
-				},
-				[2] = {
-					[1] = 320.68711431714,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[105] = {
-				[1] = {
-					[1] = 312.1711139419883,
-				},
-				[2] = {
-					[1] = 312.1711139419883,
+					[1] = 1910.310185324571,
 				},
 				[3] = {
 				},
@@ -84904,8 +90741,54 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[1080] = {
-			[12] = {
+		[185] = {
+			[123] = {
+				[1] = {
+					[1] = 1281.623157266698,
+					[2] = 1912.716185426511,
+				},
+				[2] = {
+					[1] = 1281.623157266698,
+					[2] = 1912.716185426511,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+			[312] = {
+				[1] = {
+					[1] = 1912.716185426511,
+				},
+				[2] = {
+					[1] = 1912.716185426511,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[591] = {
+			[251] = {
+				[1] = {
+					[1] = 1908.013185210696,
+				},
+				[2] = {
+					[1] = 1908.013185210696,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[23] = {
 				[1] = {
 					[1] = 1908.138185216284,
 				},
@@ -84917,20 +90800,96 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 1,
 			},
-			[175] = {
+			[317] = {
 				[1] = {
-					[1] = 1908.013185210696,
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[594] = {
+			[38] = {
+				[1] = {
+					[1] = 323.4531144408345,
+				},
+				[2] = {
+					[1] = 323.4531144408345,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1364] = {
+			[312] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[123] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[196] = {
+				[1] = {
+					[1] = 1914.982185527853,
+				},
+				[2] = {
+					[1] = 1914.982185527853,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[590] = {
+			[143] = {
+				[1] = {
+					[1] = 323.4531144408345,
 				},
 				[2] = {
 				},
 				[3] = {
-					[1080] = 1,
+					[5] = 1,
 				},
-				[4] = true,
+				[4] = false,
 				[5] = 1,
 				[6] = 0,
 			},
-			[322] = {
+		},
+		[1396] = {
+			[23] = {
 				[1] = {
 					[1] = 1914.982185527853,
 				},
@@ -84944,181 +90903,48 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[620] = {
-			[5] = {
+		[1324] = {
+			[42] = {
 				[1] = {
-					[1] = 340.9381152188241,
+					[1] = 1914.982185527853,
 				},
 				[2] = {
+					[1] = 1914.982185527853,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[121] = {
-				[1] = {
-					[1] = 339.7981151679367,
-				},
-				[2] = {
-					[1] = 340.0481151791125,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
-			[238] = {
+			[123] = {
 				[1] = {
-					[1] = 339.9231151735246,
+					[1] = 1914.982185527853,
+					[2] = 1918.170185670427,
 				},
 				[2] = {
-					[1] = 341.3291152363479,
+					[1] = 1914.982185527853,
+					[2] = 1918.170185670427,
 				},
 				[3] = {
 					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[235] = {
-				[1] = {
-					[1] = 339.4071151504129,
-					[2] = 339.6731151623487,
-				},
-				[2] = {
-					[1] = 339.4071151504129,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 1,
-			},
-			[239] = {
-				[1] = {
-					[1] = 340.0481151791125,
-				},
-				[2] = {
-					[1] = 341.3291152363479,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[240] = {
-				[1] = {
-					[1] = 340.0481151791125,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[631] = {
-			[21] = {
-				[1] = {
-					[1] = 487.2681217493325,
-					[2] = 797.0481355974287,
-				},
-				[2] = {
-					[1] = 487.2681217493325,
-					[2] = 797.0481355974287,
-				},
-				[3] = {
-				},
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[522] = {
-			[57] = {
-				[1] = {
-					[1] = 0.0001,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1248] = {
-			[144] = {
-				[1] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-				},
-				[3] = {
-					[5] = 2,
 				},
 				[4] = false,
 				[5] = 2,
 				[6] = 2,
 			},
 		},
-		[512] = {
-			[23] = {
+		[1224] = {
+			[105] = {
 				[1] = {
-					[1] = 339.282115144825,
+					[1] = 1914.982185527853,
 				},
 				[2] = {
+					[1] = 1914.982185527853,
 				},
 				[3] = {
 					[5] = 1,
 				},
 				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[129] = {
-			[88] = {
-				[1] = {
-					[1] = 1902.763184979728,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[536] = {
-			[50] = {
-				[1] = {
-					[1] = 26.76610118726492,
-				},
-				[2] = {
-					[1] = 26.76610118726492,
-				},
-				[3] = {
-				},
 				[5] = 1,
 				[6] = 1,
 			},
@@ -85153,13 +90979,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[554] = {
-			[93] = {
+		[1334] = {
+			[105] = {
 				[1] = {
-					[1] = 323.4531144408345,
+					[1] = 1914.982185527853,
 				},
 				[2] = {
-					[1] = 323.4531144408345,
+					[1] = 1914.982185527853,
 				},
 				[3] = {
 					[5] = 1,
@@ -85167,45 +90993,6 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 1,
-			},
-			[224] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[225] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[41] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
 			},
 		},
 		[996] = {
@@ -85222,28 +91009,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1116] = {
-			[144] = {
+		[1400] = {
+			[88] = {
 				[1] = {
-					[1] = 1908.138185216284,
+					[1] = 1914.982185527853,
 				},
 				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-		},
-		[1208] = {
-			[291] = {
-				[1] = {
-					[1] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
+					[1] = 1914.982185527853,
 				},
 				[3] = {
 					[5] = 1,
@@ -85252,50 +91024,35 @@ DPSMateAurasGained = {
 				[5] = 1,
 				[6] = 1,
 			},
-			[134] = {
+		},
+		[1118] = {
+			[257] = {
 				[1] = {
-					[1] = 1911.576185375623,
+					[1] = 1908.138185216284,
 				},
 				[2] = {
-					[1] = 1911.576185375623,
+					[1] = 1908.138185216284,
 				},
 				[3] = {
 				},
 				[5] = 1,
 				[6] = 1,
 			},
-			[133] = {
-				[1] = {
-					[1] = 1911.576185375623,
-					[2] = 1911.576185375623,
-				},
-				[2] = {
-					[1] = 1911.576185375623,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 1,
-			},
 		},
-		[1094] = {
-			[259] = {
+		[1424] = {
+			[88] = {
 				[1] = {
-					[1] = 1908.138185216284,
-					[2] = 1908.138185216284,
+					[1] = 1915.107185533441,
 				},
 				[2] = {
-					[1] = 1908.138185216284,
-					[2] = 1908.138185216284,
+					[1] = 1915.107185533441,
 				},
 				[3] = {
-					[5] = 2,
+					[5] = 1,
 				},
 				[4] = false,
-				[5] = 2,
-				[6] = 2,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[998] = {
@@ -85312,32 +91069,28 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1238] = {
-			[105] = {
+		[1428] = {
+			[23] = {
 				[1] = {
-					[1] = 1911.576185375623,
+					[1] = 1918.170185670427,
 				},
 				[2] = {
-					[1] = 1911.576185375623,
+					[1] = 1918.170185670427,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
-			[306] = {
+			[143] = {
 				[1] = {
-					[1] = 1911.576185375623,
+					[1] = 1915.107185533441,
 				},
 				[2] = {
-					[1] = 1911.576185375623,
+					[1] = 1915.107185533441,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -85372,32 +91125,16 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[598] = {
-			[56] = {
+		[1440] = {
+			[257] = {
 				[1] = {
-					[1] = 323.4531144408345,
+					[1] = 1917.795185653664,
 				},
 				[2] = {
-					[1] = 323.4531144408345,
+					[1] = 1917.795185653664,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[5] = {
-				[1] = {
-					[1] = 323.4531144408345,
-				},
-				[2] = {
-					[1] = 323.657114446333,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -85479,38 +91216,38 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[53] = {
-			[103] = {
+		[1358] = {
+			[144] = {
 				[1] = {
-					[1] = 1300.607158117166,
-					[2] = 1301.482158156282,
-					[3] = 1309.139158493078,
-					[4] = 1319.436158953405,
+					[1] = 1914.982185527853,
+					[2] = 1918.170185670427,
 				},
 				[2] = {
-					[1] = 1300.607158117166,
-					[2] = 1301.482158156282,
-					[3] = 1309.139158493078,
-					[4] = 1319.436158953405,
+					[1] = 1918.170185670427,
 				},
 				[3] = {
+					[5] = 2,
 				},
-				[5] = 4,
-				[6] = 4,
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
 			},
 		},
-		[1194] = {
-			[87] = {
+		[181] = {
+			[105] = {
 				[1] = {
-					[1] = 1910.310185324571,
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
 				},
 				[2] = {
-					[1] = 1910.310185324571,
+					[1] = 1914.982185527853,
+					[2] = 1914.982185527853,
 				},
 				[3] = {
+					[5] = 1,
 				},
-				[5] = 1,
-				[6] = 1,
+				[5] = 2,
+				[6] = 2,
 			},
 		},
 		[1002] = {
@@ -85528,34 +91265,28 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[185] = {
-			[123] = {
+		[701] = {
+			[57] = {
 				[1] = {
-					[1] = 1281.623157266698,
-					[2] = 1912.716185426511,
+					[1] = 1902.763184979728,
 				},
 				[2] = {
-					[1] = 1281.623157266698,
-					[2] = 1912.716185426511,
+					[1] = 1902.763184979728,
 				},
 				[3] = {
-					[5] = 2,
 				},
-				[4] = false,
-				[5] = 2,
-				[6] = 2,
+				[5] = 1,
+				[6] = 1,
 			},
-			[312] = {
+			[150] = {
 				[1] = {
-					[1] = 1912.716185426511,
+					[1] = 1902.763184979728,
 				},
 				[2] = {
-					[1] = 1912.716185426511,
+					[1] = 1902.763184979728,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
 				[6] = 1,
 			},
@@ -85589,13 +91320,13 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[594] = {
+		[307] = {
 			[38] = {
 				[1] = {
-					[1] = 323.4531144408345,
+					[1] = 1914.982185527853,
 				},
 				[2] = {
-					[1] = 323.4531144408345,
+					[1] = 1914.982185527853,
 				},
 				[3] = {
 					[5] = 1,
@@ -85621,19 +91352,18 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[590] = {
-			[143] = {
+		[1483] = {
+			[105] = {
 				[1] = {
-					[1] = 323.4531144408345,
+					[1] = 1918.170185670427,
 				},
 				[2] = {
+					[1] = 1918.170185670427,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
-				[6] = 0,
+				[6] = 1,
 			},
 		},
 		[1005] = {
@@ -85663,34 +91393,32 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[1324] = {
-			[42] = {
+		[1494] = {
+			[131] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1918.170185670427,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
+					[1] = 1918.170185670427,
 				},
 				[3] = {
 				},
 				[5] = 1,
 				[6] = 1,
 			},
-			[123] = {
+			[38] = {
 				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1918.170185670427,
+					[1] = 1918.170185670427,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1918.170185670427,
+					[1] = 1918.420185681603,
 				},
 				[3] = {
 					[5] = 1,
 				},
 				[4] = false,
-				[5] = 2,
-				[6] = 2,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[1006] = {
@@ -85708,68 +91436,51 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[618] = {
-			[105] = {
+		[1422] = {
+			[106] = {
 				[1] = {
-					[1] = 325.5321145301521,
+					[1] = 1915.107185533441,
 				},
 				[2] = {
-					[1] = 325.5321145301521,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1334] = {
-			[105] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
 				},
 				[3] = {
 					[5] = 1,
 				},
 				[4] = false,
 				[5] = 1,
-				[6] = 1,
+				[6] = 0,
 			},
 		},
-		[1268] = {
-			[124] = {
+		[133] = {
+			[142] = {
 				[1] = {
-					[1] = 1912.716185426511,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1912.716185426511,
-					[2] = 1914.982185527853,
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
 				},
 				[3] = {
 					[5] = 2,
 				},
-				[5] = 3,
+				[4] = false,
+				[5] = 2,
 				[6] = 2,
 			},
-			[55] = {
+		},
+		[1502] = {
+			[144] = {
 				[1] = {
-					[1] = 1912.716185426511,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1912.716185426511,
-					[2] = 1914.982185527853,
+					[1] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 2,
 				},
-				[5] = 3,
-				[6] = 2,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[1008] = {
@@ -85786,13 +91497,27 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1118] = {
-			[257] = {
+		[1506] = {
+			[117] = {
 				[1] = {
-					[1] = 1908.138185216284,
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1908.138185216284,
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 1,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
 				},
 				[3] = {
 				},
@@ -85801,6 +91526,19 @@ DPSMateAurasGained = {
 			},
 		},
 		[1009] = {
+			[57] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
 			[122] = {
 				[1] = {
 					[1] = 1908.013185210696,
@@ -85816,20 +91554,23 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[580] = {
+		[1510] = {
 			[105] = {
 				[1] = {
-					[1] = 323.4531144408345,
-					[2] = 323.4531144408345,
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 323.4531144408345,
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 1,
+					[5] = 3,
 				},
-				[5] = 2,
-				[6] = 1,
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
 			},
 		},
 		[1010] = {
@@ -85884,28 +91625,23 @@ DPSMateAurasGained = {
 				[6] = 0,
 			},
 		},
-		[1336] = {
-			[105] = {
-				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 3,
-				},
-				[4] = false,
-				[5] = 3,
-				[6] = 3,
-			},
+		[1518] = {
 			[87] = {
 				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
 				},
 				[2] = {
 				},
@@ -85945,152 +91681,75 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1392] = {
-			[148] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[142] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-			[143] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1350] = {
-			[132] = {
-				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 2,
-			},
-			[276] = {
-				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[5] = 2,
-				[6] = 1,
-			},
-			[319] = {
-				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
-					[4] = 1914.982185527853,
-					[5] = 1914.982185527853,
-					[6] = 1914.982185527853,
-					[7] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-					[3] = 1914.982185527853,
-					[4] = 1914.982185527853,
-					[5] = 1914.982185527853,
-					[6] = 1914.982185527853,
-					[7] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 7,
-				},
-				[4] = false,
-				[5] = 7,
-				[6] = 7,
-			},
-			[49] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1358] = {
-			[144] = {
-				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1918.170185670427,
-				},
-				[2] = {
-					[1] = 1918.170185670427,
-				},
-				[3] = {
-					[5] = 2,
-				},
-				[4] = false,
-				[5] = 2,
-				[6] = 1,
-			},
-		},
-		[181] = {
+		[1526] = {
 			[105] = {
 				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[106] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1528] = {
+			[88] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[78] = {
+			[143] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
 				},
 				[3] = {
 					[5] = 1,
 				},
-				[5] = 2,
-				[6] = 2,
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1530] = {
+			[132] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[126] = {
@@ -86131,49 +91790,10 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[701] = {
-			[57] = {
+		[1533] = {
+			[146] = {
 				[1] = {
-					[1] = 1902.763184979728,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-			[150] = {
-				[1] = {
-					[1] = 1902.763184979728,
-				},
-				[2] = {
-					[1] = 1902.763184979728,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[74] = {
-			[148] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[142] = {
-				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1919.060185710139,
 				},
 				[2] = {
 				},
@@ -86186,39 +91806,7 @@ DPSMateAurasGained = {
 			},
 			[143] = {
 				[1] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-					[2] = 1914.982185527853,
-				},
-				[3] = {
-				},
-				[5] = 2,
-				[6] = 2,
-			},
-		},
-		[307] = {
-			[38] = {
-				[1] = {
-					[1] = 1914.982185527853,
-				},
-				[2] = {
-					[1] = 1914.982185527853,
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1378] = {
-			[144] = {
-				[1] = {
-					[1] = 1914.982185527853,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
 				},
@@ -86228,6 +91816,127 @@ DPSMateAurasGained = {
 				[4] = false,
 				[5] = 1,
 				[6] = 0,
+			},
+			[145] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+					[1] = 1919.060185710139,
+				},
+				[3] = {
+					[1533] = 1,
+				},
+				[4] = true,
+				[5] = 1,
+				[6] = 1,
+			},
+			[142] = {
+				[1] = {
+					[1] = 1919.060185710139,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1536] = {
+			[143] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[5] = 2,
+				[6] = 2,
+			},
+			[99] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[145] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+					[3] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 1,
+					[1536] = 1,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 3,
+			},
+			[142] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1542] = {
+			[105] = {
+				[1] = {
+					[1] = 1918.935185704551,
+					[2] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1546] = {
+			[117] = {
+				[1] = {
+					[1] = 1918.935185704551,
+				},
+				[2] = {
+					[1] = 1918.935185704551,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[1016] = {
@@ -86290,21 +91999,18 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[699] = {
+		[1552] = {
 			[105] = {
 				[1] = {
-					[1] = 1902.763184979728,
-					[2] = 1902.763184979728,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
-					[1] = 1902.763184979728,
-					[2] = 1902.763184979728,
+					[1] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[5] = 2,
-				[6] = 2,
+				[5] = 1,
+				[6] = 1,
 			},
 		},
 		[1017] = {
@@ -86325,53 +92031,63 @@ DPSMateAurasGained = {
 				[6] = 2,
 			},
 		},
-		[710] = {
-			[251] = {
+		[53] = {
+			[103] = {
 				[1] = {
-					[1] = 1902.763184979728,
+					[1] = 1300.607158117166,
+					[2] = 1301.482158156282,
+					[3] = 1309.139158493078,
+					[4] = 1319.436158953405,
 				},
 				[2] = {
+					[1] = 1300.607158117166,
+					[2] = 1301.482158156282,
+					[3] = 1309.139158493078,
+					[4] = 1319.436158953405,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
-			},
-			[149] = {
-				[1] = {
-					[1] = 1902.763184979728,
-				},
-				[2] = {
-				},
-				[3] = {
-					[5] = 1,
-				},
-				[4] = false,
-				[5] = 1,
-				[6] = 0,
+				[5] = 4,
+				[6] = 4,
 			},
 		},
-		[1422] = {
-			[106] = {
+		[1558] = {
+			[250] = {
 				[1] = {
-					[1] = 1915.107185533441,
+					[1] = 1918.935185704551,
 				},
 				[2] = {
+					[1] = 1918.935185704551,
 				},
 				[3] = {
-					[5] = 1,
 				},
-				[4] = false,
 				[5] = 1,
-				[6] = 0,
+				[6] = 1,
 			},
 		},
 	},
 	[2] = {
-		[1481] = {
-			[294] = {
+		[1573] = {
+			[144] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+					[3] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+		},
+		[1574] = {
+			[338] = {
 				[1] = {
 					[1] = 0.1251000055879354,
 				},
@@ -86384,35 +92100,24 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
-		[1492] = {
-			[99] = {
+		[1575] = {
+			[88] = {
 				[1] = {
 					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
 				},
 				[2] = {
 					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
 				},
 				[3] = {
+					[5] = 1,
 				},
-				[5] = 1,
-				[6] = 1,
+				[5] = 2,
+				[6] = 2,
 			},
 		},
-		[1496] = {
-			[23] = {
-				[1] = {
-					[1] = 0.1251000055879354,
-				},
-				[2] = {
-					[1] = 0.1251000055879354,
-				},
-				[3] = {
-				},
-				[5] = 1,
-				[6] = 1,
-			},
-		},
-		[1497] = {
+		[1577] = {
 			[38] = {
 				[1] = {
 					[1] = 0.1251000055879354,
@@ -86428,64 +92133,550 @@ DPSMateAurasGained = {
 				[6] = 1,
 			},
 		},
+		[1578] = {
+			[260] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[255] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1579] = {
+			[38] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[1581] = {
+			[131] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[38] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+					[3] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+					[3] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[5] = 3,
+				[6] = 3,
+			},
+		},
+		[1520] = {
+			[5] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1583] = {
+			[122] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1525] = {
+			[122] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1588] = {
+			[124] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[55] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[5] = {
+			[340] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+			[250] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[339] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1559] = {
+			[223] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[154] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[273] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[55] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[124] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1188] = {
+			[144] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+		},
+		[1592] = {
+			[147] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1501] = {
+			[105] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1533] = {
+			[146] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+			[145] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[1533] = 1,
+				},
+				[4] = true,
+				[5] = 1,
+				[6] = 1,
+			},
+			[142] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1565] = {
+			[28] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 1,
+			},
+			[143] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+			[12] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
+		[1566] = {
+			[142] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+					[3] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 3,
+				},
+				[4] = false,
+				[5] = 3,
+				[6] = 2,
+			},
+		},
+		[1591] = {
+			[105] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1506] = {
+			[106] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1587] = {
+			[23] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+				},
+				[3] = {
+				},
+				[5] = 1,
+				[6] = 1,
+			},
+		},
+		[1570] = {
+			[122] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[2] = {
+					[1] = 0.1251000055879354,
+					[2] = 0.1251000055879354,
+				},
+				[3] = {
+					[5] = 2,
+				},
+				[4] = false,
+				[5] = 2,
+				[6] = 2,
+			},
+		},
+		[1582] = {
+			[122] = {
+				[1] = {
+					[1] = 0.1251000055879354,
+				},
+				[2] = {
+				},
+				[3] = {
+					[5] = 1,
+				},
+				[4] = false,
+				[5] = 1,
+				[6] = 0,
+			},
+		},
 	},
 }
 DPSMateCombatTime = {
-	["total"] = 1918.935185704551,
+	["total"] = 1919.060185710139,
 	["segments"] = {
 	},
 	["effective"] = {
 		[1] = {
 			["Kolkar Stormer"] = 43.78200195729733,
-			["Windfury Sorceress"] = 6.560000283643603,
+			["Hezrul Bloodmark"] = 9.641000429168344,
 			["Flatland Prowler"] = 11.82900052890182,
-			["Eazysnack"] = 1.000000044703484,
+			["Savannah Prowler"] = 9.907000442966819,
 			["Akyira"] = 0.2660000119358301,
-			["Ghost Howl"] = 4.890000220388174,
+			["Windfury Matriarch"] = 13.61000060848892,
 			["Hecklefang Hyena"] = 21.82900097407401,
+			["The Rake"] = 7.954000355675817,
 			["Taloned Swoop"] = 3.282000141218305,
 			["Raaltul"] = 48.85900218598545,
-			["Sunscale Screecher"] = 15.57900069653988,
 			["Kolkar Bloodcharger"] = 18.38900082185864,
 			["Unknown"] = 1.750000078231097,
-			["Windfury Matriarch"] = 13.61000060848892,
 			["Devouring Ectoplasm"] = 2.422000108286738,
+			["Venture Co. Supervisor"] = 5.67200024984777,
 			["Arra'chea"] = 4.016000177711248,
-			["Kolkar Wrangler"] = 32.17200144007802,
+			["Spookyflames"] = 0.5000000223517418,
 			["Fleeting Plainstrider"] = 26.72000120766461,
-			["Skullsplitter Beastmaster"] = 0.5000000223517418,
 			["Mipsips"] = 3.015000130981207,
-			["Prairie Wolf Alpha"] = 25.09300112165511,
+			["Skullsplitter Beastmaster"] = 0.5000000223517418,
+			["Fan"] = 0.6250000279396772,
 			["Helihoes"] = 0.3750000167638063,
-			["Afatchef"] = 0.5000000223517418,
-			["Dig Rat"] = 0.2500000111758709,
+			["Windfury Sorceress"] = 6.560000283643603,
+			["Deviate Creeper"] = 34.34400153532624,
 			["Easypewpew"] = 1771.52507915534,
 			["Venture Co. Worker"] = 6.422000285238028,
-			["Deviate Creeper"] = 34.34400153532624,
-			["Venture Co. Supervisor"] = 5.67200024984777,
+			["Dig Rat"] = 0.2500000111758709,
+			["Kolkar Wrangler"] = 32.17200144007802,
 			["Verog the Dervish"] = 3.172000154852867,
 			["Sister Hatelash"] = 3.921000175178051,
-			["Spookyflames"] = 0.5000000223517418,
 			["Barrens Giraffe"] = 3.141000140458345,
-			["Prairie Stalker"] = 2.516000112518668,
 			["Kolkar Packhound"] = 5.032000225037336,
+			["Prairie Stalker"] = 2.516000112518668,
+			["Ghost Howl"] = 4.890000220388174,
 			["Deviate Stalker"] = 8.296000370755792,
 			["Kolkar Pack Runner"] = 7.203000320121646,
 			["Stonard Hunter"] = 0.6250000279396772,
 			["Pigpapapump"] = 0.1250000055879355,
-			["Gamon"] = 15.62600069679322,
-			["Savannah Huntress"] = 2.000000089406967,
 			["Zhevra Runner"] = 11.59500051848591,
+			["Savannah Huntress"] = 2.000000089406967,
+			["Gamon"] = 15.75100070238116,
 			["Swoop"] = 4.532000202685595,
 			["Kolkar Marauder"] = 9.46800041757524,
 			["Flatland Cougar"] = 1.655000073835254,
 			["Deviate Coiler"] = 6.703000297769904,
-			["Hezrul Bloodmark"] = 9.641000429168344,
+			["Afatchef"] = 0.5000000223517418,
 			["Kodo Matriarch"] = 1.625000067055225,
-			["Fan"] = 0.6250000279396772,
-			["Savannah Prowler"] = 9.907000442966819,
-			["The Rake"] = 7.954000355675817,
+			["Prairie Wolf Alpha"] = 25.09300112165511,
+			["Eazysnack"] = 1.000000044703484,
 			["Warlord Krom'zar"] = 4.076000181958079,
+			["Sunscale Screecher"] = 15.57900069653988,
 			["Oasis Snapjaw"] = 88.28400392457843,
 			["Pjatla"] = 2.577000115066767,
 			["Dreadmaw Crocolisk"] = 0.5000000223517418,
@@ -86500,41 +92691,41 @@ DPSMateCombatTime = {
 DPSMateHistory = {
 	["EDDone"] = {
 	},
-	["Fails"] = {
+	["DMGTaken"] = {
 	},
 	["OHealing"] = {
 	},
-	["Auras"] = {
+	["names"] = {
 	},
 	["EHealing"] = {
 	},
 	["EDTaken"] = {
 	},
-	["CCBreaker"] = {
+	["Interrupts"] = {
 	},
-	["Threat"] = {
+	["Deaths"] = {
 	},
 	["Dispels"] = {
 	},
 	["THealingTaken"] = {
 	},
-	["names"] = {
+	["EHealingTaken"] = {
 	},
 	["OHealingTaken"] = {
 	},
 	["THealing"] = {
 	},
-	["EHealingTaken"] = {
+	["Auras"] = {
 	},
 	["Absorbs"] = {
 	},
-	["Deaths"] = {
+	["Threat"] = {
 	},
-	["DMGTaken"] = {
+	["Fails"] = {
 	},
 	["DMGDone"] = {
 	},
-	["Interrupts"] = {
+	["CCBreaker"] = {
 	},
 }
 DPSMateAttempts = {

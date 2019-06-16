@@ -21,11 +21,11 @@ FrameLevel: 8
 X: 486
 Y: -538
 Frame: MailFrame
-FrameLevel: 45
+FrameLevel: 31
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 30
+FrameLevel: 49
 X: 185
 Y: -111
 Frame: CensusPlus
