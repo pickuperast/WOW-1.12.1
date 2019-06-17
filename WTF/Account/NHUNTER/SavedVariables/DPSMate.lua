@@ -15,10 +15,7 @@ DPSMateSettings = {
 		[4] = false,
 	},
 	["datasegments"] = 8,
-	["columnsdecurses"] = {
-		[1] = true,
-		[2] = true,
-	},
+	["hidewhensolo"] = false,
 	["columnsfriendlyfiretaken"] = {
 		[1] = true,
 		[2] = false,
@@ -27,9 +24,9 @@ DPSMateSettings = {
 	},
 	["hideincombat"] = false,
 	["hideinpvp"] = false,
-	["columnsdtps"] = {
-		[1] = false,
-		[2] = true,
+	["columnsoverhealing"] = {
+		[1] = true,
+		[2] = false,
 		[3] = true,
 		[4] = false,
 	},
@@ -199,12 +196,7 @@ DPSMateSettings = {
 		[4] = false,
 	},
 	["bccd"] = false,
-	["columnsoverhealing"] = {
-		[1] = true,
-		[2] = false,
-		[3] = true,
-		[4] = false,
-	},
+	["dataresetspartyamount"] = 2,
 	["windows"] = {
 		[1] = {
 			["barheight"] = 11,
@@ -269,12 +261,12 @@ DPSMateSettings = {
 			["titlebaropacity"] = 0,
 			["filterpeople"] = "",
 			["opacity"] = 1,
+			["titlebarfontsize"] = 12,
 			["barfontcolor"] = {
 				[1] = 1,
 				[2] = 1,
 				[3] = 1,
 			},
-			["titlebarreport"] = true,
 			["titlebartexture"] = "Minimalist",
 			["bartexture"] = "normTex",
 			["savsize"] = {
@@ -285,7 +277,7 @@ DPSMateSettings = {
 			["CurMode"] = "dps",
 			["grouponly"] = true,
 			["titlebar"] = true,
-			["titlebarfontsize"] = 12,
+			["titlebarreport"] = true,
 			["contentbgtexture"] = "Solid Background",
 			["filterclasses"] = {
 				["warrior"] = true,
@@ -308,7 +300,10 @@ DPSMateSettings = {
 			["barfontflag"] = "Outline",
 		},
 	},
-	["hidewhensolo"] = false,
+	["columnsprocs"] = {
+		[1] = true,
+		[2] = true,
+	},
 	["tooltipanchor"] = 5,
 	["reportdelay"] = false,
 	["columnsdiseasereceived"] = {
@@ -316,7 +311,7 @@ DPSMateSettings = {
 		[2] = true,
 	},
 	["disablewhilehidden"] = false,
-	["columnsprocs"] = {
+	["columnsdecurses"] = {
 		[1] = true,
 		[2] = true,
 	},
@@ -324,7 +319,12 @@ DPSMateSettings = {
 		[1] = true,
 		[2] = true,
 	},
-	["dataresetspartyamount"] = 2,
+	["columnsdtps"] = {
+		[1] = false,
+		[2] = true,
+		[3] = true,
+		[4] = false,
+	},
 	["columnsmagicreceived"] = {
 		[1] = true,
 		[2] = true,

@@ -5,6 +5,6 @@ MACRO 16777217 "SACR" Ability_Creature_Cursed_04
 /cast Sacrifice
 END
 MACRO 16777219 "|cff00dd00REGEN" Spell_Holy_LayOnHands
-/script UseContainerItem(0, 2)
 /script UseInventoryItem(17)
+/script UseContainerItem(0, 2)
 END
