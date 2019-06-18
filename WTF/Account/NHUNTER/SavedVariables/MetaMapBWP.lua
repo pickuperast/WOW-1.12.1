@@ -144,5 +144,12 @@ BWP_QuestList = {
 		["QuestName"] = "A New Cloak's Sheen",
 		["QuestGiver"] = "Krueg Skullsplitter",
 	},
+	[20] = {
+		["Y"] = 0.08366501331329346,
+		["X"] = 0.6745493412017822,
+		["Zone"] = 22,
+		["QuestName"] = "The Festival of Fire",
+		["QuestGiver"] = "Festival Talespinner",
+	},
 }
 BWP_AbandonedQuests = nil

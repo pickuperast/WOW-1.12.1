@@ -16,6 +16,10 @@ X: 1109
 Y: -712
 W: 401
 H: 112
+Frame: SpellBookFrame
+FrameLevel: 1
+X: -1
+Y: -105
 Frame: CharacterFrame
 FrameLevel: 23
 X: 0
@@ -49,7 +53,7 @@ FrameLevel: 8
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 39
+FrameLevel: 34
 X: 255
 Y: -117
 Frame: CensusPlus
@@ -70,3 +74,7 @@ X: 1241
 Y: -468
 W: 227
 H: 207
+Frame: ClassTrainerFrame
+FrameLevel: 1
+X: 0
+Y: -104

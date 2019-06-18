@@ -83,14 +83,14 @@ TheoryCraft_MitigationMobs = {
 	["Razormane Battleguard"] = {
 		[1] = 651,
 	},
-	["Duskbat"] = {
-		[1] = 135,
-	},
 	["Razormane Scout"] = {
 		[1] = 338,
 	},
-	["Durotar Tiger"] = {
-		[1] = 366,
+	["Duskbat"] = {
+		[1] = 135,
+	},
+	["Swoop"] = {
+		[1] = 512,
 	},
 	["Razormane Quilboar"] = {
 		[1] = 222,
@@ -116,8 +116,8 @@ TheoryCraft_MitigationMobs = {
 	["Razormane Thornweaver"] = {
 		[1] = 534,
 	},
-	["Swoop"] = {
-		[1] = 512,
+	["Durotar Tiger"] = {
+		[1] = 366,
 	},
 	["Oasis Snapjaw"] = {
 		[1] = 920,
