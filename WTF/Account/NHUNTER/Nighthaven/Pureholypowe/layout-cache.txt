@@ -17,7 +17,7 @@ Y: -712
 W: 401
 H: 112
 Frame: CharacterFrame
-FrameLevel: 33
+FrameLevel: 23
 X: 0
 Y: -104
 Frame: QuestFrame
@@ -25,7 +25,7 @@ FrameLevel: 1
 X: 0
 Y: -104
 Frame: QuestLogFrame
-FrameLevel: 39
+FrameLevel: 29
 X: 10
 Y: -104
 Frame: MerchantFrame
@@ -33,7 +33,7 @@ FrameLevel: 1
 X: 0
 Y: -104
 Frame: FriendsFrame
-FrameLevel: 23
+FrameLevel: 13
 X: 0
 Y: -104
 Frame: ItemRefTooltip
@@ -41,7 +41,7 @@ FrameLevel: 10
 X: 398
 Y: -342
 Frame: GossipFrame
-FrameLevel: 27
+FrameLevel: 17
 X: 0
 Y: -104
 Frame: AccountantFrame
@@ -49,9 +49,9 @@ FrameLevel: 8
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 12
-X: 715
-Y: -182
+FrameLevel: 39
+X: 255
+Y: -117
 Frame: CensusPlus
 FrameLevel: 8
 X: 245

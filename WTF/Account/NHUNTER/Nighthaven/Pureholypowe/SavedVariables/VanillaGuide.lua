@@ -5,19 +5,12 @@ VanillaGuideDBPC = {
 			["GuideID"] = 31,
 			["Step"] = 4,
 		},
-		["CharInfo"] = {
-			["Race"] = "Undead",
-			["Faction"] = "Horde",
-			["CharName"] = "Pureholypowe",
-			["RealmName"] = "Nighthaven",
-			["Class"] = "Warlock",
-		},
 		["UI"] = {
 			["ScrollFrameVisible"] = false,
 			["MainFrameAnchor"] = {
 				["sTo"] = "TOPLEFT",
-				["nX"] = 1014.755673388289,
 				["sFrom"] = "TOPLEFT",
+				["nX"] = 1014.755673388289,
 				["nY"] = -162.7236219304473,
 			},
 			["MainFrameSize"] = {
@@ -25,12 +18,19 @@ VanillaGuideDBPC = {
 				["nHeight"] = 319.999998010553,
 			},
 		},
+		["CharInfo"] = {
+			["Race"] = "Undead",
+			["Faction"] = "Horde",
+			["CharName"] = "Pureholypowe",
+			["RealmName"] = "Nighthaven",
+			["Class"] = "Warlock",
+		},
 		["MetaMap"] = {
 			["BWPPresence"] = true,
-			["NotesEnable"] = true,
+			["BWPEnable"] = true,
 			["Presence"] = true,
 			["NotesPresence"] = true,
-			["BWPEnable"] = true,
+			["NotesEnable"] = true,
 		},
 	},
 }

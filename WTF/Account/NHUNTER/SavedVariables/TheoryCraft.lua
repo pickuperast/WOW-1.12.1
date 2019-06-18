@@ -38,8 +38,8 @@ TheoryCraft_MitigationMobs = {
 	["Kolkar Bloodcharger"] = {
 		[1] = 863,
 	},
-	["Razormane Defender"] = {
-		[1] = 779,
+	["Clattering Scorpid"] = {
+		[1] = 245,
 	},
 	["Bloodtalon Taillasher"] = {
 		[1] = 314,
@@ -68,26 +68,26 @@ TheoryCraft_MitigationMobs = {
 	["Kolkar Packhound"] = {
 		[1] = 534,
 	},
-	["Venomtail Scorpid"] = {
-		[1] = 446,
+	["Razormane Dustrunner"] = {
+		[1] = 405,
 	},
 	["Kolkar Pack Runner"] = {
 		[1] = 974,
 	},
-	["Clattering Scorpid"] = {
-		[1] = 245,
+	["Razormane Defender"] = {
+		[1] = 779,
 	},
-	["Taloned Swoop"] = {
-		[1] = 542,
+	["Sunscale Screecher"] = {
+		[1] = 685,
 	},
-	["Oasis Snapjaw"] = {
-		[1] = 920,
-	},
-	["Swoop"] = {
-		[1] = 512,
+	["Razormane Battleguard"] = {
+		[1] = 651,
 	},
 	["Duskbat"] = {
 		[1] = 135,
+	},
+	["Razormane Scout"] = {
+		[1] = 338,
 	},
 	["Durotar Tiger"] = {
 		[1] = 366,
@@ -101,35 +101,35 @@ TheoryCraft_MitigationMobs = {
 	["Kul Tiras Sailor"] = {
 		[1] = 47,
 	},
-	["Razormane Thornweaver"] = {
-		[1] = 534,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
 	["Makrura Shellhide"] = {
 		[1] = 441,
 	},
-	["Savannah Prowler"] = {
-		[1] = 976,
-	},
 	["Zalazane"] = {
 		[1] = 610,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
+	["Savannah Prowler"] = {
+		[1] = 976,
 	},
-	["Razormane Scout"] = {
-		[1] = 338,
+	["Razormane Thornweaver"] = {
+		[1] = 534,
 	},
-	["Razormane Battleguard"] = {
-		[1] = 651,
+	["Swoop"] = {
+		[1] = 512,
 	},
-	["Sunscale Screecher"] = {
-		[1] = 685,
+	["Oasis Snapjaw"] = {
+		[1] = 920,
+	},
+	["Taloned Swoop"] = {
+		[1] = 542,
 	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 455,
 	},
-	["Razormane Dustrunner"] = {
-		[1] = 405,
+	["Venomtail Scorpid"] = {
+		[1] = 446,
 	},
 }
 TheoryCraft_MitigationPlayers = {

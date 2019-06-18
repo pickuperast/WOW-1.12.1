@@ -2,12 +2,12 @@
 BWP_Options = {
 	["ShowNPC"] = true,
 	["ShowCorpse"] = false,
-	["SetAlpha"] = 1,
-	["ShowOnGuard"] = false,
-	["ClearDest"] = true,
-	["ShowYards"] = false,
 	["SetDistance"] = 0.004100000020116568,
 	["ShowPoints"] = true,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetAlpha"] = 1,
+	["ShowOnGuard"] = false,
 }
 BWP_Destination = nil
 BWP_QuestList = {
@@ -113,43 +113,36 @@ BWP_QuestList = {
 		["Y"] = 0.8040102124214172,
 		["X"] = 0.6124631762504578,
 		["Zone"] = 19,
-		["QuestName"] = "Deadmire,Frostmaw",
+		["QuestName"] = "Deadmire,",
 		["QuestGiver"] = "Melor Stonehoof",
 	},
 	[16] = {
-		["Y"] = 0.2699851393699646,
-		["X"] = 0.5184821486473084,
-		["Zone"] = 15,
-		["QuestName"] = "WANTED: Caliph Scorpidsting,WANTED: Andre Firebeard",
-		["QuestGiver"] = "Tran'rek",
-	},
-	[17] = {
-		["Y"] = 0.2848692238330841,
-		["X"] = 0.5243363380432129,
-		["Zone"] = 15,
-		["QuestName"] = "Water Pouch Bounty",
-		["QuestGiver"] = "Spigot Operator Luglunket",
-	},
-	[18] = {
-		["Y"] = 0.2848692238330841,
-		["X"] = 0.5243363380432129,
-		["Zone"] = 15,
-		["QuestName"] = "Wastewander Justice",
-		["QuestGiver"] = "Chief Engineer Bilgewhizzle",
-	},
-	[19] = {
-		["Y"] = 0.274713397026062,
-		["X"] = 0.5021929144859314,
-		["Zone"] = 15,
-		["QuestName"] = "Gadgetzan Water Survey",
-		["QuestGiver"] = "Senior Surveyor Fizzledowser",
-	},
-	[20] = {
 		["Y"] = 0.7721297144889832,
 		["X"] = 0.7776931524276733,
 		["Zone"] = 18,
 		["QuestName"] = "Back to Booty Bay",
 		["QuestGiver"] = "Kravel Koalbeard",
+	},
+	[17] = {
+		["Y"] = 0.2238771617412567,
+		["X"] = 0.6692255735397339,
+		["Zone"] = 15,
+		["QuestName"] = "Screecher Spirits",
+		["QuestGiver"] = "Yeh'kinya",
+	},
+	[18] = {
+		["Y"] = 0.2394416630268097,
+		["X"] = 0.6706167459487915,
+		["Zone"] = 15,
+		["QuestName"] = "Deliver to MacKinley",
+		["QuestGiver"] = "Stoley",
+	},
+	[19] = {
+		["Y"] = 0.4271612167358398,
+		["X"] = 0.760056734085083,
+		["Zone"] = 9,
+		["QuestName"] = "A New Cloak's Sheen",
+		["QuestGiver"] = "Krueg Skullsplitter",
 	},
 }
 BWP_AbandonedQuests = nil
