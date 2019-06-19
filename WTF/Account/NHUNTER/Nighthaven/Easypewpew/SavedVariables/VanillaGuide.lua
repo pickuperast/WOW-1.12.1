@@ -12,8 +12,8 @@ VanillaGuideDBPC = {
 			["ScrollFrameVisible"] = false,
 			["MainFrameAnchor"] = {
 				["sTo"] = "TOPLEFT",
-				["sFrom"] = "TOPLEFT",
 				["nX"] = 1058.133517741804,
+				["sFrom"] = "TOPLEFT",
 				["nY"] = -154.5250664193966,
 			},
 			["MainFrameSize"] = {

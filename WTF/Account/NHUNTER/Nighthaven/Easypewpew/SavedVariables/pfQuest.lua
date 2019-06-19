@@ -12,11 +12,11 @@ pfQuest_config = {
 	["showfestival"] = "1",
 	["trackingmethod"] = 1,
 	["allquestgivers"] = "1",
-	["mindropchance"] = "0",
-	["minimaptransp"] = "1.0",
-	["minimapbutton"] = "1",
-	["questlinks"] = "1",
 	["questlogbuttons"] = "1",
+	["minimaptransp"] = "1.0",
+	["questlinks"] = "1",
+	["minimapbutton"] = "1",
+	["mindropchance"] = "0",
 }
 pfBrowser_fav = {
 	["items"] = {
