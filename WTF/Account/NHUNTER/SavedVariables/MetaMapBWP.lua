@@ -2,12 +2,12 @@
 BWP_Options = {
 	["ShowNPC"] = true,
 	["ShowCorpse"] = false,
-	["SetDistance"] = 0.004100000020116568,
-	["ShowPoints"] = true,
-	["ClearDest"] = true,
-	["ShowYards"] = false,
 	["SetAlpha"] = 1,
 	["ShowOnGuard"] = false,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetDistance"] = 0.004100000020116568,
+	["ShowPoints"] = true,
 }
 BWP_Destination = nil
 BWP_QuestList = {
@@ -124,32 +124,81 @@ BWP_QuestList = {
 		["QuestGiver"] = "Kravel Koalbeard",
 	},
 	[17] = {
-		["Y"] = 0.2238771617412567,
-		["X"] = 0.6692255735397339,
-		["Zone"] = 15,
-		["QuestName"] = "Screecher Spirits",
-		["QuestGiver"] = "Yeh'kinya",
-	},
-	[18] = {
 		["Y"] = 0.2394416630268097,
 		["X"] = 0.6706167459487915,
 		["Zone"] = 15,
 		["QuestName"] = "Deliver to MacKinley",
 		["QuestGiver"] = "Stoley",
 	},
-	[19] = {
+	[18] = {
 		["Y"] = 0.4271612167358398,
 		["X"] = 0.760056734085083,
 		["Zone"] = 9,
 		["QuestName"] = "A New Cloak's Sheen",
 		["QuestGiver"] = "Krueg Skullsplitter",
 	},
-	[20] = {
+	[19] = {
 		["Y"] = 0.08366501331329346,
 		["X"] = 0.6745493412017822,
 		["Zone"] = 22,
 		["QuestName"] = "The Festival of Fire",
 		["QuestGiver"] = "Festival Talespinner",
+	},
+	[20] = {
+		["Y"] = 0.2859628796577454,
+		["X"] = 0.518156111240387,
+		["Zone"] = 15,
+		["QuestName"] = "The Thirsty Goblin",
+		["QuestGiver"] = "Marin Noggenfogger",
+	},
+	[21] = {
+		["Y"] = 0.1663644909858704,
+		["X"] = 0.4898074865341187,
+		["Zone"] = 20,
+		["QuestName"] = "Chasing A-Me 01",
+		["QuestGiver"] = "A-Me 01",
+	},
+	[22] = {
+		["Y"] = 0.07152555137872696,
+		["X"] = 0.4394447803497315,
+		["Zone"] = 20,
+		["QuestName"] = "",
+		["QuestGiver"] = "Williden Marshal",
+	},
+	[23] = {
+		["Y"] = 0.7595645189285278,
+		["X"] = 0.7166288495063782,
+		["Zone"] = 20,
+		["QuestName"] = "",
+		["QuestGiver"] = "Torwa Pathfinder",
+	},
+	[24] = {
+		["Y"] = 0.02655821293592453,
+		["X"] = 0.4191766679286957,
+		["Zone"] = 20,
+		["QuestName"] = ",",
+		["QuestGiver"] = "J.D. Collie",
+	},
+	[25] = {
+		["Y"] = 0.08168701827526093,
+		["X"] = 0.4464952647686005,
+		["Zone"] = 20,
+		["QuestName"] = "It's a Secret to Everybody",
+		["QuestGiver"] = "Linken",
+	},
+	[26] = {
+		["Y"] = 0.08674132078886032,
+		["X"] = 0.455591231584549,
+		["Zone"] = 20,
+		["QuestName"] = "Marvon's Workshop",
+		["QuestGiver"] = "Larion",
+	},
+	[27] = {
+		["Y"] = 0.5048428177833557,
+		["X"] = 0.3094956278800964,
+		["Zone"] = 20,
+		["QuestName"] = "The New Springs",
+		["QuestGiver"] = "Krakle",
 	},
 }
 BWP_AbandonedQuests = nil

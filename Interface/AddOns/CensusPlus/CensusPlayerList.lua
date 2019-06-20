@@ -31,7 +31,7 @@
 local g_PlayerList = {};			
 local g_PlayerLookupTable = {};				
 local CensusPlus_NumPlayerButtons = 20;
-local g_MaxNumListed = 1000;
+local g_MaxNumListed = 100000;
 
 function CensusPlus_ShowPlayerList()
 	CP_PlayerListWindow:Show();

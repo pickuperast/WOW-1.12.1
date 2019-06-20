@@ -238,16 +238,18 @@ pfUI_addon_profiles = {
 pfUI_cache = {
 	["prediction"] = {
 		["Nighthaven"] = {
-			["Easypewpew"] = {
-				["heals"] = {
-				},
-			},
 			["Pureholypowe"] = {
 				["heals"] = {
 					["Drain LifeRank 4"] = 48,
 					["Siphon LifeRank 2"] = 23,
-					["Drain LifeRank 5"] = 63,
 					["Death CoilRank 1"] = 315,
+					["Death CoilRank 2"] = 413,
+					["Drain LifeRank 6"] = 20,
+					["Drain LifeRank 5"] = 63,
+				},
+			},
+			["Easypewpew"] = {
+				["heals"] = {
 				},
 			},
 			["Easypisy"] = {
@@ -258,8 +260,8 @@ pfUI_cache = {
 	},
 	["gold"] = {
 		["Nighthaven"] = {
-			["Easypewpew"] = 668174,
-			["Pureholypowe"] = 204702,
+			["Pureholypowe"] = 427283,
+			["Easypewpew"] = 479146,
 			["Easypisy"] = 5552,
 		},
 	},

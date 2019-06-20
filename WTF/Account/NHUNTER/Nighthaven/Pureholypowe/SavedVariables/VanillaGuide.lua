@@ -10,8 +10,8 @@ VanillaGuideDBPC = {
 			["MainFrameAnchor"] = {
 				["sTo"] = "TOPLEFT",
 				["sFrom"] = "TOPLEFT",
-				["nX"] = 1014.755673388289,
-				["nY"] = -162.7236219304473,
+				["nX"] = 1003.556710357678,
+				["nY"] = -184.3828520091248,
 			},
 			["MainFrameSize"] = {
 				["nWidth"] = 319.9999693625167,
