@@ -64,9 +64,14 @@ MACRO 1 "QUEST" Ability_Creature_Disease_01
 /script SelectGossipOption(1) 
 /script AcceptQuest() 
 END
+MACRO 16 "regbg" Ability_BackStab
+.al
+.wa
+.ar
+END
 MACRO 9 "THANKYOU" Spell_Misc_ConjureManaJewel
 /y Thank you. I wish you 5 blesses of Buddha, Life, Beauty, Health, Strength and wisdom for always.
 END
 MACRO 3 "WHO" Ability_Creature_Cursed_05
-/who
+/who 60
 END
