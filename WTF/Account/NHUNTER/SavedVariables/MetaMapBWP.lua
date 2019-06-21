@@ -187,18 +187,39 @@ BWP_QuestList = {
 		["QuestGiver"] = "Linken",
 	},
 	[26] = {
-		["Y"] = 0.08674132078886032,
-		["X"] = 0.455591231584549,
-		["Zone"] = 20,
-		["QuestName"] = "Marvon's Workshop",
-		["QuestGiver"] = "Larion",
-	},
-	[27] = {
 		["Y"] = 0.5048428177833557,
 		["X"] = 0.3094956278800964,
 		["Zone"] = 20,
 		["QuestName"] = "The New Springs",
 		["QuestGiver"] = "Krakle",
+	},
+	[27] = {
+		["Y"] = 0.2407401204109192,
+		["X"] = 0.6535350680351257,
+		["Zone"] = 5,
+		["QuestName"] = "Felnok Steelspring",
+		["QuestGiver"] = "Tinkee Steamboil",
+	},
+	[28] = {
+		["Y"] = 0.4779479801654816,
+		["X"] = 0.031218396499753,
+		["Zone"] = 3,
+		["QuestName"] = "The Rise of the Machines",
+		["QuestGiver"] = "Hierophant Theodora Mulvadania",
+	},
+	[29] = {
+		["Y"] = 0.5138257741928101,
+		["X"] = 0.2228447049856186,
+		["Zone"] = 2,
+		["QuestName"] = "Betrayed",
+		["QuestGiver"] = "Ag'tor Bloodfist",
+	},
+	[30] = {
+		["Y"] = 0.2184577137231827,
+		["X"] = 0.5342194437980652,
+		["Zone"] = 2,
+		["QuestName"] = "Kim'jael Indeed!",
+		["QuestGiver"] = "Kim'jael",
 	},
 }
 BWP_AbandonedQuests = nil
