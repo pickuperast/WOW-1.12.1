@@ -613,6 +613,10 @@ function pfUI.uf.OnEvent()
 
   -- UNIT_XXX Events
   elseif arg1 and arg1 == this.label .. this.id then
+	if event == "UNIT_HAPPINESS" then
+          message("HAPPINESS CHANGED")
+    end
+
     if event == "UNIT_PORTRAIT_UPDATE" or event == "UNIT_MODEL_CHANGED" then
       pfUI.uf:RefreshUnit(this, "portrait")
     elseif event == "UNIT_AURA" then

@@ -2,12 +2,12 @@
 BWP_Options = {
 	["ShowNPC"] = true,
 	["ShowCorpse"] = false,
-	["SetDistance"] = 0.004100000020116568,
-	["ShowPoints"] = true,
-	["ClearDest"] = true,
-	["ShowYards"] = false,
 	["SetAlpha"] = 1,
 	["ShowOnGuard"] = false,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetDistance"] = 0.004100000020116568,
+	["ShowPoints"] = true,
 }
 BWP_Destination = nil
 BWP_QuestList = {
@@ -47,200 +47,193 @@ BWP_QuestList = {
 		["QuestGiver"] = "Cook Torka",
 	},
 	[6] = {
-		["Y"] = 0.3544970750808716,
-		["X"] = 0.8749364018440247,
-		["Zone"] = 8,
-		["QuestName"] = "Nothing But The Truth",
-		["QuestGiver"] = "Apothecary Faustin",
-	},
-	[7] = {
 		["Y"] = 0.3159003853797913,
 		["X"] = 0.2604196965694428,
 		["Zone"] = 19,
 		["QuestName"] = "Draenethyst Crystals",
 		["QuestGiver"] = "Magtoor",
 	},
-	[8] = {
+	[7] = {
 		["Y"] = 0.5714297294616699,
 		["X"] = 0.4470808506011963,
 		["Zone"] = 19,
 		["QuestName"] = "Fresh Meat",
 		["QuestGiver"] = "Dar",
 	},
-	[9] = {
+	[8] = {
 		["Y"] = 0.5492963194847107,
 		["X"] = 0.4791096448898315,
 		["Zone"] = 19,
 		["QuestName"] = "Pool of Tears",
 		["QuestGiver"] = "Fel'zerul",
 	},
-	[10] = {
+	[9] = {
 		["Y"] = 0.8092321753501892,
 		["X"] = 0.8141770362854004,
 		["Zone"] = 19,
 		["QuestName"] = "Lack of Surplus",
 		["QuestGiver"] = "Tok'Kar",
 	},
-	[11] = {
+	[10] = {
 		["Y"] = 0.7709217071533203,
 		["X"] = 0.2776309847831726,
 		["Zone"] = 18,
 		["QuestName"] = "Voodoo Dues",
 		["QuestGiver"] = "\"Sea Wolf\" MacKinley",
 	},
-	[12] = {
+	[11] = {
 		["Y"] = 0.758726179599762,
 		["X"] = 0.2856832444667816,
 		["Zone"] = 18,
 		["QuestName"] = "Keep An Eye Out",
 		["QuestGiver"] = "Dizzy One-Eye",
 	},
-	[13] = {
+	[12] = {
 		["Y"] = 0.2779377996921539,
 		["X"] = 0.3224260210990906,
 		["Zone"] = 18,
 		["QuestName"] = "Split Bone Necklace",
 		["QuestGiver"] = "Kin'weelay",
 	},
-	[14] = {
+	[13] = {
 		["Y"] = 0.2773037850856781,
 		["X"] = 0.3219273388385773,
 		["Zone"] = 18,
 		["QuestName"] = "Grim Message,Bloodscalp Clan Heads",
 		["QuestGiver"] = "Nimboya",
 	},
-	[15] = {
+	[14] = {
 		["Y"] = 0.8040102124214172,
 		["X"] = 0.6124631762504578,
 		["Zone"] = 19,
 		["QuestName"] = "Deadmire,",
 		["QuestGiver"] = "Melor Stonehoof",
 	},
-	[16] = {
+	[15] = {
 		["Y"] = 0.7721297144889832,
 		["X"] = 0.7776931524276733,
 		["Zone"] = 18,
 		["QuestName"] = "Back to Booty Bay",
 		["QuestGiver"] = "Kravel Koalbeard",
 	},
-	[17] = {
+	[16] = {
 		["Y"] = 0.2394416630268097,
 		["X"] = 0.6706167459487915,
 		["Zone"] = 15,
 		["QuestName"] = "Deliver to MacKinley",
 		["QuestGiver"] = "Stoley",
 	},
-	[18] = {
+	[17] = {
 		["Y"] = 0.4271612167358398,
 		["X"] = 0.760056734085083,
 		["Zone"] = 9,
 		["QuestName"] = "A New Cloak's Sheen",
 		["QuestGiver"] = "Krueg Skullsplitter",
 	},
-	[19] = {
+	[18] = {
 		["Y"] = 0.08366501331329346,
 		["X"] = 0.6745493412017822,
 		["Zone"] = 22,
 		["QuestName"] = "The Festival of Fire",
 		["QuestGiver"] = "Festival Talespinner",
 	},
-	[20] = {
-		["Y"] = 0.2859628796577454,
-		["X"] = 0.518156111240387,
-		["Zone"] = 15,
-		["QuestName"] = "The Thirsty Goblin",
-		["QuestGiver"] = "Marin Noggenfogger",
-	},
-	[21] = {
+	[19] = {
 		["Y"] = 0.1663644909858704,
 		["X"] = 0.4898074865341187,
 		["Zone"] = 20,
 		["QuestName"] = "Chasing A-Me 01",
 		["QuestGiver"] = "A-Me 01",
 	},
-	[22] = {
+	[20] = {
 		["Y"] = 0.07152555137872696,
 		["X"] = 0.4394447803497315,
 		["Zone"] = 20,
 		["QuestName"] = "",
 		["QuestGiver"] = "Williden Marshal",
 	},
-	[23] = {
+	[21] = {
 		["Y"] = 0.7595645189285278,
 		["X"] = 0.7166288495063782,
 		["Zone"] = 20,
 		["QuestName"] = "",
 		["QuestGiver"] = "Torwa Pathfinder",
 	},
-	[24] = {
+	[22] = {
 		["Y"] = 0.02655821293592453,
 		["X"] = 0.4191766679286957,
 		["Zone"] = 20,
 		["QuestName"] = ",",
 		["QuestGiver"] = "J.D. Collie",
 	},
-	[25] = {
-		["Y"] = 0.4779479801654816,
-		["X"] = 0.031218396499753,
-		["Zone"] = 3,
-		["QuestName"] = "The Rise of the Machines",
-		["QuestGiver"] = "Hierophant Theodora Mulvadania",
-	},
-	[26] = {
+	[23] = {
 		["Y"] = 0.8315974473953247,
 		["X"] = 0.4677519202232361,
 		["Zone"] = 8,
 		["QuestName"] = "Cleansing Felwood",
 		["QuestGiver"] = "Maybess Riverbreeze",
 	},
-	[27] = {
-		["Y"] = 0.5230660438537598,
-		["X"] = 0.3436675369739533,
-		["Zone"] = 8,
-		["QuestName"] = "Well of Corruption",
-		["QuestGiver"] = "Winna Hazzard",
-	},
-	[28] = {
+	[24] = {
 		["Y"] = 0.5273981690406799,
 		["X"] = 0.3469958305358887,
 		["Zone"] = 8,
 		["QuestName"] = "Wild Guardians",
 		["QuestGiver"] = "Trull Failbane",
 	},
-	[29] = {
-		["Y"] = 0.3898592591285706,
-		["X"] = 0.6130191087722778,
-		["Zone"] = 21,
-		["QuestName"] = "Sister Pamela",
-		["QuestGiver"] = "Jessica Redpath",
-	},
-	[30] = {
-		["Y"] = 0.3898184299468994,
-		["X"] = 0.6131000518798828,
-		["Zone"] = 21,
-		["QuestName"] = "The Everlook Report,Duke Nicholas Zverenhoff",
-		["QuestGiver"] = "Gregor Greystone",
-	},
-	[31] = {
+	[25] = {
 		["Y"] = 0.3767498433589935,
 		["X"] = 0.6091541051864624,
 		["Zone"] = 21,
 		["QuestName"] = "Are We There, Yeti?",
 		["QuestGiver"] = "Umi Rumplesnicker",
 	},
-	[32] = {
-		["Y"] = 0.8209707140922546,
-		["X"] = 0.5119414329528809,
-		["Zone"] = 8,
-		["QuestName"] = "Seeking Spiritual Aid",
-		["QuestGiver"] = "Greta Mosshoof",
+	[26] = {
+		["Y"] = 0.4378359019756317,
+		["X"] = 0.07535792887210846,
+		["Zone"] = 9,
+		["QuestName"] = "",
+		["QuestGiver"] = "Tirion Fordring",
 	},
-	[33] = {
-		["Y"] = 0.4516935348510742,
-		["X"] = 0.312259703874588,
-		["Zone"] = 21,
-		["QuestName"] = "Toxic Horrors",
-		["QuestGiver"] = "Donova Snowden",
+	[27] = {
+		["Y"] = 0.7474868893623352,
+		["X"] = 0.2661230862140656,
+		["Zone"] = 9,
+		["QuestName"] = "Un-Life's Little Annoyances",
+		["QuestGiver"] = "Nathanos Blightcaller",
+	},
+	[28] = {
+		["Y"] = 0.5019716620445252,
+		["X"] = 0.3409439027309418,
+		["Zone"] = 4,
+		["QuestName"] = "The Prison's Bindings,The Prison's Casing",
+		["QuestGiver"] = "Daio the Decrepit",
+	},
+	[29] = {
+		["Y"] = 0.4746508300304413,
+		["X"] = 0.05804785713553429,
+		["Zone"] = 3,
+		["QuestName"] = "Warlord's Command",
+		["QuestGiver"] = "Warlord Goretooth",
+	},
+	[30] = {
+		["Y"] = 0.4780442714691162,
+		["X"] = 0.06017597764730454,
+		["Zone"] = 3,
+		["QuestName"] = "Operative Bijou",
+		["QuestGiver"] = "Lexlort",
+	},
+	[31] = {
+		["Y"] = 0.4780442714691162,
+		["X"] = 0.06017597764730454,
+		["Zone"] = 3,
+		["QuestName"] = "Grark Lorkrub",
+		["QuestGiver"] = "Galamav the Marksman",
+	},
+	[32] = {
+		["Y"] = 0.4348486065864563,
+		["X"] = 0.7608062028884888,
+		["Zone"] = 9,
+		["QuestName"] = "Elven Legends",
+		["QuestGiver"] = "Sage Korolusk",
 	},
 }
 BWP_AbandonedQuests = nil

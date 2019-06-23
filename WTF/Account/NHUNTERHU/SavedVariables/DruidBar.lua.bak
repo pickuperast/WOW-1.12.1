@@ -1,0 +1,13 @@
+
+DruidBarKey = {
+	["Enabled"] = true,
+	["extra"] = 0,
+	["maxmana"] = 460,
+	["EZShift"] = true,
+	["int"] = 36,
+	["Graphics"] = true,
+	["yvar"] = 18.00000068387239,
+	["keepthemana"] = 460,
+	["xvar"] = 160.0000021883917,
+	["subtractmana"] = 110,
+}

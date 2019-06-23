@@ -1,0 +1,22 @@
+
+BWP_Options = {
+	["ShowNPC"] = true,
+	["ShowCorpse"] = false,
+	["SetDistance"] = 0.004100000020116568,
+	["ShowPoints"] = true,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetAlpha"] = 1,
+	["ShowOnGuard"] = false,
+}
+BWP_Destination = nil
+BWP_QuestList = {
+	[1] = {
+		["Y"] = 0.7722489833831787,
+		["X"] = 0.2712261378765106,
+		["Zone"] = 18,
+		["QuestName"] = "Venture Company Mining",
+		["QuestGiver"] = "Crank Fizzlebub",
+	},
+}
+BWP_AbandonedQuests = nil
