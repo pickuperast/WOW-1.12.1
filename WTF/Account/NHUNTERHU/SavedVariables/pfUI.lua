@@ -238,24 +238,24 @@ pfUI_addon_profiles = {
 pfUI_cache = {
 	["prediction"] = {
 		["Nighthaven"] = {
-			["Pureholypowe"] = {
+			["Easypewpew"] = {
 				["heals"] = {
-					["Death CoilRank 3"] = 602,
-					["Death CoilRank 1"] = 315,
-					["Siphon LifeRank 4"] = 60,
-					["Drain LifeRank 4"] = 48,
-					["Siphon LifeRank 2"] = 23,
-					["Drain LifeRank 5"] = 63,
-					["Death CoilRank 2"] = 418,
-					["Drain LifeRank 6"] = 112,
 				},
 			},
 			["Purepewpew"] = {
 				["heals"] = {
 				},
 			},
-			["Easypewpew"] = {
+			["Pureholypowe"] = {
 				["heals"] = {
+					["Death CoilRank 3"] = 602,
+					["Death CoilRank 1"] = 315,
+					["Siphon LifeRank 4"] = 60,
+					["Drain LifeRank 6"] = 112,
+					["Siphon LifeRank 2"] = 23,
+					["Drain LifeRank 5"] = 63,
+					["Death CoilRank 2"] = 418,
+					["Drain LifeRank 4"] = 48,
 				},
 			},
 			["Pureauc"] = {
@@ -270,10 +270,10 @@ pfUI_cache = {
 	},
 	["gold"] = {
 		["Nighthaven"] = {
-			["Pureholypowe"] = 463440,
-			["Purepewpew"] = 14559,
 			["Easypewpew"] = 384133,
-			["Pureauc"] = 0,
+			["Purepewpew"] = 990765,
+			["Pureholypowe"] = 463440,
+			["Pureauc"] = 770,
 			["Easypisy"] = 5552,
 		},
 	},

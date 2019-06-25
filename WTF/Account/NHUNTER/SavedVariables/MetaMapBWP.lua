@@ -2,12 +2,12 @@
 BWP_Options = {
 	["ShowNPC"] = true,
 	["ShowCorpse"] = false,
-	["SetAlpha"] = 1,
-	["ShowOnGuard"] = false,
-	["ClearDest"] = true,
-	["ShowYards"] = false,
 	["SetDistance"] = 0.004100000020116568,
 	["ShowPoints"] = true,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetAlpha"] = 1,
+	["ShowOnGuard"] = false,
 }
 BWP_Destination = nil
 BWP_QuestList = {
@@ -204,7 +204,7 @@ BWP_QuestList = {
 		["Y"] = 0.5019716620445252,
 		["X"] = 0.3409439027309418,
 		["Zone"] = 4,
-		["QuestName"] = "The Prison's Bindings,The Prison's Casing",
+		["QuestName"] = "The Prison's Bindings,",
 		["QuestGiver"] = "Daio the Decrepit",
 	},
 	[29] = {
@@ -234,6 +234,13 @@ BWP_QuestList = {
 		["Zone"] = 9,
 		["QuestName"] = "Elven Legends",
 		["QuestGiver"] = "Sage Korolusk",
+	},
+	[33] = {
+		["Y"] = 0.4673108756542206,
+		["X"] = 0.4768671095371246,
+		["Zone"] = 12,
+		["QuestName"] = "Mor'zul Bloodbringer",
+		["QuestGiver"] = "Kurgul",
 	},
 }
 BWP_AbandonedQuests = nil

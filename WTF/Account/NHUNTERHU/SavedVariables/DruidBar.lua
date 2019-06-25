@@ -6,8 +6,8 @@ DruidBarKey = {
 	["EZShift"] = true,
 	["int"] = 9,
 	["Graphics"] = true,
-	["subtractmana"] = 110,
+	["yvar"] = 18.00000068387239,
 	["keepthemana"] = 209,
 	["xvar"] = 160.0000021883917,
-	["yvar"] = 18.00000068387239,
+	["subtractmana"] = 110,
 }

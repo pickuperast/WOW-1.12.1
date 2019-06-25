@@ -20,7 +20,7 @@ TheoryCraft_Settings = {
 	["embed"] = true,
 	["buttontextx"] = 1.111,
 	["buttontexty"] = 10.22,
-	["mitigation"] = true,
+	["GenerateList"] = "",
 	["ColB2"] = 0.6862745098039216,
 	["dontresist"] = true,
 	["trysecond"] = "averagehealnocrit",
@@ -62,8 +62,8 @@ TheoryCraft_Settings = {
 		["stamina"] = 0,
 	},
 	["procs"] = true,
+	["mitigation"] = true,
 	["FontPath"] = "Interface\\AddOns\\pfUI\\fonts\\BigNoodleTitling.ttf",
-	["GenerateList"] = "",
 	["combinedot"] = true,
 	["healanddamage"] = true,
 }
