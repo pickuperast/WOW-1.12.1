@@ -11,8 +11,11 @@ TheoryCraft_MitigationMobs = {
 	["Flatland Prowler"] = {
 		[1] = 344,
 	},
-	["Timberling"] = {
-		[1] = 255,
+	["Отойди, убёТ"] = {
+		[1] = 930,
+	},
+	["Cracked Golem"] = {
+		[1] = 744,
 	},
 	["Grell"] = {
 		[1] = 195,
@@ -26,14 +29,14 @@ TheoryCraft_MitigationMobs = {
 	["Rattlecage Skeleton"] = {
 		[1] = 106,
 	},
-	["Razormane Defender"] = {
-		[1] = 779,
+	["Clattering Scorpid"] = {
+		[1] = 245,
 	},
 	["Bloodtalon Taillasher"] = {
 		[1] = 314,
 	},
-	["Elder Nightsaber"] = {
-		[1] = 375,
+	["Twilight Thug"] = {
+		[1] = 1003,
 	},
 	["Fleeting Plainstrider"] = {
 		[1] = 1060,
@@ -44,17 +47,26 @@ TheoryCraft_MitigationMobs = {
 	["Zhevra Charger"] = {
 		[1] = 1088,
 	},
+	["Wrathtail Priestess"] = {
+		[1] = 764,
+	},
 	["Timberling Bark Ripper"] = {
 		[1] = 374,
 	},
 	["Kolkar Wrangler"] = {
 		[1] = 580,
 	},
-	["Greymist Coastrunner"] = {
-		[1] = 688,
+	["Ashenvale Bear"] = {
+		[1] = 725,
+	},
+	["Moonstalker"] = {
+		[1] = 1003,
 	},
 	["Anaya Dawnrunner"] = {
 		[1] = 842,
+	},
+	["Dark Strand Excavator"] = {
+		[1] = 1238,
 	},
 	["Kolkar Packhound"] = {
 		[1] = 534,
@@ -77,8 +89,8 @@ TheoryCraft_MitigationMobs = {
 	["Gnarlpine Ambusher"] = {
 		[1] = 351,
 	},
-	["Bloodfeather Wind Witch"] = {
-		[1] = 480,
+	["Thistlefur Shaman"] = {
+		[1] = 1046,
 	},
 	["Stormscale Siren"] = {
 		[1] = 647,
@@ -95,6 +107,9 @@ TheoryCraft_MitigationMobs = {
 	["Oasis Snapjaw"] = {
 		[1] = 920,
 	},
+	["Rabid Thistle Bear"] = {
+		[1] = 418,
+	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 455,
 	},
@@ -104,8 +119,17 @@ TheoryCraft_MitigationMobs = {
 	["Mindless Zombie"] = {
 		[1] = 233,
 	},
+	["Wrathtail Myrmidon"] = {
+		[1] = 1119,
+	},
 	["Kolkar Stormer"] = {
 		[1] = 631,
+	},
+	["Greymist Coastrunner"] = {
+		[1] = 688,
+	},
+	["Taloned Swoop"] = {
+		[1] = 542,
 	},
 	["Dark Sprite"] = {
 		[1] = 375,
@@ -134,11 +158,17 @@ TheoryCraft_MitigationMobs = {
 	["Bristleback Interloper"] = {
 		[1] = 447,
 	},
+	["Venomtail Scorpid"] = {
+		[1] = 446,
+	},
+	["Voidwalker Minion"] = {
+		[1] = 843,
+	},
 	["Rascal Sprite"] = {
 		[1] = 141,
 	},
-	["Dire Mottled Boar"] = {
-		[1] = 310,
+	["Gnarlpine Shaman"] = {
+		[1] = 396,
 	},
 	["Webwood Silkspinner"] = {
 		[1] = 599,
@@ -152,23 +182,38 @@ TheoryCraft_MitigationMobs = {
 	["Moonstalker Runt"] = {
 		[1] = 691,
 	},
+	["Timberling"] = {
+		[1] = 255,
+	},
+	["Gravelflint Scout"] = {
+		[1] = 2151,
+	},
+	["Razormane Defender"] = {
+		[1] = 779,
+	},
+	["Elder Nightsaber"] = {
+		[1] = 375,
+	},
 	["Gnarlpine Gardener"] = {
 		[1] = 253,
 	},
-	["Razormane Dustrunner"] = {
-		[1] = 405,
-	},
-	["Prairie Wolf Alpha"] = {
-		[1] = 1092,
+	["Reef Crawler"] = {
+		[1] = 970,
 	},
 	["Razormane Battleguard"] = {
 		[1] = 651,
 	},
-	["Sunscale Screecher"] = {
-		[1] = 685,
+	["Prairie Wolf Alpha"] = {
+		[1] = 1092,
 	},
-	["Clattering Scorpid"] = {
-		[1] = 245,
+	["Lord Melenas"] = {
+		[1] = 452,
+	},
+	["Mangy Nightsaber"] = {
+		[1] = 151,
+	},
+	["Durotar Tiger"] = {
+		[1] = 366,
 	},
 	["Foreststrider Fledgling"] = {
 		[1] = 573,
@@ -179,29 +224,29 @@ TheoryCraft_MitigationMobs = {
 	["Gnarlpine Warrior"] = {
 		[1] = 527,
 	},
-	["Gnarlpine Shaman"] = {
-		[1] = 396,
+	["Greymist Seer"] = {
+		[1] = 714,
 	},
-	["Lord Melenas"] = {
-		[1] = 452,
+	["Makrura Clacker"] = {
+		[1] = 430,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
+	["Razormane Scout"] = {
+		[1] = 338,
 	},
 	["Webwood Spider"] = {
 		[1] = 243,
 	},
-	["Young Thistle Boar"] = {
-		[1] = 75,
-	},
-	["Mangy Nightsaber"] = {
-		[1] = 151,
-	},
-	["Gnarlpine Ursa"] = {
+	["Nightsaber Stalker"] = {
 		[1] = 301,
 	},
-	["Writhing Highborne"] = {
-		[1] = 224,
+	["Voodoo Troll"] = {
+		[1] = 398,
+	},
+	["Swoop"] = {
+		[1] = 512,
+	},
+	["Young Thistle Boar"] = {
+		[1] = 75,
 	},
 	["Webwood Lurker"] = {
 		[1] = 168,
@@ -209,20 +254,20 @@ TheoryCraft_MitigationMobs = {
 	["Gnarlpine Mystic"] = {
 		[1] = 249,
 	},
-	["Durotar Tiger"] = {
-		[1] = 366,
+	["Gnarlpine Ursa"] = {
+		[1] = 301,
 	},
 	["Wild Grell"] = {
 		[1] = 649,
 	},
-	["Nightsaber Stalker"] = {
-		[1] = 301,
+	["Strigid Owl"] = {
+		[1] = 360,
 	},
 	["Wailing Highborne"] = {
 		[1] = 320,
 	},
-	["Swoop"] = {
-		[1] = 512,
+	["Writhing Highborne"] = {
+		[1] = 224,
 	},
 	["Razormane Quilboar"] = {
 		[1] = 222,
@@ -233,35 +278,35 @@ TheoryCraft_MitigationMobs = {
 	["Kul Tiras Sailor"] = {
 		[1] = 47,
 	},
-	["Makrura Clacker"] = {
-		[1] = 430,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
-	["Voodoo Troll"] = {
-		[1] = 398,
+	["Dire Mottled Boar"] = {
+		[1] = 310,
 	},
 	["Vile Sprite"] = {
 		[1] = 224,
 	},
-	["Razormane Scout"] = {
-		[1] = 338,
+	["Dal Bloodclaw"] = {
+		[1] = 1010,
 	},
-	["Strigid Owl"] = {
-		[1] = 360,
+	["Grizzled Thistle Bear"] = {
+		[1] = 630,
 	},
-	["Greymist Seer"] = {
-		[1] = 714,
+	["Bloodfeather Wind Witch"] = {
+		[1] = 480,
 	},
-	["Reef Crawler"] = {
-		[1] = 970,
+	["Wildthorn Stalker"] = {
+		[1] = 1010,
 	},
-	["Taloned Swoop"] = {
-		[1] = 542,
+	["Sunscale Screecher"] = {
+		[1] = 685,
 	},
 	["Thistle Boar"] = {
 		[1] = 151,
 	},
-	["Venomtail Scorpid"] = {
-		[1] = 446,
+	["Razormane Dustrunner"] = {
+		[1] = 405,
 	},
 }
 TheoryCraft_MitigationPlayers = {

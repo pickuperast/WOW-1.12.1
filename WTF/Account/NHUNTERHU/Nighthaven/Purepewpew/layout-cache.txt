@@ -17,11 +17,11 @@ Y: -712
 W: 401
 H: 112
 Frame: SpellBookFrame
-FrameLevel: 74
+FrameLevel: 59
 X: 0
 Y: -104
 Frame: CharacterFrame
-FrameLevel: 80
+FrameLevel: 52
 X: 0
 Y: -104
 Frame: QuestFrame
@@ -37,7 +37,7 @@ FrameLevel: 41
 X: 0
 Y: -104
 Frame: TradeFrame
-FrameLevel: 55
+FrameLevel: 48
 X: 0
 Y: -104
 Frame: FriendsFrame
@@ -57,9 +57,9 @@ FrameLevel: 8
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 47
-X: 212
-Y: -73
+FrameLevel: 86
+X: 239
+Y: -252
 Frame: CensusPlus
 FrameLevel: 28
 X: 245
@@ -106,3 +106,7 @@ X: 1241
 Y: -468
 W: 227
 H: 207
+Frame: AuctionFrame
+FrameLevel: 71
+X: 10
+Y: -104

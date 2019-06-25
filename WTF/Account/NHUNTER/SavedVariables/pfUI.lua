@@ -238,27 +238,27 @@ pfUI_addon_profiles = {
 pfUI_cache = {
 	["prediction"] = {
 		["Nighthaven"] = {
-			["Pureholypowe"] = {
-				["heals"] = {
-					["Death CoilRank 3"] = 548,
-					["Death CoilRank 1"] = 315,
-					["Siphon LifeRank 4"] = 60,
-					["Drain LifeRank 6"] = 102,
-					["Siphon LifeRank 2"] = 23,
-					["Drain LifeRank 5"] = 63,
-					["Death CoilRank 2"] = 418,
-					["Drain LifeRank 4"] = 48,
-				},
-			},
-			["Lookingagrp"] = {
-				["heals"] = {
-				},
-			},
 			["Easypewpew"] = {
 				["heals"] = {
 				},
 			},
 			["Easypisy"] = {
+				["heals"] = {
+				},
+			},
+			["Pureholypowe"] = {
+				["heals"] = {
+					["Death CoilRank 3"] = 548,
+					["Death CoilRank 1"] = 315,
+					["Siphon LifeRank 4"] = 60,
+					["Drain LifeRank 4"] = 48,
+					["Siphon LifeRank 2"] = 23,
+					["Drain LifeRank 5"] = 63,
+					["Death CoilRank 2"] = 418,
+					["Drain LifeRank 6"] = 102,
+				},
+			},
+			["Lookingagrp"] = {
 				["heals"] = {
 				},
 			},
@@ -272,10 +272,10 @@ pfUI_cache = {
 	},
 	["gold"] = {
 		["Nighthaven"] = {
-			["Pureholypowe"] = 791091,
-			["Lookingagrp"] = 5378,
 			["Easypewpew"] = 680782,
 			["Easypisy"] = 5552,
+			["Pureholypowe"] = 210380,
+			["Lookingagrp"] = 5378,
 		},
 		["Kronos III"] = {
 			["Holyll"] = 0,

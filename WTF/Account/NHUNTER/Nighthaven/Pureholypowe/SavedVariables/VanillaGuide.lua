@@ -5,19 +5,6 @@ VanillaGuideDBPC = {
 			["GuideID"] = 31,
 			["Step"] = 4,
 		},
-		["UI"] = {
-			["ScrollFrameVisible"] = false,
-			["MainFrameAnchor"] = {
-				["sTo"] = "TOPLEFT",
-				["sFrom"] = "TOPLEFT",
-				["nX"] = 1003.556710357678,
-				["nY"] = -184.3828520091248,
-			},
-			["MainFrameSize"] = {
-				["nWidth"] = 319.9999693625167,
-				["nHeight"] = 319.999998010553,
-			},
-		},
 		["CharInfo"] = {
 			["Race"] = "Undead",
 			["Faction"] = "Horde",
@@ -25,12 +12,25 @@ VanillaGuideDBPC = {
 			["RealmName"] = "Nighthaven",
 			["Class"] = "Warlock",
 		},
+		["UI"] = {
+			["ScrollFrameVisible"] = false,
+			["MainFrameAnchor"] = {
+				["sTo"] = "TOPLEFT",
+				["nX"] = 797.3346549395317,
+				["sFrom"] = "TOPLEFT",
+				["nY"] = -231.9580315717898,
+			},
+			["MainFrameSize"] = {
+				["nWidth"] = 319.9999693625167,
+				["nHeight"] = 319.999998010553,
+			},
+		},
 		["MetaMap"] = {
 			["BWPPresence"] = true,
-			["BWPEnable"] = true,
+			["NotesEnable"] = true,
 			["Presence"] = true,
 			["NotesPresence"] = true,
-			["NotesEnable"] = true,
+			["BWPEnable"] = true,
 		},
 	},
 }
