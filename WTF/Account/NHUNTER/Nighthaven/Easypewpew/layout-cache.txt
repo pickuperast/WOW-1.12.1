@@ -25,13 +25,13 @@ FrameLevel: 1
 X: 0
 Y: -104
 Frame: MailFrame
-FrameLevel: 47
+FrameLevel: 29
 X: 0
 Y: -104
 Frame: AuxFrame
-FrameLevel: 30
-X: 140
-Y: -90
+FrameLevel: 43
+X: 328
+Y: -115
 Frame: CensusPlus
 FrameLevel: 16
 X: 116
@@ -49,7 +49,7 @@ FrameLevel: 6
 X: 1374
 Y: -208
 Frame: OneBagFrame
-FrameLevel: 26
+FrameLevel: 40
 X: 980
 Y: -339
 Frame: ZHunterButtonTrack

@@ -1,3 +1,6 @@
+MACRO 16777221 "11" Ability_Creature_Cursed_05
+/script if IsAltKeyDown() then CastSpellByName("Aspect of the Hawk") else CastSpellByName("Aspect of the Cheetah") end
+END
 MACRO 16777220 "2" Spell_Shadow_CurseOfSargeras
 /use [mod:alt]Curse of Tongues;Curse of Agony
 END

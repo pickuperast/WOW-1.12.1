@@ -92,7 +92,6 @@ ZHunterMod_Saved = {
 		["rows"] = 1,
 		["pet"] = {
 			["happiness"] = 3,
-			["status"] = 2,
 		},
 		["count"] = 6,
 		["tooltip"] = 1,

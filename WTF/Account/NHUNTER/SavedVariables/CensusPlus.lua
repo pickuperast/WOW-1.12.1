@@ -3,5219 +3,5219 @@ CensusPlus_Database = {
 	["Guilds"] = {
 		["Nighthaven"] = {
 			["Horde"] = {
-				["Order of Chaos"] = {
+				["RUSSIA"] = {
 					["GuildInfo"] = {
 						["ShowOnline"] = 1,
-						["Update"] = "06-25-2019",
+						["Update"] = "06-30-2019",
 					},
 					["Members"] = {
-						["Excalispoon"] = {
-							["RankIndex"] = 5,
-							["Level"] = 22,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Covariant"] = {
+						["Deathmettal"] = {
 							["RankIndex"] = 4,
-							["Level"] = 43,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Highish"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Bartras"] = {
-							["RankIndex"] = 5,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Jorne"] = {
-							["RankIndex"] = 6,
-							["Level"] = 45,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Hacknslash"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Klingodn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Jamhuntar"] = {
-							["RankIndex"] = 6,
-							["Level"] = 20,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Chillju"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Innertube"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Mokandow"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Blazzinbawlz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Kurjam"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Officer",
-						},
-						["Steakboy"] = {
-							["RankIndex"] = 6,
-							["Level"] = 25,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Vainamoinan"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Kevashan"] = {
-							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Badosa"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Kornelio"] = {
-							["RankIndex"] = 4,
-							["Level"] = 51,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Quasher"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Dualneedlers"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Ansonas"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Durinsgay"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Tabull"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Felmy"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Maroth"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Lonelywart"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Darvelteh"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Anusa"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Skullpro"] = {
-							["RankIndex"] = 5,
-							["Level"] = 39,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Elewind"] = {
-							["RankIndex"] = 5,
-							["Level"] = 57,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Stabbyperv"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Layaah"] = {
-							["RankIndex"] = 5,
-							["Level"] = 17,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Shaggytodope"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Baygon"] = {
-							["RankIndex"] = 3,
-							["Level"] = 58,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Firanecki"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Killafool"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Krundezw"] = {
-							["RankIndex"] = 6,
-							["Level"] = 33,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Blixter"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Hallomis"] = {
-							["RankIndex"] = 4,
-							["Level"] = 45,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Georgel"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Hoppeta"] = {
-							["RankIndex"] = 4,
-							["Level"] = 49,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Rynoman"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Pmaxi"] = {
-							["RankIndex"] = 6,
-							["Level"] = 16,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Migmag"] = {
-							["RankIndex"] = 3,
-							["Level"] = 40,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Afterschool"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Beefytaint"] = {
-							["RankIndex"] = 5,
-							["Level"] = 50,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Saulami"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Pulpfliction"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Alligatorpet"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Hellibeth"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Dedwarr"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Edbaal"] = {
-							["RankIndex"] = 5,
-							["Level"] = 26,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Phannie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Wufur"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Razia"] = {
-							["RankIndex"] = 4,
-							["Level"] = 52,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Schrader"] = {
-							["RankIndex"] = 4,
-							["Level"] = 43,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Nezzdingo"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Khalldrogo"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Stabbndabb"] = {
-							["RankIndex"] = 6,
-							["Level"] = 32,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Shushuu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Pathian"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Moother"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Goofimane"] = {
-							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Hopeless"] = {
-							["RankIndex"] = 2,
-							["Level"] = 48,
-							["Class"] = "Priest",
-							["Rank"] = "Officer",
-						},
-						["Tietok"] = {
-							["RankIndex"] = 6,
-							["Level"] = 19,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Chonchis"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Otakay"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Anokay"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Sediax"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Warmob"] = {
-							["RankIndex"] = 3,
-							["Level"] = 47,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Femar"] = {
-							["RankIndex"] = 5,
-							["Level"] = 29,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Fibon"] = {
-							["RankIndex"] = 5,
-							["Level"] = 54,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Seaheaven"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Kelani"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Xaee"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Alelemaiko"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Xragulyo"] = {
-							["RankIndex"] = 6,
-							["Level"] = 16,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Elskere"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Brickz"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Itsnotmilk"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Mitaxer"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Thevlin"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Wessexar"] = {
-							["RankIndex"] = 5,
-							["Level"] = 41,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Mostdmg"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Kurv"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Zulidae"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Fearheist"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Fireworks"] = {
-							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Roguedriguez"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Noelsie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Dozoom"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Seeqtisse"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Zuliwar"] = {
-							["RankIndex"] = 5,
-							["Level"] = 51,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Clicheename"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Abrakcadabra"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Totalbankera"] = {
-							["RankIndex"] = 6,
-							["Level"] = 1,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Greaseman"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Thevedis"] = {
-							["RankIndex"] = 6,
-							["Level"] = 19,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Nightsleepez"] = {
-							["RankIndex"] = 6,
-							["Level"] = 20,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Maivex"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Ludyx"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Warmyname"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Habakukk"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Scottfrost"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Arturiu"] = {
-							["RankIndex"] = 5,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Fristensky"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Waroo"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Thetorke"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Knuckls"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Zeuqma"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Richpiano"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Tokalak"] = {
-							["RankIndex"] = 5,
 							["Level"] = 31,
 							["Class"] = "Warrior",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Icementor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Terrargore"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Sukima"] = {
-							["RankIndex"] = 6,
-							["Level"] = 47,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Azannie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Champagnero"] = {
-							["RankIndex"] = 6,
-							["Level"] = 14,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Vypich"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Gimmeaids"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Rottenhealz"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Nephanix"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Impellitteri"] = {
-							["RankIndex"] = 5,
-							["Level"] = 26,
+						["Golovadvayha"] = {
+							["RankIndex"] = 2,
+							["Level"] = 56,
 							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Daiuym"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Castbarz"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Roachita"] = {
-							["RankIndex"] = 3,
-							["Level"] = 57,
-							["Class"] = "Shaman",
 							["Rank"] = "Veteran",
 						},
-						["Eehvertti"] = {
-							["RankIndex"] = 6,
-							["Level"] = 9,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Proffbasa"] = {
-							["RankIndex"] = 6,
-							["Level"] = 13,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Bovvy"] = {
+						["Seroekopblto"] = {
 							["RankIndex"] = 4,
-							["Level"] = 48,
+							["Level"] = 22,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Skazlo"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Siders"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Eugeh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 42,
 							["Class"] = "Warrior",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Happyglow"] = {
-							["RankIndex"] = 6,
+						["Freene"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Introwert"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Rorocat"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Magguzz"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Qweryt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Aeonmix"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Kazlo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Darnage"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Yont"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zemonos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Ignot"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Yasuno"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Lazareva"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Misnikdoom"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Khung"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Azzyl"] = {
+							["RankIndex"] = 4,
 							["Level"] = 16,
 							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Edgartonn"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Lmk"] = {
-							["RankIndex"] = 6,
-							["Level"] = 4,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Lujka"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Nuclearice"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Gromgra"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Elzaji"] = {
+						["Magxxd"] = {
 							["RankIndex"] = 2,
 							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Officer",
-						},
-						["Likstoft"] = {
-							["RankIndex"] = 4,
-							["Level"] = 47,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Kimonososo"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Shadowaker"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Boozeh"] = {
-							["RankIndex"] = 6,
-							["Level"] = 14,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Commotio"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
+							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Snotshot"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Insxicht"] = {
-							["RankIndex"] = 5,
-							["Level"] = 26,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Talanjii"] = {
-							["RankIndex"] = 5,
-							["Level"] = 29,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Proham"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Wafnor"] = {
-							["RankIndex"] = 5,
-							["Level"] = 43,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Carefulaim"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Jarza"] = {
+						["Gwaren"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Elbanjodruid"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
+							["Level"] = 23,
 							["Class"] = "Druid",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Frispizza"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Kirigin"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Aeonis"] = {
-							["RankIndex"] = 5,
-							["Level"] = 43,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Kelsh"] = {
+						["Inavalny"] = {
 							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Joolmina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Lifeofmassac"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Djonkl"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Orgad"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Fierypain"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Psycholog"] = {
+							["RankIndex"] = 3,
+							["Level"] = 42,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Grictonchik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Lysyiher"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Sibiz"] = {
+							["RankIndex"] = 2,
+							["Level"] = 54,
+							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Lastimes"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Sodavik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Throdrim"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Broxigaro"] = {
+							["RankIndex"] = 3,
 							["Level"] = 49,
 							["Class"] = "Warrior",
-							["Rank"] = "Agent",
+							["Rank"] = "Beginner",
 						},
-						["Oreff"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Beranidlo"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Krape"] = {
-							["RankIndex"] = 6,
-							["Level"] = 14,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Labicha"] = {
+						["Bewarevoodoo"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Zeppss"] = {
-							["RankIndex"] = 6,
-							["Level"] = 22,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Toxiczombie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Beastmodezx"] = {
-							["RankIndex"] = 5,
-							["Level"] = 29,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Shiroxx"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Garouk"] = {
-							["RankIndex"] = 6,
-							["Level"] = 30,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Drbcb"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Utenroten"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Rayzeel"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Moomaid"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Mokandop"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Captorofsin"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Bib"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Winniebluez"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Gadlike"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Freemagic"] = {
-							["RankIndex"] = 2,
 							["Level"] = 44,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Ukrainee"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
 							["Class"] = "Mage",
-							["Rank"] = "Officer",
+							["Rank"] = "Beginner",
 						},
-						["Tjikko"] = {
+						["Mohctepp"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Deathreloads"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
+							["Level"] = 27,
 							["Class"] = "Rogue",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Cyclownd"] = {
+						["Gleus"] = {
 							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Rafaeris"] = {
-							["RankIndex"] = 6,
-							["Level"] = 21,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Klazy"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Biffletannen"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Zonity"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Wodez"] = {
-							["RankIndex"] = 6,
-							["Level"] = 26,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Jumanza"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Wildgooch"] = {
-							["RankIndex"] = 6,
-							["Level"] = 10,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Ryyad"] = {
-							["RankIndex"] = 4,
-							["Level"] = 51,
+							["Level"] = 27,
 							["Class"] = "Warlock",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Rykojo"] = {
-							["RankIndex"] = 4,
-							["Level"] = 45,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Prebz"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Migmuh"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Officer",
-						},
-						["Alteroboy"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Nohealinprst"] = {
+						["Torroga"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Ammory"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Wonderwand"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Altonga"] = {
-							["RankIndex"] = 5,
 							["Level"] = 33,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Presbuteros"] = {
-							["RankIndex"] = 5,
-							["Level"] = 47,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Shadowexy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
 							["Class"] = "Rogue",
-							["Rank"] = "Agent",
+							["Rank"] = "Beginner",
 						},
-						["Skarsnik"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
+						["Keliys"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
 						},
-						["Shadowfenix"] = {
-							["RankIndex"] = 6,
+						["Anymore"] = {
+							["RankIndex"] = 4,
 							["Level"] = 18,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
 						},
-						["Ripsnusbror"] = {
-							["RankIndex"] = 6,
-							["Level"] = 11,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Bumder"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Neville"] = {
+						["Ubizza"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
+							["Level"] = 19,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
 						},
-						["Doncowleone"] = {
+						["Karrbofos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Bubonka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Beenia"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Duuratan"] = {
 							["RankIndex"] = 3,
-							["Level"] = 56,
+							["Level"] = 45,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Krovuleon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
 							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Poohsab"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Ubeer"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Sauryscham"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Scouser"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Ternnal"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Sharvi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Anagarka"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Kaldburger"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
+						["Phylling"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
 						},
-						["Lonuxx"] = {
-							["RankIndex"] = 5,
+						["Potencia"] = {
+							["RankIndex"] = 4,
 							["Level"] = 24,
 							["Class"] = "Priest",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Mexstasy"] = {
+						["Proctodimka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 42,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Rizensoul"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
+							["Level"] = 18,
 							["Class"] = "Warlock",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Trachta"] = {
-							["RankIndex"] = 5,
+						["Kachunga"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Onaax"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Fincrab"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Hordekat"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Zloytato"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Nidal"] = {
+							["RankIndex"] = 3,
+							["Level"] = 48,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Wastter"] = {
+							["RankIndex"] = 2,
+							["Level"] = 53,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Wernos"] = {
+							["RankIndex"] = 2,
+							["Level"] = 56,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Samnambula"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Ebasosina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Virmire"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Noveechok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Tarmandor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Defibril"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Holyass"] = {
+							["RankIndex"] = 1,
+							["Level"] = 60,
+							["Class"] = "Priest",
+							["Rank"] = "Officer",
+						},
+						["Topnega"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Tetreandoh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Wardesh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Abvn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Derteor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Akninshi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Yaroslavas"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Exstr"] = {
+							["RankIndex"] = 2,
+							["Level"] = 54,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Collectioner"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Bortnik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 47,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Akoro"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Snowysky"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Trongor"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Duratan"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Haigert"] = {
+							["RankIndex"] = 3,
+							["Level"] = 47,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Lirastark"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Ulmic"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Pannda"] = {
+							["RankIndex"] = 4,
 							["Level"] = 29,
 							["Class"] = "Druid",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Whodatkush"] = {
-							["RankIndex"] = 6,
+						["Kriado"] = {
+							["RankIndex"] = 4,
 							["Level"] = 12,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Ivywild"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
 							["Class"] = "Warrior",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Biological"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Rahmetli"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
+						["Fusrocih"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
 							["Class"] = "Mage",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Manolarga"] = {
-							["RankIndex"] = 5,
-							["Level"] = 39,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
+						["Farandina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
-						["Zealjin"] = {
-							["RankIndex"] = 5,
-							["Level"] = 23,
+						["Bmwspb"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
 							["Class"] = "Hunter",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Dslayaa"] = {
-							["RankIndex"] = 6,
-							["Level"] = 22,
+						["Pavlian"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Sinimatik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
 							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
+							["Rank"] = "Beginner",
 						},
-						["Cowhunting"] = {
-							["RankIndex"] = 6,
+						["Draggnil"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Zdoxnisobaka"] = {
+							["RankIndex"] = 4,
 							["Level"] = 18,
 							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Zellous"] = {
+						["Zeoon"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
+							["Level"] = 37,
 							["Class"] = "Shaman",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Yougethorns"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Xaxc"] = {
+						["Gdemoypett"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Remaydie"] = {
-							["RankIndex"] = 5,
 							["Level"] = 38,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Nopurp"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
 							["Class"] = "Hunter",
-							["Rank"] = "Member",
+							["Rank"] = "Beginner",
 						},
-						["Marsello"] = {
-							["RankIndex"] = 6,
-							["Level"] = 12,
+						["Doromick"] = {
+							["RankIndex"] = 4,
+							["Level"] = 11,
 							["Class"] = "Priest",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Multiviola"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
+						["Bograttion"] = {
+							["RankIndex"] = 4,
+							["Level"] = 39,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
-						["Festrejda"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Zingata"] = {
-							["RankIndex"] = 5,
-							["Level"] = 25,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Thend"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
+						["Kdc"] = {
+							["RankIndex"] = 2,
+							["Level"] = 47,
 							["Class"] = "Priest",
 							["Rank"] = "Veteran",
 						},
-						["Bokahunt"] = {
-							["RankIndex"] = 5,
-							["Level"] = 33,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Edgari"] = {
-							["RankIndex"] = 5,
-							["Level"] = 33,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Tungus"] = {
-							["RankIndex"] = 5,
-							["Level"] = 50,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Dunmir"] = {
-							["RankIndex"] = 6,
-							["Level"] = 41,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Dflow"] = {
+						["Povarator"] = {
 							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
+							["Level"] = 14,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
-						["Vari"] = {
+						["Kindruid"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Drusanitar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Mexanikb"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Zloylok"] = {
 							["RankIndex"] = 0,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Curator",
-						},
-						["Morzane"] = {
-							["RankIndex"] = 1,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "General",
-						},
-						["Menror"] = {
-							["RankIndex"] = 1,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "General",
-						},
-						["Kotija"] = {
-							["RankIndex"] = 6,
 							["Level"] = 11,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
+							["Class"] = "Warlock",
+							["Rank"] = "President",
 						},
-						["Tyraksor"] = {
-							["RankIndex"] = 5,
+						["Otkrivashka"] = {
+							["RankIndex"] = 4,
 							["Level"] = 33,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Kurat"] = {
-							["RankIndex"] = 1,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "General",
-						},
-						["Preacherman"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Derkrami"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Leykis"] = {
-							["RankIndex"] = 1,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "General",
-						},
-						["Shalotte"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Officer",
-						},
-						["Palesheath"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Officer",
-						},
-						["Ohmchanter"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Officer",
-						},
-						["Calve"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
 							["Class"] = "Mage",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Kurchi"] = {
-							["RankIndex"] = 6,
-							["Level"] = 11,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Gidelthius"] = {
-							["RankIndex"] = 6,
-							["Level"] = 5,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Missuspieces"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Officer",
-						},
-						["Madmemexd"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
+						["Likam"] = {
+							["RankIndex"] = 4,
+							["Level"] = 56,
 							["Class"] = "Mage",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Daeneryst"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Gulushar"] = {
-							["RankIndex"] = 6,
-							["Level"] = 35,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Rebellina"] = {
-							["RankIndex"] = 6,
-							["Level"] = 11,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Miggreen"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Officer",
-						},
-						["Pholife"] = {
+						["Bobeer"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Katetet"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Officer",
-						},
-						["Silmaiwendel"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Heligfan"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Dracary"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Officer",
-						},
-						["Heyhowyadoin"] = {
-							["RankIndex"] = 6,
-							["Level"] = 7,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Arntcanemaym"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Bishubosh"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Officer",
-						},
-						["Bendeguz"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Officer",
-						},
-						["Enterich"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Ayur"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Officer",
-						},
-						["Arafion"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Officer",
-						},
-						["Lafayete"] = {
-							["RankIndex"] = 5,
 							["Level"] = 30,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Angrychef"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
 							["Class"] = "Rogue",
-							["Rank"] = "Officer",
+							["Rank"] = "Dust",
 						},
-						["Kurthra"] = {
-							["RankIndex"] = 5,
-							["Level"] = 23,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Furypaws"] = {
+						["Skifi"] = {
 							["RankIndex"] = 2,
-							["Level"] = 58,
-							["Class"] = "Druid",
-							["Rank"] = "Officer",
+							["Level"] = 47,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
 						},
-						["Zaklusan"] = {
-							["RankIndex"] = 4,
-							["Level"] = 41,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Oterhawt"] = {
-							["RankIndex"] = 5,
-							["Level"] = 20,
+						["Vankon"] = {
+							["RankIndex"] = 2,
+							["Level"] = 47,
 							["Class"] = "Mage",
-							["Rank"] = "Member",
+							["Rank"] = "Veteran",
 						},
-						["Cromaag"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Pandawatch"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Yarovaya"] = {
-							["RankIndex"] = 5,
+						["Badcolddead"] = {
+							["RankIndex"] = 3,
 							["Level"] = 28,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Skuttlebutt"] = {
-							["RankIndex"] = 2,
-							["Level"] = 51,
 							["Class"] = "Mage",
-							["Rank"] = "Officer",
+							["Rank"] = "Beginner",
 						},
-						["Drkill"] = {
+						["Yakrutoy"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Yerp"] = {
-							["RankIndex"] = 4,
-							["Level"] = 42,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Jayt"] = {
-							["RankIndex"] = 2,
-							["Level"] = 43,
-							["Class"] = "Mage",
-							["Rank"] = "Officer",
-						},
-						["Gazus"] = {
-							["RankIndex"] = 5,
-							["Level"] = 16,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Kaabakas"] = {
-							["RankIndex"] = 2,
-							["Level"] = 38,
-							["Class"] = "Shaman",
-							["Rank"] = "Officer",
-						},
-						["Zwiz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Kazrogath"] = {
-							["RankIndex"] = 6,
-							["Level"] = 50,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Zululjin"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Invisibleico"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
+							["Level"] = 18,
 							["Class"] = "Rogue",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Sansabri"] = {
+						["Postskriptum"] = {
 							["RankIndex"] = 4,
-							["Level"] = 44,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Zuljinus"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Tieru"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Hasselhoof"] = {
-							["RankIndex"] = 3,
-							["Level"] = 52,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Ollarn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Zrpr"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Zemmy"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Wartlock"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Getzy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Zilix"] = {
-							["RankIndex"] = 4,
-							["Level"] = 45,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Khaila"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Oogyboogie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 45,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Zapzerap"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Blackparade"] = {
-							["RankIndex"] = 5,
-							["Level"] = 58,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Stikkestikke"] = {
-							["RankIndex"] = 6,
-							["Level"] = 16,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Salintar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Illidanson"] = {
-							["RankIndex"] = 5,
-							["Level"] = 25,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Xyltessa"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Garrotash"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Kaganata"] = {
-							["RankIndex"] = 5,
-							["Level"] = 25,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Bernardupuit"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Shyvonn"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Baltyka"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Ragefirre"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Yeetybois"] = {
-							["RankIndex"] = 6,
 							["Level"] = 14,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
-						["Deadtrump"] = {
+						["Unluckyy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Martena"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Rongord"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Veverent"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kronna"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Ctraxota"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Tpynoeg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Behus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Biar"] = {
 							["RankIndex"] = 4,
 							["Level"] = 17,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
 						},
-						["Zorgues"] = {
-							["RankIndex"] = 5,
+						["Hrebet"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Yonby"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zloyshoman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 42,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Danzor"] = {
+							["RankIndex"] = 4,
 							["Level"] = 44,
 							["Class"] = "Shaman",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Xblesser"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
+						["Manakana"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
-						["Xaknar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Worllds"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Wickedkrazie"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Snotleif"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
+						["Easypewpew"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
 							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Powereded"] = {
-							["RankIndex"] = 6,
-							["Level"] = 7,
+						["Kapovka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
 							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Whizkey"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Ulfskn"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
+						["Xytab"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
 							["Class"] = "Rogue",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Weedpolice"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
+						["Sufiks"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Flyundead"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Werywel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
 							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Waldschutzer"] = {
+						["Valerka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Shamolet"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
+							["Level"] = 35,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Kalachi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Dyppo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Kazalup"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Bellisarius"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Goodwean"] = {
+							["RankIndex"] = 2,
+							["Level"] = 51,
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
-						["Venusdemilo"] = {
+						["Akaros"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Xavel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Chellenber"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Notariusman"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Laskovyi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Krivjda"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Rubch"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Shampinion"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Darior"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Talalayk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Vedsham"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Mokroar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Skitm"] = {
 							["RankIndex"] = 3,
 							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Festrik"] = {
-							["RankIndex"] = 6,
-							["Level"] = 8,
 							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
+							["Rank"] = "Beginner",
 						},
-						["Galive"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
+						["Marghogra"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
-						["Hellseek"] = {
-							["RankIndex"] = 5,
+						["Duneso"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Keshandra"] = {
+							["RankIndex"] = 4,
 							["Level"] = 28,
 							["Class"] = "Warrior",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Rimjobbobz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
+						["Faloimitater"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Detroitme"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Kelsaren"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Restorussia"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Zabwenie"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Koomnpeccop"] = {
+							["RankIndex"] = 4,
+							["Level"] = 53,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Yabalak"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Versalys"] = {
+							["RankIndex"] = 2,
+							["Level"] = 53,
+							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Jaygu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Jinlu"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Zegoth"] = {
-							["RankIndex"] = 4,
-							["Level"] = 59,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Ohlman"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Moofano"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Saijan"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Usuckbroski"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
+						["Rastashot"] = {
+							["RankIndex"] = 2,
+							["Level"] = 26,
 							["Class"] = "Hunter",
 							["Rank"] = "Veteran",
 						},
-						["Megerdeniz"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Uschnotz"] = {
+						["Wutangen"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
+							["Level"] = 39,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Tlya"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Mihalna"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Klaber"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Dlimka"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
 							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
-						["Thingers"] = {
+						["Zeonda"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
+							["Level"] = 13,
 							["Class"] = "Rogue",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Odour"] = {
+						["Delti"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
+							["Level"] = 39,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Scarytry"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
 							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
+							["Rank"] = "Beginner",
 						},
-						["Cynique"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
+						["Dordek"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
 						},
-						["Nelfarian"] = {
-							["RankIndex"] = 2,
+						["Lizavetta"] = {
+							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Hunter",
 							["Rank"] = "Officer",
 						},
-						["Racismisbad"] = {
-							["RankIndex"] = 6,
-							["Level"] = 12,
+						["Zentrixx"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Dommothon"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Blackwarlok"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
 							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
+							["Rank"] = "Beginner",
 						},
-						["Simaana"] = {
-							["RankIndex"] = 6,
-							["Level"] = 26,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Pivowar"] = {
-							["RankIndex"] = 6,
-							["Level"] = 40,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Ugabugatroll"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Tuuliz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Fivetides"] = {
+						["Gvido"] = {
 							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Tuskless"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Mordevolt"] = {
-							["RankIndex"] = 6,
-							["Level"] = 30,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Tozung"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Ravich"] = {
-							["RankIndex"] = 6,
-							["Level"] = 34,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Trouducul"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
+							["Level"] = 13,
 							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Vilinus"] = {
+						["Gajinka"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Hakira"] = {
-							["RankIndex"] = 6,
-							["Level"] = 23,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Treedancer"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Thekhed"] = {
-							["RankIndex"] = 6,
-							["Level"] = 5,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Nagir"] = {
-							["RankIndex"] = 6,
-							["Level"] = 19,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Threeinone"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Poonaeorc"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Muscleeman"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Screamcheese"] = {
-							["RankIndex"] = 6,
-							["Level"] = 27,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Wuk"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Suprame"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Ciscus"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Gravefiend"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Spoonmanzz"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Cetriona"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Superhansa"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Tuarentaur"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Missdiane"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Sugarloaf"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Gorbidity"] = {
-							["RankIndex"] = 5,
-							["Level"] = 52,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Ookiecookie"] = {
-							["RankIndex"] = 6,
-							["Level"] = 47,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Somuchkaboom"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Tonces"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Snuffa"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Xenaly"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Quinz"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Dannilocko"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Amatahukahan"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Ginoy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Shoedw"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Shinzalah"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Shimmyjimmy"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Shadowsoull"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Dolomite"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Kyrupt"] = {
-							["RankIndex"] = 6,
 							["Level"] = 21,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Sevenslashes"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Serefsiz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Sbz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Shadowsmite"] = {
-							["RankIndex"] = 6,
-							["Level"] = 10,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Satanius"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
 							["Class"] = "Mage",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Frcp"] = {
+						["Zloyalkash"] = {
 							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Doombringer"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Sambolul"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Yepmad"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Gralorth"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Whirlydirly"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
+							["Level"] = 17,
 							["Class"] = "Shaman",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Bhaalz"] = {
+						["Blackkadgar"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Alethinos"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
+							["Level"] = 18,
 							["Class"] = "Warrior",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Axeo"] = {
-							["RankIndex"] = 5,
-							["Level"] = 46,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Leticiaa"] = {
-							["RankIndex"] = 5,
-							["Level"] = 25,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Rasalghul"] = {
+						["Danjj"] = {
 							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Turttina"] = {
-							["RankIndex"] = 3,
-							["Level"] = 49,
+							["Level"] = 15,
 							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Vata"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Ramoceptura"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Jtmoney"] = {
-							["RankIndex"] = 6,
+						["Dreadfog"] = {
+							["RankIndex"] = 4,
 							["Level"] = 19,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Zabuu"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Pakastaja"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
 							["Class"] = "Mage",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Staminer"] = {
+						["Madmason"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Krulic"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Ugaroxxar"] = {
 							["RankIndex"] = 4,
 							["Level"] = 41,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Banjonignog"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
 							["Class"] = "Shaman",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Pakanachi"] = {
+						["Bujenina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Blackris"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Rogagodpvp"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Lazybear"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Zhelezzyaka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Konoplya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Thornhide"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Frozendream"] = {
+							["RankIndex"] = 2,
+							["Level"] = 49,
+							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Uralrus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Darush"] = {
 							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Nltrix"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Podlyanka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Proteinum"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Bibidon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Coppov"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Manawka"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Cowsgrun"] = {
+							["RankIndex"] = 4,
+							["Level"] = 42,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Gwirs"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Leshaleh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Hlorovodorod"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Nekrotik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Granada"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Kakono"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Jordead"] = {
+							["RankIndex"] = 3,
+							["Level"] = 50,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Antaras"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Apelsien"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Gugenstein"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Moind"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Newtauren"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Bajinda"] = {
+							["RankIndex"] = 1,
+							["Level"] = 60,
+							["Class"] = "Warlock",
+							["Rank"] = "Officer",
+						},
+						["Octrich"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Vladsatana"] = {
+							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
+							["Rank"] = "Officer",
 						},
-						["Oyvind"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Moriawen"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Oxii"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Xsiusha"] = {
-							["RankIndex"] = 6,
-							["Level"] = 21,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Orokzugg"] = {
-							["RankIndex"] = 3,
+						["Ubivan"] = {
+							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+							["Rank"] = "Officer",
 						},
-						["Lindarinm"] = {
+						["Daldanius"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
+							["Level"] = 31,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
 						},
-						["Placeholdr"] = {
-							["RankIndex"] = 5,
-							["Level"] = 34,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Priestbob"] = {
+						["Jopabomja"] = {
 							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Blacksubbath"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Mutaren"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Typbuna"] = {
+							["RankIndex"] = 1,
+							["Level"] = 60,
+							["Class"] = "Druid",
+							["Rank"] = "Officer",
+						},
+						["Lolikhip"] = {
+							["RankIndex"] = 3,
+							["Level"] = 42,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Shockgirl"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Jasti"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Akumahanta"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Nekrogeddon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Djinna"] = {
+							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Priest",
-							["Rank"] = "Agent",
+							["Rank"] = "Officer",
 						},
-						["Bactery"] = {
-							["RankIndex"] = 5,
-							["Level"] = 26,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
+						["Arrk"] = {
+							["RankIndex"] = 1,
+							["Level"] = 60,
+							["Class"] = "Warrior",
+							["Rank"] = "Officer",
 						},
-						["Zizax"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
+						["Betonomehal"] = {
+							["RankIndex"] = 1,
+							["Level"] = 44,
+							["Class"] = "Druid",
+							["Rank"] = "Officer",
 						},
-						["Oogrumi"] = {
+						["Vladisluv"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Radz"] = {
 							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Fldz"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Wargru"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Swector"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Ballstickles"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Hodvig"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Valafari"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Ahakgarra"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Unfology"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Muxan"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Selanchik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Tatarstan"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Demarsh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Nikitoswar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Daugal"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Wipa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Redhanter"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Nejdanna"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Duegos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Bpyn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Rontola"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Qbaronq"] = {
+							["RankIndex"] = 4,
+							["Level"] = 50,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Medikus"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Mahalporoje"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Swdpro"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Pizdanoga"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Dranhon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Glebusus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Gdemoyhill"] = {
+							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Blazeitfam"] = {
-							["RankIndex"] = 3,
+						["Fonamputator"] = {
+							["RankIndex"] = 2,
 							["Level"] = 60,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Monkass"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Eyegon"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Warghsaken"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Zetmix"] = {
+							["RankIndex"] = 2,
+							["Level"] = 59,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Longusdolor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zarig"] = {
+							["RankIndex"] = 2,
+							["Level"] = 59,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Pyrodox"] = {
+							["RankIndex"] = 2,
+							["Level"] = 58,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Kvebek"] = {
+							["RankIndex"] = 2,
+							["Level"] = 58,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Hamaxa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Drhealing"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Mbshewill"] = {
+							["RankIndex"] = 4,
+							["Level"] = 33,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Frostguards"] = {
+							["RankIndex"] = 2,
+							["Level"] = 58,
+							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Sheepmolly"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Nitrixi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Satanick"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Evrobaks"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Setkogai"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Spelldweller"] = {
+							["RankIndex"] = 2,
+							["Level"] = 56,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Takada"] = {
+							["RankIndex"] = 4,
+							["Level"] = 33,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Bagrattion"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Pvpmaniyaq"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Yomodad"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Skylik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Goldhorde"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Vasyadomoi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Blackway"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Shershin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Uhrodor"] = {
+							["RankIndex"] = 2,
+							["Level"] = 55,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Nekrontir"] = {
+							["RankIndex"] = 2,
+							["Level"] = 55,
+							["Class"] = "Mage",
+							["Rank"] = "Veteran",
+						},
+						["Santsin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Kenelola"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Trotun"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Kastalom"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Mushchina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Mishas"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Migalka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Ryoklo"] = {
+							["RankIndex"] = 2,
+							["Level"] = 54,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Atulldarak"] = {
+							["RankIndex"] = 2,
+							["Level"] = 54,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Sorov"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Saviby"] = {
+							["RankIndex"] = 2,
+							["Level"] = 53,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Zeppelinx"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Pepeshka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Mogusil"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Dudekostya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Rroq"] = {
+							["RankIndex"] = 2,
+							["Level"] = 53,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Wisplolz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Platiniym"] = {
+							["RankIndex"] = 4,
+							["Level"] = 33,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Axeinium"] = {
+							["RankIndex"] = 2,
+							["Level"] = 53,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Dekanderoga"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Fedyk"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Grokojak"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Trollerr"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Vertelnahuy"] = {
+							["RankIndex"] = 2,
+							["Level"] = 52,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Ultromarine"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Spreng"] = {
+							["RankIndex"] = 2,
+							["Level"] = 52,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Ballroog"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Bretelka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Valtas"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Bogdanko"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Vaasilichh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Toomon"] = {
+							["RankIndex"] = 2,
+							["Level"] = 52,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Kokosevich"] = {
+							["RankIndex"] = 2,
+							["Level"] = 52,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Everblood"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Stonefury"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Shemira"] = {
+							["RankIndex"] = 3,
+							["Level"] = 47,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Ourvenuk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 46,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zilzac"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Kastetback"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Zabiyka"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Xokare"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Bastd"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Newdeath"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Dedkill"] = {
+							["RankIndex"] = 2,
+							["Level"] = 48,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Azuyel"] = {
+							["RankIndex"] = 2,
+							["Level"] = 47,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Abrabr"] = {
+							["RankIndex"] = 2,
+							["Level"] = 47,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Shaft"] = {
+							["RankIndex"] = 2,
+							["Level"] = 46,
+							["Class"] = "Warrior",
+							["Rank"] = "Veteran",
+						},
+						["Zoolaman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Salambo"] = {
+							["RankIndex"] = 2,
+							["Level"] = 46,
 							["Class"] = "Druid",
 							["Rank"] = "Veteran",
 						},
-						["Decreption"] = {
-							["RankIndex"] = 5,
-							["Level"] = 31,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
+						["Mirity"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
-						["Deevo"] = {
-							["RankIndex"] = 6,
+						["Izolentochka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Orcion"] = {
+							["RankIndex"] = 2,
+							["Level"] = 45,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Nebezdary"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Grozz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 46,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Halomon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Olololoman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Truerog"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Capitals"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Izlatvimoon"] = {
+							["RankIndex"] = 4,
 							["Level"] = 13,
 							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Dexxor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Whatarethose"] = {
-							["RankIndex"] = 4,
-							["Level"] = 59,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Sponplate"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Shailas"] = {
-							["RankIndex"] = 6,
-							["Level"] = 16,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Foozymon"] = {
-							["RankIndex"] = 6,
-							["Level"] = 20,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Norrm"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Bluebeast"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Narxien"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Nanakoqt"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Naknar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Sarganatas"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Mpoouner"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Ynchuchuna"] = {
-							["RankIndex"] = 5,
-							["Level"] = 41,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Snurrebro"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Chocotof"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Chocker"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Missbrutalis"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Xumpas"] = {
-							["RankIndex"] = 4,
-							["Level"] = 51,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Methuzadem"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Imeanunoharm"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Wubwubwub"] = {
-							["RankIndex"] = 5,
-							["Level"] = 39,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Metanor"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Melkeish"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Christendom"] = {
-							["RankIndex"] = 6,
-							["Level"] = 42,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Zartuna"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Pecochef"] = {
-							["RankIndex"] = 3,
-							["Level"] = 58,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Nuuskapeke"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Lussypicker"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Lukk"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Ouppfostrad"] = {
-							["RankIndex"] = 5,
-							["Level"] = 52,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Tallun"] = {
-							["RankIndex"] = 5,
-							["Level"] = 55,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Orgon"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Hinich"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Leechier"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Lavinia"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Aelarik"] = {
-							["RankIndex"] = 6,
-							["Level"] = 8,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Kusivittu"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Kluk"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Quasimoddo"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Keeshra"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Jebbu"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Kilams"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Morfsham"] = {
-							["RankIndex"] = 5,
-							["Level"] = 29,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Jamburglarr"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Dpsmage"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Arcbalt"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Jackopoz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Nothral"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Shamabob"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Isosieni"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Halorrin"] = {
-							["RankIndex"] = 5,
-							["Level"] = 19,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Kabrayko"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Bablusa"] = {
-							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Hoodlegend"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Robosmash"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Hearrtless"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Ingarsven"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Handymanny"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Hamaul"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Grumag"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Braindedtard"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Grintusk"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Nooah"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Depth"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Trashmeat"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Zeverino"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Karuu"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Doyouwanna"] = {
-							["RankIndex"] = 4,
-							["Level"] = 49,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Bllitzkrieg"] = {
-							["RankIndex"] = 6,
-							["Level"] = 14,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Doeb"] = {
-							["RankIndex"] = 5,
-							["Level"] = 51,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Greanbeans"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Zudzud"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Flume"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Intricos"] = {
-							["RankIndex"] = 5,
-							["Level"] = 20,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Ryche"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Xahm"] = {
-							["RankIndex"] = 6,
-							["Level"] = 25,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Ziggix"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Bigtottem"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Milkymicky"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Baaz"] = {
-							["RankIndex"] = 6,
-							["Level"] = 30,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Locksum"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Gainzz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Rommelbear"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Flauschy"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Shurshunya"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Icyfist"] = {
-							["RankIndex"] = 5,
-							["Level"] = 22,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Alcoric"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Erecta"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Efialtisi"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Droktan"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Randemiz"] = {
-							["RankIndex"] = 6,
-							["Level"] = 6,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Treestumplol"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Bucknut"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Kalim"] = {
-							["RankIndex"] = 4,
-							["Level"] = 45,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Borovshina"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Dragthadar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Earons"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Tiriaq"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Hatedbyall"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Deemoo"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Davaro"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Divljo"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Alexitym"] = {
-							["RankIndex"] = 6,
-							["Level"] = 6,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Pimeys"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Zungi"] = {
-							["RankIndex"] = 6,
-							["Level"] = 30,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Wombatcombat"] = {
-							["RankIndex"] = 5,
-							["Level"] = 39,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Rickyrose"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Ilythrasa"] = {
-							["RankIndex"] = 4,
-							["Level"] = 47,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Kokuri"] = {
-							["RankIndex"] = 5,
-							["Level"] = 51,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Artanys"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Koetjesreep"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Ketoacitosis"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Spiritguide"] = {
-							["RankIndex"] = 6,
-							["Level"] = 20,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Narna"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Crorg"] = {
-							["RankIndex"] = 6,
-							["Level"] = 20,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Dotdotgoose"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Vortextwo"] = {
-							["RankIndex"] = 6,
-							["Level"] = 22,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Brummund"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Bonewizard"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Bonelife"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Gagatek"] = {
-							["RankIndex"] = 5,
-							["Level"] = 34,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Bloviator"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Quintiius"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Bazzler"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Alkw"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Scraps"] = {
-							["RankIndex"] = 5,
-							["Level"] = 53,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Shurann"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Druidou"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Dalsho"] = {
-							["RankIndex"] = 5,
-							["Level"] = 45,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Nolande"] = {
-							["RankIndex"] = 6,
-							["Level"] = 9,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Ketodiet"] = {
-							["RankIndex"] = 3,
-							["Level"] = 59,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Soultaken"] = {
-							["RankIndex"] = 5,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Harnarak"] = {
-							["RankIndex"] = 3,
-							["Level"] = 59,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Feman"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Matski"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Scourgehead"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Womble"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Blackzsr"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Bocica"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Juddee"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Vasilie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 23,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Shagel"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Surfittan"] = {
-							["RankIndex"] = 6,
-							["Level"] = 20,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Migwar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 47,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Albony"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Thunlash"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Funky"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Sneakychef"] = {
-							["RankIndex"] = 3,
-							["Level"] = 29,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Omegafury"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Angryjaeger"] = {
-							["RankIndex"] = 6,
-							["Level"] = 42,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Asbash"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Morticya"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Everlastin"] = {
-							["RankIndex"] = 4,
-							["Level"] = 49,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Risesyndikat"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Yaban"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Kallmenlen"] = {
-							["RankIndex"] = 5,
-							["Level"] = 45,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Xeion"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Dunjenn"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Lilluzi"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Vizuvis"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Nagirrek"] = {
-							["RankIndex"] = 5,
-							["Level"] = 22,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Nietzblast"] = {
-							["RankIndex"] = 5,
-							["Level"] = 26,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Quelder"] = {
-							["RankIndex"] = 5,
-							["Level"] = 41,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Epicturd"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Rushma"] = {
-							["RankIndex"] = 4,
-							["Level"] = 49,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Vihs"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Dompenion"] = {
-							["RankIndex"] = 5,
-							["Level"] = 46,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Zackateev"] = {
-							["RankIndex"] = 6,
-							["Level"] = 36,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Alldps"] = {
-							["RankIndex"] = 4,
-							["Level"] = 24,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Rachouminou"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Smashndip"] = {
-							["RankIndex"] = 5,
-							["Level"] = 45,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Ricarus"] = {
-							["RankIndex"] = 6,
-							["Level"] = 21,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Tryyne"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Urth"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Neurosurgeon"] = {
-							["RankIndex"] = 5,
+						["Qoorlyk"] = {
+							["RankIndex"] = 2,
 							["Level"] = 43,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Thebutcherx"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
 							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Vanethal"] = {
-							["RankIndex"] = 5,
-							["Level"] = 23,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Skidikipapap"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Fylkesfisken"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Raktor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Zefor"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Shamimale"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Scaldor"] = {
-							["RankIndex"] = 3,
-							["Level"] = 50,
-							["Class"] = "Warlock",
 							["Rank"] = "Veteran",
 						},
-						["Fozzy"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Rokugan"] = {
+						["Alkatrass"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
+							["Level"] = 16,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
 						},
-						["Allmustdie"] = {
-							["RankIndex"] = 6,
-							["Level"] = 14,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Shtift"] = {
-							["RankIndex"] = 5,
+						["Thvoika"] = {
+							["RankIndex"] = 4,
 							["Level"] = 27,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Acherontia"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Pureholypowe"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Orcos"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Argzel"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
 							["Class"] = "Warrior",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Syncerus"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Corpsesalad"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Shambulance"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Davidclassix"] = {
-							["RankIndex"] = 5,
-							["Level"] = 26,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Omfug"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Ojibwe"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Nuodon"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Biggins"] = {
-							["RankIndex"] = 5,
-							["Level"] = 45,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Jojou"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Nitrorez"] = {
-							["RankIndex"] = 4,
-							["Level"] = 34,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Nornfang"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Endragoz"] = {
-							["RankIndex"] = 5,
+						["Leroyjenkens"] = {
+							["RankIndex"] = 2,
 							["Level"] = 41,
 							["Class"] = "Warrior",
-							["Rank"] = "Member",
+							["Rank"] = "Veteran",
 						},
-						["Wattled"] = {
-							["RankIndex"] = 6,
-							["Level"] = 45,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Naeverst"] = {
+						["Huaracheck"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
 						},
-						["Venji"] = {
+						["Tupobarmalei"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Moonroguel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Gnilomes"] = {
 							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Snikears"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Pakodrulyako"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Idipoglazhu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 9,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Lahudra"] = {
+							["RankIndex"] = 2,
+							["Level"] = 40,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Nepobedimui"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Jye"] = {
+							["RankIndex"] = 3,
+							["Level"] = 59,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Gravicapa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Yuger"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Ruhatai"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Lurc"] = {
+							["RankIndex"] = 3,
+							["Level"] = 55,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Eyeforever"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Milanoo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Pirpuk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Resteros"] = {
+							["RankIndex"] = 3,
+							["Level"] = 52,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Nordlocky"] = {
+							["RankIndex"] = 3,
+							["Level"] = 51,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Methood"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Shamty"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Terutanya"] = {
+							["RankIndex"] = 3,
+							["Level"] = 49,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Goodbooi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Horntrick"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Bezymec"] = {
+							["RankIndex"] = 2,
+							["Level"] = 53,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Errektus"] = {
+							["RankIndex"] = 3,
+							["Level"] = 49,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Oreminer"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Blameruin"] = {
+							["RankIndex"] = 3,
+							["Level"] = 49,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Barricada"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Zebrajin"] = {
+							["RankIndex"] = 3,
+							["Level"] = 48,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Pankioi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Cotohaz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Ogmodon"] = {
+							["RankIndex"] = 3,
+							["Level"] = 48,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Emoen"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Kamsor"] = {
+							["RankIndex"] = 3,
+							["Level"] = 47,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Kokokiko"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Zakral"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Tchekykaryo"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Zaklinak"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Golen"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Barlogdfast"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Shemu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Dkwarlock"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Phalene"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Obebowenuy"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Drdruidos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Rusohunt"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Inhumanerect"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Selecktor"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Nemerio"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Warhammerrus"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Reydo"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Nioksion"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Nelltu"] = {
+							["RankIndex"] = 3,
+							["Level"] = 44,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Tomazx"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Rozman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Fanen"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Heex"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Itscowabunga"] = {
+							["RankIndex"] = 2,
+							["Level"] = 57,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Tarrgar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Necrozes"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Kospy"] = {
+							["RankIndex"] = 3,
+							["Level"] = 43,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Soulik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Disll"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Starichok"] = {
+							["RankIndex"] = 1,
+							["Level"] = 60,
+							["Class"] = "Warrior",
+							["Rank"] = "Officer",
+						},
+						["Bronsik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 42,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Smethanos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 11,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Haliat"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Colizzy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Keljaeden"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zang"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Penkusdui"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Pataud"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Besvain"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Gronzul"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Barracha"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Fsbfsb"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Zubuzu"] = {
+							["RankIndex"] = 2,
 							["Level"] = 60,
 							["Class"] = "Warrior",
 							["Rank"] = "Veteran",
 						},
-						["Eplekake"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Jdi"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Zurii"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Powerlifting"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Nevrland"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Justbones"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Altarboo"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Bulledbeef"] = {
-							["RankIndex"] = 4,
-							["Level"] = 37,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Goombatar"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Chornsrange"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Heksebrann"] = {
-							["RankIndex"] = 5,
-							["Level"] = 29,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Narmak"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Restored"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Viseriyon"] = {
-							["RankIndex"] = 6,
-							["Level"] = 16,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Shimmyfrancz"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Logiq"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Belarissa"] = {
-							["RankIndex"] = 6,
-							["Level"] = 52,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Lockyjoe"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Windaxes"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Fisknylle"] = {
-							["RankIndex"] = 4,
-							["Level"] = 37,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Stenk"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Bukisalv"] = {
-							["RankIndex"] = 5,
+						["Telekines"] = {
+							["RankIndex"] = 3,
 							["Level"] = 33,
 							["Class"] = "Shaman",
-							["Rank"] = "Member",
+							["Rank"] = "Beginner",
 						},
-						["Iiyama"] = {
-							["RankIndex"] = 5,
-							["Level"] = 51,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Warchal"] = {
-							["RankIndex"] = 6,
-							["Level"] = 2,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Kamaori"] = {
+						["Zulimxyu"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Kamanya"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Hurrikaned"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Battleripper"] = {
-							["RankIndex"] = 4,
-							["Level"] = 40,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Drrago"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Hunnie"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
+							["Level"] = 24,
 							["Class"] = "Hunter",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Varget"] = {
+						["Hukc"] = {
 							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Magnotar"] = {
-							["RankIndex"] = 4,
-							["Level"] = 47,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Goriann"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Rawrtreeform"] = {
-							["RankIndex"] = 5,
-							["Level"] = 22,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Deadroses"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Chargensmash"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Abrohax"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Llolitta"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Kta"] = {
-							["RankIndex"] = 4,
-							["Level"] = 49,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Altsnik"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Faeirbol"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Ctrlaltkill"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Dotndip"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Duducow"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Flobert"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Acemacg"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Nynjah"] = {
-							["RankIndex"] = 6,
-							["Level"] = 8,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Dragerion"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Xecution"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
-						},
-						["Dotudotu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Guice"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Dimaka"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Deadpunk"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Crazyharry"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Meegooface"] = {
-							["RankIndex"] = 6,
-							["Level"] = 10,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Genzic"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Champagnie"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Arkator"] = {
-							["RankIndex"] = 5,
-							["Level"] = 50,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Breezerker"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Blusterslut"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Bloodymess"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Karimuna"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Bimber"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Cipri"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Rossco"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Cowpanda"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Officer",
-						},
-						["Anoob"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Middlefarm"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Nyhve"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Ruzlock"] = {
-							["RankIndex"] = 4,
-							["Level"] = 59,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Alenol"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Meepe"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Mooshishi"] = {
-							["RankIndex"] = 4,
-							["Level"] = 59,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Gjutjarn"] = {
-							["RankIndex"] = 4,
-							["Level"] = 59,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Tulahbear"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Swaggyy"] = {
-							["RankIndex"] = 5,
-							["Level"] = 17,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Poratrais"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Shazuru"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Grommashar"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Meechy"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Pyssu"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Delkocko"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Solenyas"] = {
-							["RankIndex"] = 5,
-							["Level"] = 53,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Hjaltan"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Ghodrak"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Drannzer"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Banjofkyeah"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Magbo"] = {
-							["RankIndex"] = 6,
-							["Level"] = 27,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Emilthequill"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Lokithor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Rakkamossoul"] = {
-							["RankIndex"] = 4,
-							["Level"] = 47,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Deirow"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Tasdingho"] = {
-							["RankIndex"] = 6,
-							["Level"] = 19,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Sakuracn"] = {
-							["RankIndex"] = 6,
-							["Level"] = 19,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Moovabull"] = {
-							["RankIndex"] = 5,
-							["Level"] = 43,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Gomdan"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Drinkvendor"] = {
-							["RankIndex"] = 5,
-							["Level"] = 50,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Bliksim"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Meistari"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Cindzadza"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Mayree"] = {
-							["RankIndex"] = 6,
 							["Level"] = 20,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
 						},
-						["Drakha"] = {
-							["RankIndex"] = 6,
+						["Straiga"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Tyurgehn"] = {
+							["RankIndex"] = 4,
 							["Level"] = 30,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Megadus"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Needcc"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
 							["Class"] = "Shaman",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Shiifthappen"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Initiate",
-						},
-						["Lynetjens"] = {
-							["RankIndex"] = 4,
-							["Level"] = 56,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Beermancer"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Hcw"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Gorakk"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Tacipzd"] = {
-							["RankIndex"] = 6,
-							["Level"] = 27,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Georgehogg"] = {
-							["RankIndex"] = 5,
-							["Level"] = 32,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Icypher"] = {
-							["RankIndex"] = 6,
-							["Level"] = 18,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Uglyshame"] = {
-							["RankIndex"] = 6,
-							["Level"] = 9,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Mokandoh"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Maxtica"] = {
-							["RankIndex"] = 6,
-							["Level"] = 21,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Tagrat"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Saswitra"] = {
+						["Deymos"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
-						},
-						["Beancarver"] = {
-							["RankIndex"] = 5,
-							["Level"] = 37,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Bluewhite"] = {
-							["RankIndex"] = 4,
-							["Level"] = 50,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Gargargar"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Hammertimex"] = {
-							["RankIndex"] = 4,
-							["Level"] = 55,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Bancroute"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Migman"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Officer",
-						},
-						["Fumanchu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Daddykrys"] = {
-							["RankIndex"] = 5,
-							["Level"] = 57,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Sverilog"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Grimeymage"] = {
-							["RankIndex"] = 4,
-							["Level"] = 54,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Goru"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Dbstoic"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Phatojay"] = {
-							["RankIndex"] = 4,
-							["Level"] = 49,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Mucak"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Leleka"] = {
-							["RankIndex"] = 4,
-							["Level"] = 53,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Worgath"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Tilde"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Veteran",
-						},
-						["Oromoro"] = {
-							["RankIndex"] = 6,
-							["Level"] = 31,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Lukacho"] = {
-							["RankIndex"] = 5,
-							["Level"] = 33,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Thetryout"] = {
-							["RankIndex"] = 5,
-							["Level"] = 25,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Kangax"] = {
-							["RankIndex"] = 4,
-							["Level"] = 52,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Oreamapa"] = {
-							["RankIndex"] = 6,
-							["Level"] = 27,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Zoneh"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Twenkie"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Uncletusky"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Stowne"] = {
-							["RankIndex"] = 6,
-							["Level"] = 16,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Enkidah"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Cayne"] = {
-							["RankIndex"] = 4,
-							["Level"] = 57,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Draaget"] = {
-							["RankIndex"] = 5,
-							["Level"] = 22,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Classcow"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Eastbayray"] = {
-							["RankIndex"] = 4,
-							["Level"] = 58,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Ghettotyr"] = {
-							["RankIndex"] = 5,
-							["Level"] = 48,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Healthbotz"] = {
-							["RankIndex"] = 5,
 							["Level"] = 41,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
 						},
-						["Vaniljsmak"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Ziego"] = {
+						["Idoctor"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Aandra"] = {
-							["RankIndex"] = 6,
-							["Level"] = 43,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Uongongozan"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
+							["Level"] = 19,
 							["Class"] = "Priest",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Gnometrainer"] = {
-							["RankIndex"] = 6,
+						["Jimnsk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Narhon"] = {
+							["RankIndex"] = 3,
+							["Level"] = 46,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Riovar"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Pelyla"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Sashulik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Ozzyosborn"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Hols"] = {
+							["RankIndex"] = 3,
+							["Level"] = 23,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Pytinmag"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Rubaikramsai"] = {
+							["RankIndex"] = 4,
 							["Level"] = 14,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Gorevald"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warlock",
-							["Rank"] = "Member",
-						},
-						["Aslalesh"] = {
-							["RankIndex"] = 5,
-							["Level"] = 34,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Shohana"] = {
-							["RankIndex"] = 6,
-							["Level"] = 37,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Cressi"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Battleprone"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
 							["Class"] = "Rogue",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Nokrot"] = {
+						["Matroskinis"] = {
 							["RankIndex"] = 3,
-							["Level"] = 53,
-							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
-						},
-						["Fieldmouse"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Coldorm"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Hunter",
-							["Rank"] = "Veteran",
-						},
-						["Yampiri"] = {
-							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Broxnl"] = {
-							["RankIndex"] = 5,
-							["Level"] = 20,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Itrom"] = {
-							["RankIndex"] = 4,
-							["Level"] = 46,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Mikhos"] = {
-							["RankIndex"] = 6,
-							["Level"] = 27,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Malletissen"] = {
-							["RankIndex"] = 5,
-							["Level"] = 42,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Biochili"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Dqfrosty"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Zakrasch"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Ballsyboi"] = {
-							["RankIndex"] = 6,
-							["Level"] = 6,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Donteventry"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Damin"] = {
-							["RankIndex"] = 5,
-							["Level"] = 41,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Ghightap"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Hobolights"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Supersalad"] = {
-							["RankIndex"] = 5,
-							["Level"] = 30,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Grunos"] = {
-							["RankIndex"] = 6,
-							["Level"] = 26,
-							["Class"] = "Hunter",
-							["Rank"] = "Initiate",
-						},
-						["Firyaria"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Spravedlnost"] = {
-							["RankIndex"] = 6,
-							["Level"] = 19,
-							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
-						},
-						["Beanhatdance"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Greenhlz"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Veteran",
-						},
-						["Cowslinger"] = {
-							["RankIndex"] = 4,
-							["Level"] = 26,
-							["Class"] = "Hunter",
-							["Rank"] = "Agent",
-						},
-						["Slavicshammy"] = {
-							["RankIndex"] = 5,
-							["Level"] = 35,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Bagels"] = {
-							["RankIndex"] = 6,
-							["Level"] = 47,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Johndus"] = {
-							["RankIndex"] = 4,
-							["Level"] = 43,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Notsotroll"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Agent",
-						},
-						["Foozdood"] = {
-							["RankIndex"] = 2,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Officer",
-						},
-						["Ufgood"] = {
-							["RankIndex"] = 5,
-							["Level"] = 31,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Korovabro"] = {
-							["RankIndex"] = 5,
-							["Level"] = 28,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Kamuatoko"] = {
-							["RankIndex"] = 4,
-							["Level"] = 47,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Dast"] = {
-							["RankIndex"] = 5,
-							["Level"] = 55,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Holywater"] = {
-							["RankIndex"] = 5,
-							["Level"] = 52,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Stormseeker"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Chawhee"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Veteran",
-						},
-						["Xuur"] = {
-							["RankIndex"] = 5,
-							["Level"] = 31,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Zoren"] = {
-							["RankIndex"] = 6,
-							["Level"] = 28,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Dromfulja"] = {
-							["RankIndex"] = 5,
-							["Level"] = 51,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Vavroch"] = {
-							["RankIndex"] = 5,
-							["Level"] = 21,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Bubbafoxjr"] = {
-							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Hyliana"] = {
-							["RankIndex"] = 6,
-							["Level"] = 15,
-							["Class"] = "Priest",
-							["Rank"] = "Initiate",
-						},
-						["Stubor"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Mage",
-							["Rank"] = "Agent",
-						},
-						["Logga"] = {
-							["RankIndex"] = 5,
-							["Level"] = 24,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Whiskeyshot"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Latesco"] = {
-							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Veteran",
-						},
-						["Holyweaver"] = {
-							["RankIndex"] = 4,
-							["Level"] = 48,
-							["Class"] = "Priest",
-							["Rank"] = "Agent",
-						},
-						["Asbie"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Gqerg"] = {
-							["RankIndex"] = 6,
-							["Level"] = 22,
-							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
-						},
-						["Marrain"] = {
-							["RankIndex"] = 5,
 							["Level"] = 40,
 							["Class"] = "Druid",
-							["Rank"] = "Member",
+							["Rank"] = "Beginner",
 						},
-						["Morfheus"] = {
-							["RankIndex"] = 4,
-							["Level"] = 52,
-							["Class"] = "Warlock",
-							["Rank"] = "Agent",
-						},
-						["Zpac"] = {
-							["RankIndex"] = 5,
-							["Level"] = 46,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Floofyboy"] = {
-							["RankIndex"] = 6,
-							["Level"] = 25,
-							["Class"] = "Druid",
-							["Rank"] = "Initiate",
-						},
-						["Zshot"] = {
-							["RankIndex"] = 5,
-							["Level"] = 46,
-							["Class"] = "Hunter",
-							["Rank"] = "Member",
-						},
-						["Iu"] = {
-							["RankIndex"] = 4,
-							["Level"] = 41,
-							["Class"] = "Rogue",
-							["Rank"] = "Agent",
-						},
-						["Wangchee"] = {
-							["RankIndex"] = 5,
-							["Level"] = 46,
-							["Class"] = "Rogue",
-							["Rank"] = "Member",
-						},
-						["Ezpzjapaneze"] = {
-							["RankIndex"] = 5,
-							["Level"] = 27,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Spellbone"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Mooffer"] = {
+						["Haereticus"] = {
 							["RankIndex"] = 3,
-							["Level"] = 54,
+							["Level"] = 40,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Gorshokjiv"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Fanzigor"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
 							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Kotosapiens"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Mulabandha"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Duncanmcloud"] = {
+							["RankIndex"] = 2,
+							["Level"] = 56,
+							["Class"] = "Rogue",
 							["Rank"] = "Veteran",
 						},
-						["Bignoble"] = {
-							["RankIndex"] = 5,
-							["Level"] = 20,
-							["Class"] = "Druid",
-							["Rank"] = "Member",
-						},
-						["Arggokk"] = {
-							["RankIndex"] = 5,
-							["Level"] = 44,
-							["Class"] = "Shaman",
-							["Rank"] = "Member",
-						},
-						["Sheqil"] = {
+						["Shmelb"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
+							["Level"] = 37,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
 						},
-						["Taranboy"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
+						["Webooga"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
 						},
-						["Huupertti"] = {
-							["RankIndex"] = 5,
+						["Waitt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Vanzi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Vipivoha"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Termist"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Ommich"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Bullerom"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Kanil"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Khazadoom"] = {
+							["RankIndex"] = 3,
 							["Level"] = 39,
 							["Class"] = "Warrior",
-							["Rank"] = "Member",
+							["Rank"] = "Beginner",
 						},
-						["Vadrir"] = {
-							["RankIndex"] = 5,
-							["Level"] = 49,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Meatspinn"] = {
-							["RankIndex"] = 6,
-							["Level"] = 17,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
-						},
-						["Gargonna"] = {
+						["Farmacept"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Shaman",
-							["Rank"] = "Veteran",
+							["Level"] = 39,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
 						},
-						["Caime"] = {
+						["Mblslorog"] = {
 							["RankIndex"] = 4,
-							["Level"] = 60,
-							["Class"] = "Druid",
-							["Rank"] = "Agent",
-						},
-						["Layby"] = {
-							["RankIndex"] = 5,
-							["Level"] = 40,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Biggiemac"] = {
-							["RankIndex"] = 5,
-							["Level"] = 59,
-							["Class"] = "Warrior",
-							["Rank"] = "Member",
-						},
-						["Talomi"] = {
-							["RankIndex"] = 5,
-							["Level"] = 38,
-							["Class"] = "Mage",
-							["Rank"] = "Member",
-						},
-						["Orazabal"] = {
-							["RankIndex"] = 4,
-							["Level"] = 59,
-							["Class"] = "Warrior",
-							["Rank"] = "Agent",
-						},
-						["Pavle"] = {
-							["RankIndex"] = 5,
-							["Level"] = 36,
-							["Class"] = "Priest",
-							["Rank"] = "Member",
-						},
-						["Zowie"] = {
-							["RankIndex"] = 5,
 							["Level"] = 24,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Wertigoqt"] = {
+							["RankIndex"] = 4,
+							["Level"] = 49,
 							["Class"] = "Rogue",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Vacuumm"] = {
+						["Jazzamore"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Krakazabla"] = {
+							["RankIndex"] = 2,
+							["Level"] = 51,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Buksirchik"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
+							["Level"] = 39,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Arystey"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
 							["Class"] = "Warlock",
-							["Rank"] = "Veteran",
+							["Rank"] = "Dust",
 						},
-						["Bustercall"] = {
+						["Pomer"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Ybuica"] = {
 							["RankIndex"] = 3,
-							["Level"] = 60,
-							["Class"] = "Warrior",
-							["Rank"] = "Veteran",
+							["Level"] = 38,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
 						},
-						["Beefyius"] = {
-							["RankIndex"] = 6,
+						["Moonxhunter"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Winterbucky"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Meeanda"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Veejayspb"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Yrun"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Tresi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Strucker"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Zarikd"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Betonayasmes"] = {
+							["RankIndex"] = 3,
+							["Level"] = 22,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Kumagoro"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Pixalbich"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Koegoorn"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Byslaev"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Gousdohnem"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Mahaxx"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Hagter"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Ziggid"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Mortera"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Hentaich"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Fruityboy"] = {
+							["RankIndex"] = 4,
 							["Level"] = 14,
-							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
 						},
-						["Owlito"] = {
-							["RankIndex"] = 6,
+						["Patamushta"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Andreivna"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Onelittlelie"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Sbs"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Saymon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Dbaodac"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Dknightt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Daggershot"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Djedai"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Chudesnik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Bpyc"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Walkord"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Ludiqbgg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Jortuni"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Stakkabro"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Darkcuster"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Killameow"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Ledygaga"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Sufferon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Poralik"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Ermakova"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Thop"] = {
+							["RankIndex"] = 4,
 							["Level"] = 12,
 							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Urne"] = {
-							["RankIndex"] = 6,
+						["Vooddu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Drizlo"] = {
+							["RankIndex"] = 1,
+							["Level"] = 60,
+							["Class"] = "Warlock",
+							["Rank"] = "Officer",
+						},
+						["Vitaminoff"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Torsham"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Ragvolt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Gofakuself"] = {
+							["RankIndex"] = 4,
+							["Level"] = 54,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Prakaza"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Teleador"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Gopnichek"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Owlyy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Haradrum"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Letherhunt"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Tretyakko"] = {
+							["RankIndex"] = 3,
+							["Level"] = 29,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Zunjan"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Phillipplein"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Miuuw"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Duirand"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Einbolit"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Buhmen"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Huntrilo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Araylan"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Uucyc"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Svx"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Judedude"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Termopuck"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Rjlila"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Waagr"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Kapitoshka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Jordarik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Khatandi"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Frozyy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Sviatogor"] = {
+							["RankIndex"] = 4,
 							["Level"] = 22,
 							["Class"] = "Warrior",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Mayran"] = {
+						["Anidab"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Kinwarlock"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zullraji"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Gusk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Zloimagus"] = {
+							["RankIndex"] = 3,
+							["Level"] = 29,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Fellcarier"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Priest",
+							["Rank"] = "Beginner",
+						},
+						["Giorgiu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Patikk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Arencor"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Dostaevsky"] = {
+							["RankIndex"] = 3,
+							["Level"] = 40,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Suhara"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Leonadr"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Damacle"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Katleya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Jlocuxa"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Vichli"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Lakomka"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Veteran",
+						},
+						["Ketarol"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Eraxis"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Adikion"] = {
+							["RankIndex"] = 3,
+							["Level"] = 31,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Xumukuss"] = {
+							["RankIndex"] = 3,
+							["Level"] = 30,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Darkstranger"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Ljil"] = {
+							["RankIndex"] = 4,
+							["Level"] = 52,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Goodhunt"] = {
+							["RankIndex"] = 3,
+							["Level"] = 30,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Alcarwin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Tutushkin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Brigbeardman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 8,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Overlordes"] = {
+							["RankIndex"] = 4,
+							["Level"] = 41,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Brenyet"] = {
+							["RankIndex"] = 3,
+							["Level"] = 30,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Pyroher"] = {
+							["RankIndex"] = 3,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Igrini"] = {
+							["RankIndex"] = 3,
+							["Level"] = 26,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Nefedov"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Bibijops"] = {
+							["RankIndex"] = 3,
+							["Level"] = 26,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Silentfuryy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Pikkaso"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Getdarker"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Linchaos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Murderrabbit"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Bopyc"] = {
+							["RankIndex"] = 3,
+							["Level"] = 25,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Haxapgkope"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Voltrs"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Mercurius"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Getrag"] = {
+							["RankIndex"] = 3,
+							["Level"] = 37,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Rinobug"] = {
+							["RankIndex"] = 4,
+							["Level"] = 60,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Mycopacocat"] = {
 							["RankIndex"] = 4,
 							["Level"] = 60,
 							["Class"] = "Warlock",
-							["Rank"] = "Agent",
+							["Rank"] = "Dust",
 						},
-						["Kriscross"] = {
-							["RankIndex"] = 6,
-							["Level"] = 60,
-							["Class"] = "Rogue",
-							["Rank"] = "Initiate",
-						},
-						["Huntalia"] = {
-							["RankIndex"] = 5,
-							["Level"] = 34,
+						["Basalien"] = {
+							["RankIndex"] = 4,
+							["Level"] = 56,
 							["Class"] = "Hunter",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Bazooger"] = {
-							["RankIndex"] = 6,
-							["Level"] = 24,
+						["Quizop"] = {
+							["RankIndex"] = 3,
+							["Level"] = 35,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Regston"] = {
+							["RankIndex"] = 4,
+							["Level"] = 53,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Sardes"] = {
+							["RankIndex"] = 3,
+							["Level"] = 30,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Rastafaren"] = {
+							["RankIndex"] = 4,
+							["Level"] = 49,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Dargentiy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Katerpiller"] = {
+							["RankIndex"] = 4,
+							["Level"] = 49,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Gavrilof"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Metamarfosa"] = {
+							["RankIndex"] = 2,
+							["Level"] = 45,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Nightfuryss"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Rocksexdrugs"] = {
+							["RankIndex"] = 4,
+							["Level"] = 44,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kevassina"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Overglim"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Ogniva"] = {
+							["RankIndex"] = 4,
+							["Level"] = 43,
 							["Class"] = "Shaman",
-							["Rank"] = "Initiate",
+							["Rank"] = "Dust",
 						},
-						["Tchart"] = {
-							["RankIndex"] = 5,
+						["Kurpat"] = {
+							["RankIndex"] = 4,
+							["Level"] = 43,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Atwan"] = {
+							["RankIndex"] = 4,
 							["Level"] = 20,
 							["Class"] = "Shaman",
-							["Rank"] = "Member",
+							["Rank"] = "Dust",
 						},
-						["Grimzlock"] = {
-							["RankIndex"] = 6,
+						["Byxarik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Mikolay"] = {
+							["RankIndex"] = 4,
+							["Level"] = 41,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Castun"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Kissofenigma"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Duckfaces"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Fitish"] = {
+							["RankIndex"] = 4,
+							["Level"] = 41,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Tankdru"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Joniwalker"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Cheteruga"] = {
+							["RankIndex"] = 4,
+							["Level"] = 40,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Ljezapb"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Dopel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Milok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Dgarh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Asshanti"] = {
+							["RankIndex"] = 4,
+							["Level"] = 39,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Wrongel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 38,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Pemex"] = {
+							["RankIndex"] = 4,
+							["Level"] = 11,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Jurist"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Syxarik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Apbyzuk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Temchik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 37,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Arisrarx"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Vicsunya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Tohtammysh"] = {
+							["RankIndex"] = 4,
+							["Level"] = 36,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Yamago"] = {
+							["RankIndex"] = 4,
+							["Level"] = 39,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Rickitick"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Lykashenkko"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Zaebus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Kaylesis"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Nubaz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Blakberii"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Orgorgom"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Basaeff"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Oldywisp"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Lusyatrap"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Ieatyouhead"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Wyns"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Ladavfts"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Qooattro"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Rammuslol"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Dellorean"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Kurpatov"] = {
+							["RankIndex"] = 2,
+							["Level"] = 56,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Girtab"] = {
+							["RankIndex"] = 3,
+							["Level"] = 60,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Zhirobasik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Zuqijj"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Prispero"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
+						},
+						["Surprisexd"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Gashishka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kraborog"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Fuflijnik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Mistfersteir"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Plahishok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Lunatus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Aralara"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Dobryivecher"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Borcuxa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Shockotan"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Noldorinski"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Zelyaprist"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Cortezo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Taeray"] = {
+							["RankIndex"] = 3,
+							["Level"] = 49,
+							["Class"] = "Shaman",
+							["Rank"] = "Beginner",
+						},
+						["Gresi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Bakunarrah"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Vallenta"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Wisplolzy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Polotence"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Inhar"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Hunter",
+							["Rank"] = "Veteran",
+						},
+						["Dredos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Fainokni"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Brogich"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Antoshaplay"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Zebgoras"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Kessek"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Ardeel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Reqwardio"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Dotobot"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Alairagny"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Retrika"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Icerip"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Muchatel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Vaventyz"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Atamarany"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Praud"] = {
+							["RankIndex"] = 4,
+							["Level"] = 10,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Sauronchik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Necrodok"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Priest",
+							["Rank"] = "Veteran",
+						},
+						["Overbold"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Kroully"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Vdugu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Testzzfw"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Sigaretkina"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Triera"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Korvuscorax"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Wargrowl"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Serwar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Funikuler"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Kenw"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Ferliant"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Drts"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Shamanszolo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Irvish"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Magenor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Garakal"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Irvis"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Butera"] = {
+							["RankIndex"] = 3,
+							["Level"] = 41,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Drampire"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Gambitdeath"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Felplague"] = {
+							["RankIndex"] = 1,
 							["Level"] = 60,
 							["Class"] = "Warlock",
-							["Rank"] = "Initiate",
+							["Rank"] = "Officer",
+						},
+						["Lastsec"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Fenoman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Targazz"] = {
+							["RankIndex"] = 3,
+							["Level"] = 34,
+							["Class"] = "Warlock",
+							["Rank"] = "Beginner",
+						},
+						["Iamspektor"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Qukaika"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Hunter",
+							["Rank"] = "Beginner",
+						},
+						["Intfgt"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Demonlord"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Tandern"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Sms"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Simpletroll"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Mornelius"] = {
+							["RankIndex"] = 3,
+							["Level"] = 39,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Angass"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Respak"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Pukanuragan"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Frikase"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Wasping"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Plananet"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Palross"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Zarazoff"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Ranazee"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Solashu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Sadamet"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Hardner"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Lowenheart"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Chilman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Marcinia"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Purgebro"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Bmwst"] = {
+							["RankIndex"] = 3,
+							["Level"] = 50,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Samsatana"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Sabotagnik"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Parfon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Bioroga"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kolunja"] = {
+							["RankIndex"] = 4,
+							["Level"] = 35,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Maluri"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Eloza"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Fiolo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Kriketlok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zamachiitel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Lirizs"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Dagarus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Hilblya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 38,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Ifill"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Elistra"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Grimzin"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Xtera"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Kopitomvrilo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Cmapblundead"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Dobrik"] = {
+							["RankIndex"] = 2,
+							["Level"] = 43,
+							["Class"] = "Druid",
+							["Rank"] = "Veteran",
+						},
+						["Tankwarx"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Oreganoje"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Rotara"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Snowmystery"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Wargarukk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Allsolo"] = {
+							["RankIndex"] = 3,
+							["Level"] = 38,
+							["Class"] = "Warrior",
+							["Rank"] = "Beginner",
+						},
+						["Lokimo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Kasfira"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Eettevrash"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Shozanna"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Buntsuka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Shamg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Rotherian"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Veriona"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Bohemus"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Madibog"] = {
+							["RankIndex"] = 4,
+							["Level"] = 34,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Igoryafel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Ebonthorn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Undermind"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Anastiel"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Stref"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Drbanditos"] = {
+							["RankIndex"] = 4,
+							["Level"] = 10,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Antre"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Xtrip"] = {
+							["RankIndex"] = 4,
+							["Level"] = 17,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Bosamdi"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Khnargh"] = {
+							["RankIndex"] = 2,
+							["Level"] = 51,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Whatdoyoudo"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kentykikid"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Shaman",
+							["Rank"] = "Veteran",
+						},
+						["Razorog"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Saibat"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Roshon"] = {
+							["RankIndex"] = 2,
+							["Level"] = 60,
+							["Class"] = "Druid",
+							["Rank"] = "Veteran",
+						},
+						["Sibistin"] = {
+							["RankIndex"] = 3,
+							["Level"] = 45,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Zylkir"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Arteqpakt"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Kirio"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Maximikan"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Leicester"] = {
+							["RankIndex"] = 4,
+							["Level"] = 32,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Koonnichiwa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 10,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Totenkoft"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Druid",
+							["Rank"] = "Dust",
+						},
+						["Drektarog"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Relakras"] = {
+							["RankIndex"] = 3,
+							["Level"] = 49,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Magicfrost"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Jeppeto"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Fert"] = {
+							["RankIndex"] = 4,
+							["Level"] = 30,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Shukar"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Teterya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Torenda"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Orcbash"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Ukrainman"] = {
+							["RankIndex"] = 4,
+							["Level"] = 18,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Taksyk"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Stret"] = {
+							["RankIndex"] = 4,
+							["Level"] = 31,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Sattara"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Ramzara"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Dogenn"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Murgab"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Janlok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Taypaxa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 29,
+							["Class"] = "Hunter",
+							["Rank"] = "Dust",
+						},
+						["Imagio"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Profancheg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 28,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Vichlipuchli"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Ultroscout"] = {
+							["RankIndex"] = 4,
+							["Level"] = 13,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Wandorg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Nirenberg"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Rashani"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Gosquanchy"] = {
+							["RankIndex"] = 4,
+							["Level"] = 24,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Lopb"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Alextim"] = {
+							["RankIndex"] = 4,
+							["Level"] = 19,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Torlok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Mariyanochka"] = {
+							["RankIndex"] = 3,
+							["Level"] = 32,
+							["Class"] = "Rogue",
+							["Rank"] = "Beginner",
+						},
+						["Guldanius"] = {
+							["RankIndex"] = 2,
+							["Level"] = 45,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Larosa"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Saiboon"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Marmond"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Elleira"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Xotkot"] = {
+							["RankIndex"] = 3,
+							["Level"] = 36,
+							["Class"] = "Druid",
+							["Rank"] = "Beginner",
+						},
+						["Toronok"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Chudgl"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Maralii"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Lastime"] = {
+							["RankIndex"] = 4,
+							["Level"] = 26,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Krevetcyu"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Uraza"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Vdka"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Baricud"] = {
+							["RankIndex"] = 4,
+							["Level"] = 23,
+							["Class"] = "Shaman",
+							["Rank"] = "Dust",
+						},
+						["Thorwarr"] = {
+							["RankIndex"] = 4,
+							["Level"] = 22,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Spynlaemynla"] = {
+							["RankIndex"] = 4,
+							["Level"] = 12,
+							["Class"] = "Priest",
+							["Rank"] = "Dust",
+						},
+						["Illionora"] = {
+							["RankIndex"] = 4,
+							["Level"] = 9,
+							["Class"] = "Rogue",
+							["Rank"] = "Dust",
+						},
+						["Sergoosha"] = {
+							["RankIndex"] = 2,
+							["Level"] = 50,
+							["Class"] = "Warlock",
+							["Rank"] = "Veteran",
+						},
+						["Infernalmaw"] = {
+							["RankIndex"] = 4,
+							["Level"] = 15,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Meryegold"] = {
+							["RankIndex"] = 4,
+							["Level"] = 25,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Bessia"] = {
+							["RankIndex"] = 4,
+							["Level"] = 27,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Zazloba"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Holodock"] = {
+							["RankIndex"] = 4,
+							["Level"] = 16,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Necrolai"] = {
+							["RankIndex"] = 4,
+							["Level"] = 20,
+							["Class"] = "Warlock",
+							["Rank"] = "Dust",
+						},
+						["Vinstroll"] = {
+							["RankIndex"] = 4,
+							["Level"] = 21,
+							["Class"] = "Warrior",
+							["Rank"] = "Dust",
+						},
+						["Kidya"] = {
+							["RankIndex"] = 4,
+							["Level"] = 14,
+							["Class"] = "Mage",
+							["Rank"] = "Dust",
+						},
+						["Jajil"] = {
+							["RankIndex"] = 3,
+							["Level"] = 33,
+							["Class"] = "Mage",
+							["Rank"] = "Beginner",
 						},
 					},
 				},
@@ -5226,22 +5226,12 @@ CensusPlus_Database = {
 		["AutoCensusTimer"] = 1800,
 		["AutoCensus"] = true,
 		["ClientLocale"] = "enUS",
-		["CensusButtonPosition"] = 360,
+		["Locale"] = "US",
 		["CensusButtonShown"] = 1,
 		["Version"] = "3.5.1",
 		["LoginServer"] = "logon.elysium-project.org",
-		["Locale"] = "US",
 		["MiniStart"] = 1,
-	},
-	["TimesPlus"] = {
-		["Nighthaven"] = {
-			["Horde"] = {
-				["2019-06-25&18:29:00"] = "51&85&76&69&76&63&90&100&0&13&1&4",
-				["2019-06-25&17:27:00"] = "38&70&78&62&87&70&94&88&0&6&15&0",
-				["2019-06-25&19:0:00"] = "46&86&76&75&62&67&99&87&0&3&6&1",
-				["2019-06-25&17:58:00"] = "55&78&74&61&84&73&87&88&0&11&1&3",
-			},
-		},
+		["CensusButtonPosition"] = 360,
 	},
 	["Servers"] = {
 		["Nighthaven"] = {
@@ -5288,9 +5278,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Lockar"] = {
-							[1] = 60,
-							[2] = "For The Horde Germany",
+						["Trothh"] = {
+							[1] = 37,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Zuliwar"] = {
@@ -5318,9 +5308,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Trothh"] = {
-							[1] = 37,
-							[2] = "",
+						["Lockar"] = {
+							[1] = 60,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
 					},
@@ -5335,9 +5325,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Mambo"] = {
-							[1] = 60,
-							[2] = "SMASH",
+						["Riele"] = {
+							[1] = 21,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Gazpachen"] = {
@@ -5360,8 +5350,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Zilzac"] = {
-							[1] = 49,
+						["Smallwood"] = {
+							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5455,29 +5445,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Smallwood"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
 						["Meskie"] = {
 							[1] = 43,
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
-						["Crashes"] = {
-							[1] = 46,
-							[2] = "The Brew Crew",
+						["Zeedasha"] = {
+							[1] = 12,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Riele"] = {
-							[1] = 21,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Lolimatroll"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
+						["Zilzac"] = {
+							[1] = 49,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Khrusty"] = {
@@ -5485,14 +5465,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
+						["Mambo"] = {
+							[1] = 60,
+							[2] = "SMASH",
+							[3] = "2019-06-25",
+						},
+						["Lolimatroll"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-25",
+						},
 						["Kardasch"] = {
 							[1] = 27,
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Zeedasha"] = {
-							[1] = 12,
-							[2] = "",
+						["Crashes"] = {
+							[1] = 46,
+							[2] = "The Brew Crew",
 							[3] = "2019-06-25",
 						},
 						["Lostcauzx"] = {
@@ -5507,8 +5497,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Zwanti"] = {
-							[1] = 14,
+						["Kroziger"] = {
+							[1] = 24,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5542,9 +5532,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Orfiline"] = {
-							[1] = 43,
-							[2] = "For The Horde Germany",
+						["Idipoglazhu"] = {
+							[1] = 3,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Tazrazia"] = {
@@ -5582,9 +5572,9 @@ CensusPlus_Database = {
 							[2] = "Furiously Average",
 							[3] = "2019-06-25",
 						},
-						["Zanthal"] = {
-							[1] = 18,
-							[2] = "",
+						["Zanirah"] = {
+							[1] = 14,
+							[2] = "Darklight",
 							[3] = "2019-06-25",
 						},
 						["Nezzia"] = {
@@ -5617,9 +5607,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Asney"] = {
-							[1] = 6,
-							[2] = "",
+						["Orfiline"] = {
+							[1] = 43,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
 						["Pomaranc"] = {
@@ -5637,8 +5627,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Idipoglazhu"] = {
-							[1] = 3,
+						["Zazuhell"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5647,19 +5637,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Guaza"] = {
-							[1] = 17,
-							[2] = "Classic Waiting Room",
+						["Lippie"] = {
+							[1] = 33,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Kroziger"] = {
-							[1] = 24,
+						["Itscowabunga"] = {
+							[1] = 52,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Zanthal"] = {
+							[1] = 18,
 							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Zanirah"] = {
-							[1] = 14,
-							[2] = "Darklight",
 							[3] = "2019-06-25",
 						},
 						["Bazzler"] = {
@@ -5677,18 +5667,18 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Itscowabunga"] = {
-							[1] = 52,
-							[2] = "RUSSIA",
+						["Zwanti"] = {
+							[1] = 14,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Lippie"] = {
-							[1] = 33,
-							[2] = "WoW Classic Hype",
+						["Guaza"] = {
+							[1] = 17,
+							[2] = "Classic Waiting Room",
 							[3] = "2019-06-25",
 						},
-						["Zazuhell"] = {
-							[1] = 12,
+						["Asney"] = {
+							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5704,7 +5694,7 @@ CensusPlus_Database = {
 						},
 					},
 					["Mage"] = {
-						["Magistox"] = {
+						["Krustne"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-25",
@@ -5724,8 +5714,8 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Zhulljin"] = {
-							[1] = 7,
+						["Lourenss"] = {
+							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5744,9 +5734,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Hugir"] = {
-							[1] = 34,
-							[2] = "Danish Bacon",
+						["Grannylover"] = {
+							[1] = 21,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Frostytuskz"] = {
@@ -5764,13 +5754,13 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Revolut"] = {
-							[1] = 1,
-							[2] = "Classic Waiting Room",
+						["Hugir"] = {
+							[1] = 34,
+							[2] = "Danish Bacon",
 							[3] = "2019-06-25",
 						},
-						["Krustne"] = {
-							[1] = 12,
+						["Doktorplague"] = {
+							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5784,9 +5774,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Grannylover"] = {
-							[1] = 21,
-							[2] = "Chronic",
+						["Frostguards"] = {
+							[1] = 56,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Somuchkaboom"] = {
@@ -5804,9 +5794,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Mageofconnan"] = {
-							[1] = 60,
-							[2] = "Averagely Furious",
+						["Buljinda"] = {
+							[1] = 17,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Elderbad"] = {
@@ -5819,14 +5809,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Whisse"] = {
-							[1] = 58,
-							[2] = "Super Adventure Pals",
+						["Hikkar"] = {
+							[1] = 11,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Lourenss"] = {
-							[1] = 9,
-							[2] = "",
+						["Jackelin"] = {
+							[1] = 41,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
 						["Ipalot"] = {
@@ -5839,9 +5829,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Frostguards"] = {
-							[1] = 56,
-							[2] = "RUSSIA",
+						["Whisse"] = {
+							[1] = 58,
+							[2] = "Super Adventure Pals",
 							[3] = "2019-06-25",
 						},
 						["Altband"] = {
@@ -5854,9 +5844,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Pamons"] = {
-							[1] = 32,
-							[2] = "Absolute Mad Lads",
+						["Yxcvbnm"] = {
+							[1] = 24,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Kaztraz"] = {
@@ -5874,23 +5864,8 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Hezbelba"] = {
-							[1] = 17,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Yxcvbnm"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Dajahi"] = {
-							[1] = 20,
-							[2] = "Darklight",
-							[3] = "2019-06-25",
-						},
-						["Kitsunes"] = {
-							[1] = 33,
+						["Frostgame"] = {
+							[1] = 18,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -5899,9 +5874,24 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Frostgame"] = {
-							[1] = 18,
+						["Revolut"] = {
+							[1] = 1,
+							[2] = "Classic Waiting Room",
+							[3] = "2019-06-25",
+						},
+						["Kitsunes"] = {
+							[1] = 33,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Mageofconnan"] = {
+							[1] = 60,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-25",
+						},
+						["Dajahi"] = {
+							[1] = 20,
+							[2] = "Darklight",
 							[3] = "2019-06-25",
 						},
 						["Ksarius"] = {
@@ -5909,19 +5899,19 @@ CensusPlus_Database = {
 							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Jackelin"] = {
-							[1] = 41,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-25",
-						},
-						["Hikkar"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Buljinda"] = {
+						["Hezbelba"] = {
 							[1] = 17,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Magistox"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Pamons"] = {
+							[1] = 32,
+							[2] = "Absolute Mad Lads",
 							[3] = "2019-06-25",
 						},
 						["Raunoe"] = {
@@ -5934,120 +5924,13 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Doktorplague"] = {
+						["Zhulljin"] = {
 							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Zingjin"] = {
 							[1] = 40,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-					},
-					["Rogue"] = {
-						["Tomchong"] = {
-							[1] = 32,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
-						["Heyhowareya"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-25",
-						},
-						["Banksalta"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Darksit"] = {
-							[1] = 36,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Wearedevo"] = {
-							[1] = 29,
-							[2] = "Super Adventure Pals",
-							[3] = "2019-06-25",
-						},
-						["Rulerr"] = {
-							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-25",
-						},
-						["Dracari"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Walkincircle"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Surrenderly"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Layrunerk"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Zulazra"] = {
-							[1] = 10,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Galbrand"] = {
-							[1] = 24,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Beginnerer"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Falldownup"] = {
-							[1] = 5,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Yuger"] = {
-							[1] = 33,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Lusken"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-25",
-						},
-						["Borzhch"] = {
-							[1] = 21,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Valeshi"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Ichduodeer"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Xemun"] = {
-							[1] = 13,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Tamner"] = {
-							[1] = 7,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6083,9 +5966,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Tallun"] = {
-							[1] = 55,
-							[2] = "Order of Chaos",
+						["Pmt"] = {
+							[1] = 19,
+							[2] = "Ohana",
 							[3] = "2019-06-25",
 						},
 						["Huntbag"] = {
@@ -6188,8 +6071,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Cawbcawb"] = {
-							[1] = 32,
+						["Grrilled"] = {
+							[1] = 46,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6238,24 +6121,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Skarvalug"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Lyas"] = {
-							[1] = 39,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Bunnyg"] = {
-							[1] = 6,
-							[2] = "Zug Zug Team Six",
-							[3] = "2019-06-25",
-						},
 						["Kayzoll"] = {
 							[1] = 13,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Skidikipapap"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-25",
+						},
+						["Zerkor"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Bokahunt"] = {
+							[1] = 33,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Arcruxys"] = {
@@ -6278,33 +6161,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Pmt"] = {
-							[1] = 19,
-							[2] = "Ohana",
-							[3] = "2019-06-25",
-						},
-						["Zerkor"] = {
-							[1] = 23,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Lonru"] = {
-							[1] = 11,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Ungemu"] = {
-							[1] = 47,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Grrilled"] = {
-							[1] = 46,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Vatior"] = {
-							[1] = 12,
+						["Dicemoney"] = {
+							[1] = 28,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6313,24 +6171,34 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Jeriso"] = {
-							[1] = 56,
-							[2] = "Crossroad Festival",
+						["Lonru"] = {
+							[1] = 11,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kraba"] = {
-							[1] = 47,
-							[2] = "Knights of the Veil",
+						["Wazbrezzul"] = {
+							[1] = 10,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Snotleif"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
+						["Snisken"] = {
+							[1] = 46,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Zululjin"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
+						["Vatior"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Koraiz"] = {
+							[1] = 6,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Cawbcawb"] = {
+							[1] = 32,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Chrantz"] = {
@@ -6338,9 +6206,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
+						["Lyas"] = {
+							[1] = 39,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
 						["Bortnik"] = {
 							[1] = 41,
 							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Zululjin"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-25",
+						},
+						["Tallun"] = {
+							[1] = 55,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Rastafarix"] = {
@@ -6358,19 +6241,19 @@ CensusPlus_Database = {
 							[2] = "Darklight",
 							[3] = "2019-06-25",
 						},
-						["Koraiz"] = {
-							[1] = 6,
-							[2] = "",
+						["Snotleif"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Snisken"] = {
-							[1] = 46,
-							[2] = "WoW Classic Hype",
+						["Kraba"] = {
+							[1] = 47,
+							[2] = "Knights of the Veil",
 							[3] = "2019-06-25",
 						},
-						["Wazbrezzul"] = {
-							[1] = 10,
-							[2] = "",
+						["Jeriso"] = {
+							[1] = 56,
+							[2] = "Crossroad Festival",
 							[3] = "2019-06-25",
 						},
 						["Espinoza"] = {
@@ -6378,8 +6261,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dicemoney"] = {
-							[1] = 28,
+						["Skarvalug"] = {
+							[1] = 9,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6388,9 +6271,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Bokahunt"] = {
-							[1] = 33,
-							[2] = "Order of Chaos",
+						["Ungemu"] = {
+							[1] = 47,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Gildartss"] = {
@@ -6398,18 +6281,125 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Skidikipapap"] = {
+						["Bunnyg"] = {
+							[1] = 6,
+							[2] = "Zug Zug Team Six",
+							[3] = "2019-06-25",
+						},
+					},
+					["Rogue"] = {
+						["Tomchong"] = {
+							[1] = 32,
+							[2] = "Chronic",
+							[3] = "2019-06-25",
+						},
+						["Heyhowareya"] = {
 							[1] = 60,
-							[2] = "Order of Chaos",
+							[2] = "Furiously Average",
+							[3] = "2019-06-25",
+						},
+						["Banksalta"] = {
+							[1] = 1,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Darksit"] = {
+							[1] = 36,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Wearedevo"] = {
+							[1] = 29,
+							[2] = "Super Adventure Pals",
+							[3] = "2019-06-25",
+						},
+						["Rulerr"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
+							[3] = "2019-06-25",
+						},
+						["Dracari"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Walkincircle"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Surrenderly"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Yuger"] = {
+							[1] = 33,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Zulazra"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Galbrand"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Layrunerk"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Falldownup"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Xemun"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Lusken"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
+							[3] = "2019-06-25",
+						},
+						["Borzhch"] = {
+							[1] = 21,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Valeshi"] = {
+							[1] = 23,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Ichduodeer"] = {
+							[1] = 11,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Beginnerer"] = {
+							[1] = 5,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Tamner"] = {
+							[1] = 7,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 					},
 				},
 				["Tauren"] = {
 					["Warrior"] = {
-						["Bowserino"] = {
-							[1] = 24,
-							[2] = "WoW Classic Hype",
+						["Kurat"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Adikion"] = {
@@ -6427,8 +6417,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Smeal"] = {
-							[1] = 55,
+						["Blackeneed"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6447,9 +6437,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Chornsrange"] = {
-							[1] = 57,
-							[2] = "Order of Chaos",
+						["Nilpferd"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Nunku"] = {
@@ -6572,8 +6562,8 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Stute"] = {
-							[1] = 8,
+						["Zirta"] = {
+							[1] = 39,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6607,9 +6597,9 @@ CensusPlus_Database = {
 							[2] = "Join if playing classic",
 							[3] = "2019-06-25",
 						},
-						["Lonnart"] = {
-							[1] = 60,
-							[2] = "Illidari",
+						["Ahndel"] = {
+							[1] = 33,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Perperper"] = {
@@ -6617,9 +6607,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Busterbull"] = {
-							[1] = 2,
-							[2] = "",
+						["Lonnart"] = {
+							[1] = 60,
+							[2] = "Illidari",
 							[3] = "2019-06-25",
 						},
 						["Bambatanken"] = {
@@ -6627,19 +6617,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kurat"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Blackeneed"] = {
-							[1] = 14,
+						["Stute"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Ahndel"] = {
-							[1] = 33,
-							[2] = "Chronic",
+						["Chornsrange"] = {
+							[1] = 57,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-25",
+						},
+						["Bowserino"] = {
+							[1] = 24,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Keneral"] = {
@@ -6657,14 +6647,14 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Zirta"] = {
-							[1] = 39,
-							[2] = "",
+						["Schrouff"] = {
+							[1] = 20,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Nilpferd"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Tabisco"] = {
+							[1] = 16,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
 						["Splitbone"] = {
@@ -6682,19 +6672,9 @@ CensusPlus_Database = {
 							[2] = "Booty Bay Night Club",
 							[3] = "2019-06-25",
 						},
-						["Onkeltaurus"] = {
-							[1] = 32,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-25",
-						},
-						["Bigsmooth"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-25",
-						},
-						["Mothan"] = {
-							[1] = 18,
-							[2] = "",
+						["Bortoloff"] = {
+							[1] = 29,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Mirity"] = {
@@ -6702,19 +6682,29 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Bortoloff"] = {
-							[1] = 29,
-							[2] = "WoW Classic Hype",
+						["Smeal"] = {
+							[1] = 55,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Tabisco"] = {
-							[1] = 16,
-							[2] = "Czechoslovakia",
+						["Busterbull"] = {
+							[1] = 2,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Schrouff"] = {
-							[1] = 20,
-							[2] = "WoW Classic Hype",
+						["Mothan"] = {
+							[1] = 18,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Bigsmooth"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-25",
+						},
+						["Onkeltaurus"] = {
+							[1] = 32,
+							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
 						["Vinstroll"] = {
@@ -6739,9 +6729,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Rootbinder"] = {
-							[1] = 12,
-							[2] = "",
+						["Bluewhite"] = {
+							[1] = 50,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Ithrojr"] = {
@@ -6799,9 +6789,9 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Indyn"] = {
-							[1] = 55,
-							[2] = "Task Force Yeet",
+						["Philippleb"] = {
+							[1] = 49,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Herdnotseen"] = {
@@ -6849,9 +6839,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Flexey"] = {
-							[1] = 32,
-							[2] = "Chronic",
+						["Xalakosta"] = {
+							[1] = 47,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Bertingetovi"] = {
@@ -6869,18 +6859,18 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Trafikklys"] = {
-							[1] = 32,
-							[2] = "Decision",
+						["Maccbeth"] = {
+							[1] = 12,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kackvogel"] = {
-							[1] = 55,
-							[2] = "For The Horde Germany",
+						["Creemic"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dokocom"] = {
-							[1] = 7,
+						["Kekfest"] = {
+							[1] = 18,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6934,14 +6924,14 @@ CensusPlus_Database = {
 							[2] = "Crossroad Festival",
 							[3] = "2019-06-25",
 						},
-						["Nightfuryss"] = {
-							[1] = 1,
-							[2] = "",
+						["Bearguy"] = {
+							[1] = 24,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Kekfest"] = {
-							[1] = 18,
-							[2] = "",
+						["Rufft"] = {
+							[1] = 11,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
 						["Digipen"] = {
@@ -6949,9 +6939,9 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
-						["Creemic"] = {
-							[1] = 13,
-							[2] = "",
+						["Kackvogel"] = {
+							[1] = 55,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
 						["Daiuym"] = {
@@ -6959,14 +6949,14 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Maccbeth"] = {
-							[1] = 12,
-							[2] = "",
+						["Trafikklys"] = {
+							[1] = 32,
+							[2] = "Decision",
 							[3] = "2019-06-25",
 						},
-						["Xalakosta"] = {
-							[1] = 47,
-							[2] = "RUSSIA",
+						["Flexey"] = {
+							[1] = 32,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Cowculus"] = {
@@ -6974,13 +6964,13 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Bluewhite"] = {
-							[1] = 50,
-							[2] = "Order of Chaos",
+						["Mumukie"] = {
+							[1] = 3,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Philippleb"] = {
-							[1] = 49,
+						["Jumbojoe"] = {
+							[1] = 23,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -6999,13 +6989,13 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Mumukie"] = {
-							[1] = 3,
+						["Horgghb"] = {
+							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Horgghb"] = {
-							[1] = 13,
+						["Obkurka"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7014,9 +7004,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Obkurka"] = {
-							[1] = 3,
-							[2] = "",
+						["Morzane"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Fulminant"] = {
@@ -7024,9 +7014,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Karjiang"] = {
-							[1] = 10,
-							[2] = "",
+						["Dworm"] = {
+							[1] = 24,
+							[2] = "Train Vanilla",
 							[3] = "2019-06-25",
 						},
 						["Kinebuf"] = {
@@ -7034,19 +7024,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dontbull"] = {
-							[1] = 11,
+						["Moosmerizing"] = {
+							[1] = 48,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Harander"] = {
-							[1] = 19,
-							[2] = "",
+						["Ozpl"] = {
+							[1] = 32,
+							[2] = "Phenomena",
 							[3] = "2019-06-25",
 						},
-						["Lamastickoss"] = {
-							[1] = 27,
-							[2] = "Chronic",
+						["Thebuu"] = {
+							[1] = 48,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Saftigthecow"] = {
@@ -7054,9 +7044,9 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Ozpl"] = {
-							[1] = 32,
-							[2] = "Phenomena",
+						["Djumbos"] = {
+							[1] = 22,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Ronaldrump"] = {
@@ -7069,14 +7059,14 @@ CensusPlus_Database = {
 							[2] = "No Beta Invite",
 							[3] = "2019-06-25",
 						},
-						["Natureslut"] = {
-							[1] = 59,
-							[2] = "",
+						["Oushijin"] = {
+							[1] = 23,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Valhalaobv"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
+						["Overbold"] = {
+							[1] = 17,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Xoonder"] = {
@@ -7084,9 +7074,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Aymjy"] = {
-							[1] = 51,
-							[2] = "Reign of Chaos",
+						["Beduk"] = {
+							[1] = 12,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Halken"] = {
@@ -7109,14 +7099,14 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Ggrunge"] = {
-							[1] = 4,
-							[2] = "",
+						["Lessnichka"] = {
+							[1] = 18,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Beduk"] = {
-							[1] = 12,
-							[2] = "",
+						["Lamastickoss"] = {
+							[1] = 27,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Termoonator"] = {
@@ -7124,8 +7114,8 @@ CensusPlus_Database = {
 							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
-						["Makorinoz"] = {
-							[1] = 6,
+						["Dontbull"] = {
+							[1] = 11,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7139,9 +7129,9 @@ CensusPlus_Database = {
 							[2] = "Undead Aliance",
 							[3] = "2019-06-25",
 						},
-						["Lessnichka"] = {
-							[1] = 18,
-							[2] = "Chronic",
+						["Makorinoz"] = {
+							[1] = 6,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Dorrit"] = {
@@ -7149,23 +7139,23 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Overbold"] = {
-							[1] = 17,
+						["Ggrunge"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Oushijin"] = {
-							[1] = 23,
-							[2] = "Chronic",
+						["Aymjy"] = {
+							[1] = 51,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Djumbos"] = {
-							[1] = 22,
-							[2] = "Chronic",
+						["Valhalaobv"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Thebuu"] = {
-							[1] = 48,
+						["Natureslut"] = {
+							[1] = 59,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7174,19 +7164,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Moosmerizing"] = {
-							[1] = 48,
+						["Rootbinder"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dworm"] = {
-							[1] = 24,
-							[2] = "Train Vanilla",
+						["Harander"] = {
+							[1] = 19,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Morzane"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
+						["Karjiang"] = {
+							[1] = 10,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Fylkesfisken"] = {
@@ -7194,9 +7184,9 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Jumbojoe"] = {
-							[1] = 23,
-							[2] = "",
+						["Indyn"] = {
+							[1] = 55,
+							[2] = "Task Force Yeet",
 							[3] = "2019-06-25",
 						},
 						["Torogordo"] = {
@@ -7219,14 +7209,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Rufft"] = {
-							[1] = 11,
-							[2] = "Waiting For Retail",
+						["Dokocom"] = {
+							[1] = 7,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Bearguy"] = {
-							[1] = 24,
-							[2] = "WoW Classic Hype",
+						["Nightfuryss"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 					},
@@ -7271,9 +7261,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Flamehorn"] = {
-							[1] = 28,
-							[2] = "",
+						["Orothuso"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Abbamuseum"] = {
@@ -7306,9 +7296,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Tauril"] = {
-							[1] = 58,
-							[2] = "WoW Classic Hype",
+						["Manuall"] = {
+							[1] = 27,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
 						["Schwarzblit"] = {
@@ -7386,9 +7376,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Louiskhan"] = {
-							[1] = 50,
-							[2] = "The Brew Crew",
+						["Imayetu"] = {
+							[1] = 25,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Toddynha"] = {
@@ -7401,14 +7391,14 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Barhop"] = {
-							[1] = 25,
-							[2] = "Chronic",
+						["Tsukabishi"] = {
+							[1] = 6,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Thunderstone"] = {
-							[1] = 57,
-							[2] = "Reign of Chaos",
+						["Astrologic"] = {
+							[1] = 50,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Givulys"] = {
@@ -7461,8 +7451,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Imayetu"] = {
-							[1] = 25,
+						["Breadcrums"] = {
+							[1] = 2,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7471,9 +7461,9 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Manuall"] = {
-							[1] = 27,
-							[2] = "Czechoslovakia",
+						["Horridx"] = {
+							[1] = 17,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Asurk"] = {
@@ -7486,9 +7476,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Orothuso"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Broskiee"] = {
+							[1] = 10,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Chuuvaak"] = {
@@ -7496,27 +7486,27 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Fangern"] = {
-							[1] = 6,
-							[2] = "Averagely Furious",
+						["Dingoresto"] = {
+							[1] = 54,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Broskiee"] = {
-							[1] = 10,
-							[2] = "",
+						["Vonshaman"] = {
+							[1] = 55,
+							[2] = "The Dark Brotherhood",
 							[3] = "2019-06-25",
 						},
-						["Tsukabishi"] = {
-							[1] = 6,
-							[2] = "",
+						["Barhop"] = {
+							[1] = 25,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Astrologic"] = {
-							[1] = 50,
-							[2] = "",
+						["Hardu"] = {
+							[1] = 37,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Hoffit"] = {
+						["Mulvo"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-25",
@@ -7531,14 +7521,14 @@ CensusPlus_Database = {
 							[2] = "Danish Bacon",
 							[3] = "2019-06-25",
 						},
-						["Mulvo"] = {
-							[1] = 8,
-							[2] = "",
+						["Louiskhan"] = {
+							[1] = 50,
+							[2] = "The Brew Crew",
 							[3] = "2019-06-25",
 						},
-						["Hardu"] = {
-							[1] = 37,
-							[2] = "Chronic",
+						["Hoffit"] = {
+							[1] = 8,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Milkosa"] = {
@@ -7551,14 +7541,14 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Vonshaman"] = {
-							[1] = 55,
-							[2] = "The Dark Brotherhood",
+						["Thunderstone"] = {
+							[1] = 57,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Dingoresto"] = {
-							[1] = 54,
-							[2] = "Order of Chaos",
+						["Flamehorn"] = {
+							[1] = 28,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Booldozzer"] = {
@@ -7566,14 +7556,14 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Horridx"] = {
-							[1] = 17,
-							[2] = "",
+						["Fangern"] = {
+							[1] = 6,
+							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
-						["Breadcrums"] = {
-							[1] = 2,
-							[2] = "",
+						["Tauril"] = {
+							[1] = 58,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 					},
@@ -7593,24 +7583,24 @@ CensusPlus_Database = {
 							[2] = "Heart of Eternity",
 							[3] = "2019-06-25",
 						},
-						["Kenronny"] = {
-							[1] = 48,
-							[2] = "Mojo",
+						["Ghostcrawlr"] = {
+							[1] = 39,
+							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
-						["Minseca"] = {
-							[1] = 55,
-							[2] = "Waiting For Retail",
-							[3] = "2019-06-25",
-						},
-						["Bloodfeather"] = {
-							[1] = 19,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Silverek"] = {
-							[1] = 49,
+						["Suhz"] = {
+							[1] = 11,
 							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Wakaweed"] = {
+							[1] = 21,
+							[2] = "Chronic",
+							[3] = "2019-06-25",
+						},
+						["Bestclassw"] = {
+							[1] = 7,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Skycaller"] = {
@@ -7628,28 +7618,28 @@ CensusPlus_Database = {
 							[2] = "Heart of Eternity",
 							[3] = "2019-06-25",
 						},
+						["Silverek"] = {
+							[1] = 49,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
 						["Huffhunter"] = {
 							[1] = 23,
 							[2] = "Got Camo",
 							[3] = "2019-06-25",
 						},
-						["Wakaweed"] = {
-							[1] = 21,
-							[2] = "Chronic",
+						["Kenronny"] = {
+							[1] = 48,
+							[2] = "Mojo",
 							[3] = "2019-06-25",
 						},
-						["Ghostcrawlr"] = {
-							[1] = 39,
-							[2] = "MoltenCore Swim Team",
+						["Minseca"] = {
+							[1] = 55,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
-						["Suhz"] = {
-							[1] = 11,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Bestclassw"] = {
-							[1] = 7,
+						["Bloodfeather"] = {
+							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7667,9 +7657,9 @@ CensusPlus_Database = {
 				},
 				["Undead"] = {
 					["Warrior"] = {
-						["Kurbel"] = {
-							[1] = 3,
-							[2] = "",
+						["Bordino"] = {
+							[1] = 57,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
 						["Suvivor"] = {
@@ -7702,34 +7692,34 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Traschbox"] = {
-							[1] = 1,
+						["Friku"] = {
+							[1] = 59,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Morveus"] = {
-							[1] = 20,
+						["Woarman"] = {
+							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Retrika"] = {
-							[1] = 23,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Bordino"] = {
-							[1] = 57,
-							[2] = "Czechoslovakia",
-							[3] = "2019-06-25",
-						},
-						["Xuch"] = {
-							[1] = 5,
+						["Bibzou"] = {
+							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Gubeebee"] = {
-							[1] = 32,
+						["Scika"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Badboydk"] = {
+							[1] = 60,
 							[2] = "Danish Bacon",
+							[3] = "2019-06-25",
+						},
+						["Suffiks"] = {
+							[1] = 22,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Isgrimnur"] = {
@@ -7737,14 +7727,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Zellby"] = {
-							[1] = 27,
+						["Kurbel"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Suffiks"] = {
-							[1] = 22,
-							[2] = "RUSSIA",
+						["Xuch"] = {
+							[1] = 5,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Sanklece"] = {
@@ -7777,28 +7767,28 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Badboydk"] = {
-							[1] = 60,
+						["Gubeebee"] = {
+							[1] = 32,
 							[2] = "Danish Bacon",
 							[3] = "2019-06-25",
 						},
-						["Scika"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
+						["Retrika"] = {
+							[1] = 23,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Bibzou"] = {
-							[1] = 12,
+						["Morveus"] = {
+							[1] = 20,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Woarman"] = {
-							[1] = 19,
+						["Zellby"] = {
+							[1] = 27,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Friku"] = {
-							[1] = 59,
+						["Traschbox"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7839,9 +7829,9 @@ CensusPlus_Database = {
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
-						["Daziime"] = {
-							[1] = 60,
-							[2] = "Waiting For Retail",
+						["Troodos"] = {
+							[1] = 12,
+							[2] = "Luxuria",
 							[3] = "2019-06-25",
 						},
 						["Tipustim"] = {
@@ -7929,19 +7919,19 @@ CensusPlus_Database = {
 							[2] = "Task Force Yeet",
 							[3] = "2019-06-25",
 						},
-						["Splork"] = {
+						["Fira"] = {
 							[1] = 40,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Loistahti"] = {
-							[1] = 7,
-							[2] = "",
+						["Dyxelersi"] = {
+							[1] = 29,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Asghard"] = {
-							[1] = 9,
-							[2] = "WoW Classic Hype",
+						["Hexico"] = {
+							[1] = 29,
+							[2] = "Secret Service",
 							[3] = "2019-06-25",
 						},
 						["Lorakur"] = {
@@ -7954,14 +7944,14 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Assfond"] = {
-							[1] = 13,
+						["Arioch"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Troodos"] = {
-							[1] = 12,
-							[2] = "Luxuria",
+						["Nadem"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Milsterg"] = {
@@ -7974,8 +7964,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kathss"] = {
-							[1] = 6,
+						["Stdemons"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -7989,14 +7979,19 @@ CensusPlus_Database = {
 							[2] = "No Beta Invite",
 							[3] = "2019-06-25",
 						},
-						["Deadroses"] = {
-							[1] = 57,
+						["Pureholypowe"] = {
+							[1] = 60,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
+							[4] = 53,
+							[5] = "2019-06-25&740&1380",
+							[6] = 5,
+							[7] = "2019-06-25",
+							[8] = 0,
 						},
-						["Nthrax"] = {
-							[1] = 25,
-							[2] = "The PC",
+						["Urchun"] = {
+							[1] = 59,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Rayaizsaraya"] = {
@@ -8009,9 +8004,9 @@ CensusPlus_Database = {
 							[2] = "No Beta Invite",
 							[3] = "2019-06-25",
 						},
-						["Necryl"] = {
-							[1] = 25,
-							[2] = "Classic Waiting Room",
+						["Daziime"] = {
+							[1] = 60,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
 						["Jquh"] = {
@@ -8029,9 +8024,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Abazigal"] = {
-							[1] = 34,
-							[2] = "Super Adventure Pals",
+						["Loistahti"] = {
+							[1] = 7,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Lucifarfar"] = {
@@ -8039,9 +8034,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dyxelersi"] = {
-							[1] = 29,
-							[2] = "WoW Classic Hype",
+						["Assfond"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Firra"] = {
@@ -8049,9 +8044,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Hexico"] = {
-							[1] = 29,
-							[2] = "Secret Service",
+						["Splork"] = {
+							[1] = 40,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Ctun"] = {
@@ -8074,9 +8069,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Nadem"] = {
-							[1] = 1,
-							[2] = "",
+						["Gefestt"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Azagino"] = {
@@ -8084,9 +8079,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Ondeads"] = {
-							[1] = 28,
-							[2] = "Task Force Yeet",
+						["Mowgran"] = {
+							[1] = 35,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Funisher"] = {
@@ -8099,9 +8094,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Xpeho"] = {
-							[1] = 15,
-							[2] = "",
+						["Necryl"] = {
+							[1] = 25,
+							[2] = "Classic Waiting Room",
 							[3] = "2019-06-25",
 						},
 						["Jahnjahn"] = {
@@ -8129,14 +8124,14 @@ CensusPlus_Database = {
 							[2] = "Task Force Yeet",
 							[3] = "2019-06-25",
 						},
-						["Zloytato"] = {
-							[1] = 28,
-							[2] = "RUSSIA",
+						["Sayuw"] = {
+							[1] = 58,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
-						["Dhazar"] = {
-							[1] = 33,
-							[2] = "",
+						["Nthrax"] = {
+							[1] = 25,
+							[2] = "The PC",
 							[3] = "2019-06-25",
 						},
 						["Basoy"] = {
@@ -8144,9 +8139,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Qtpewpew"] = {
-							[1] = 35,
-							[2] = "For The Horde Germany",
+						["Feather"] = {
+							[1] = 60,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Giorgiu"] = {
@@ -8164,9 +8159,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Prilika"] = {
-							[1] = 43,
-							[2] = "No Beta Invite",
+						["Marvador"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Vedtjuv"] = {
@@ -8174,14 +8169,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Nordlocky"] = {
-							[1] = 46,
-							[2] = "RUSSIA",
+						["Darkbleuet"] = {
+							[1] = 23,
+							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
-						["Zozole"] = {
-							[1] = 14,
-							[2] = "",
+						["Rizensoul"] = {
+							[1] = 54,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Magicdots"] = {
@@ -8189,14 +8184,14 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Marvador"] = {
-							[1] = 13,
+						["Golrax"] = {
+							[1] = 33,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Deadmagician"] = {
+						["Nordlocky"] = {
 							[1] = 46,
-							[2] = "",
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Raptorsinsix"] = {
@@ -8214,9 +8209,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Ujpest"] = {
-							[1] = 36,
-							[2] = "WoW Classic Hype",
+						["Kathss"] = {
+							[1] = 6,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Plagueweaver"] = {
@@ -8234,24 +8229,24 @@ CensusPlus_Database = {
 							[2] = "Furiously Average",
 							[3] = "2019-06-25",
 						},
-						["Nightmarish"] = {
-							[1] = 37,
-							[2] = "No Beta Invite",
-							[3] = "2019-06-25",
-						},
 						["Satyroc"] = {
 							[1] = 28,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Goodsnow"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
+						["Xpeho"] = {
+							[1] = 15,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Laasen"] = {
-							[1] = 3,
+						["Flakey"] = {
+							[1] = 53,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Zarazoff"] = {
+							[1] = 18,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Saslock"] = {
@@ -8264,9 +8259,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Zarazoff"] = {
-							[1] = 18,
-							[2] = "RUSSIA",
+						["Korpxn"] = {
+							[1] = 30,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Percanta"] = {
@@ -8279,9 +8274,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Korpxn"] = {
-							[1] = 30,
-							[2] = "",
+						["Zloytato"] = {
+							[1] = 28,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Sporkzombie"] = {
@@ -8289,8 +8284,8 @@ CensusPlus_Database = {
 							[2] = "AGGRESSIVE IDIOTS",
 							[3] = "2019-06-25",
 						},
-						["Flakey"] = {
-							[1] = 53,
+						["Laasen"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -8304,19 +8299,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Golrax"] = {
-							[1] = 33,
+						["Zozole"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Rizensoul"] = {
-							[1] = 54,
-							[2] = "Order of Chaos",
+						["Ujpest"] = {
+							[1] = 36,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Darkbleuet"] = {
-							[1] = 23,
-							[2] = "MoltenCore Swim Team",
+						["Deadmagician"] = {
+							[1] = 46,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Kotkokos"] = {
@@ -8324,24 +8319,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Feather"] = {
-							[1] = 60,
-							[2] = "",
+						["Nightmarish"] = {
+							[1] = 37,
+							[2] = "No Beta Invite",
 							[3] = "2019-06-25",
 						},
-						["Sayuw"] = {
-							[1] = 58,
+						["Prilika"] = {
+							[1] = 43,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-25",
+						},
+						["Qtpewpew"] = {
+							[1] = 35,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
-						["Mowgran"] = {
-							[1] = 35,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Gefestt"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
+						["Dhazar"] = {
+							[1] = 33,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Lykia"] = {
@@ -8354,24 +8349,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Urchun"] = {
-							[1] = 59,
-							[2] = "",
+						["Abazigal"] = {
+							[1] = 34,
+							[2] = "Super Adventure Pals",
 							[3] = "2019-06-25",
 						},
-						["Pureholypowe"] = {
+						["Goodsnow"] = {
 							[1] = 60,
-							[2] = "Order of Chaos",
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
-							[4] = 53,
-							[5] = "2019-06-25&740&1380",
-							[6] = 5,
-							[7] = "2019-06-25",
-							[8] = 0,
 						},
-						["Stdemons"] = {
-							[1] = 60,
-							[2] = "",
+						["Ondeads"] = {
+							[1] = 28,
+							[2] = "Task Force Yeet",
 							[3] = "2019-06-25",
 						},
 						["Metth"] = {
@@ -8379,9 +8369,9 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
-						["Arioch"] = {
-							[1] = 60,
-							[2] = "",
+						["Deadroses"] = {
+							[1] = 57,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Demonshead"] = {
@@ -8394,16 +8384,16 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Fira"] = {
-							[1] = 40,
-							[2] = "",
+						["Asghard"] = {
+							[1] = 9,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 					},
 					["Priest"] = {
-						["Daehna"] = {
-							[1] = 17,
-							[2] = "",
+						["Einbolit"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Praylina"] = {
@@ -8516,24 +8506,24 @@ CensusPlus_Database = {
 							[2] = "wands",
 							[3] = "2019-06-25",
 						},
-						["Ochkorez"] = {
-							[1] = 4,
+						["Gorvox"] = {
+							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Veneth"] = {
-							[1] = 25,
+						["Vicarage"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Sparcley"] = {
+							[1] = 23,
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Cikems"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Darktrone"] = {
-							[1] = 1,
-							[2] = "",
+						["Misq"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
 							[3] = "2019-06-25",
 						},
 						["Moonxpriest"] = {
@@ -8566,14 +8556,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Plisop"] = {
-							[1] = 12,
+						["Ochkorez"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Aliniktonter"] = {
-							[1] = 14,
-							[2] = "Chronic",
+						["Fessmol"] = {
+							[1] = 60,
+							[2] = "Illidari",
 							[3] = "2019-06-25",
 						},
 						["Thecancer"] = {
@@ -8586,9 +8576,9 @@ CensusPlus_Database = {
 							[2] = "No Gold Train Skills",
 							[3] = "2019-06-25",
 						},
-						["Fessmol"] = {
+						["Linova"] = {
 							[1] = 60,
-							[2] = "Illidari",
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Twoylri"] = {
@@ -8596,8 +8586,8 @@ CensusPlus_Database = {
 							[2] = "Blessed",
 							[3] = "2019-06-25",
 						},
-						["Theodocious"] = {
-							[1] = 19,
+						["Exorcisti"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -8636,9 +8626,9 @@ CensusPlus_Database = {
 							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
-						["Jaggee"] = {
-							[1] = 20,
-							[2] = "Me and the boys",
+						["Avesatanis"] = {
+							[1] = 18,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Xingan"] = {
@@ -8666,14 +8656,14 @@ CensusPlus_Database = {
 							[2] = "Classic Waiting Room",
 							[3] = "2019-06-25",
 						},
-						["Cinictavis"] = {
-							[1] = 21,
+						["Veneth"] = {
+							[1] = 25,
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Sparcley"] = {
-							[1] = 23,
-							[2] = "WoW Classic Hype",
+						["Peroka"] = {
+							[1] = 5,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Beutifulman"] = {
@@ -8691,14 +8681,14 @@ CensusPlus_Database = {
 							[2] = "The Brew Crew",
 							[3] = "2019-06-25",
 						},
-						["Kupqua"] = {
-							[1] = 15,
-							[2] = "",
+						["Vanethal"] = {
+							[1] = 23,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Einbolit"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
+						["Vadmal"] = {
+							[1] = 60,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Mobpsixo"] = {
@@ -8711,9 +8701,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Vanethal"] = {
-							[1] = 23,
-							[2] = "Order of Chaos",
+						["Cikems"] = {
+							[1] = 2,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Ozzyosborn"] = {
@@ -8721,14 +8711,14 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Twobytes"] = {
-							[1] = 20,
-							[2] = "RUSSIA",
+						["Churrito"] = {
+							[1] = 38,
+							[2] = "Waiting For Retail",
 							[3] = "2019-06-25",
 						},
-						["Mallianno"] = {
-							[1] = 38,
-							[2] = "Los Baldaos",
+						["Janeschafer"] = {
+							[1] = 31,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Pynais"] = {
@@ -8736,14 +8726,14 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Missuspieces"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
+						["Sharvi"] = {
+							[1] = 35,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Badx"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
+						["Martii"] = {
+							[1] = 33,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Vexsa"] = {
@@ -8751,9 +8741,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Skugan"] = {
-							[1] = 2,
-							[2] = "",
+						["Ggyyder"] = {
+							[1] = 47,
+							[2] = "Me and the boys",
 							[3] = "2019-06-25",
 						},
 						["Efialtisi"] = {
@@ -8776,23 +8766,8 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Sharvi"] = {
-							[1] = 35,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Nixmut"] = {
-							[1] = 24,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Luffe"] = {
-							[1] = 53,
-							[2] = "Im a cop you idiot",
-							[3] = "2019-06-25",
-						},
-						["Herrnicu"] = {
-							[1] = 26,
+						["Theodocious"] = {
+							[1] = 19,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -8801,19 +8776,34 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
+						["Luffe"] = {
+							[1] = 53,
+							[2] = "Im a cop you idiot",
+							[3] = "2019-06-25",
+						},
+						["Termopuck"] = {
+							[1] = 10,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Kdxdx"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
 						["Drfolamour"] = {
 							[1] = 30,
 							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
-						["Kahraa"] = {
-							[1] = 34,
-							[2] = "WoW Classic Hype",
+						["Onespellgirl"] = {
+							[1] = 4,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Stupidpriest"] = {
-							[1] = 46,
-							[2] = "The Dark Brotherhood",
+						["Cinictavis"] = {
+							[1] = 21,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Weedart"] = {
@@ -8846,19 +8836,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Onespellgirl"] = {
-							[1] = 4,
-							[2] = "",
+						["Stupidpriest"] = {
+							[1] = 46,
+							[2] = "The Dark Brotherhood",
 							[3] = "2019-06-25",
 						},
-						["Kdxdx"] = {
+						["Plisop"] = {
 							[1] = 12,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Termopuck"] = {
-							[1] = 10,
-							[2] = "",
+						["Kahraa"] = {
+							[1] = 34,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Zuqijj"] = {
@@ -8866,13 +8856,13 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Ggyyder"] = {
-							[1] = 47,
-							[2] = "Me and the boys",
+						["Herrnicu"] = {
+							[1] = 26,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Martii"] = {
-							[1] = 33,
+						["Nixmut"] = {
+							[1] = 24,
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
@@ -8881,19 +8871,19 @@ CensusPlus_Database = {
 							[2] = "Danish Bacon",
 							[3] = "2019-06-25",
 						},
-						["Janeschafer"] = {
-							[1] = 31,
+						["Skugan"] = {
+							[1] = 2,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Churrito"] = {
-							[1] = 38,
-							[2] = "Waiting For Retail",
+						["Kupqua"] = {
+							[1] = 15,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Vadmal"] = {
+						["Badx"] = {
 							[1] = 60,
-							[2] = "",
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Paulinie"] = {
@@ -8901,29 +8891,29 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Peroka"] = {
-							[1] = 5,
+						["Jaggee"] = {
+							[1] = 20,
+							[2] = "Me and the boys",
+							[3] = "2019-06-25",
+						},
+						["Twobytes"] = {
+							[1] = 20,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Daehna"] = {
+							[1] = 17,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Missuspieces"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Meatwhistler"] = {
 							[1] = 5,
 							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Avesatanis"] = {
-							[1] = 18,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Exorcisti"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Linova"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Muricas"] = {
@@ -8936,9 +8926,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Misq"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
+						["Darktrone"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Dogpoop"] = {
@@ -8946,14 +8936,14 @@ CensusPlus_Database = {
 							[2] = "Join if playing classic",
 							[3] = "2019-06-25",
 						},
-						["Vicarage"] = {
+						["Aliniktonter"] = {
 							[1] = 14,
-							[2] = "",
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Gorvox"] = {
-							[1] = 16,
-							[2] = "",
+						["Mallianno"] = {
+							[1] = 38,
+							[2] = "Los Baldaos",
 							[3] = "2019-06-25",
 						},
 					},
@@ -8963,9 +8953,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Parisfrance"] = {
-							[1] = 5,
-							[2] = "WoW Classic Hype",
+						["Enjumage"] = {
+							[1] = 47,
+							[2] = "Super Adventure Pals",
 							[3] = "2019-06-25",
 						},
 						["Joltsmage"] = {
@@ -8973,9 +8963,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Voidens"] = {
-							[1] = 17,
-							[2] = "",
+						["Revue"] = {
+							[1] = 60,
+							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
 						["Firstrage"] = {
@@ -8983,9 +8973,9 @@ CensusPlus_Database = {
 							[2] = "Heart of Eternity",
 							[3] = "2019-06-25",
 						},
-						["Magguzz"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
+						["Lonyi"] = {
+							[1] = 39,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Pendar"] = {
@@ -8993,14 +8983,14 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Deltae"] = {
+						["Spicyfella"] = {
 							[1] = 19,
-							[2] = "Order of Chaos",
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Iciclelicker"] = {
-							[1] = 20,
-							[2] = "",
+						["Darnage"] = {
+							[1] = 46,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Wogz"] = {
@@ -9058,14 +9048,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Gixe"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
+						["Dedmond"] = {
+							[1] = 6,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Qooattro"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
+						["Squallh"] = {
+							[1] = 32,
+							[2] = "Zug Zug por la Horda",
 							[3] = "2019-06-25",
 						},
 						["Glalugala"] = {
@@ -9223,8 +9213,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Geegeege"] = {
-							[1] = 60,
+						["Satanstark"] = {
+							[1] = 21,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9248,8 +9238,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Treedancer"] = {
-							[1] = 60,
+						["Drinkvendor"] = {
+							[1] = 50,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
@@ -9268,8 +9258,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Snowysky"] = {
-							[1] = 9,
+						["Kuskan"] = {
+							[1] = 41,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9278,9 +9268,9 @@ CensusPlus_Database = {
 							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
-						["Estel"] = {
-							[1] = 60,
-							[2] = "",
+						["Milkncookies"] = {
+							[1] = 33,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Metoclop"] = {
@@ -9293,8 +9283,8 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Nezhar"] = {
-							[1] = 41,
+						["Pocketflesh"] = {
+							[1] = 43,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9378,9 +9368,9 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Satanstark"] = {
-							[1] = 21,
-							[2] = "",
+						["Schmiddey"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Zeratull"] = {
@@ -9388,19 +9378,19 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Dedmond"] = {
-							[1] = 6,
+						["Geegeege"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Deadiest"] = {
-							[1] = 15,
+						["Cilly"] = {
+							[1] = 36,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Bluewizz"] = {
-							[1] = 13,
-							[2] = "",
+						["Swdpro"] = {
+							[1] = 29,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Nevadareno"] = {
@@ -9408,29 +9398,29 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Cobaly"] = {
-							[1] = 13,
+						["Amnestiee"] = {
+							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Enjumage"] = {
-							[1] = 47,
-							[2] = "Super Adventure Pals",
+						["Blecks"] = {
+							[1] = 36,
+							[2] = "Decision",
 							[3] = "2019-06-25",
 						},
-						["Drinkvendor"] = {
-							[1] = 50,
-							[2] = "Order of Chaos",
+						["Checkurdead"] = {
+							[1] = 20,
+							[2] = "Join if playing classic",
 							[3] = "2019-06-25",
 						},
-						["Revue"] = {
+						["Parisfrance"] = {
+							[1] = 5,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Treedancer"] = {
 							[1] = 60,
-							[2] = "Ad Nauseam",
-							[3] = "2019-06-25",
-						},
-						["Lonyi"] = {
-							[1] = 39,
-							[2] = "",
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Iaido"] = {
@@ -9438,8 +9428,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Spicyfella"] = {
-							[1] = 19,
+						["Voidens"] = {
+							[1] = 17,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9448,14 +9438,14 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Igar"] = {
-							[1] = 54,
-							[2] = "RUSSIA",
+						["Bluewizz"] = {
+							[1] = 13,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kuskan"] = {
-							[1] = 41,
-							[2] = "",
+						["Magguzz"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Lichbraz"] = {
@@ -9468,14 +9458,14 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Darnage"] = {
-							[1] = 46,
-							[2] = "RUSSIA",
+						["Deltae"] = {
+							[1] = 19,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Milkncookies"] = {
-							[1] = 33,
-							[2] = "WoW Classic Hype",
+						["Snowysky"] = {
+							[1] = 9,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Kronak"] = {
@@ -9483,29 +9473,14 @@ CensusPlus_Database = {
 							[2] = "Doppelgangers",
 							[3] = "2019-06-25",
 						},
-						["Pocketflesh"] = {
-							[1] = 43,
+						["Iciclelicker"] = {
+							[1] = 20,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Amnestiee"] = {
-							[1] = 16,
+						["Estel"] = {
+							[1] = 60,
 							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Squallh"] = {
-							[1] = 32,
-							[2] = "Zug Zug por la Horda",
-							[3] = "2019-06-25",
-						},
-						["Zenton"] = {
-							[1] = 32,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
-						["Ananaas"] = {
-							[1] = 30,
-							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Bartokk"] = {
@@ -9513,9 +9488,24 @@ CensusPlus_Database = {
 							[2] = "Furiously Average",
 							[3] = "2019-06-25",
 						},
-						["Braynz"] = {
-							[1] = 9,
+						["Nezhar"] = {
+							[1] = 41,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Ananaas"] = {
+							[1] = 30,
 							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Heribeert"] = {
+							[1] = 13,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Rittiez"] = {
+							[1] = 33,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Trudoarbino"] = {
@@ -9523,9 +9513,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Shinjuku"] = {
-							[1] = 43,
-							[2] = "For The Horde Germany",
+						["Gixe"] = {
+							[1] = 60,
+							[2] = "Furiously Average",
 							[3] = "2019-06-25",
 						},
 						["Freezak"] = {
@@ -9538,9 +9528,9 @@ CensusPlus_Database = {
 							[2] = "Actual if Factual",
 							[3] = "2019-06-25",
 						},
-						["Rittiez"] = {
-							[1] = 33,
-							[2] = "",
+						["Mcmika"] = {
+							[1] = 18,
+							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
 						["Galnar"] = {
@@ -9548,14 +9538,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
+						["Qooattro"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
 						["Monoi"] = {
 							[1] = 46,
 							[2] = "Crossroad Festival",
-							[3] = "2019-06-25",
-						},
-						["Mcmika"] = {
-							[1] = 18,
-							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
 						["Xempt"] = {
@@ -9563,9 +9553,9 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Heribeert"] = {
-							[1] = 13,
-							[2] = "",
+						["Shinjuku"] = {
+							[1] = 43,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
 						["Arencor"] = {
@@ -9573,14 +9563,14 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Checkurdead"] = {
-							[1] = 20,
-							[2] = "Join if playing classic",
+						["Braynz"] = {
+							[1] = 9,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Blecks"] = {
-							[1] = 36,
-							[2] = "Decision",
+						["Zenton"] = {
+							[1] = 32,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Ferroxx"] = {
@@ -9588,19 +9578,19 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Swdpro"] = {
-							[1] = 29,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Cilly"] = {
-							[1] = 36,
+						["Cobaly"] = {
+							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Schmiddey"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Igar"] = {
+							[1] = 54,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Deadiest"] = {
+							[1] = 15,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 					},
@@ -9660,13 +9650,13 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Bohrokk"] = {
-							[1] = 13,
-							[2] = "",
+						["Daggershot"] = {
+							[1] = 35,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Slaktarrn"] = {
-							[1] = 3,
+						["Mordella"] = {
+							[1] = 32,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9680,13 +9670,53 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Eugz"] = {
-							[1] = 10,
+						["Septicaemia"] = {
+							[1] = 32,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Leriez"] = {
+							[1] = 41,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Beeatrice"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Praine"] = {
+							[1] = 59,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Fortuno"] = {
+							[1] = 32,
+							[2] = "Reign of Chaos",
+							[3] = "2019-06-25",
+						},
+						["Reedmeister"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Milok"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Sufferon"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Rymyry"] = {
 							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Huylo"] = {
+							[1] = 14,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9695,79 +9725,39 @@ CensusPlus_Database = {
 							[2] = "Insert Name Here",
 							[3] = "2019-06-25",
 						},
-						["Praine"] = {
-							[1] = 59,
+						["Bohrokk"] = {
+							[1] = 13,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Rapzzen"] = {
-							[1] = 12,
+						["Dmiter"] = {
+							[1] = 4,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Reedmeister"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Palesheath"] = {
-							[1] = 60,
+						["Justbones"] = {
+							[1] = 48,
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Sufferon"] = {
-							[1] = 25,
-							[2] = "RUSSIA",
+						["Nuath"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Alairagny"] = {
-							[1] = 25,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Huylo"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Perchezawr"] = {
-							[1] = 26,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Arteqpakt"] = {
-							[1] = 26,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Fortuno"] = {
-							[1] = 32,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Shibooya"] = {
-							[1] = 43,
+						["Bazung"] = {
+							[1] = 40,
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
-						["Zloiyrka"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Leykis"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Gomdan"] = {
-							[1] = 60,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Nelprro"] = {
-							[1] = 1,
+						["Tebs"] = {
+							[1] = 6,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Einjeriar"] = {
+							[1] = 48,
+							[2] = "Los Baldaos",
 							[3] = "2019-06-25",
 						},
 						["Gimpi"] = {
@@ -9780,9 +9770,9 @@ CensusPlus_Database = {
 							[2] = "Actual if Factual",
 							[3] = "2019-06-25",
 						},
-						["Daggershot"] = {
-							[1] = 35,
-							[2] = "RUSSIA",
+						["Elsevy"] = {
+							[1] = 60,
+							[2] = "SMASH",
 							[3] = "2019-06-25",
 						},
 						["Voltaa"] = {
@@ -9795,8 +9785,8 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Izlet"] = {
-							[1] = 19,
+						["Slaktarrn"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9810,14 +9800,14 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Beeatrice"] = {
-							[1] = 19,
-							[2] = "",
+						["Bonusrogue"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Roiz"] = {
-							[1] = 24,
-							[2] = "",
+						["Palesheath"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Cenzurat"] = {
@@ -9825,19 +9815,19 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Boretskiy"] = {
-							[1] = 23,
-							[2] = "High Road",
+						["Plinta"] = {
+							[1] = 48,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Ragvolt"] = {
-							[1] = 35,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Philosomatik"] = {
+						["Kelthar"] = {
 							[1] = 60,
 							[2] = "who cares",
+							[3] = "2019-06-25",
+						},
+						["Eugz"] = {
+							[1] = 10,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Zrpr"] = {
@@ -9860,9 +9850,9 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
-						["Overglaze"] = {
-							[1] = 39,
-							[2] = "Chronic",
+						["Amerrock"] = {
+							[1] = 32,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
 						["Blackolive"] = {
@@ -9870,18 +9860,18 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Carcarodon"] = {
-							[1] = 39,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Bazung"] = {
-							[1] = 40,
-							[2] = "For The Horde Germany",
-							[3] = "2019-06-25",
-						},
-						["Spirol"] = {
+						["Stolice"] = {
 							[1] = 60,
+							[2] = "Booty Bay Night Club",
+							[3] = "2019-06-25",
+						},
+						["Sunot"] = {
+							[1] = 33,
+							[2] = "MoltenCore Swim Team",
+							[3] = "2019-06-25",
+						},
+						["Colizzy"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9910,34 +9900,34 @@ CensusPlus_Database = {
 							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Pandamaster"] = {
-							[1] = 40,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Plinta"] = {
-							[1] = 48,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Stolice"] = {
-							[1] = 60,
-							[2] = "Booty Bay Night Club",
-							[3] = "2019-06-25",
-						},
-						["Thecan"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Colizzy"] = {
-							[1] = 3,
-							[2] = "",
+						["Ragvolt"] = {
+							[1] = 35,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Magenor"] = {
 							[1] = 15,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Vajija"] = {
+							[1] = 26,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Bezerden"] = {
+							[1] = 25,
+							[2] = "Danish Bacon",
+							[3] = "2019-06-25",
+						},
+						["Ziguratt"] = {
+							[1] = 22,
+							[2] = "Train Vanilla",
+							[3] = "2019-06-25",
+						},
+						["Alairagny"] = {
+							[1] = 25,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Deadsummer"] = {
@@ -9955,14 +9945,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Drmajk"] = {
-							[1] = 14,
-							[2] = "",
+						["Takatuuppari"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Turaanbank"] = {
-							[1] = 5,
-							[2] = "Order of Chaos",
+						["Bopyc"] = {
+							[1] = 24,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Kgatlw"] = {
@@ -9980,8 +9970,8 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Suap"] = {
-							[1] = 16,
+						["Carcarodon"] = {
+							[1] = 39,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -9995,14 +9985,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Truerog"] = {
-							[1] = 9,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Jozofero"] = {
-							[1] = 11,
-							[2] = "",
+						["Antheris"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Smigolo"] = {
@@ -10010,39 +9995,44 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
+						["Drmajk"] = {
+							[1] = 14,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
 						["Alekzyo"] = {
 							[1] = 57,
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
-						["Antheris"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Bopyc"] = {
-							[1] = 24,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Takatuuppari"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Ziguratt"] = {
-							[1] = 22,
-							[2] = "Train Vanilla",
-							[3] = "2019-06-25",
-						},
-						["Bezerden"] = {
-							[1] = 25,
-							[2] = "Danish Bacon",
-							[3] = "2019-06-25",
-						},
-						["Vajija"] = {
-							[1] = 26,
+						["Jozofero"] = {
+							[1] = 11,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Izlet"] = {
+							[1] = 19,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Roiz"] = {
+							[1] = 24,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Truerog"] = {
+							[1] = 9,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Suap"] = {
+							[1] = 16,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Turaanbank"] = {
+							[1] = 5,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Gzunda"] = {
@@ -10055,9 +10045,9 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Sunot"] = {
-							[1] = 33,
-							[2] = "MoltenCore Swim Team",
+						["Thecan"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Windovozka"] = {
@@ -10065,14 +10055,14 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Amerrock"] = {
-							[1] = 32,
-							[2] = "Czechoslovakia",
+						["Gomdan"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Kelthar"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Nelprro"] = {
+							[1] = 1,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Fnasket"] = {
@@ -10085,9 +10075,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Bonusrogue"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Rapzzen"] = {
+							[1] = 12,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Revnost"] = {
@@ -10095,18 +10085,18 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Elsevy"] = {
+						["Pandamaster"] = {
+							[1] = 40,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Arteqpakt"] = {
+							[1] = 26,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Spirol"] = {
 							[1] = 60,
-							[2] = "SMASH",
-							[3] = "2019-06-25",
-						},
-						["Einjeriar"] = {
-							[1] = 48,
-							[2] = "Los Baldaos",
-							[3] = "2019-06-25",
-						},
-						["Tebs"] = {
-							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10115,18 +10105,18 @@ CensusPlus_Database = {
 							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
-						["Nuath"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Shibooya"] = {
+							[1] = 43,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
-						["Justbones"] = {
-							[1] = 48,
-							[2] = "Order of Chaos",
+						["Overglaze"] = {
+							[1] = 39,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Dmiter"] = {
-							[1] = 4,
+						["Perchezawr"] = {
+							[1] = 26,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10145,9 +10135,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Milok"] = {
-							[1] = 19,
-							[2] = "RUSSIA",
+						["Leykis"] = {
+							[1] = 60,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Schemeing"] = {
@@ -10155,19 +10145,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Leriez"] = {
-							[1] = 41,
-							[2] = "",
+						["Philosomatik"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Septicaemia"] = {
-							[1] = 32,
-							[2] = "WoW Classic Hype",
+						["Boretskiy"] = {
+							[1] = 23,
+							[2] = "High Road",
 							[3] = "2019-06-25",
 						},
-						["Mordella"] = {
-							[1] = 32,
-							[2] = "",
+						["Zloiyrka"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
 					},
@@ -10219,9 +10209,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Ramarok"] = {
-							[1] = 30,
-							[2] = "",
+						["Alicher"] = {
+							[1] = 28,
+							[2] = "Dominant",
 							[3] = "2019-06-25",
 						},
 						["Missbrutalis"] = {
@@ -10239,9 +10229,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kheo"] = {
-							[1] = 60,
-							[2] = "commando fada",
+						["Fuzzied"] = {
+							[1] = 4,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Oboulde"] = {
@@ -10249,24 +10239,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Herbanker"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Madocks"] = {
-							[1] = 60,
-							[2] = "who cares",
-							[3] = "2019-06-25",
-						},
-						["Banxthx"] = {
-							[1] = 1,
-							[2] = "",
+						["Utterino"] = {
+							[1] = 37,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Juushin"] = {
 							[1] = 51,
 							[2] = "For The Horde Germany",
+							[3] = "2019-06-25",
+						},
+						["Martafaka"] = {
+							[1] = 55,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Alttarro"] = {
+							[1] = 43,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Roegar"] = {
@@ -10279,29 +10269,29 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Aegonorc"] = {
-							[1] = 9,
+						["Cloudyskillz"] = {
+							[1] = 16,
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Mynowar"] = {
-							[1] = 41,
+						["Spondivits"] = {
+							[1] = 10,
+							[2] = "Chronic",
+							[3] = "2019-06-25",
+						},
+						["Remaydie"] = {
+							[1] = 38,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-25",
+						},
+						["Garka"] = {
+							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Soebank"] = {
-							[1] = 1,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Guratas"] = {
-							[1] = 7,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Sackz"] = {
-							[1] = 6,
-							[2] = "",
+						["Zabiyka"] = {
+							[1] = 47,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Asxhmia"] = {
@@ -10324,13 +10314,13 @@ CensusPlus_Database = {
 							[2] = "Threshold",
 							[3] = "2019-06-25",
 						},
-						["Maryzue"] = {
-							[1] = 15,
-							[2] = "",
+						["Gragograg"] = {
+							[1] = 37,
+							[2] = "Me and the boys",
 							[3] = "2019-06-25",
 						},
-						["Kornack"] = {
-							[1] = 15,
+						["Herbanker"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10344,13 +10334,13 @@ CensusPlus_Database = {
 							[2] = "Tschill",
 							[3] = "2019-06-25",
 						},
-						["Axeiss"] = {
-							[1] = 17,
-							[2] = "WoW Classic Hype",
+						["Kheo"] = {
+							[1] = 60,
+							[2] = "commando fada",
 							[3] = "2019-06-25",
 						},
-						["Fafakeke"] = {
-							[1] = 60,
+						["Kornack"] = {
+							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10369,9 +10359,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Cenabetthin"] = {
-							[1] = 32,
-							[2] = "WoW Classic Hype",
+						["Tankaslot"] = {
+							[1] = 45,
+							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
 						["Zanaq"] = {
@@ -10384,8 +10374,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dypb"] = {
-							[1] = 57,
+						["Banxthx"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10404,29 +10394,29 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Johncoffe"] = {
-							[1] = 5,
+						["Aegonorc"] = {
+							[1] = 9,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Fitish"] = {
+							[1] = 39,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Lugock"] = {
+							[1] = 39,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Fuzzied"] = {
-							[1] = 4,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Bruto"] = {
-							[1] = 30,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Inqwe"] = {
+						["Cenabetthin"] = {
 							[1] = 32,
-							[2] = "",
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Alicher"] = {
-							[1] = 28,
-							[2] = "Dominant",
+						["Axeinium"] = {
+							[1] = 52,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Skatemetal"] = {
@@ -10434,9 +10424,9 @@ CensusPlus_Database = {
 							[2] = "Ad Nauseam",
 							[3] = "2019-06-25",
 						},
-						["Gragograg"] = {
-							[1] = 37,
-							[2] = "Me and the boys",
+						["Anagarka"] = {
+							[1] = 49,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Shenrug"] = {
@@ -10454,8 +10444,8 @@ CensusPlus_Database = {
 							[2] = "Heart of Eternity",
 							[3] = "2019-06-25",
 						},
-						["Skraap"] = {
-							[1] = 12,
+						["Troggogg"] = {
+							[1] = 16,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10464,9 +10454,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Heidenei"] = {
-							[1] = 43,
-							[2] = "WoW Classic Hype",
+						["Arewei"] = {
+							[1] = 45,
+							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
 						["Dekxler"] = {
@@ -10484,14 +10474,14 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Axeinium"] = {
-							[1] = 52,
-							[2] = "RUSSIA",
+						["Vadrir"] = {
+							[1] = 49,
+							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Yummyz"] = {
+						["Bakerenolav"] = {
 							[1] = 60,
-							[2] = "who cares",
+							[2] = "Furiously Average",
 							[3] = "2019-06-25",
 						},
 						["Deltinc"] = {
@@ -10504,38 +10494,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Pipiga"] = {
-							[1] = 27,
-							[2] = "Join if playing classic",
-							[3] = "2019-06-25",
-						},
-						["Mihantoi"] = {
-							[1] = 3,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Xhedd"] = {
-							[1] = 2,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Opuscastorr"] = {
-							[1] = 21,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Rawrw"] = {
-							[1] = 49,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Bakerenolav"] = {
-							[1] = 60,
-							[2] = "Furiously Average",
-							[3] = "2019-06-25",
-						},
-						["Exterminator"] = {
-							[1] = 31,
+						["Maryzue"] = {
+							[1] = 15,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10544,9 +10504,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Nuuskapeke"] = {
-							[1] = 44,
-							[2] = "Order of Chaos",
+						["Xhedd"] = {
+							[1] = 2,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Scheike"] = {
@@ -10554,14 +10514,44 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Orcforhorde"] = {
-							[1] = 25,
+						["Rawrw"] = {
+							[1] = 49,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Lurches"] = {
-							[1] = 44,
+						["Ramarok"] = {
+							[1] = 30,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Exterminator"] = {
+							[1] = 31,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Skraap"] = {
+							[1] = 12,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Nuuskapeke"] = {
+							[1] = 44,
+							[2] = "Order of Chaos",
+							[3] = "2019-06-25",
+						},
+						["Pengting"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-25",
+						},
+						["Jojisavedme"] = {
+							[1] = 51,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Opuscastorr"] = {
+							[1] = 21,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Guldorsh"] = {
@@ -10579,14 +10569,14 @@ CensusPlus_Database = {
 							[2] = "Join if playing classic",
 							[3] = "2019-06-25",
 						},
-						["Ramarogg"] = {
-							[1] = 40,
-							[2] = "Chronic",
+						["Halifaks"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Zinkblende"] = {
-							[1] = 30,
-							[2] = "",
+						["Madocks"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Lerrosh"] = {
@@ -10604,19 +10594,19 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Halifaks"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Ramarogg"] = {
+							[1] = 40,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Jojisavedme"] = {
-							[1] = 51,
+						["Mihantoi"] = {
+							[1] = 3,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Pengting"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Lurches"] = {
+							[1] = 44,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Actuallydad"] = {
@@ -10639,24 +10629,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Vadrir"] = {
-							[1] = 49,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Arewei"] = {
-							[1] = 45,
-							[2] = "MoltenCore Swim Team",
-							[3] = "2019-06-25",
-						},
-						["Troggogg"] = {
-							[1] = 16,
+						["Sackz"] = {
+							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Anagarka"] = {
-							[1] = 49,
-							[2] = "RUSSIA",
+						["Pipiga"] = {
+							[1] = 27,
+							[2] = "Join if playing classic",
+							[3] = "2019-06-25",
+						},
+						["Yummyz"] = {
+							[1] = 60,
+							[2] = "who cares",
+							[3] = "2019-06-25",
+						},
+						["Dypb"] = {
+							[1] = 57,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Porpll"] = {
@@ -10669,14 +10659,14 @@ CensusPlus_Database = {
 							[2] = "Classic Waiting Room",
 							[3] = "2019-06-25",
 						},
-						["Lugock"] = {
-							[1] = 39,
+						["Soebank"] = {
+							[1] = 1,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Fitish"] = {
-							[1] = 39,
-							[2] = "RUSSIA",
+						["Guratas"] = {
+							[1] = 7,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Antaras"] = {
@@ -10684,9 +10674,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Tankaslot"] = {
-							[1] = 45,
-							[2] = "For The Horde Germany",
+						["Orcforhorde"] = {
+							[1] = 25,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Shadele"] = {
@@ -10704,51 +10694,51 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Zabiyka"] = {
-							[1] = 47,
-							[2] = "RUSSIA",
+						["Zinkblende"] = {
+							[1] = 30,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Garka"] = {
+						["Inqwe"] = {
+							[1] = 32,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Johncoffe"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Remaydie"] = {
-							[1] = 38,
-							[2] = "Order of Chaos",
-							[3] = "2019-06-25",
-						},
-						["Spondivits"] = {
-							[1] = 10,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
-						["Cloudyskillz"] = {
-							[1] = 16,
+						["Axeiss"] = {
+							[1] = 17,
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Alttarro"] = {
-							[1] = 43,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Martafaka"] = {
-							[1] = 55,
+						["Bruto"] = {
+							[1] = 30,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Utterino"] = {
-							[1] = 37,
+						["Heidenei"] = {
+							[1] = 43,
 							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Fafakeke"] = {
+							[1] = 60,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Mynowar"] = {
+							[1] = 41,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 					},
 					["Warlock"] = {
-						["Dipdodgedot"] = {
-							[1] = 23,
-							[2] = "No Beta Invite",
+						["Magkir"] = {
+							[1] = 3,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Elson"] = {
@@ -10771,8 +10761,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Azronomicon"] = {
-							[1] = 60,
+						["Kashgai"] = {
+							[1] = 38,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10846,8 +10836,8 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Magkir"] = {
-							[1] = 3,
+						["Lockkova"] = {
+							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10861,9 +10851,9 @@ CensusPlus_Database = {
 							[2] = "The Brew Crew",
 							[3] = "2019-06-25",
 						},
-						["Yeeyeeazz"] = {
-							[1] = 43,
-							[2] = "The Dark Brotherhood",
+						["Gars"] = {
+							[1] = 42,
+							[2] = "Europae Camertem",
 							[3] = "2019-06-25",
 						},
 						["Jippi"] = {
@@ -10881,13 +10871,13 @@ CensusPlus_Database = {
 							[2] = "The PC",
 							[3] = "2019-06-25",
 						},
-						["Lockkova"] = {
+						["Judgeleo"] = {
 							[1] = 8,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kashgai"] = {
-							[1] = 38,
+						["Dizlock"] = {
+							[1] = 6,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
@@ -10921,14 +10911,14 @@ CensusPlus_Database = {
 							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
-						["Loogus"] = {
-							[1] = 29,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
 						["Fan"] = {
 							[1] = 60,
 							[2] = "Los Baldaos",
+							[3] = "2019-06-25",
+						},
+						["Loogus"] = {
+							[1] = 29,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Ljunkan"] = {
@@ -10936,19 +10926,19 @@ CensusPlus_Database = {
 							[2] = "Two Drink Minimum",
 							[3] = "2019-06-25",
 						},
-						["Dizlock"] = {
-							[1] = 6,
+						["Dipdodgedot"] = {
+							[1] = 23,
+							[2] = "No Beta Invite",
+							[3] = "2019-06-25",
+						},
+						["Azronomicon"] = {
+							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Judgeleo"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Gars"] = {
-							[1] = 42,
-							[2] = "Europae Camertem",
+						["Yeeyeeazz"] = {
+							[1] = 43,
+							[2] = "The Dark Brotherhood",
 							[3] = "2019-06-25",
 						},
 						["Murgra"] = {
@@ -11023,9 +11013,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Igreen"] = {
-							[1] = 44,
-							[2] = "",
+						["Ephick"] = {
+							[1] = 39,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
 						["Madzen"] = {
@@ -11038,14 +11028,14 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Rhyx"] = {
-							[1] = 38,
+						["Shamdunk"] = {
+							[1] = 41,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Jupka"] = {
-							[1] = 5,
-							[2] = "",
+						["Sonarsham"] = {
+							[1] = 8,
+							[2] = "Nevermore",
 							[3] = "2019-06-25",
 						},
 						["Phantompain"] = {
@@ -11053,9 +11043,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Orkasborkas"] = {
-							[1] = 55,
-							[2] = "MoltenCore Swim Team",
+						["Kernisar"] = {
+							[1] = 27,
+							[2] = "Classic Waiting Room",
 							[3] = "2019-06-25",
 						},
 						["Bhrutal"] = {
@@ -11083,9 +11073,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Gnomecrusher"] = {
-							[1] = 25,
-							[2] = "Super Adventure Pals",
+						["Splittooth"] = {
+							[1] = 60,
+							[2] = "Reign of Chaos",
 							[3] = "2019-06-25",
 						},
 						["Noppo"] = {
@@ -11093,9 +11083,9 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Kalgr"] = {
-							[1] = 8,
-							[2] = "",
+						["Zondy"] = {
+							[1] = 60,
+							[2] = "Dafes PuG",
 							[3] = "2019-06-25",
 						},
 						["Ychbx"] = {
@@ -11108,9 +11098,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Vassas"] = {
-							[1] = 14,
-							[2] = "Chronic",
+						["Zilbash"] = {
+							[1] = 11,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Qomo"] = {
@@ -11133,9 +11123,9 @@ CensusPlus_Database = {
 							[2] = "Naturally Enhanced Orc",
 							[3] = "2019-06-25",
 						},
-						["Fezh"] = {
-							[1] = 27,
-							[2] = "WoW Classic Hype",
+						["Orkasborkas"] = {
+							[1] = 55,
+							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
 						["Hypherionn"] = {
@@ -11148,9 +11138,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Shamdunk"] = {
-							[1] = 41,
-							[2] = "",
+						["Kildeklaus"] = {
+							[1] = 35,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Tpal"] = {
@@ -11163,14 +11153,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Sonarsham"] = {
-							[1] = 8,
-							[2] = "Nevermore",
+						["Rhyx"] = {
+							[1] = 38,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Gulfarak"] = {
-							[1] = 26,
-							[2] = "Chronic",
+						["Kurpat"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Wichez"] = {
@@ -11183,24 +11173,24 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Lurdyx"] = {
-							[1] = 32,
+						["Igreen"] = {
+							[1] = 44,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Ephick"] = {
-							[1] = 39,
-							[2] = "Czechoslovakia",
+						["Incomab"] = {
+							[1] = 14,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Perkinatorn"] = {
-							[1] = 44,
-							[2] = "WoW Classic Hype",
+						["Kazikari"] = {
+							[1] = 16,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kelatha"] = {
-							[1] = 18,
-							[2] = "WoW Classic Hype",
+						["Skaai"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Dzhon"] = {
@@ -11218,9 +11208,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Skaai"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Headchoppa"] = {
+							[1] = 14,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Zandalorc"] = {
@@ -11228,9 +11218,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Venezuelaned"] = {
-							[1] = 10,
-							[2] = "",
+						["Xtera"] = {
+							[1] = 19,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Eehvertti"] = {
@@ -11243,53 +11233,8 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Sengalol"] = {
-							[1] = 27,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Abiga"] = {
-							[1] = 8,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Exploid"] = {
-							[1] = 58,
-							[2] = "Nightmares",
-							[3] = "2019-06-25",
-						},
-						["Incomab"] = {
-							[1] = 14,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Kazikari"] = {
-							[1] = 16,
-							[2] = "",
-							[3] = "2019-06-25",
-						},
-						["Leotrim"] = {
-							[1] = 36,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
-						["Xtera"] = {
-							[1] = 19,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Lancrall"] = {
-							[1] = 17,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
-						["Tyurgehn"] = {
-							[1] = 26,
-							[2] = "RUSSIA",
-							[3] = "2019-06-25",
-						},
-						["Kukpojken"] = {
-							[1] = 34,
+						["Samthara"] = {
+							[1] = 43,
 							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
@@ -11298,19 +11243,24 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Grayfuxx"] = {
-							[1] = 43,
-							[2] = "who cares",
+						["Exploid"] = {
+							[1] = 58,
+							[2] = "Nightmares",
 							[3] = "2019-06-25",
 						},
-						["Desolatora"] = {
-							[1] = 48,
+						["Dumitru"] = {
+							[1] = 30,
+							[2] = "Out for Blood",
+							[3] = "2019-06-25",
+						},
+						["Lurdyx"] = {
+							[1] = 32,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Rockfists"] = {
-							[1] = 33,
-							[2] = "",
+						["Leotrim"] = {
+							[1] = 36,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Drektharz"] = {
@@ -11323,9 +11273,49 @@ CensusPlus_Database = {
 							[2] = "Danish Bacon",
 							[3] = "2019-06-25",
 						},
+						["Tyurgehn"] = {
+							[1] = 26,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Zieri"] = {
+							[1] = 37,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Vassas"] = {
+							[1] = 14,
+							[2] = "Chronic",
+							[3] = "2019-06-25",
+						},
+						["Grayfuxx"] = {
+							[1] = 43,
+							[2] = "who cares",
+							[3] = "2019-06-25",
+						},
+						["Desolatora"] = {
+							[1] = 48,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Abiga"] = {
+							[1] = 8,
+							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Kelatha"] = {
+							[1] = 18,
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
 						["Aparna"] = {
 							[1] = 52,
 							[2] = "Im a cop you idiot",
+							[3] = "2019-06-25",
+						},
+						["Venezuelaned"] = {
+							[1] = 10,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Fumar"] = {
@@ -11338,9 +11328,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Dosledo"] = {
-							[1] = 51,
-							[2] = "",
+						["Buksirchik"] = {
+							[1] = 36,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Czkluk"] = {
@@ -11373,9 +11363,9 @@ CensusPlus_Database = {
 							[2] = "Excruciation",
 							[3] = "2019-06-25",
 						},
-						["Buksirchik"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
+						["Dosledo"] = {
+							[1] = 51,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Papalexis"] = {
@@ -11383,9 +11373,9 @@ CensusPlus_Database = {
 							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Zieri"] = {
-							[1] = 37,
-							[2] = "",
+						["Lancrall"] = {
+							[1] = 17,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Nehog"] = {
@@ -11398,9 +11388,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Dumitru"] = {
-							[1] = 30,
-							[2] = "Out for Blood",
+						["Rockfists"] = {
+							[1] = 33,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Hakktru"] = {
@@ -11408,8 +11398,8 @@ CensusPlus_Database = {
 							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Samthara"] = {
-							[1] = 43,
+						["Kukpojken"] = {
+							[1] = 34,
 							[2] = "Averagely Furious",
 							[3] = "2019-06-25",
 						},
@@ -11418,9 +11408,9 @@ CensusPlus_Database = {
 							[2] = "Order of Chaos",
 							[3] = "2019-06-25",
 						},
-						["Headchoppa"] = {
-							[1] = 14,
-							[2] = "",
+						["Sengalol"] = {
+							[1] = 27,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Casiopedo"] = {
@@ -11443,9 +11433,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Kurpat"] = {
-							[1] = 36,
-							[2] = "RUSSIA",
+						["Perkinatorn"] = {
+							[1] = 44,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Bronsik"] = {
@@ -11453,29 +11443,29 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Kildeklaus"] = {
-							[1] = 35,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
-						["Zilbash"] = {
-							[1] = 11,
+						["Jupka"] = {
+							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Zondy"] = {
-							[1] = 60,
-							[2] = "Dafes PuG",
+						["Gulfarak"] = {
+							[1] = 26,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
-						["Splittooth"] = {
-							[1] = 60,
-							[2] = "Reign of Chaos",
+						["Gnomecrusher"] = {
+							[1] = 25,
+							[2] = "Super Adventure Pals",
 							[3] = "2019-06-25",
 						},
-						["Kernisar"] = {
+						["Fezh"] = {
 							[1] = 27,
-							[2] = "Classic Waiting Room",
+							[2] = "WoW Classic Hype",
+							[3] = "2019-06-25",
+						},
+						["Kalgr"] = {
+							[1] = 8,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 					},
@@ -11565,9 +11555,9 @@ CensusPlus_Database = {
 							[2] = "Big Dumb Idiots",
 							[3] = "2019-06-25",
 						},
-						["Svets"] = {
-							[1] = 60,
-							[2] = "who cares",
+						["Tetovana"] = {
+							[1] = 32,
+							[2] = "Czechoslovakia",
 							[3] = "2019-06-25",
 						},
 						["Jharke"] = {
@@ -11635,9 +11625,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Tetovana"] = {
-							[1] = 32,
-							[2] = "Czechoslovakia",
+						["Svets"] = {
+							[1] = 60,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Akeros"] = {
@@ -11645,14 +11635,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Khalasarr"] = {
-							[1] = 40,
-							[2] = "Chronic",
-							[3] = "2019-06-25",
-						},
 						["Trupst"] = {
 							[1] = 27,
 							[2] = "",
+							[3] = "2019-06-25",
+						},
+						["Khalasarr"] = {
+							[1] = 40,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Stabanessa"] = {
@@ -11667,9 +11657,9 @@ CensusPlus_Database = {
 						},
 					},
 					["Hunter"] = {
-						["Maxxgx"] = {
-							[1] = 20,
-							[2] = "",
+						["Niceblue"] = {
+							[1] = 45,
+							[2] = "who cares",
 							[3] = "2019-06-25",
 						},
 						["Jurga"] = {
@@ -11722,9 +11712,9 @@ CensusPlus_Database = {
 							[2] = "For The Horde Germany",
 							[3] = "2019-06-25",
 						},
-						["Samvega"] = {
-							[1] = 60,
-							[2] = "Averagely Furious",
+						["Gooberr"] = {
+							[1] = 25,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 						["Hoobish"] = {
@@ -11892,7 +11882,7 @@ CensusPlus_Database = {
 							[2] = "Super Adventure Pals",
 							[3] = "2019-06-25",
 						},
-						["Pinselpeter"] = {
+						["Moonxhunter"] = {
 							[1] = 5,
 							[2] = "",
 							[3] = "2019-06-25",
@@ -11917,14 +11907,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Freischutz"] = {
-							[1] = 18,
-							[2] = "",
+						["Karenh"] = {
+							[1] = 15,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
-						["Gooberr"] = {
-							[1] = 25,
-							[2] = "Chronic",
+						["Oufti"] = {
+							[1] = 50,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Vraxdrar"] = {
@@ -11942,19 +11932,14 @@ CensusPlus_Database = {
 							[2] = "MoltenCore Swim Team",
 							[3] = "2019-06-25",
 						},
-						["Niceblue"] = {
-							[1] = 45,
-							[2] = "who cares",
-							[3] = "2019-06-25",
-						},
 						["Zakzu"] = {
 							[1] = 60,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Vodkadilla"] = {
-							[1] = 26,
-							[2] = "WoW Classic Hype",
+						["Angryilya"] = {
+							[1] = 31,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Bambambigila"] = {
@@ -11962,9 +11947,14 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Gorokk"] = {
-							[1] = 11,
-							[2] = "",
+						["Duirand"] = {
+							[1] = 12,
+							[2] = "RUSSIA",
+							[3] = "2019-06-25",
+						},
+						["Thrakka"] = {
+							[1] = 42,
+							[2] = "Me and the boys",
 							[3] = "2019-06-25",
 						},
 						["Sloxie"] = {
@@ -11972,9 +11962,9 @@ CensusPlus_Database = {
 							[2] = "Crossroad Festival",
 							[3] = "2019-06-25",
 						},
-						["Sontarg"] = {
-							[1] = 16,
-							[2] = "Chronic",
+						["Arrazo"] = {
+							[1] = 25,
+							[2] = "Booty Bay Night Club",
 							[3] = "2019-06-25",
 						},
 						["Kheash"] = {
@@ -11987,9 +11977,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Hunterrier"] = {
-							[1] = 14,
-							[2] = "",
+						["Inharik"] = {
+							[1] = 51,
+							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
 						["Kitymckite"] = {
@@ -12017,9 +12007,9 @@ CensusPlus_Database = {
 							[2] = "RUSSIA",
 							[3] = "2019-06-25",
 						},
-						["Inharik"] = {
-							[1] = 51,
-							[2] = "RUSSIA",
+						["Hunterrier"] = {
+							[1] = 14,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Creyven"] = {
@@ -12027,19 +12017,19 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Arrazo"] = {
-							[1] = 25,
-							[2] = "Booty Bay Night Club",
+						["Maxxgx"] = {
+							[1] = 20,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Thrakka"] = {
-							[1] = 42,
-							[2] = "Me and the boys",
+						["Pinselpeter"] = {
+							[1] = 5,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Duirand"] = {
-							[1] = 12,
-							[2] = "RUSSIA",
+						["Gorokk"] = {
+							[1] = 11,
+							[2] = "",
 							[3] = "2019-06-25",
 						},
 						["Luul"] = {
@@ -12047,9 +12037,9 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Angryilya"] = {
-							[1] = 31,
-							[2] = "RUSSIA",
+						["Vodkadilla"] = {
+							[1] = 26,
+							[2] = "WoW Classic Hype",
 							[3] = "2019-06-25",
 						},
 						["Varzak"] = {
@@ -12057,23 +12047,33 @@ CensusPlus_Database = {
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Oufti"] = {
-							[1] = 50,
+						["Samvega"] = {
+							[1] = 60,
+							[2] = "Averagely Furious",
+							[3] = "2019-06-25",
+						},
+						["Freischutz"] = {
+							[1] = 18,
 							[2] = "",
 							[3] = "2019-06-25",
 						},
-						["Karenh"] = {
-							[1] = 15,
-							[2] = "WoW Classic Hype",
-							[3] = "2019-06-25",
-						},
-						["Moonxhunter"] = {
-							[1] = 5,
-							[2] = "",
+						["Sontarg"] = {
+							[1] = 16,
+							[2] = "Chronic",
 							[3] = "2019-06-25",
 						},
 					},
 				},
+			},
+		},
+	},
+	["TimesPlus"] = {
+		["Nighthaven"] = {
+			["Horde"] = {
+				["2019-06-25&19:0:00"] = "46&86&76&75&62&67&99&87&0&3&6&1",
+				["2019-06-25&17:27:00"] = "38&70&78&62&87&70&94&88&0&6&15&0",
+				["2019-06-25&17:58:00"] = "55&78&74&61&84&73&87&88&0&11&1&3",
+				["2019-06-25&18:29:00"] = "51&85&76&69&76&63&90&100&0&13&1&4",
 			},
 		},
 	},
@@ -12083,8 +12083,8 @@ CensusPlus_Profile = {
 CensusPlus_BGInfo = {
 	["Nighthaven"] = {
 		["Horde"] = {
-			["2019-06-25&17:55:00"] = "Alterac Valley&438.145&903.453",
 			["2019-06-25&17:54:00"] = "Arathi Basin&298.146&5.328",
+			["2019-06-25&17:55:00"] = "Alterac Valley&438.145&903.453",
 		},
 	},
 }
