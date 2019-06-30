@@ -14,9 +14,4 @@ StubbyConfig = {
 		["Auctioneer"] = true,
 		["EnhTooltip"] = true,
 	},
-	["configs"] = {
-		["auctioneer"] = {
-			["easypewpew:loadtype"] = "always",
-		},
-	},
 }

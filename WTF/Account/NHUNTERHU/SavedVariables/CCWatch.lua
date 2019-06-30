@@ -1,6 +1,84 @@
 
 CCWatch_Save = {
+	["Easypewpew of Nighthaven"] = {
+		["timers"] = 1,
+		["SavedCC"] = {
+		},
+		["CoTLowColor"] = {
+			["r"] = 1,
+			["g"] = 0.5,
+			["b"] = 0,
+		},
+		["scale"] = 1,
+		["CoTNormalColor"] = {
+			["r"] = 1,
+			["g"] = 1,
+			["b"] = 0,
+		},
+		["ConfCC"] = {
+		},
+		["LeadingTimer"] = true,
+		["CoTUrgeColor"] = {
+			["r"] = 1,
+			["g"] = 0,
+			["b"] = 0,
+		},
+		["status"] = 0,
+		["invert"] = false,
+		["CoTLowValue"] = 5,
+		["WarnType"] = "PARTY",
+		["WarnCustomCC"] = "",
+		["WarnLow"] = 10,
+		["growth"] = 0,
+		["width"] = 160,
+		["Monitoring"] = 7,
+		["style"] = 0,
+		["arcanist"] = false,
+		["alpha"] = 1,
+		["WarnMsg"] = 15,
+		["ColorOverTime"] = false,
+		["CoTUrgeValue"] = 1,
+	},
 	["Pureholypowe of Nighthaven"] = {
+		["timers"] = 1,
+		["SavedCC"] = {
+		},
+		["CoTLowColor"] = {
+			["r"] = 1,
+			["g"] = 0.5,
+			["b"] = 0,
+		},
+		["scale"] = 1,
+		["CoTNormalColor"] = {
+			["r"] = 1,
+			["g"] = 1,
+			["b"] = 0,
+		},
+		["ConfCC"] = {
+		},
+		["LeadingTimer"] = true,
+		["CoTUrgeColor"] = {
+			["r"] = 1,
+			["g"] = 0,
+			["b"] = 0,
+		},
+		["status"] = 0,
+		["invert"] = false,
+		["CoTLowValue"] = 5,
+		["WarnType"] = "PARTY",
+		["WarnCustomCC"] = "",
+		["WarnLow"] = 10,
+		["growth"] = 0,
+		["width"] = 160,
+		["Monitoring"] = 7,
+		["style"] = 0,
+		["arcanist"] = false,
+		["alpha"] = 1,
+		["WarnMsg"] = 15,
+		["ColorOverTime"] = false,
+		["CoTUrgeValue"] = 1,
+	},
+	["Somos of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
@@ -78,7 +156,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Easypisy of Nighthaven"] = {
+	["Lokzagzag of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
@@ -156,7 +234,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Easypewpew of Nighthaven"] = {
+	["Easypisy of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
