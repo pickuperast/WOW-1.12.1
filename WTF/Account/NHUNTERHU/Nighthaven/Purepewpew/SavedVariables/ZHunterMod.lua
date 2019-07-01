@@ -6,7 +6,7 @@ ZHunterMod_Saved = {
 			["size"] = 36,
 		},
 		["tooltip"] = 1,
-		["count"] = 6,
+		["count"] = 3,
 		["rows"] = 1,
 		["spells"] = {
 			[1] = "Aspect of the Hawk",
@@ -40,7 +40,7 @@ ZHunterMod_Saved = {
 			["size"] = 36,
 		},
 		["tooltip"] = 1,
-		["count"] = 11,
+		["count"] = 5,
 		["rows"] = 1,
 		["spells"] = {
 			[1] = "Track Hidden",
@@ -69,7 +69,7 @@ ZHunterMod_Saved = {
 			["size"] = 36,
 		},
 		["tooltip"] = 1,
-		["count"] = 5,
+		["count"] = 2,
 		["rows"] = 1,
 		["spells"] = {
 			[1] = "Freezing Trap",
@@ -92,6 +92,7 @@ ZHunterMod_Saved = {
 		["rows"] = 1,
 		["pet"] = {
 			["happiness"] = 3,
+			["status"] = 2,
 		},
 		["count"] = 6,
 		["tooltip"] = 1,

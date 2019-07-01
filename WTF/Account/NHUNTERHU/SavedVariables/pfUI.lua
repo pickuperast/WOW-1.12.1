@@ -282,10 +282,10 @@ pfUI_cache = {
 		["Nighthaven"] = {
 			["Lokzagzag"] = 14828,
 			["Easypewpew"] = 384133,
-			["Purepewpew"] = 845259,
+			["Purepewpew"] = 754837,
 			["Somos"] = 255,
 			["Pureholypowe"] = 463440,
-			["Pureauc"] = 517,
+			["Pureauc"] = 5952,
 			["Easypisy"] = 5552,
 		},
 	},
