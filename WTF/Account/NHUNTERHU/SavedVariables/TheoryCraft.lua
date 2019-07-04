@@ -20,17 +20,17 @@ TheoryCraft_MitigationMobs = {
 	["Young Scavenger"] = {
 		[1] = 63,
 	},
-	["Foulweald Ursa"] = {
-		[1] = 1360,
+	["Pridewing Skyhunter"] = {
+		[1] = 927,
 	},
-	["Clattering Scorpid"] = {
-		[1] = 245,
+	["Razormane Defender"] = {
+		[1] = 779,
 	},
 	["Bloodtalon Taillasher"] = {
 		[1] = 314,
 	},
-	["Twilight Thug"] = {
-		[1] = 1003,
+	["Voodoo Troll"] = {
+		[1] = 398,
 	},
 	["Lieutenant Benedict"] = {
 		[1] = 604,
@@ -47,11 +47,11 @@ TheoryCraft_MitigationMobs = {
 	["Ashenvale Bear"] = {
 		[1] = 691,
 	},
-	["Young Pridewing"] = {
-		[1] = 1084,
+	["Moonstalker"] = {
+		[1] = 1003,
 	},
-	["Gobbler"] = {
-		[1] = 799,
+	["Anaya Dawnrunner"] = {
+		[1] = 842,
 	},
 	["Dark Strand Excavator"] = {
 		[1] = 1238,
@@ -77,8 +77,8 @@ TheoryCraft_MitigationMobs = {
 	["Makrura Shellhide"] = {
 		[1] = 441,
 	},
-	["Razormane Thornweaver"] = {
-		[1] = 534,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
 	["Vile Familiar"] = {
 		[1] = 63,
@@ -86,26 +86,26 @@ TheoryCraft_MitigationMobs = {
 	["Mindless Zombie"] = {
 		[1] = 233,
 	},
-	["Lesser Felguard"] = {
-		[1] = 720,
+	["Wrathtail Myrmidon"] = {
+		[1] = 971,
 	},
 	["Kolkar Stormer"] = {
 		[1] = 631,
 	},
-	["Mottled Scytheclaw"] = {
-		[1] = 1028,
+	["Blackwood Windtalker"] = {
+		[1] = 724,
 	},
-	["Savannah Prowler"] = {
-		[1] = 976,
+	["Dal Bloodclaw"] = {
+		[1] = 1010,
 	},
 	["Wretched Zombie"] = {
 		[1] = 152,
 	},
-	["Gnarlpine Ursa"] = {
-		[1] = 301,
+	["Hexed Troll"] = {
+		[1] = 75,
 	},
-	["Befouled Water Elemental"] = {
-		[1] = 1222,
+	["Vicious Grell"] = {
+		[1] = 435,
 	},
 	["Grellkin"] = {
 		[1] = 195,
@@ -116,11 +116,11 @@ TheoryCraft_MitigationMobs = {
 	["Webwood Silkspinner"] = {
 		[1] = 599,
 	},
-	["Greymist Seer"] = {
-		[1] = 714,
+	["Nightsaber"] = {
+		[1] = 267,
 	},
-	["Mangy Nightsaber"] = {
-		[1] = 151,
+	["Kolkar Bloodcharger"] = {
+		[1] = 863,
 	},
 	["Moonstalker Runt"] = {
 		[1] = 691,
@@ -233,8 +233,8 @@ TheoryCraft_MitigationMobs = {
 	["Mottled Razormaw"] = {
 		[1] = 913,
 	},
-	["Bloodfeather Rogue"] = {
-		[1] = 480,
+	["Venture Co. Logger"] = {
+		[1] = 854,
 	},
 	["Razormane Scout"] = {
 		[1] = 338,
@@ -248,17 +248,17 @@ TheoryCraft_MitigationMobs = {
 	["Stormscale Siren"] = {
 		[1] = 647,
 	},
-	["Saltspittle Puddlejumper"] = {
-		[1] = 925,
+	["Southsea Cutthroat"] = {
+		[1] = 766,
 	},
 	["Gnarlpine Defender"] = {
 		[1] = 513,
 	},
-	["Razormane Battleguard"] = {
-		[1] = 651,
+	["Oasis Snapjaw"] = {
+		[1] = 920,
 	},
-	["Dreadmaw Crocolisk"] = {
-		[1] = 455,
+	["Wildthorn Stalker"] = {
+		[1] = 1010,
 	},
 	["Foulweald Warrior"] = {
 		[1] = 1095,
@@ -272,8 +272,8 @@ TheoryCraft_MitigationMobs = {
 	["Mottled Raptor"] = {
 		[1] = 990,
 	},
-	["Mosshide Mongrel"] = {
-		[1] = 1106,
+	["Scorpid Worker"] = {
+		[1] = 68,
 	},
 	["Felstalker"] = {
 		[1] = 37,
@@ -287,35 +287,35 @@ TheoryCraft_MitigationMobs = {
 	["Rascal Sprite"] = {
 		[1] = 141,
 	},
-	["Gnarlpine Shaman"] = {
-		[1] = 396,
+	["Dire Mottled Boar"] = {
+		[1] = 310,
 	},
 	["Strigid Screecher"] = {
 		[1] = 452,
 	},
-	["Nightsaber"] = {
-		[1] = 267,
+	["Greymist Seer"] = {
+		[1] = 714,
 	},
-	["Dire Mottled Boar"] = {
-		[1] = 310,
+	["Gnarlpine Shaman"] = {
+		[1] = 396,
 	},
-	["Vicious Grell"] = {
-		[1] = 435,
+	["Befouled Water Elemental"] = {
+		[1] = 1222,
 	},
-	["Hexed Troll"] = {
-		[1] = 75,
+	["Gnarlpine Ursa"] = {
+		[1] = 301,
 	},
 	["Zalazane"] = {
 		[1] = 610,
 	},
-	["Wrathtail Myrmidon"] = {
-		[1] = 971,
+	["Lesser Felguard"] = {
+		[1] = 720,
 	},
-	["Wildthorn Stalker"] = {
-		[1] = 1010,
+	["Dreadmaw Crocolisk"] = {
+		[1] = 455,
 	},
-	["Swoop"] = {
-		[1] = 512,
+	["Writhing Highborne"] = {
+		[1] = 224,
 	},
 	["Southsea Brigand"] = {
 		[1] = 650,
@@ -326,14 +326,14 @@ TheoryCraft_MitigationMobs = {
 	["Lord Melenas"] = {
 		[1] = 452,
 	},
-	["Writhing Highborne"] = {
-		[1] = 224,
+	["Swoop"] = {
+		[1] = 512,
 	},
-	["Venture Co. Logger"] = {
-		[1] = 854,
+	["Bloodfeather Rogue"] = {
+		[1] = 480,
 	},
-	["Anaya Dawnrunner"] = {
-		[1] = 842,
+	["Gobbler"] = {
+		[1] = 799,
 	},
 	["Bluegill Murloc"] = {
 		[1] = 1105,
@@ -347,8 +347,8 @@ TheoryCraft_MitigationMobs = {
 	["Thistlefur Shaman"] = {
 		[1] = 1046,
 	},
-	["Voodoo Troll"] = {
-		[1] = 398,
+	["Twilight Thug"] = {
+		[1] = 1003,
 	},
 	["Cracked Golem"] = {
 		[1] = 744,
@@ -368,23 +368,23 @@ TheoryCraft_MitigationMobs = {
 	["Venomtail Scorpid"] = {
 		[1] = 446,
 	},
-	["Pridewing Skyhunter"] = {
-		[1] = 927,
+	["Foulweald Ursa"] = {
+		[1] = 1360,
 	},
 	["Gnarlpine Mystic"] = {
 		[1] = 249,
 	},
-	["Razormane Defender"] = {
-		[1] = 779,
+	["Clattering Scorpid"] = {
+		[1] = 245,
 	},
 	["Wild Grell"] = {
 		[1] = 649,
 	},
-	["Scorpid Worker"] = {
-		[1] = 68,
+	["Mosshide Mongrel"] = {
+		[1] = 1106,
 	},
-	["Moonstalker"] = {
-		[1] = 1003,
+	["Young Pridewing"] = {
+		[1] = 1084,
 	},
 	["Durotar Tiger"] = {
 		[1] = 366,
@@ -395,26 +395,26 @@ TheoryCraft_MitigationMobs = {
 	["Kul Tiras Marine"] = {
 		[1] = 95,
 	},
-	["Southsea Cutthroat"] = {
-		[1] = 766,
+	["Saltspittle Puddlejumper"] = {
+		[1] = 925,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
+	["Razormane Thornweaver"] = {
+		[1] = 534,
 	},
-	["Oasis Snapjaw"] = {
-		[1] = 920,
+	["Razormane Battleguard"] = {
+		[1] = 651,
 	},
 	["Vile Sprite"] = {
 		[1] = 224,
 	},
-	["Blackwood Windtalker"] = {
-		[1] = 724,
+	["Mottled Scytheclaw"] = {
+		[1] = 1028,
 	},
-	["Dal Bloodclaw"] = {
-		[1] = 1010,
+	["Savannah Prowler"] = {
+		[1] = 976,
 	},
-	["Kolkar Bloodcharger"] = {
-		[1] = 863,
+	["Mangy Nightsaber"] = {
+		[1] = 151,
 	},
 	["Greymist Coastrunner"] = {
 		[1] = 688,

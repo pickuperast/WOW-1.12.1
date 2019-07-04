@@ -285,7 +285,7 @@ pfUI_cache = {
 			["Purepewpew"] = 754837,
 			["Somos"] = 255,
 			["Pureholypowe"] = 463440,
-			["Pureauc"] = 5952,
+			["Pureauc"] = 32698,
 			["Easypisy"] = 5552,
 		},
 	},
