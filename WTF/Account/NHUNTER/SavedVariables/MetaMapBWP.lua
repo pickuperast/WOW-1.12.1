@@ -2,12 +2,12 @@
 BWP_Options = {
 	["ShowNPC"] = true,
 	["ShowCorpse"] = false,
-	["SetAlpha"] = 1,
-	["ShowOnGuard"] = false,
-	["ClearDest"] = true,
-	["ShowYards"] = false,
 	["SetDistance"] = 0.004100000020116568,
 	["ShowPoints"] = true,
+	["ClearDest"] = true,
+	["ShowYards"] = false,
+	["SetAlpha"] = 1,
+	["ShowOnGuard"] = false,
 }
 BWP_Destination = nil
 BWP_QuestList = {
@@ -234,6 +234,41 @@ BWP_QuestList = {
 		["Zone"] = 9,
 		["QuestName"] = "Elven Legends",
 		["QuestGiver"] = "Sage Korolusk",
+	},
+	[33] = {
+		["Y"] = 0.8966302871704102,
+		["X"] = 0.4813102185726166,
+		["Zone"] = 12,
+		["QuestName"] = "Donation: 100.000 Gold",
+		["QuestGiver"] = "Donation Vendor",
+	},
+	[34] = {
+		["Y"] = 0.9059266448020935,
+		["X"] = 0.5077294111251831,
+		["Zone"] = 12,
+		["QuestName"] = "Warlord's Plate Armor",
+		["QuestGiver"] = "PvP R13 Gear Quests",
+	},
+	[35] = {
+		["Y"] = 0.891071617603302,
+		["X"] = 0.5178535580635071,
+		["Zone"] = 12,
+		["QuestName"] = "Attunement to the Crater",
+		["QuestGiver"] = "Azshara Crater Attunement",
+	},
+	[36] = {
+		["Y"] = 0.9032982587814331,
+		["X"] = 0.5125906467437744,
+		["Zone"] = 12,
+		["QuestName"] = "8 Stamina [Leg/Head],100 Hit [Leg/Head]",
+		["QuestGiver"] = "Lesser Arcanum Enchants",
+	},
+	[37] = {
+		["Y"] = 0.8792275786399841,
+		["X"] = 0.6925292611122131,
+		["Zone"] = 17,
+		["QuestName"] = "Torwa Pathfinder",
+		["QuestGiver"] = "Sheldras Moontree",
 	},
 }
 BWP_AbandonedQuests = nil

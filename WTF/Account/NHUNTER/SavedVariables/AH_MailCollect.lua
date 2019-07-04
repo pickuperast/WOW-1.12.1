@@ -9,14 +9,14 @@ AH_MailCollectDB = {
 			},
 			["auctionMail"] = false,
 			["deleteAllMail"] = false,
-			["displayMail"] = 1,
-			["itemsMail"] = 1,
 			["MsgsWithCash"] = {
 				[1] = 1,
 				[2] = 2,
 				[3] = 3,
 				[4] = 4,
 			},
+			["itemsMail"] = 1,
+			["displayMail"] = 1,
 		},
 	},
 }

@@ -1,5 +1,95 @@
 
 TheoryCraft_SetBonuses = {
+	["Battlegear of Valor"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+200 Armor.",
+		},
+		[2] = {
+			["pieces"] = 4,
+			["text"] = "+40 Attack Power.",
+		},
+		[3] = {
+			["pieces"] = 6,
+			["text"] = "Chance on melee attack to heal you for 88 to 132.",
+		},
+		[4] = {
+			["pieces"] = 8,
+			["text"] = "+8 All Resistances.",
+		},
+	},
+	["Deathbone Guardian"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "Increased Defense +3.",
+		},
+		[2] = {
+			["pieces"] = 3,
+			["text"] = "+50 Armor.",
+		},
+		[3] = {
+			["pieces"] = 4,
+			["text"] = "+15 All Resistances.",
+		},
+		[4] = {
+			["pieces"] = 5,
+			["text"] = "Increases your chance to parry an attack by 1%.",
+		},
+	},
+	["Stormshroud Armor"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "5% chance of dealing 15 to 25 Nature damage on a successful melee attack.",
+		},
+		[2] = {
+			["pieces"] = 3,
+			["text"] = "2% chance on melee attack of restoring 30 energy.",
+		},
+		[3] = {
+			["pieces"] = 4,
+			["text"] = "+14 Attack Power.",
+		},
+	},
+	["Wildheart Raiment"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+200 Armor.",
+		},
+		[2] = {
+			["pieces"] = 4,
+			["text"] = "+26 Attack Power.",
+		},
+		[3] = {
+			["pieces"] = 4,
+			["text"] = "Increases damage and healing done by magical spells and effects by up to 15.",
+		},
+		[4] = {
+			["pieces"] = 6,
+			["text"] = "When struck in combat has a chance of returning 300 mana, 10 rage, or 40 energy to the wearer. ",
+		},
+		[5] = {
+			["pieces"] = 8,
+			["text"] = "+8 All Resistances.",
+		},
+	},
+	["Beaststalker Armor"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+200 Armor.",
+		},
+		[2] = {
+			["pieces"] = 4,
+			["text"] = "+40 Attack Power.",
+		},
+		[3] = {
+			["pieces"] = 6,
+			["text"] = "Your normal ranged attacks have a 4% chance of restoring 200 mana.",
+		},
+		[4] = {
+			["pieces"] = 8,
+			["text"] = "+8 All Resistances.",
+		},
+	},
 }
 TheoryCraft_MitigationMobs = {
 	["Mindless Zombie"] = {
@@ -65,32 +155,47 @@ TheoryCraft_MitigationMobs = {
 	["Kolkar Wrangler"] = {
 		[1] = 580,
 	},
-	["Kolkar Packhound"] = {
-		[1] = 534,
-	},
-	["Venomtail Scorpid"] = {
-		[1] = 446,
+	["Razormane Dustrunner"] = {
+		[1] = 405,
 	},
 	["Kolkar Pack Runner"] = {
 		[1] = 974,
 	},
+	["Elder Shardtooth"] = {
+		[1] = 2687,
+	},
+	["Sunscale Screecher"] = {
+		[1] = 685,
+	},
+	["Razormane Battleguard"] = {
+		[1] = 651,
+	},
+	["Kolkar Packhound"] = {
+		[1] = 534,
+	},
 	["Clattering Scorpid"] = {
 		[1] = 245,
 	},
-	["Taloned Swoop"] = {
-		[1] = 542,
+	["Frostsaber"] = {
+		[1] = 3288,
 	},
-	["Oasis Snapjaw"] = {
-		[1] = 920,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
-	["Durotar Tiger"] = {
-		[1] = 366,
+	["Zalazane"] = {
+		[1] = 610,
 	},
-	["Razormane Scout"] = {
-		[1] = 338,
+	["Savannah Prowler"] = {
+		[1] = 976,
 	},
 	["Swoop"] = {
 		[1] = 512,
+	},
+	["Duskbat"] = {
+		[1] = 135,
+	},
+	["Nightsaber Stalker"] = {
+		[1] = 56,
 	},
 	["Razormane Quilboar"] = {
 		[1] = 222,
@@ -101,43 +206,49 @@ TheoryCraft_MitigationMobs = {
 	["Kul Tiras Sailor"] = {
 		[1] = 47,
 	},
-	["Razormane Thornweaver"] = {
-		[1] = 534,
+	["Chillwind Ravager"] = {
+		[1] = 3514,
 	},
 	["Makrura Shellhide"] = {
 		[1] = 441,
 	},
-	["Savannah Prowler"] = {
-		[1] = 976,
+	["Razormane Scout"] = {
+		[1] = 338,
 	},
-	["Zalazane"] = {
-		[1] = 610,
+	["Durotar Tiger"] = {
+		[1] = 366,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
+	["Razormane Thornweaver"] = {
+		[1] = 534,
 	},
-	["Duskbat"] = {
-		[1] = 135,
+	["Plagued Swine"] = {
+		[1] = 4022,
 	},
-	["Razormane Battleguard"] = {
-		[1] = 651,
+	["Oasis Snapjaw"] = {
+		[1] = 920,
 	},
-	["Sunscale Screecher"] = {
-		[1] = 685,
+	["Taloned Swoop"] = {
+		[1] = 542,
 	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 455,
 	},
-	["Razormane Dustrunner"] = {
-		[1] = 405,
+	["Venomtail Scorpid"] = {
+		[1] = 446,
 	},
 }
 TheoryCraft_MitigationPlayers = {
 	["Shaman:5"] = {
 		[1] = 271,
 	},
+	["Rogue:60"] = {
+		[1] = 0,
+	},
 	["Astwarlock"] = {
 		[1] = 755,
+	},
+	["Neilba"] = {
+		[1] = 0,
 	},
 	["Shaman:7"] = {
 		[1] = 755,

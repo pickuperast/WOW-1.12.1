@@ -1,0 +1,6 @@
+https://retro-wow.com/
+set realmlist logon.retro-wow.com
+set realmname "RetroWoW"
+
+elysium
+set realmlist logon.elysium-project.org
