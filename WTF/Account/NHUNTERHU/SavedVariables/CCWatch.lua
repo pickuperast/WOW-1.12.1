@@ -39,7 +39,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Somos of Nighthaven"] = {
+	["Easypisy of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
@@ -117,7 +117,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Purepewpew of Nighthaven"] = {
+	["Pureauc of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
@@ -195,7 +195,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Easypisy of Nighthaven"] = {
+	["Purepewpew of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},
@@ -234,7 +234,7 @@ CCWatch_Save = {
 		["ColorOverTime"] = false,
 		["CoTUrgeValue"] = 1,
 	},
-	["Pureauc of Nighthaven"] = {
+	["Somos of Nighthaven"] = {
 		["timers"] = 1,
 		["SavedCC"] = {
 		},

@@ -234,11 +234,111 @@ pfUI_profiles = {
 	},
 }
 pfUI_addon_profiles = {
+	["Current"] = {
+		[1] = "MetaMap",
+		[2] = "Accountant",
+		[3] = "Ace",
+		[4] = "Ace2",
+		[5] = "AceGUI",
+		[6] = "AH_MailCollect",
+		[7] = "AtlasLoot",
+		[8] = "AutoProfit",
+		[9] = "aux-addon",
+		[10] = "BonusScanner",
+		[11] = "CCWatch",
+		[12] = "CensusPlus",
+		[13] = "DPSMate_AbsorbsTaken",
+		[14] = "DPSMate_Absorbs",
+		[15] = "DPSMate_Activity",
+		[16] = "DPSMate_Auras",
+		[17] = "DPSMate_Casts",
+		[18] = "DPSMate_CCBreaker",
+		[19] = "DPSMate_CureDiseaseReceived",
+		[20] = "DPSMate_CureDisease",
+		[21] = "DPSMate_CurePoisonReceived",
+		[22] = "DPSMate_CurePoison",
+		[23] = "DPSMate_DamageTaken",
+		[24] = "DPSMate_Deaths",
+		[25] = "DPSMate_DecursesReceived",
+		[26] = "DPSMate_Decurses",
+		[27] = "DPSMate_DispelsReceived",
+		[28] = "DPSMate_Dispels",
+		[29] = "DPSMate_EHealingTaken",
+		[30] = "DPSMate_EHealing",
+		[31] = "DPSMate_EDD",
+		[32] = "DPSMate_EDT",
+		[33] = "DPSMate_Fails",
+		[34] = "DPSMate_FriendlyFireTaken",
+		[35] = "DPSMate_FriendlyFire",
+		[36] = "DPSMate_HealingAndAbsorbs",
+		[37] = "DPSMate_Interrupts",
+		[38] = "DPSMate_LiftMagicReceived",
+		[39] = "DPSMate_LiftMagic",
+		[40] = "DPSMate_!deDE",
+		[41] = "DPSMate_!frFR",
+		[42] = "DPSMate_!koKR",
+		[43] = "DPSMate_!ruRU",
+		[44] = "DPSMate_!zhCN",
+		[45] = "DPSMate_OHealingTaken",
+		[46] = "DPSMate_Overhealing",
+		[47] = "DPSMate_Procs",
+		[48] = "DPSMate_HealingTaken",
+		[49] = "DPSMate_Healing",
+		[50] = "DPSMate",
+		[51] = "EnemyBuffTimersVanilla",
+		[52] = "Gatherer",
+		[53] = "OneBagSorter",
+		[54] = "OneBag",
+		[55] = "OneRing",
+		[56] = "OneView",
+		[57] = "Prat",
+		[58] = "Stubby",
+		[59] = "TheoryCraft",
+		[60] = "YaHT",
+		[61] = "ZHunterMod",
+		[62] = "Carnival_EnemyCastBar",
+		[63] = "pfQuest",
+		[64] = "pfUI",
+		[65] = "ShaguScore",
+	},
 }
 pfUI_cache = {
 	["prediction"] = {
 		["RetroWoW"] = {
+			["Unmagei"] = {
+				["heals"] = {
+				},
+			},
+			["Larvok"] = {
+				["heals"] = {
+					["Death CoilRank 3"] = 501,
+					["Drain LifeRank 6"] = 82,
+				},
+			},
+			["Enhancementi"] = {
+				["heals"] = {
+					["Lesser Healing WaveRank 6"] = 467,
+				},
+			},
+			["Shhpp"] = {
+				["heals"] = {
+					["Vampiric Embrace"] = 92,
+				},
+			},
+			["Inviskill"] = {
+				["heals"] = {
+				},
+			},
 			["Tankistodorr"] = {
+				["heals"] = {
+				},
+			},
+			["Shoio"] = {
+				["heals"] = {
+					["Healing WaveRank 8"] = 1221,
+				},
+			},
+			["Furymann"] = {
 				["heals"] = {
 				},
 			},
@@ -246,33 +346,36 @@ pfUI_cache = {
 				["heals"] = {
 				},
 			},
-			["Inviskill"] = {
+			["Jrecuha"] = {
 				["heals"] = {
+					["Flash HealRank 7"] = 1183,
+					["Greater HealRank 4"] = 2411,
+					["Holy NovaRank 6"] = 396,
 				},
 			},
 		},
 		["Nighthaven"] = {
+			["Pureholypowe"] = {
+				["heals"] = {
+					["Death CoilRank 3"] = 498,
+					["Death CoilRank 1"] = 315,
+					["Siphon LifeRank 4"] = 60,
+					["Drain LifeRank 6"] = 82,
+					["Siphon LifeRank 2"] = 23,
+					["Drain LifeRank 5"] = 63,
+					["Death CoilRank 2"] = 418,
+					["Drain LifeRank 4"] = 48,
+				},
+			},
+			["Lookingagrp"] = {
+				["heals"] = {
+				},
+			},
 			["Easypewpew"] = {
 				["heals"] = {
 				},
 			},
 			["Easypisy"] = {
-				["heals"] = {
-				},
-			},
-			["Pureholypowe"] = {
-				["heals"] = {
-					["Death CoilRank 3"] = 548,
-					["Death CoilRank 1"] = 315,
-					["Siphon LifeRank 4"] = 60,
-					["Drain LifeRank 4"] = 48,
-					["Siphon LifeRank 2"] = 23,
-					["Drain LifeRank 5"] = 63,
-					["Death CoilRank 2"] = 418,
-					["Drain LifeRank 6"] = 102,
-				},
-			},
-			["Lookingagrp"] = {
 				["heals"] = {
 				},
 			},
@@ -286,15 +389,22 @@ pfUI_cache = {
 	},
 	["gold"] = {
 		["RetroWoW"] = {
+			["Unmagei"] = 3141,
+			["Larvok"] = 1208420,
+			["Enhancementi"] = 276,
+			["Shhpp"] = 551,
+			["Inviskill"] = 534379,
 			["Tankistodorr"] = 0,
+			["Shoio"] = 965,
+			["Furymann"] = 0,
 			["Tankistodor"] = 505,
-			["Inviskill"] = 2930,
+			["Jrecuha"] = 152,
 		},
 		["Nighthaven"] = {
-			["Easypewpew"] = 258467,
-			["Easypisy"] = 5552,
-			["Pureholypowe"] = 210380,
+			["Pureholypowe"] = 0,
 			["Lookingagrp"] = 5378,
+			["Easypewpew"] = 885533,
+			["Easypisy"] = 5552,
 		},
 		["Kronos III"] = {
 			["Holyll"] = 0,

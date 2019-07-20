@@ -242,10 +242,6 @@ pfUI_cache = {
 				["heals"] = {
 				},
 			},
-			["Easypewpew"] = {
-				["heals"] = {
-				},
-			},
 			["Purepewpew"] = {
 				["heals"] = {
 				},
@@ -261,11 +257,15 @@ pfUI_cache = {
 					["Death CoilRank 3"] = 602,
 					["Death CoilRank 1"] = 315,
 					["Siphon LifeRank 4"] = 60,
-					["Drain LifeRank 4"] = 48,
+					["Drain LifeRank 6"] = 112,
 					["Siphon LifeRank 2"] = 23,
 					["Drain LifeRank 5"] = 63,
 					["Death CoilRank 2"] = 418,
-					["Drain LifeRank 6"] = 112,
+					["Drain LifeRank 4"] = 48,
+				},
+			},
+			["Easypewpew"] = {
+				["heals"] = {
 				},
 			},
 			["Pureauc"] = {
@@ -281,11 +281,11 @@ pfUI_cache = {
 	["gold"] = {
 		["Nighthaven"] = {
 			["Lokzagzag"] = 14828,
-			["Easypewpew"] = 384133,
-			["Purepewpew"] = 754837,
+			["Purepewpew"] = 632860,
 			["Somos"] = 255,
 			["Pureholypowe"] = 463440,
-			["Pureauc"] = 32698,
+			["Easypewpew"] = 384133,
+			["Pureauc"] = 70308,
 			["Easypisy"] = 5552,
 		},
 	},

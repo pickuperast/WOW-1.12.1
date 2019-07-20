@@ -1,0 +1,2 @@
+
+CooldownTimersDB = nil

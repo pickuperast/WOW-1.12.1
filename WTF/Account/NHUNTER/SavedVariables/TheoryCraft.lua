@@ -18,24 +18,6 @@ TheoryCraft_SetBonuses = {
 			["text"] = "+8 All Resistances.",
 		},
 	},
-	["Deathbone Guardian"] = {
-		[1] = {
-			["pieces"] = 2,
-			["text"] = "Increased Defense +3.",
-		},
-		[2] = {
-			["pieces"] = 3,
-			["text"] = "+50 Armor.",
-		},
-		[3] = {
-			["pieces"] = 4,
-			["text"] = "+15 All Resistances.",
-		},
-		[4] = {
-			["pieces"] = 5,
-			["text"] = "Increases your chance to parry an attack by 1%.",
-		},
-	},
 	["Stormshroud Armor"] = {
 		[1] = {
 			["pieces"] = 2,
@@ -72,6 +54,86 @@ TheoryCraft_SetBonuses = {
 			["text"] = "+8 All Resistances.",
 		},
 	},
+	["Deathbone Guardian"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "Increased Defense +3.",
+		},
+		[2] = {
+			["pieces"] = 3,
+			["text"] = "+50 Armor.",
+		},
+		[3] = {
+			["pieces"] = 4,
+			["text"] = "+15 All Resistances.",
+		},
+		[4] = {
+			["pieces"] = 5,
+			["text"] = "Increases your chance to parry an attack by 1%.",
+		},
+	},
+	["Magister's Regalia"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+200 Armor.",
+		},
+		[2] = {
+			["pieces"] = 4,
+			["text"] = "Increases damage and healing done by magical spells and effects by up to 23.",
+		},
+		[3] = {
+			["pieces"] = 6,
+			["text"] = "When struck in combat has a chance of freezing the attacker in place for 3 sec.",
+		},
+		[4] = {
+			["pieces"] = 8,
+			["text"] = "+8 All Resistances.",
+		},
+	},
+	["The Postmaster"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+50 Armor.",
+		},
+		[2] = {
+			["pieces"] = 3,
+			["text"] = "+10 Fire Resistance.",
+		},
+		[3] = {
+			["pieces"] = 3,
+			["text"] = "+10 Arcane Resistance.",
+		},
+		[4] = {
+			["pieces"] = 4,
+			["text"] = "Increases damage and healing done by magical spells and effects by up to 12.",
+		},
+		[5] = {
+			["pieces"] = 5,
+			["text"] = "Increases run speed by 5%.",
+		},
+		[6] = {
+			["pieces"] = 5,
+			["text"] = "+10 Intellect.",
+		},
+	},
+	["The Elements"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+200 Armor.",
+		},
+		[2] = {
+			["pieces"] = 4,
+			["text"] = "Increases damage and healing done by magical spells and effects by up to 23.",
+		},
+		[3] = {
+			["pieces"] = 6,
+			["text"] = "Chance on spell cast to increase your damage and healing by up to 95 for 10 sec.",
+		},
+		[4] = {
+			["pieces"] = 8,
+			["text"] = "+8 All Resistances.",
+		},
+	},
 	["Beaststalker Armor"] = {
 		[1] = {
 			["pieces"] = 2,
@@ -84,6 +146,24 @@ TheoryCraft_SetBonuses = {
 		[3] = {
 			["pieces"] = 6,
 			["text"] = "Your normal ranged attacks have a 4% chance of restoring 200 mana.",
+		},
+		[4] = {
+			["pieces"] = 8,
+			["text"] = "+8 All Resistances.",
+		},
+	},
+	["Dreadmist Raiment"] = {
+		[1] = {
+			["pieces"] = 2,
+			["text"] = "+200 Armor.",
+		},
+		[2] = {
+			["pieces"] = 4,
+			["text"] = "Increases damage and healing done by magical spells and effects by up to 23.",
+		},
+		[3] = {
+			["pieces"] = 6,
+			["text"] = "When struck in combat has a chance of causing the attacker to flee in terror for 2 seconds. ",
 		},
 		[4] = {
 			["pieces"] = 8,
@@ -155,47 +235,47 @@ TheoryCraft_MitigationMobs = {
 	["Kolkar Wrangler"] = {
 		[1] = 580,
 	},
-	["Razormane Dustrunner"] = {
-		[1] = 405,
-	},
-	["Kolkar Pack Runner"] = {
-		[1] = 974,
-	},
-	["Elder Shardtooth"] = {
-		[1] = 2687,
-	},
-	["Sunscale Screecher"] = {
-		[1] = 685,
-	},
-	["Razormane Battleguard"] = {
-		[1] = 651,
-	},
-	["Kolkar Packhound"] = {
-		[1] = 534,
+	["Venomtail Scorpid"] = {
+		[1] = 446,
 	},
 	["Clattering Scorpid"] = {
 		[1] = 245,
 	},
+	["Elder Shardtooth"] = {
+		[1] = 2687,
+	},
+	["Taloned Swoop"] = {
+		[1] = 542,
+	},
+	["Oasis Snapjaw"] = {
+		[1] = 920,
+	},
+	["Kolkar Packhound"] = {
+		[1] = 534,
+	},
 	["Frostsaber"] = {
 		[1] = 3288,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
+	["Kolkar Pack Runner"] = {
+		[1] = 974,
 	},
-	["Zalazane"] = {
-		[1] = 610,
+	["Razormane Thornweaver"] = {
+		[1] = 534,
 	},
-	["Savannah Prowler"] = {
-		[1] = 976,
+	["Durotar Tiger"] = {
+		[1] = 366,
 	},
-	["Swoop"] = {
-		[1] = 512,
+	["Razormane Scout"] = {
+		[1] = 338,
+	},
+	["Nightsaber Stalker"] = {
+		[1] = 56,
 	},
 	["Duskbat"] = {
 		[1] = 135,
 	},
-	["Nightsaber Stalker"] = {
-		[1] = 56,
+	["Swoop"] = {
+		[1] = 512,
 	},
 	["Razormane Quilboar"] = {
 		[1] = 222,
@@ -212,40 +292,52 @@ TheoryCraft_MitigationMobs = {
 	["Makrura Shellhide"] = {
 		[1] = 441,
 	},
-	["Razormane Scout"] = {
-		[1] = 338,
+	["Savannah Prowler"] = {
+		[1] = 976,
 	},
-	["Durotar Tiger"] = {
-		[1] = 366,
+	["Zalazane"] = {
+		[1] = 610,
 	},
-	["Razormane Thornweaver"] = {
-		[1] = 534,
+	["Razormane Water Seeker"] = {
+		[1] = 619,
 	},
 	["Plagued Swine"] = {
 		[1] = 4022,
 	},
-	["Oasis Snapjaw"] = {
-		[1] = 920,
+	["Razormane Battleguard"] = {
+		[1] = 651,
 	},
-	["Taloned Swoop"] = {
-		[1] = 542,
+	["Sunscale Screecher"] = {
+		[1] = 685,
 	},
 	["Dreadmaw Crocolisk"] = {
 		[1] = 455,
 	},
-	["Venomtail Scorpid"] = {
-		[1] = 446,
+	["Razormane Dustrunner"] = {
+		[1] = 405,
 	},
 }
 TheoryCraft_MitigationPlayers = {
-	["Shaman:5"] = {
-		[1] = 271,
+	["Neresy"] = {
+		[1] = 3053,
 	},
 	["Rogue:60"] = {
 		[1] = 0,
 	},
 	["Astwarlock"] = {
 		[1] = 755,
+	},
+	["Dajeineznay"] = {
+		[1] = 509,
+	},
+	["Bentbetjent"] = {
+		[1] = 4860,
+	},
+	["Warlock:60"] = {
+		[1] = 4860,
+	},
+	["Shaman:5"] = {
+		[1] = 271,
 	},
 	["Neilba"] = {
 		[1] = 0,

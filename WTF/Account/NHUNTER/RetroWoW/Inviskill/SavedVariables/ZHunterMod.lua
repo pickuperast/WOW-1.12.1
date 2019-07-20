@@ -5,9 +5,9 @@ ZHunterMod_Saved = {
 			["circle"] = 1,
 			["size"] = 36,
 		},
-		["rows"] = 1,
-		["count"] = 6,
 		["tooltip"] = 1,
+		["count"] = 6,
+		["rows"] = 1,
 		["spells"] = {
 			[1] = "Aspect of the Hawk",
 			[2] = "Aspect of the Monkey",
@@ -26,61 +26,22 @@ ZHunterMod_Saved = {
 	},
 	["ZHunterCastBar"] = {
 	},
-	["ZHunterButtonPet"] = {
-		["parent"] = {
-			["circle"] = 1,
-			["size"] = 36,
-		},
-		["rows"] = 1,
-		["pet"] = {
-			["happiness"] = 2,
-			["status"] = 2,
-		},
-		["count"] = 6,
-		["tooltip"] = 1,
-		["spells"] = {
-			[1] = "Eyes of the Beast",
-			[2] = "Dismiss Pet",
-			[3] = "Mend Pet",
-			[4] = "Feed Pet",
-			[5] = "Call Pet",
-			[6] = "Revive Pet",
-		},
-		["children"] = {
-			["hideonclick"] = 1,
-			["size"] = 36,
-		},
-		["firstbutton"] = "RIGHT",
+	["ZHunterTranq"] = {
+		["autofrenzy"] = 1,
+		["hit"] = "Tranq Fired!",
+		["miss"] = "Tranq *MISSED*",
+		["fail"] = "Tranq *FAILED*",
 	},
-	["ZHunterButtonTrap"] = {
-		["parent"] = {
-			["circle"] = 1,
-			["size"] = 36,
-		},
-		["rows"] = 1,
-		["count"] = 5,
-		["tooltip"] = 1,
-		["spells"] = {
-			[1] = "Freezing Trap",
-			[2] = "Frost Trap",
-			[3] = "Immolation Trap",
-			[4] = "Explosive Trap",
-			[5] = "Feign Death",
-		},
-		["children"] = {
-			["hideonclick"] = 1,
-			["size"] = 36,
-		},
-		["firstbutton"] = "RIGHT",
+	["ZHunterAIStrip"] = {
 	},
 	["ZHunterButtonTrack"] = {
 		["parent"] = {
 			["circle"] = 1,
 			["size"] = 36,
 		},
-		["rows"] = 1,
-		["count"] = 11,
 		["tooltip"] = 1,
+		["count"] = 11,
+		["rows"] = 1,
 		["spells"] = {
 			[1] = "Track Hidden",
 			[2] = "Track Humanoids",
@@ -102,12 +63,50 @@ ZHunterMod_Saved = {
 	},
 	["ZHunterAIAmmo"] = {
 	},
-	["ZHunterAIStrip"] = {
+	["ZHunterButtonTrap"] = {
+		["parent"] = {
+			["circle"] = 1,
+			["size"] = 36,
+		},
+		["tooltip"] = 1,
+		["count"] = 5,
+		["rows"] = 1,
+		["spells"] = {
+			[1] = "Freezing Trap",
+			[2] = "Frost Trap",
+			[3] = "Immolation Trap",
+			[4] = "Explosive Trap",
+			[5] = "Feign Death",
+		},
+		["children"] = {
+			["hideonclick"] = 1,
+			["size"] = 36,
+		},
+		["firstbutton"] = "RIGHT",
 	},
-	["ZHunterTranq"] = {
-		["autofrenzy"] = 1,
-		["hit"] = "Tranq Fired!",
-		["miss"] = "Tranq *MISSED*",
-		["fail"] = "Tranq *FAILED*",
+	["ZHunterButtonPet"] = {
+		["parent"] = {
+			["circle"] = 1,
+			["size"] = 36,
+		},
+		["rows"] = 1,
+		["pet"] = {
+			["happiness"] = 3,
+		},
+		["count"] = 6,
+		["tooltip"] = 1,
+		["spells"] = {
+			[1] = "Eyes of the Beast",
+			[2] = "Dismiss Pet",
+			[3] = "Mend Pet",
+			[4] = "Feed Pet",
+			[5] = "Call Pet",
+			[6] = "Revive Pet",
+		},
+		["children"] = {
+			["hideonclick"] = 1,
+			["size"] = 36,
+		},
+		["firstbutton"] = "RIGHT",
 	},
 }

@@ -2,6 +2,9 @@
 TheoryCraft_SetBonuses = {
 }
 TheoryCraft_MitigationMobs = {
+	["Nightbane Vile Fang"] = {
+		[1] = 1200,
+	},
 	["Gnarlpine Augur"] = {
 		[1] = 538,
 	},
@@ -17,20 +20,23 @@ TheoryCraft_MitigationMobs = {
 	["Wetlands Crocolisk"] = {
 		[1] = 896,
 	},
-	["Young Scavenger"] = {
-		[1] = 63,
+	["Gravelflint Scout"] = {
+		[1] = 2151,
 	},
-	["Pridewing Skyhunter"] = {
-		[1] = 927,
+	["Foulweald Ursa"] = {
+		[1] = 1360,
 	},
-	["Razormane Defender"] = {
-		[1] = 779,
+	["Bone Chewer"] = {
+		[1] = 1523,
+	},
+	["Clattering Scorpid"] = {
+		[1] = 245,
 	},
 	["Bloodtalon Taillasher"] = {
 		[1] = 314,
 	},
-	["Voodoo Troll"] = {
-		[1] = 398,
+	["Twilight Thug"] = {
+		[1] = 1003,
 	},
 	["Lieutenant Benedict"] = {
 		[1] = 604,
@@ -47,11 +53,11 @@ TheoryCraft_MitigationMobs = {
 	["Ashenvale Bear"] = {
 		[1] = 691,
 	},
-	["Moonstalker"] = {
-		[1] = 1003,
+	["Young Pridewing"] = {
+		[1] = 1084,
 	},
-	["Anaya Dawnrunner"] = {
-		[1] = 842,
+	["Gobbler"] = {
+		[1] = 799,
 	},
 	["Dark Strand Excavator"] = {
 		[1] = 1238,
@@ -59,8 +65,8 @@ TheoryCraft_MitigationMobs = {
 	["Moonkin"] = {
 		[1] = -13,
 	},
-	["Pridewing Consort"] = {
-		[1] = 1203,
+	["Skeletal Raider"] = {
+		[1] = 1337,
 	},
 	["Duskbat"] = {
 		[1] = 135,
@@ -71,14 +77,17 @@ TheoryCraft_MitigationMobs = {
 	["Reef Crawler"] = {
 		[1] = 970,
 	},
-	["Grizzled Thistle Bear"] = {
-		[1] = 630,
+	["Southsea Brigand"] = {
+		[1] = 650,
 	},
 	["Makrura Shellhide"] = {
 		[1] = 441,
 	},
-	["Razormane Water Seeker"] = {
-		[1] = 619,
+	["Razormane Thornweaver"] = {
+		[1] = 534,
+	},
+	["Mor'Ladim"] = {
+		[1] = 1608,
 	},
 	["Vile Familiar"] = {
 		[1] = 63,
@@ -86,17 +95,17 @@ TheoryCraft_MitigationMobs = {
 	["Mindless Zombie"] = {
 		[1] = 233,
 	},
-	["Wrathtail Myrmidon"] = {
-		[1] = 971,
+	["Brain Eater"] = {
+		[1] = 1228,
 	},
 	["Kolkar Stormer"] = {
 		[1] = 631,
 	},
-	["Blackwood Windtalker"] = {
-		[1] = 724,
+	["Mottled Scytheclaw"] = {
+		[1] = 1028,
 	},
-	["Dal Bloodclaw"] = {
-		[1] = 1010,
+	["Savannah Prowler"] = {
+		[1] = 976,
 	},
 	["Wretched Zombie"] = {
 		[1] = 152,
@@ -113,8 +122,11 @@ TheoryCraft_MitigationMobs = {
 	["Bristleback Interloper"] = {
 		[1] = 447,
 	},
-	["Webwood Silkspinner"] = {
-		[1] = 599,
+	["Skeletal Mage"] = {
+		[1] = 794,
+	},
+	["Black Widow Hatchling"] = {
+		[1] = 863,
 	},
 	["Nightsaber"] = {
 		[1] = 267,
@@ -122,11 +134,14 @@ TheoryCraft_MitigationMobs = {
 	["Kolkar Bloodcharger"] = {
 		[1] = 863,
 	},
-	["Moonstalker Runt"] = {
-		[1] = 691,
+	["Cursed Sailor"] = {
+		[1] = 1210,
 	},
 	["Deepmoss Webspinner"] = {
 		[1] = 1256,
+	},
+	["Nightbane Shadow Weaver"] = {
+		[1] = 1055,
 	},
 	["Gnarlpine Gardener"] = {
 		[1] = 253,
@@ -134,17 +149,29 @@ TheoryCraft_MitigationMobs = {
 	["Prairie Wolf Alpha"] = {
 		[1] = 1092,
 	},
+	["Forlorn Spirit"] = {
+		[1] = -69,
+	},
+	["Giant Wetlands Crocolisk"] = {
+		[1] = 787,
+	},
 	["Foreststrider Fledgling"] = {
 		[1] = 573,
 	},
-	["Surf Crawler"] = {
-		[1] = 366,
+	["Gutspill"] = {
+		[1] = 1159,
 	},
 	["Gnarlpine Warrior"] = {
 		[1] = 527,
 	},
 	["Mottled Screecher"] = {
 		[1] = 1333,
+	},
+	["Skeletal Horror"] = {
+		[1] = 1066,
+	},
+	["Splinter Fist Taskmaster"] = {
+		[1] = 1483,
 	},
 	["Mosshide Mistweaver"] = {
 		[1] = 912,
@@ -167,6 +194,9 @@ TheoryCraft_MitigationMobs = {
 	["Kul Tiras Sailor"] = {
 		[1] = 47,
 	},
+	["Nightbane Tainted One"] = {
+		[1] = 1234,
+	},
 	["Mottled Boar"] = {
 		[1] = 49,
 	},
@@ -179,14 +209,17 @@ TheoryCraft_MitigationMobs = {
 	["Sunscale Screecher"] = {
 		[1] = 685,
 	},
+	["Cursed Marine"] = {
+		[1] = 1361,
+	},
 	["Rageclaw"] = {
 		[1] = 404,
 	},
 	["Flatland Prowler"] = {
 		[1] = 344,
 	},
-	["Отойди, убёТ"] = {
-		[1] = 930,
+	["Splinter Fist Warrior"] = {
+		[1] = 976,
 	},
 	["Hecklefang Hyena"] = {
 		[1] = 711,
@@ -197,6 +230,9 @@ TheoryCraft_MitigationMobs = {
 	["Young Wetlands Crocolisk"] = {
 		[1] = 840,
 	},
+	["Insane Ghoul"] = {
+		[1] = 1157,
+	},
 	["Elder Nightsaber"] = {
 		[1] = 375,
 	},
@@ -206,14 +242,23 @@ TheoryCraft_MitigationMobs = {
 	["Foulweald Shaman"] = {
 		[1] = 1095,
 	},
+	["Splinter Fist Fire Weaver"] = {
+		[1] = 867,
+	},
 	["Yarrog Baneshadow"] = {
 		[1] = 174,
+	},
+	["Splinter Fist Ogre"] = {
+		[1] = 1322,
 	},
 	["Zhevra Charger"] = {
 		[1] = 1088,
 	},
 	["Wrathtail Priestess"] = {
 		[1] = 764,
+	},
+	["Greater Plainstrider"] = {
+		[1] = 462,
 	},
 	["Timberling Bark Ripper"] = {
 		[1] = 374,
@@ -224,44 +269,98 @@ TheoryCraft_MitigationMobs = {
 	["Southsea Cannoneer"] = {
 		[1] = 700,
 	},
-	["Kolkar Packhound"] = {
-		[1] = 534,
+	["Flesh Eater"] = {
+		[1] = 1007,
 	},
-	["Kolkar Pack Runner"] = {
-		[1] = 974,
+	["Mangy Nightsaber"] = {
+		[1] = 151,
 	},
-	["Mottled Razormaw"] = {
-		[1] = 913,
-	},
-	["Venture Co. Logger"] = {
-		[1] = 854,
-	},
-	["Razormane Scout"] = {
-		[1] = 338,
-	},
-	["Gnarlpine Ambusher"] = {
-		[1] = 351,
-	},
-	["Bloodfeather Wind Witch"] = {
-		[1] = 480,
-	},
-	["Stormscale Siren"] = {
-		[1] = 647,
-	},
-	["Southsea Cutthroat"] = {
-		[1] = 766,
-	},
-	["Gnarlpine Defender"] = {
-		[1] = 513,
-	},
-	["Oasis Snapjaw"] = {
-		[1] = 920,
-	},
-	["Wildthorn Stalker"] = {
+	["Dal Bloodclaw"] = {
 		[1] = 1010,
 	},
 	["Foulweald Warrior"] = {
 		[1] = 1095,
+	},
+	["Kolkar Packhound"] = {
+		[1] = 534,
+	},
+	["Wrathtail Myrmidon"] = {
+		[1] = 971,
+	},
+	["Kolkar Pack Runner"] = {
+		[1] = 974,
+	},
+	["Defias Enchanter"] = {
+		[1] = 2519,
+	},
+	["Mottled Razormaw"] = {
+		[1] = 913,
+	},
+	["Bloodfeather Rogue"] = {
+		[1] = 480,
+	},
+	["Blackwood Windtalker"] = {
+		[1] = 724,
+	},
+	["Razormane Scout"] = {
+		[1] = 338,
+	},
+	["Pridewing Consort"] = {
+		[1] = 1203,
+	},
+	["Skeletal Fiend"] = {
+		[1] = 1052,
+	},
+	["Gnarlpine Ambusher"] = {
+		[1] = 351,
+	},
+	["Thistlefur Shaman"] = {
+		[1] = 1046,
+	},
+	["Carrion Recluse"] = {
+		[1] = 635,
+	},
+	["Gnarlpine Ursa"] = {
+		[1] = 301,
+	},
+	["Defias Night Runner"] = {
+		[1] = 1176,
+	},
+	["Gnarlpine Defender"] = {
+		[1] = 513,
+	},
+	["Saltspittle Puddlejumper"] = {
+		[1] = 925,
+	},
+	["Greymist Coastrunner"] = {
+		[1] = 688,
+	},
+	["Splinter Fist Firemonger"] = {
+		[1] = 371,
+	},
+	["Durotar Tiger"] = {
+		[1] = 366,
+	},
+	["Dreadmaw Crocolisk"] = {
+		[1] = 455,
+	},
+	["Strigid Screecher"] = {
+		[1] = 452,
+	},
+	["Defias Night Blade"] = {
+		[1] = 939,
+	},
+	["Surf Crawler"] = {
+		[1] = 366,
+	},
+	["Zalazane"] = {
+		[1] = 610,
+	},
+	["Rotted One"] = {
+		[1] = 1542,
+	},
+	["Southsea Cutthroat"] = {
+		[1] = 766,
 	},
 	["Dark Sprite"] = {
 		[1] = 375,
@@ -272,152 +371,164 @@ TheoryCraft_MitigationMobs = {
 	["Mottled Raptor"] = {
 		[1] = 990,
 	},
-	["Scorpid Worker"] = {
-		[1] = 68,
-	},
-	["Felstalker"] = {
-		[1] = 37,
-	},
-	["Razormane Dustrunner"] = {
-		[1] = 405,
-	},
-	["Rabid Thistle Bear"] = {
-		[1] = 418,
-	},
-	["Rascal Sprite"] = {
-		[1] = 141,
-	},
-	["Dire Mottled Boar"] = {
-		[1] = 310,
-	},
-	["Strigid Screecher"] = {
-		[1] = 452,
-	},
-	["Greymist Seer"] = {
-		[1] = 714,
-	},
-	["Gnarlpine Shaman"] = {
-		[1] = 396,
-	},
-	["Befouled Water Elemental"] = {
-		[1] = 1222,
-	},
-	["Gnarlpine Ursa"] = {
-		[1] = 301,
-	},
-	["Zalazane"] = {
-		[1] = 610,
-	},
-	["Lesser Felguard"] = {
-		[1] = 720,
-	},
-	["Dreadmaw Crocolisk"] = {
-		[1] = 455,
-	},
-	["Writhing Highborne"] = {
-		[1] = 224,
-	},
-	["Southsea Brigand"] = {
-		[1] = 650,
-	},
-	["Blackwood Shaman"] = {
-		[1] = 716,
-	},
-	["Lord Melenas"] = {
-		[1] = 452,
-	},
-	["Swoop"] = {
-		[1] = 512,
-	},
-	["Bloodfeather Rogue"] = {
+	["Bloodfeather Wind Witch"] = {
 		[1] = 480,
 	},
-	["Gobbler"] = {
-		[1] = 799,
-	},
-	["Bluegill Murloc"] = {
-		[1] = 1105,
-	},
-	["Ghostpaw Runner"] = {
-		[1] = 853,
-	},
-	["Makrura Clacker"] = {
-		[1] = 430,
-	},
-	["Thistlefur Shaman"] = {
-		[1] = 1046,
-	},
-	["Twilight Thug"] = {
-		[1] = 1003,
-	},
-	["Cracked Golem"] = {
-		[1] = 744,
-	},
-	["Webwood Spider"] = {
-		[1] = 243,
-	},
-	["Gravelflint Scout"] = {
-		[1] = 2151,
-	},
-	["Pridewing Wyvern"] = {
-		[1] = 1004,
-	},
-	["Timberling"] = {
-		[1] = 255,
-	},
-	["Venomtail Scorpid"] = {
-		[1] = 446,
-	},
-	["Foulweald Ursa"] = {
-		[1] = 1360,
-	},
-	["Gnarlpine Mystic"] = {
-		[1] = 249,
-	},
-	["Clattering Scorpid"] = {
-		[1] = 245,
-	},
-	["Wild Grell"] = {
-		[1] = 649,
+	["Stormscale Siren"] = {
+		[1] = 647,
 	},
 	["Mosshide Mongrel"] = {
 		[1] = 1106,
 	},
-	["Young Pridewing"] = {
-		[1] = 1084,
+	["Oasis Snapjaw"] = {
+		[1] = 920,
 	},
-	["Durotar Tiger"] = {
-		[1] = 366,
+	["Felstalker"] = {
+		[1] = 37,
+	},
+	["Dire Mottled Boar"] = {
+		[1] = 310,
+	},
+	["First Mate Snellig"] = {
+		[1] = 896,
+	},
+	["Razormane Defender"] = {
+		[1] = 779,
+	},
+	["Rascal Sprite"] = {
+		[1] = 141,
+	},
+	["Gnarlpine Shaman"] = {
+		[1] = 396,
+	},
+	["Timberling"] = {
+		[1] = 255,
+	},
+	["Young Scavenger"] = {
+		[1] = 63,
+	},
+	["Grizzled Thistle Bear"] = {
+		[1] = 630,
+	},
+	["Wildthorn Stalker"] = {
+		[1] = 1010,
+	},
+	["Moonstalker"] = {
+		[1] = 1003,
+	},
+	["Writhing Highborne"] = {
+		[1] = 224,
+	},
+	["Plague Spreader"] = {
+		[1] = 1192,
+	},
+	["Voodoo Troll"] = {
+		[1] = 398,
+	},
+	["Rabid Thistle Bear"] = {
+		[1] = 418,
+	},
+	["Venture Co. Logger"] = {
+		[1] = 854,
+	},
+	["Nightbane Dark Runner"] = {
+		[1] = 1316,
+	},
+	["Lord Melenas"] = {
+		[1] = 452,
+	},
+	["Venomtail Scorpid"] = {
+		[1] = 446,
+	},
+	["Pridewing Skyhunter"] = {
+		[1] = 927,
+	},
+	["Skeletal Warrior"] = {
+		[1] = 986,
+	},
+	["Bluegill Murloc"] = {
+		[1] = 982,
+	},
+	["Skeletal Healer"] = {
+		[1] = 956,
+	},
+	["Cracked Golem"] = {
+		[1] = 744,
+	},
+	["Makrura Clacker"] = {
+		[1] = 430,
+	},
+	["Отойди, убёТ"] = {
+		[1] = 930,
+	},
+	["Lesser Felguard"] = {
+		[1] = 720,
+	},
+	["Webwood Spider"] = {
+		[1] = 243,
+	},
+	["Razormane Water Seeker"] = {
+		[1] = 619,
+	},
+	["Pridewing Wyvern"] = {
+		[1] = 1004,
+	},
+	["Anaya Dawnrunner"] = {
+		[1] = 842,
+	},
+	["Ghostpaw Runner"] = {
+		[1] = 853,
+	},
+	["Scorpid Worker"] = {
+		[1] = 68,
+	},
+	["Gnarlpine Mystic"] = {
+		[1] = 249,
+	},
+	["Moonstalker Runt"] = {
+		[1] = 691,
+	},
+	["Wild Grell"] = {
+		[1] = 649,
+	},
+	["Rabid Dire Wolf"] = {
+		[1] = 1067,
+	},
+	["Blackwood Shaman"] = {
+		[1] = 716,
+	},
+	["Swoop"] = {
+		[1] = 512,
 	},
 	["Fen Creeper"] = {
-		[1] = 1409,
+		[1] = 1093,
 	},
 	["Kul Tiras Marine"] = {
 		[1] = 95,
 	},
-	["Saltspittle Puddlejumper"] = {
-		[1] = 925,
-	},
-	["Razormane Thornweaver"] = {
-		[1] = 534,
-	},
 	["Razormane Battleguard"] = {
 		[1] = 651,
+	},
+	["Skeletal Warder"] = {
+		[1] = 816,
+	},
+	["Young Black Ravager"] = {
+		[1] = 633,
 	},
 	["Vile Sprite"] = {
 		[1] = 224,
 	},
-	["Mottled Scytheclaw"] = {
-		[1] = 1028,
+	["Fetid Corpse"] = {
+		[1] = 1200,
 	},
-	["Savannah Prowler"] = {
-		[1] = 976,
+	["Befouled Water Elemental"] = {
+		[1] = 1222,
 	},
-	["Mangy Nightsaber"] = {
-		[1] = 151,
+	["Webwood Silkspinner"] = {
+		[1] = 599,
 	},
-	["Greymist Coastrunner"] = {
-		[1] = 688,
+	["Greymist Seer"] = {
+		[1] = 714,
 	},
 	["Taloned Swoop"] = {
 		[1] = 542,
@@ -425,8 +536,8 @@ TheoryCraft_MitigationMobs = {
 	["Thistle Boar"] = {
 		[1] = 151,
 	},
-	["Greater Plainstrider"] = {
-		[1] = 462,
+	["Razormane Dustrunner"] = {
+		[1] = 405,
 	},
 }
 TheoryCraft_MitigationPlayers = {
